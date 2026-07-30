@@ -310,6 +310,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST C-SCRM assessment engagement](nist-csrm-assessment.md)
 - [EU Critical Entities Resilience Directive](eu-critical-entities-resilience.md)
 - [CISA Secure by Design](cisa-secure-by-design.md)
+- [CISA Secure by Design Pledge](cisa-secure-by-design-pledge.md)
 - [CISA Trusted Internet Connections 3.0](cisa-tic-3.md)
 - [DoD Zero Trust Reference Architecture v2](dod-zero-trust-reference-architecture-v2.md)
 - [NIST SP 800-66 Revision 2](nist-sp-800-66-r2.md)
