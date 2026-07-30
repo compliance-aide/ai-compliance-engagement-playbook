@@ -155,6 +155,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [IEC TS 62443-6-2:2025 component evaluation](iec-ts-62443-6-2-2025.md)
 - [ISO 13485:2016](iso-13485-2016.md)
 - [NIST Cybersecurity Framework 2.0](nist-csf-2.md)
+- [NIST Cybersecurity Framework 1.1 historical transition](nist-csf-1-1-historical-transition.md)
 - [NIST AI Risk Management Framework 1.0](nist-ai-rmf-1.md)
 - [EU AI Act](eu-ai-act.md)
 - [OECD AI Principles](oecd-ai-principles.md)
