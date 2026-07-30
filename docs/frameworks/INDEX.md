@@ -287,3 +287,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Singapore Internet Hygiene](singapore-internet-hygiene.md)
 - [Shared Assessments SIG — licensed program](shared-assessments-sig-licensed-program.md)
 - [Uruguay personal data protection](uruguay-personal-data-protection.md)
+- [Bermuda PIPA](bermuda-pipa.md)
