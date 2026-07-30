@@ -101,6 +101,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ISO/IEC 27701:2025](iso-iec-27701-2025.md)
 - [ISO/IEC 27014:2020 information-security governance](iso-iec-27014-2020.md)
 - [ISO/IEC 27034 application security](iso-iec-27034-application-security.md)
+- [ISO/IEC 27099:2022 PKI trust services](iso-iec-27099-2022.md)
 - [ISO/IEC 27043:2015 incident investigation](iso-iec-27043-2015.md)
 - [ISO/IEC 27050 electronic discovery](iso-iec-27050-ediscovery.md)
 - [ISO/IEC 27040:2024 storage security](iso-iec-27040-2024.md)
