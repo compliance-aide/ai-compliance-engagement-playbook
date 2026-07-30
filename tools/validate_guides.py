@@ -21,8 +21,8 @@ for guide in sorted(GUIDES.glob("*.md")):
         missing.append("independent review role")
     if "cannot" not in body:
         missing.append("AI authority boundary")
-    if "http" not in body:
-        missing.append("official-source link")
+    if "https://" not in body:
+        missing.append("HTTPS official-source link")
     if missing:
         failures.append(f"{guide.relative_to(ROOT)}: missing {', '.join(missing)}")
 
