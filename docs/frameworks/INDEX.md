@@ -243,6 +243,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Peru personal-data protection](peru-personal-data-protection.md)
 - [Canada PIPEDA](pipeda.md)
 - [Australia Essential Eight](australia-essential-eight.md)
+- [Australian Information Security Manual](australia-information-security-manual.md)
 - [APRA CPS 230 operational risk management](apra-cps-230.md)
 - [APRA CPS 234 information security](apra-cps-234.md)
 - [Australia Critical Infrastructure Risk Management Program](australia-cirmp.md)
