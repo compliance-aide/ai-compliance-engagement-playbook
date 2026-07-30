@@ -164,6 +164,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Rwanda data-protection law](rwanda-data-protection-law.md)
 - [Ghana Data Protection Act](ghana-data-protection-act.md)
 - [Mauritius Data Protection Act](mauritius-data-protection-act.md)
+- [Mexico private-sector personal-data protection](mexico-private-sector-data-protection-law.md)
 - [NIST Privacy Framework 1.0](nist-privacy-framework-1.md)
 - [NIST SP 800-53 Revision 5](nist-sp-800-53-r5.md)
 - [NIST SP 800-55 information-security measurement](nist-sp-800-55-measurement.md)
