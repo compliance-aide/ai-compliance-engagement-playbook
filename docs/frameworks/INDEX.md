@@ -316,3 +316,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Israel Cyber Defense Methodology](israel-cyber-defense-methodology.md)
 - [New Zealand HISO 10029:2022 health information security](new-zealand-hiso-10029-2022.md)
 - [Texas Business & Commerce Code Chapter 521 data security](texas-business-commerce-code-521.md)
+- [UK CAA CAP 1850 Cyber Assessment Framework for Aviation](uk-caa-cap-1850.md)
