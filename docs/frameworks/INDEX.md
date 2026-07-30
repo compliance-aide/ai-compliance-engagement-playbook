@@ -381,6 +381,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [UK Def Stan 05-138 Issue 4 defence suppliers](uk-defstan-05-138-issue-4.md)
 - [EU–U.S. Privacy Shield historical transition](eu-us-privacy-shield-historical-transition.md)
 - [Spain CCN-STIC 825 ENS and ISO 27001](spain-ccn-stic-825.md)
+- [Spain National Security Scheme (Royal Decree 311/2022)](spain-ens-rd-311-2022.md)
 - [Israel Cyber Defense Methodology](israel-cyber-defense-methodology.md)
 - [New Zealand HISO 10029:2022 health information security](new-zealand-hiso-10029-2022.md)
 - [Texas Business & Commerce Code Chapter 521 data security](texas-business-commerce-code-521.md)
