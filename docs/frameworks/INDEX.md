@@ -18,6 +18,8 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [CISA Cross-Sector Cybersecurity Performance Goals](cisa-cpg.md)
 - [CIS Critical Security Controls v8.1](cis-controls-v8-1.md)
 - [CIS Controls v8.1 Implementation Group 1](cis-controls-v8-1-ig1.md)
+- [CIS Controls v8.1 Implementation Group 2](cis-controls-v8-1-ig2.md)
+- [CIS Controls v8.1 Implementation Group 3](cis-controls-v8-1-ig3.md)
 - [COBIT 2019](cobit-2019.md)
 - [CSA Cloud Controls Matrix v4](csa-ccm-v4.md)
 - [EU GDPR](eu-gdpr.md)
