@@ -308,3 +308,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ETSI EN 303 645 V3.1.3 consumer IoT](etsi-en-303-645-v3-1-3.md)
 - [Alaska Personal Information Protection Act](alaska-personal-information-protection-act.md)
 - [Nevada NRS Chapter 603A privacy and security](nevada-nrs-603a.md)
+- [Texas Cybersecurity Framework](texas-cybersecurity-framework.md)
