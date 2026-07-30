@@ -8,4 +8,4 @@ Maintain facility and contract scope, personnel and system boundaries, security 
 
 ## Roles and annual rhythm
 
-Cleared facility and government authorities control access, classifications, reporting, and authorization decisions; independent reviewers test evidence. AI must not receive classified information and may only organize approved non-sensitive metadata. Review continuously and annually.
+Cleared facility and government authorities control access, classifications, reporting, and authorization decisions; independent reviewers test evidence. AI cannot receive classified information and may only organize approved non-sensitive metadata. Review continuously and annually.

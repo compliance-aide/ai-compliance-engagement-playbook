@@ -8,4 +8,4 @@ Have a human select assurance scope and version-pin the authorized source. Link 
 
 ## Roles and annual rhythm
 
-Engineering owners operate remediation and retesting. Independent reviewers test scope, version, samples, evidence, and exceptions. AI can organize artifacts and expose missing retests; it must not copy or publish the checklist, invent results, or issue a conformity claim. Review each material release and refresh annually.
+Engineering owners operate remediation and retesting. Independent reviewers test scope, version, samples, evidence, and exceptions. AI may organize authorized artifacts and expose missing retests; it cannot copy or publish the checklist, invent results, issue a conformity claim, approve a release, or accept an exception. Review each material release and refresh annually.

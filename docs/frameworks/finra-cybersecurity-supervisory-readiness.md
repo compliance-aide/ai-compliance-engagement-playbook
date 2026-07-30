@@ -8,4 +8,4 @@ With qualified compliance ownership, establish firm-specific supervisory obligat
 
 ## Roles and annual rhythm
 
-Business and technology owners operate and evidence processes. Independent reviewers sample records and challenge escalations. AI normalizes inventories, surfaces missing evidence, and prepares review packets; it never interprets FINRA rules, approves a program, decides reporting, or files anything. Review signals quarterly and scope annually.
+Business and technology owners operate and evidence processes. Independent reviewers sample records and challenge escalations. AI may normalize authorized inventories, surface missing evidence, and prepare review packets; it cannot interpret FINRA rules, approve a program, decide reporting, or file anything. Review signals quarterly and scope annually.

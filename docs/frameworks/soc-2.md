@@ -15,9 +15,9 @@ prepare organization-owned materials for independent review.
 ## Roles
 
 The service organization operates and describes its system. The CPA service
-auditor determines scope, performs the examination, and issues its report. AI
-traces evidence to organization-authored claims, drafts non-authoritative notes,
-and flags inconsistencies; it does not determine sufficiency or issue a report.
+auditor determines scope, performs the examination, and issues its report. AI may
+trace authorized evidence to organization-authored claims, draft non-authoritative notes,
+and flag inconsistencies; it cannot determine sufficiency, select scope, issue a report, or claim certification.
 
 ## Annual rhythm
 
