@@ -13,10 +13,11 @@ refresh the work after material change.
 
 ## Roles
 
-Operators own the protected environment and evidence. Reviewers evaluate
-completeness and reasoning rather than a checklist score. AI can organize
-evidence and risk narratives while minimizing exposure of ePHI and requiring
-human review before conclusions or changes.
+Operators own the protected environment and evidence. Independent reviewers evaluate
+completeness and reasoning rather than a checklist score. AI may organize
+authorized evidence and risk narratives while minimizing exposure of ePHI, but cannot
+make legal or notification determinations, approve safeguards, access ePHI without authorization,
+or alter systems; human review is required before conclusions or changes.
 
 ## Annual rhythm
 
