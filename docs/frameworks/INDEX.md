@@ -97,6 +97,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ISO/IEC 27004:2016 measurement](iso-iec-27004-2016.md)
 - [ISO/IEC 27035 incident management](iso-iec-27035-incident-management.md)
 - [ISO/IEC 27036 supplier relationships](iso-iec-27036-supplier-relationships.md)
+- [ISO/IEC 27039:2015 intrusion detection and prevention](iso-iec-27039-2015.md)
 - [ISO/IEC 27006-1:2024 assurance-provider readiness](iso-iec-27006-1-2024.md)
 - [ISO/IEC 27701:2025](iso-iec-27701-2025.md)
 - [ISO/IEC 27014:2020 information-security governance](iso-iec-27014-2020.md)
