@@ -311,3 +311,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Texas Cybersecurity Framework](texas-cybersecurity-framework.md)
 - [SPARTA spacecraft cybersecurity](sparta-spacecraft-cybersecurity.md)
 - [UK Def Stan 05-138 Issue 4 defence suppliers](uk-defstan-05-138-issue-4.md)
+- [EU–U.S. Privacy Shield historical transition](eu-us-privacy-shield-historical-transition.md)
