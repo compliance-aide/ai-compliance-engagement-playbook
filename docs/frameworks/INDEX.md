@@ -229,6 +229,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [UK Cyber Governance Code of Practice](uk-cyber-governance-code-of-practice.md)
 - [UK AI Cyber Security Code of Practice](uk-ai-cyber-security-code.md)
 - [UK Software Security Code of Practice](uk-software-security-code-of-practice.md)
+- [UK Code of Practice for App Store Operators and App Developers](uk-app-store-operators-and-app-developers-code.md)
 - [UK GDPR](uk-gdpr.md)
 - [UK NIS Regulations](uk-nis-regulations.md)
 - [UK PSTI product-security regime](uk-psti.md)
