@@ -257,3 +257,5 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Canada ITSG-33 security-risk management](canada-itsg-33.md)
 - [Canada GC cloud-security profile](canada-gc-cloud-security-profile.md)
 - [Canada DND IT security-risk management](canada-dnd-it-security-risk-management.md)
+- [BSI Standard 200-2 IT-Grundschutz methodology](bsi-standard-200-2.md)
+- [BSI Standard 200-4 business continuity](bsi-standard-200-4.md)
