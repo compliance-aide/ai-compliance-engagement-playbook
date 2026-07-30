@@ -219,6 +219,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [PCI DSS v4.0.1 SAQ B-IP](pci-dss-4-0-1-saq-b-ip.md)
 - [PCI DSS v4.0.1 SAQ C](pci-dss-4-0-1-saq-c.md)
 - [PCI DSS v4.0.1 SAQ C-VT](pci-dss-4-0-1-saq-c-vt.md)
+- [PCI DSS v4.0.1 SAQ D for Merchants](pci-dss-4-0-1-saq-d-merchant.md)
 - [Privacy Act of 1974](privacy-act-1974.md)
 - [CJIS Security Policy](cjis-security-policy.md)
 - [SOC 2](soc-2.md)
