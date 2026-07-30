@@ -235,7 +235,6 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Texas Data Privacy and Security Act](texas-tdpsa.md)
 - [Virginia Consumer Data Protection Act](virginia-vcdpa.md)
 - [Brazil LGPD](brazil-lgpd.md)
-- [Mexico private-party personal-data law](mexico-private-data-law.md)
 - [Argentina personal-data protection](argentina-personal-data-protection.md)
 - [Colombia personal-data protection](colombia-personal-data-protection.md)
 - [Chile personal-data transition](chile-personal-data-transition.md)
