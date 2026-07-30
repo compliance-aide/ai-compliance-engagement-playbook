@@ -195,6 +195,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-40 Revision 4](nist-sp-800-40-r4.md)
 - [NIST SP 800-61 Revision 3](nist-sp-800-61-r3.md)
 - [NIST SP 800-115](nist-sp-800-115.md)
+- [NIST SP 800-124 Revision 2 mobile-device security](nist-sp-800-124-r2.md)
 - [FIPS 199 security categorization](fips-199.md)
 - [FIPS 200 minimum-security requirements](fips-200.md)
 - [NIST SP 800-63B-4](nist-sp-800-63b-4.md)
