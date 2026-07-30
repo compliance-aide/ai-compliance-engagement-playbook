@@ -89,6 +89,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ISO/IEC 27007:2020 ISMS audit programme](iso-iec-27007-2020.md)
 - [ISO/IEC TS 27008:2019 control assessment](iso-iec-ts-27008-2019.md)
 - [ISO/IEC 29134:2023 privacy-impact assessment](iso-iec-29134-2023.md)
+- [ISO/IEC 29100:2024 privacy framework](iso-iec-29100-2024.md)
 - [ISO/IEC 29147:2018 vulnerability disclosure](iso-iec-29147-2018.md)
 - [ISO/IEC 30111:2019 vulnerability handling](iso-iec-30111-2019.md)
 - [ISO 27799:2025 health-information security](iso-27799-2025.md)
