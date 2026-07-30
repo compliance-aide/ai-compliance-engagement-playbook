@@ -1,11 +1,11 @@
-# Tennessee Information Protection Act — engagement guide
+# Tennessee Information Protection Act engagement guide
 
-> Original operational guidance, not Tennessee legal advice or a privacy determination. Confirm current law through the [Tennessee General Assembly record](https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=HB1181&ga=113).
+> Original operational guidance, not Tennessee statutory text or legal advice. Confirm current enactments and applicability through the [Tennessee General Assembly bill record](https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=HB1181&ga=113).
 
 ## Engagement focus
 
-Maintain processing inventory, applicability evidence, consumer-request workflow, sensitive-data and sale decisions, processor records, assessment evidence, privacy notices, exceptions, and remediation history.
+Maintain a current data-governance record: processing context, accountable owners, data uses, sensitive-data decisions, consumer interaction evidence, supplier dependencies, risk reviews, incidents, and change approvals.
 
 ## Roles and annual rhythm
 
-Privacy, legal, security, and business owners determine applicability and rights responses; independent reviewers test evidence. AI prepares inventories and gap questions, but cannot interpret law, decide consumer requests, or make representations. Review quarterly and annually.
+Business and privacy owners maintain data-use records; security and vendor owners retain operating evidence; counsel confirms scope; independent reviewers test traceability. AI maps approved evidence and drafts gap questions, but cannot interpret law, decide consumer-rights outcomes, or approve notices. Review at material processing changes and on a scheduled cadence with human approval.
