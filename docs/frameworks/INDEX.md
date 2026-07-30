@@ -191,6 +191,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [New Zealand Privacy Act 2020](new-zealand-privacy-act.md)
 - [Saudi Arabia PDPL](saudi-pdpl.md)
 - [Saudi NCA Essential Cybersecurity Controls ECC 2-2024](saudi-nca-ecc-2-2024.md)
+- [Saudi NCA OTCC-1:2022 operational technology](saudi-nca-otcc-1-2022.md)
 - [Saudi SAMA Cyber Security Framework](saudi-sama-cybersecurity-framework.md)
 - [Singapore PDPA](singapore-pdpa.md)
 - [Singapore Cybersecurity Act](singapore-cybersecurity-act.md)
