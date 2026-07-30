@@ -20,6 +20,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [COBIT 2019](cobit-2019.md)
 - [CSA Cloud Controls Matrix v4](csa-ccm-v4.md)
 - [EU GDPR](eu-gdpr.md)
+- [EU–U.S. Data Privacy Framework](eu-us-data-privacy-framework.md)
 - [EU DORA](eu-dora.md)
 - [EU CSRD / ESRS](eu-csrd-esrs.md)
 - [EU eIDAS 2.0](eu-eidas-2.md)
