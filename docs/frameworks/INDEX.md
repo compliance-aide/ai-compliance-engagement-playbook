@@ -172,6 +172,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Argentina personal-data protection](argentina-personal-data-protection.md)
 - [Colombia personal-data protection](colombia-personal-data-protection.md)
 - [Chile personal-data transition](chile-personal-data-transition.md)
+- [China Personal Information Protection Law](china-pipl.md)
 - [Peru personal-data protection](peru-personal-data-protection.md)
 - [Canada PIPEDA](pipeda.md)
 - [Australia Essential Eight](australia-essential-eight.md)
