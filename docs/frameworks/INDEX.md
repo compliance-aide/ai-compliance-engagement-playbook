@@ -226,6 +226,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [MPA Content Security Best Practices](mpa-content-security-best-practices.md)
 - [MITRE D3FEND](mitre-d3fend.md)
 - [UK Cyber Essentials](uk-cyber-essentials.md)
+- [UK Cyber Governance Code of Practice](uk-cyber-governance-code-of-practice.md)
 - [UK GDPR](uk-gdpr.md)
 - [UK NIS Regulations](uk-nis-regulations.md)
 - [UK PSTI product-security regime](uk-psti.md)
