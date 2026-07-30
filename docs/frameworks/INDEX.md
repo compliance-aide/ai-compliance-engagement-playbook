@@ -314,3 +314,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [EU–U.S. Privacy Shield historical transition](eu-us-privacy-shield-historical-transition.md)
 - [Spain CCN-STIC 825 ENS and ISO 27001](spain-ccn-stic-825.md)
 - [Israel Cyber Defense Methodology](israel-cyber-defense-methodology.md)
+- [New Zealand HISO 10029:2022 health information security](new-zealand-hiso-10029-2022.md)
