@@ -15,5 +15,5 @@ methods; and record conclusions, limitations, remediation ownership, and follow-
 
 Operators provide artifacts and own remediation but do not self-validate.
 Independent assessors control methods and conclusions. AI indexes approved
-evidence and drafts nonconformance narratives; it must not run intrusive checks,
-handle sensitive information outside approved boundaries, or sign results.
+evidence and drafts nonconformance narratives; it cannot run intrusive checks,
+handle sensitive information outside approved boundaries, sign results, select assessment methods, or reach an assessment conclusion.

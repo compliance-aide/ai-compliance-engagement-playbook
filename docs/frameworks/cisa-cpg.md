@@ -14,6 +14,6 @@ dates; and independently validate claims quarterly.
 ## Roles and annual rhythm
 
 Operators describe current reality and retain evidence. Independent reviewers
-sample claims and test whether exceptions remain acceptable. AI keeps the source
-register, evidence requests, and stale-claim log; it drafts risk narratives but
-does not decide risk. Re-rank the roadmap annually and after material change.
+sample claims and test whether exceptions remain acceptable. AI may keep the source
+register, evidence requests, and stale-claim log and draft risk narratives, but
+cannot decide risk, accept an exception, alter systems, or make a certification or endorsement claim. Re-rank the roadmap annually and after material change.

@@ -8,4 +8,4 @@ Maintain entity/location, processing, notice, owner, vendor, rights, breach, tra
 
 ## Roles and annual rhythm
 
-Humans and counsel decide scope, exemptions, transfers, and communications; independent reviewers test evidence. AI supports inventory only. Review quarterly and annually.
+Humans and counsel decide scope, exemptions, transfers, and communications; independent reviewers test evidence. AI may support authorized inventory and evidence organization, but cannot determine legal scope, approve transfers, decide notification or communication obligations, access personal data without authorization, or make a compliance claim. Review quarterly and annually.
