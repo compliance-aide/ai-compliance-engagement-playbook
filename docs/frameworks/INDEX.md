@@ -214,6 +214,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [DoD NIST SP 800-171 assessment readiness](dod-nist-800-171-assessment.md)
 - [PCI DSS v4.0.1](pci-dss-4-0-1.md)
 - [PCI DSS v4.0.1 SAQ A](pci-dss-4-0-1-saq-a.md)
+- [PCI DSS v4.0.1 SAQ A-EP](pci-dss-4-0-1-saq-a-ep.md)
 - [Privacy Act of 1974](privacy-act-1974.md)
 - [CJIS Security Policy](cjis-security-policy.md)
 - [SOC 2](soc-2.md)
