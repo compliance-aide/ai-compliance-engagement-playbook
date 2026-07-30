@@ -254,3 +254,6 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [BSI C5:2020 cloud-service engagement](bsi-c5-2020.md)
 - [BSI Standard 200-1 information-security management](bsi-standard-200-1.md)
 - [EBA ICT and security risk management](eba-gl-2019-04.md)
+- [Canada ITSG-33 security-risk management](canada-itsg-33.md)
+- [Canada GC cloud-security profile](canada-gc-cloud-security-profile.md)
+- [Canada DND IT security-risk management](canada-dnd-it-security-risk-management.md)
