@@ -216,6 +216,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [SWIFT CSCF — licensed program](swift-cscf-licensed-program.md)
 - [SOX Section 404 / ICFR](sox-icfr.md)
 - [SEC cybersecurity disclosure readiness](sec-cybersecurity-disclosure.md)
+- [SSA electronic-information-exchange security](ssa-electronic-information-exchange-security.md)
 - [MITRE ATT&CK](mitre-attack.md)
 - [MPA Content Security Best Practices](mpa-content-security-best-practices.md)
 - [MITRE D3FEND](mitre-d3fend.md)
