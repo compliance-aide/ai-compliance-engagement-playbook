@@ -289,3 +289,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Uruguay personal data protection](uruguay-personal-data-protection.md)
 - [Bermuda PIPA](bermuda-pipa.md)
 - [Bahamas data protection](bahamas-data-protection.md)
+- [UL 2900-1 — licensed program](ul-2900-1-licensed-program.md)
