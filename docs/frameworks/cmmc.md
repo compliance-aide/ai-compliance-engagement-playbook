@@ -16,8 +16,8 @@ any assertion, submission, or assessor engagement.
 
 The organization owns its scope, implementation, and representations. An
 authorized assessor performs the independent work when required. AI coordinates
-evidence, detects inconsistencies, and prepares drafts; it must not represent
-the organization to DoD, certify a result, or make submissions.
+evidence, detects inconsistencies, and prepares drafts; it cannot represent
+the organization to DoD, certify a result, make submissions, or approve scope or remediation decisions.
 
 ## Annual rhythm
 

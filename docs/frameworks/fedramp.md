@@ -16,8 +16,8 @@ official process; and preserve package integrity.
 
 The provider operates the service and produces ongoing evidence. Agency
 authorizing officials make risk decisions. An independent assessment
-organization performs defined assessment work. AI coordinates evidence and
-drift detection, but never approves a package, accepts risk, or represents an
+organization performs defined assessment work. AI may coordinate authorized evidence and
+drift detection, but cannot approve a package, accept risk, alter a system, or represent an
 authorization.
 
 ## Annual rhythm

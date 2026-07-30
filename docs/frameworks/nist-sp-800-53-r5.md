@@ -15,9 +15,9 @@ reassessment, and continuous-monitoring triggers.
 ## Roles
 
 The system owner remains accountable for accuracy and operation. The assessor
-sets and executes an independent evaluation approach. AI organizes evidence,
-checks consistency, proposes questions, and highlights unsupported assertions;
-it does not select risk acceptance or reach the final conclusion.
+sets and executes an independent evaluation approach. AI may organize authorized evidence,
+check consistency, propose questions, and highlight unsupported assertions;
+it cannot select risk acceptance, approve a system boundary, alter configuration, or reach the final conclusion.
 
 ## Annual rhythm
 
