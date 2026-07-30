@@ -202,3 +202,6 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [PPRA](ppra.md)
 - [IDEA confidentiality](idea-confidentiality.md)
 - [GovRAMP — licensed program](govramp-licensed-program.md)
+- [Australian Information Security Manual](australia-ism.md)
+- [New Zealand Information Security Manual](new-zealand-nzism.md)
+- [Singapore CII cybersecurity code](singapore-cii-cybersecurity-code.md)
