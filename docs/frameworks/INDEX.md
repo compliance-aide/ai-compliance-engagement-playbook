@@ -351,6 +351,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [CMS MARS-E](cms-mars-e.md)
 - [FACTA Red Flags Rule](facta-red-flags-rule.md)
 - [California SB 327 connected devices](california-sb-327-connected-devices.md)
+- [California data breach notification](california-data-breach-notification.md)
 - [South Carolina Insurance Data Security Act](south-carolina-insurance-data-security-act.md)
 - [NIST SP 800-53B baseline selection](nist-sp-800-53b.md)
 - [COSO Internal Control—Integrated Framework](coso-internal-control-integrated-framework.md)
