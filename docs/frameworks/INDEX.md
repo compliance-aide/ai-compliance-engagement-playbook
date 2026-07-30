@@ -267,3 +267,5 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [CMMC Level 1 program](cmmc-level-1-program.md)
 - [CMMC Level 3 program](cmmc-level-3-program.md)
 - [CMS MARS-E](cms-mars-e.md)
+- [FACTA Red Flags Rule](facta-red-flags-rule.md)
+- [California SB 327 connected devices](california-sb-327-connected-devices.md)
