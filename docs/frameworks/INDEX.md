@@ -7,6 +7,7 @@ repository from republishing restricted standards or proprietary crosswalks.
 Use [the framework template](../framework-template.md) to propose a guide.
 
 - [CMMC](cmmc.md)
+- [California CCPA/CPRA](ccpa-cpra.md)
 - [C2M2](c2m2.md)
 - [CERT Resilience Management Model](cert-rmm.md)
 - [CISA Cross-Sector Cybersecurity Performance Goals](cisa-cpg.md)
@@ -14,6 +15,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [COBIT 2019](cobit-2019.md)
 - [CSA Cloud Controls Matrix v4](csa-ccm-v4.md)
 - [EU GDPR](eu-gdpr.md)
+- [EU DORA](eu-dora.md)
 - [FAR 52.204-21](far-52-204-21.md)
 - [FedRAMP](fedramp.md)
 - [FERPA](ferpa.md)
@@ -40,4 +42,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [SOC 2](soc-2.md)
 - [SOX Section 404 / ICFR](sox-icfr.md)
 - [UK Cyber Essentials](uk-cyber-essentials.md)
+- [UK GDPR](uk-gdpr.md)
+- [Brazil LGPD](brazil-lgpd.md)
+- [Canada PIPEDA](pipeda.md)
 - [Australia Essential Eight](australia-essential-eight.md)
