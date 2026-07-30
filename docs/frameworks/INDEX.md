@@ -123,6 +123,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ISO/IEC 27043:2015 incident investigation](iso-iec-27043-2015.md)
 - [ISO/IEC 27041:2015 incident-investigation method assurance](iso-iec-27041-2015.md)
 - [ISO/IEC 27037:2012 digital-evidence handling](iso-iec-27037-2012.md)
+- [ISO/IEC 27038:2014 digital redaction](iso-iec-27038-2014.md)
 - [ISO/IEC 27050 electronic discovery](iso-iec-27050-ediscovery.md)
 - [ISO/IEC 27040:2024 storage security](iso-iec-27040-2024.md)
 - [ISO/IEC 27042:2015 digital-evidence analysis](iso-iec-27042-2015.md)
