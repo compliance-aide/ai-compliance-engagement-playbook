@@ -27,11 +27,14 @@ for guide in sorted(GUIDES.glob("*.md")):
         failures.append(f"{guide.relative_to(ROOT)}: missing {', '.join(missing)}")
 
 index = (GUIDES / "INDEX.md").read_text(encoding="utf-8")
-indexed = {
+index_links = [
     Path(link).name
     for link in re.findall(r"\]\(([^)#]+\.md)\)", index)
     if "/" not in link
-}
+]
+indexed = set(index_links)
+for guide_name in sorted({name for name in index_links if index_links.count(name) > 1}):
+    failures.append(f"docs/frameworks/INDEX.md: duplicate link to {guide_name}")
 published = {guide.name for guide in GUIDES.glob("*.md") if guide.name != "INDEX.md"}
 for guide_name in sorted(published - indexed):
     failures.append(f"docs/frameworks/INDEX.md: missing link to {guide_name}")
