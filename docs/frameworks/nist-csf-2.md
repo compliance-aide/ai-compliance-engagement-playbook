@@ -14,9 +14,9 @@ profile after a material change.
 ## Roles
 
 Operators own systems, evidence, and corrective work. An assessor challenges
-scope, traceability, and conclusions independently. AI inventories artifacts,
-identifies gaps and conflicts, drafts questions and evidence indexes, and never
-attests to conformance.
+scope, traceability, and conclusions independently. AI may inventory authorized artifacts,
+identify gaps and conflicts, and draft questions and evidence indexes, but cannot
+attest to conformance, accept risk, approve remediation, or alter systems.
 
 ## Annual rhythm
 
