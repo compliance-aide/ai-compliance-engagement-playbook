@@ -290,3 +290,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Bermuda PIPA](bermuda-pipa.md)
 - [Bahamas data protection](bahamas-data-protection.md)
 - [UL 2900-1 — licensed program](ul-2900-1-licensed-program.md)
+- [ETSI EN 303 645 V3.1.3 consumer IoT](etsi-en-303-645-v3-1-3.md)
