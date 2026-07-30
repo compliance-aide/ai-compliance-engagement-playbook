@@ -212,6 +212,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-63B-4](nist-sp-800-63b-4.md)
 - [NIST SP 800-160 Volume 1 Revision 1](nist-sp-800-160-v1-r1.md)
 - [NIST SP 800-171A Revision 3](nist-sp-800-171a-r3.md)
+- [NIST SP 800-171A historical transition](nist-sp-800-171a-historical-transition.md)
 - [NIST SP 800-172 Revision 3](nist-sp-800-172-r3.md)
 - [NIST SP 800-172A Revision 3](nist-sp-800-172a-r3.md)
 - [DoD NIST SP 800-171 assessment readiness](dod-nist-800-171-assessment.md)
