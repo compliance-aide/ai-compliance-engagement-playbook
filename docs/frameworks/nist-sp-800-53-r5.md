@@ -1,0 +1,26 @@
+# NIST SP 800-53 Revision 5 — engagement guide
+
+> Original operational guidance, not an official NIST publication or a claim of
+> conformance. Review the current [NIST source](https://www.nist.gov/publications/security-and-privacy-controls-information-systems-and-organizations)
+> before each engagement milestone.
+
+## Engagement focus
+
+Define an authorized system boundary and documented risk decisions. For every
+applicable safeguard area, maintain an implementation narrative and supporting
+governance, operational, and configuration evidence. Independently validate
+whether the described practice works; record exceptions, remediation,
+reassessment, and continuous-monitoring triggers.
+
+## Roles
+
+The system owner remains accountable for accuracy and operation. The assessor
+sets and executes an independent evaluation approach. AI organizes evidence,
+checks consistency, proposes questions, and highlights unsupported assertions;
+it does not select risk acceptance or reach the final conclusion.
+
+## Annual rhythm
+
+Reconfirm boundary and inherited services; refresh evidence; test representative
+operation; challenge changes and exceptions; review supply-chain dependencies;
+renew the assessment plan after material change.
