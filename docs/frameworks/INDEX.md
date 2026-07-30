@@ -113,6 +113,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ISO/IEC 27554:2024 identity risk](iso-iec-27554-2024.md)
 - [ISO/IEC 27555:2021 PII deletion](iso-iec-27555-2021.md)
 - [ISO/IEC 27556:2022 privacy preferences](iso-iec-27556-2022.md)
+- [ISO/IEC 27557:2022 organizational privacy risk](iso-iec-27557-2022.md)
 - [ISO/IEC 27551:2021 unlinkable authentication](iso-iec-27551-2021.md)
 - [ISO/IEC 27553-1:2022 local mobile biometrics](iso-iec-27553-1-2022.md)
 - [ISO/IEC 27553-2:2025 remote mobile biometrics](iso-iec-27553-2-2025.md)
