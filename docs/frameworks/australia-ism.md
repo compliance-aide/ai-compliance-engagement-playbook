@@ -1,11 +1,13 @@
-# Australian Information Security Manual — engagement guide
+# Australian Information Security Manual engagement guide
 
-> Original operational guidance, not Australian Government content or an authorization decision. Confirm the current release through the [Australian ISM page](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/ism).
+> Original operational guidance, not Australian Signals Directorate text, a classification decision, an authorization, or a compliance claim. Confirm current material through the [Australian Information Security Manual](https://www.cyber.gov.au/ism) and applicable authority.
 
 ## Engagement focus
 
-Maintain system scope, risk decisions, security-plan evidence, technology and supplier records, incident and vulnerability records, exceptions, approvals, assessment results, and remediation traceability.
+Maintain a security-engagement record that connects systems, applications, data, accountable owners, authorization and classification context decided by authorized people, risk records, safeguards, implementation and assurance evidence, incidents, changes, exceptions, and review dates. Retain the basis, scope, source, and known limitations of every material statement. Keep system documentation and evidence links current as a living record rather than recreating a compliance narrative for each review.
 
 ## Roles and annual rhythm
 
-System and security executives make accountable scope and risk decisions; independent reviewers test the evidence trail. AI organizes records and detects gaps, but cannot assess a system, approve an exception, or authorize operation. Monitor change continuously and review annually.
+Authorized government or organizational authorities, security, technology, operations, information owners, risk, privacy, procurement, and records owners retain accountable decisions. System owners preserve technical context; security owners coordinate evidence and assurance; authorized authorities make classification and authorization decisions; and auditors evaluate evidence in their independent role. Independent reviewers trace sampled systems through scope, ownership, risk, safeguards, assurance, changes, incidents, exceptions, and closure, challenging stale documentation, unclear boundaries, unsupported implementation claims, and missing decision records.
+
+AI may organize authorized, suitably handled metadata, identify missing owners or review fields, compare approved plans with evidence records, draft questions, and prepare non-authoritative workpapers. AI cannot determine classification, handle information beyond its authorization, select safeguards, authorize a system, accept risk, modify evidence, direct an incident response, or claim compliance. Reassess before material system, data, service, threat, authority, incident, or risk changes; review evidence routinely and conduct an annual independent readiness review.
