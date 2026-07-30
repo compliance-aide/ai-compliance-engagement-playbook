@@ -259,3 +259,6 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Canada DND IT security-risk management](canada-dnd-it-security-risk-management.md)
 - [BSI Standard 200-2 IT-Grundschutz methodology](bsi-standard-200-2.md)
 - [BSI Standard 200-4 business continuity](bsi-standard-200-4.md)
+- [NAIC Insurance Data Security Model Law](naic-insurance-data-security-model-law.md)
+- [NAIC Own Risk and Solvency Assessment](naic-orsa.md)
+- [NAIC insurance privacy model-law engagement](naic-insurance-privacy-model-law.md)
