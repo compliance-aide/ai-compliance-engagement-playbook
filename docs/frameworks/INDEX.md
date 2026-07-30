@@ -322,3 +322,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Saudi NCA cybersecurity guidelines for Internet of Things](saudi-nca-cgiot-1-2024.md)
 - [New Zealand HISO 10029.2:2023 health information security for micro to small organizations](new-zealand-hiso-10029-2-2023.md)
 - [CISA Zero Trust Maturity Model Version 2](cisa-zero-trust-maturity-model-v2.md)
+- [UAE National Information Assurance Framework](uae-national-information-assurance-framework.md)
