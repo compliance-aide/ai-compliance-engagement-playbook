@@ -27,6 +27,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [EU Cloud Code of Conduct](eu-cloud-code-of-conduct.md)
 - [EU Cyber Resilience Act](eu-cyber-resilience-act.md)
 - [Singapore Cyber Trust mark](singapore-cyber-trust-mark.md)
+- [Singapore Data Protection Trustmark](singapore-data-protection-trustmark.md)
 - [EU NIS2](eu-nis2.md)
 - [EU payment-services transition](eu-payment-services-transition.md)
 - [FAR 52.204-21](far-52-204-21.md)
