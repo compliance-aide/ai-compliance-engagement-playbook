@@ -281,6 +281,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [UK employment data protection](uk-employment-data-protection.md)
 - [California workforce privacy](california-workforce-privacy.md)
 - [Illinois Biometric Information Privacy Act](illinois-bipa.md)
+- [Illinois Personal Information Protection Act](illinois-personal-information-protection.md)
 - [New York SHIELD Act](new-york-shield-act.md)
 - [Tennessee Information Protection Act](tennessee-information-protection-act.md)
 - [Massachusetts 201 CMR 17.00](massachusetts-201-cmr-17.md)
