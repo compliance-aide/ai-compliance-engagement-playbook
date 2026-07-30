@@ -264,3 +264,6 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NAIC insurance privacy model-law engagement](naic-insurance-privacy-model-law.md)
 - [CSA IoT Security Controls Framework v2](csa-iot-security-controls-framework-v2.md)
 - [ENISA National Capabilities Assessment Framework 2.0](enisa-ncaf-2.md)
+- [CMMC Level 1 program](cmmc-level-1-program.md)
+- [CMMC Level 3 program](cmmc-level-3-program.md)
+- [CMS MARS-E](cms-mars-e.md)
