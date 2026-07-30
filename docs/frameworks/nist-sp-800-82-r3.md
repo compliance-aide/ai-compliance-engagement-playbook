@@ -15,8 +15,8 @@ scenarios.
 ## Roles and annual rhythm
 
 OT engineering, operations, safety, maintenance, and IT own operational truth
-and may halt work that threatens safe operation. Reviewers make unassessed areas
-explicit. AI analyzes approved records for staleness, prepares interview and
-tabletop material, and flags missing safety approvals; it never controls OT,
-initiates scans, or alters configuration. Review throughout the year with annual
+and may halt work that threatens safe operation. Independent reviewers make unassessed areas
+explicit. AI may analyze approved records for staleness, prepare interview and
+tabletop material, and flag missing safety approvals; it cannot control OT,
+initiate scans, alter configuration, or make a safety determination. Review throughout the year with annual
 operations-and-safety signoff.

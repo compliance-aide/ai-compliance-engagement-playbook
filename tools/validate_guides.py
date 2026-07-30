@@ -8,7 +8,6 @@ ROOT = Path(__file__).resolve().parents[1]
 GUIDES = ROOT / "docs" / "frameworks"
 REQUIRED = ("original operational guidance", "engagement focus", "roles")
 AI_TERMS = ("ai", "artificial intelligence")
-REVIEW_TERMS = ("review", "assessor", "auditor")
 
 failures = []
 for guide in sorted(GUIDES.glob("*.md")):
@@ -18,7 +17,7 @@ for guide in sorted(GUIDES.glob("*.md")):
     missing = [term for term in REQUIRED if term not in body]
     if not any(term in body for term in AI_TERMS):
         missing.append("AI role")
-    if not any(term in body for term in REVIEW_TERMS):
+    if "independent" not in body:
         missing.append("independent review role")
     if "http" not in body:
         missing.append("official-source link")
