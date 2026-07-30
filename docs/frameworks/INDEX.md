@@ -372,6 +372,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-53B low-impact baseline](nist-sp-800-53b-low-baseline.md)
 - [NIST SP 800-53B moderate-impact baseline](nist-sp-800-53b-moderate-baseline.md)
 - [NIST SP 800-53B high-impact baseline](nist-sp-800-53b-high-baseline.md)
+- [NIST SP 800-53B privacy baseline](nist-sp-800-53b-privacy-baseline.md)
 - [COSO Internal Control—Integrated Framework](coso-internal-control-integrated-framework.md)
 - [Malaysia Personal Data Protection Act](malaysia-personal-data-protection-act.md)
 - [Costa Rica personal data protection](costa-rica-personal-data-protection.md)
