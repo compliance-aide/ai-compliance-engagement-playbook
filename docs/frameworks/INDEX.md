@@ -48,6 +48,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [FAR 52.204-21](far-52-204-21.md)
 - [FAR 52.204-25 / Section 889](far-52-204-25-section-889.md)
 - [FAR 52.204-27](far-52-204-27.md)
+- [FTC Act consumer privacy and security](ftc-act-consumer-privacy-security.md)
 - [NISPOM / 32 CFR Part 117](nispom-32-cfr-part-117.md)
 - [NSPM-33 research-security readiness](nspm-33-research-security.md)
 - [FedRAMP](fedramp.md)
