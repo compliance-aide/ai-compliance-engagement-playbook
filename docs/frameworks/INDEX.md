@@ -128,6 +128,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ISO/IEC 27040:2024 storage security](iso-iec-27040-2024.md)
 - [ISO/IEC 27042:2015 digital-evidence analysis](iso-iec-27042-2015.md)
 - [ISO/IEC 27007:2020 ISMS audit programme](iso-iec-27007-2020.md)
+- [ISO/IEC TS 27022:2021 ISMS processes](iso-iec-ts-27022-2021.md)
 - [ISO/IEC TS 27008:2019 control assessment](iso-iec-ts-27008-2019.md)
 - [ISO/IEC 29134:2023 privacy-impact assessment](iso-iec-29134-2023.md)
 - [ISO/IEC 29100:2024 privacy framework](iso-iec-29100-2024.md)
