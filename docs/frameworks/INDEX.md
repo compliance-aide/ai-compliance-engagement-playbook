@@ -251,3 +251,6 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Canada OSFI Guideline B-10](canada-osfi-b10.md)
 - [New Zealand Information Security Manual](new-zealand-nzism.md)
 - [Singapore CII cybersecurity code](singapore-cii-cybersecurity-code.md)
+- [BSI C5:2020 cloud-service engagement](bsi-c5-2020.md)
+- [BSI Standard 200-1 information-security management](bsi-standard-200-1.md)
+- [EBA ICT and security risk management](eba-gl-2019-04.md)
