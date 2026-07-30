@@ -312,3 +312,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [SPARTA spacecraft cybersecurity](sparta-spacecraft-cybersecurity.md)
 - [UK Def Stan 05-138 Issue 4 defence suppliers](uk-defstan-05-138-issue-4.md)
 - [EU–U.S. Privacy Shield historical transition](eu-us-privacy-shield-historical-transition.md)
+- [Spain CCN-STIC 825 ENS and ISO 27001](spain-ccn-stic-825.md)
