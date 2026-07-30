@@ -37,6 +37,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [IEC 62443-3-2:2020 IACS system-design risk assessment](iec-62443-3-2-2020.md)
 - [IEC PAS 62443-2-2:2025 IACS security protection scheme](iec-pas-62443-2-2-2025.md)
 - [IEC TS 63074:2023 security aspects of functional safety](iec-ts-63074-2023.md)
+- [IEC TR 62443-2-3:2015 IACS patch management](iec-tr-62443-2-3-2015.md)
 - [EU NIS2](eu-nis2.md)
 - [EU payment-services transition](eu-payment-services-transition.md)
 - [FAR 52.204-21](far-52-204-21.md)
