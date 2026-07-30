@@ -7,6 +7,8 @@ repository from republishing restricted standards or proprietary crosswalks.
 Use [the framework template](../framework-template.md) to propose a guide.
 
 - [CMMC](cmmc.md)
+- [CSA STAR](csa-star.md)
+- [CSA AI Controls Matrix](csa-ai-controls-matrix.md)
 - [Colorado Privacy Act](colorado-privacy-act.md)
 - [Connecticut Data Privacy Act](connecticut-data-privacy-act.md)
 - [California CCPA/CPRA](ccpa-cpra.md)
@@ -20,6 +22,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [EU DORA](eu-dora.md)
 - [EU CSRD / ESRS](eu-csrd-esrs.md)
 - [EU eIDAS 2.0](eu-eidas-2.md)
+- [EU Cloud Code of Conduct](eu-cloud-code-of-conduct.md)
 - [EU Cyber Resilience Act](eu-cyber-resilience-act.md)
 - [EU NIS2](eu-nis2.md)
 - [EU payment-services transition](eu-payment-services-transition.md)
@@ -52,6 +55,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ISO/IEC 20000-1:2018](iso-iec-20000-1-2018.md)
 - [ISO/IEC 27017:2015](iso-iec-27017-2015.md)
 - [ISO/IEC 27018:2025](iso-iec-27018-2025.md)
+- [ISO/IEC 27036 supplier relationships](iso-iec-27036-supplier-relationships.md)
 - [ISO/IEC 27701:2025](iso-iec-27701-2025.md)
 - [ISO/IEC 42001:2023](iso-iec-42001-2023.md)
 - [IEC 62443](iec-62443.md)
@@ -77,6 +81,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-207](nist-sp-800-207.md)
 - [NIST SP 800-218](nist-sp-800-218.md)
 - [NIST SP 800-82 Revision 3](nist-sp-800-82-r3.md)
+- [NIST SP 800-144](nist-sp-800-144.md)
 - [NERC CIP](nerc-cip.md)
 - [NYDFS Part 500](nydfs-part-500.md)
 - [NYDFS Part 504](nydfs-part-504.md)
