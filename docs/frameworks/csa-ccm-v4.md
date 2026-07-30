@@ -15,7 +15,7 @@ reconcile cloud inventory and residual-risk decisions annually.
 ## Roles and annual rhythm
 
 Operators own configuration, vendor coordination, and evidence collection.
-Reviewers challenge assumed responsibility splits. AI maintains a non-authoritative
-service/evidence register and drafts vendor questions; it cannot decide a shared-
-responsibility dispute. Monitor changes monthly, review dependencies quarterly,
+Independent reviewers challenge assumed responsibility splits. AI may maintain a non-authoritative
+service/evidence register and draft vendor questions; it cannot decide a shared-
+responsibility dispute, approve a supplier, accept risk, alter cloud configuration, or claim assurance. Monitor changes monthly, review dependencies quarterly,
 and renew the supplier calendar annually.
