@@ -126,3 +126,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Singapore PDPA](singapore-pdpa.md)
 - [Singapore Cybersecurity Act](singapore-cybersecurity-act.md)
 - [South Africa POPIA](south-africa-popia.md)
+- [COPPA](coppa.md)
+- [PPRA](ppra.md)
+- [IDEA confidentiality](idea-confidentiality.md)
+- [GovRAMP — licensed program](govramp-licensed-program.md)
