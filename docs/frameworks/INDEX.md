@@ -136,6 +136,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Singapore PDPA](singapore-pdpa.md)
 - [Singapore Cybersecurity Act](singapore-cybersecurity-act.md)
 - [South Africa POPIA](south-africa-popia.md)
+- [ISO/IEC 27005:2022](iso-iec-27005-2022.md)
 - [ISO/IEC 27002:2022](iso-iec-27002-2022.md)
 - [Thailand PDPA](thailand-pdpa.md)
 - [Philippines Data Privacy Act](philippines-data-privacy-act.md)
