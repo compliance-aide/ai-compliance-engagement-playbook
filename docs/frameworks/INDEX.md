@@ -282,3 +282,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [TSA rail cybersecurity directive](tsa-rail-cybersecurity-directive.md)
 - [TX-RAMP Level 1](tx-ramp-level-1.md)
 - [TX-RAMP Level 2](tx-ramp-level-2.md)
+- [NIST SP 800-161 supplier flowdown](nist-sp-800-161-supplier-flowdown.md)
