@@ -170,6 +170,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-171 Revision 3](nist-sp-800-171-r3.md)
 - [NIST SP 800-37 Revision 2](nist-sp-800-37-r2.md)
 - [NIST SP 800-161 Revision 1](nist-sp-800-161-r1.md)
+- [NIST SP 800-160 Volume 2 Revision 1 cyber resiliency](nist-sp-800-160-v2-r1.md)
 - [NIST SP 800-207](nist-sp-800-207.md)
 - [NIST SP 800-218](nist-sp-800-218.md)
 - [NIST SP 800-218A](nist-sp-800-218a.md)
