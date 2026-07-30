@@ -14,7 +14,7 @@ evidence; and produce an annual residual-identity-risk briefing.
 ## Roles and annual rhythm
 
 Operators maintain service inventory, changes, user-impact information, and
-evidence. Independent reviewers evaluate rationale and evidence coherence. AI
-traces claims to evidence and flags staleness; it requires human approval for
+evidence. Independent reviewers evaluate rationale and evidence coherence. AI may
+trace authorized claims to evidence and flag staleness; it cannot make
 access, identity, or exception decisions. Review operational signals throughout
 the year and watch for source revisions.

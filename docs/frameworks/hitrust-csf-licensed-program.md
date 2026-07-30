@@ -8,4 +8,4 @@ Verify entitlement, scope, and version; use only the licensee-approved workspace
 
 ## Roles and annual rhythm
 
-Licensee and authorized assessor roles control framework content and results. Independent reviewers examine organization-owned process evidence. AI never receives unlicensed content, generates mappings or scores, certifies, or acts as an assessor. Preserve version and decision records through annual planning.
+Licensee and authorized assessor roles control framework content and results. Independent reviewers examine organization-owned process evidence. AI cannot receive unlicensed content, generate mappings or scores, certify, act as an assessor, or approve a licensee decision. Preserve version and decision records through annual planning.

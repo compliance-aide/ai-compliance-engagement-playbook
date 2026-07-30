@@ -15,7 +15,7 @@ challenge closure quality annually.
 ## Roles and annual rhythm
 
 Operators maintain inventory, configuration, and operational proof. Independent
-reviewers challenge evidence and report exceptions without owning fixes. AI
-detects stale or conflicting claims and drafts questions and change-impact lists;
-it never attests or closes an exception. Run monthly signal review, quarterly
+reviewers challenge evidence and report exceptions without owning fixes. AI may
+detect stale or conflicting claims and draft questions and change-impact lists;
+it cannot attest, close an exception, accept risk, or alter system configuration. Run monthly signal review, quarterly
 validation, and annual scope and priority renewal.
