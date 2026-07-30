@@ -277,3 +277,5 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [IEC 31010:2019 risk-assessment techniques](iec-31010-2019.md)
 - [Malaysia Personal Data Protection Act](malaysia-personal-data-protection-act.md)
 - [Costa Rica personal data protection](costa-rica-personal-data-protection.md)
+- [Canada ITSP.10.171 specified-information protection](canada-itsp-10-171.md)
+- [Canada ITSP.50.105 cloud assessment and authorization](canada-itsp-50-105.md)
