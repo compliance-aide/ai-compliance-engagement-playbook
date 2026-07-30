@@ -318,3 +318,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Texas Business & Commerce Code Chapter 521 data security](texas-business-commerce-code-521.md)
 - [UK CAA CAP 1850 Cyber Assessment Framework for Aviation](uk-caa-cap-1850.md)
 - [Saudi NCA Data Cybersecurity Controls DCC-1:2022](saudi-nca-dcc-1-2022.md)
+- [New Zealand HISO 10029.4:2023 health information security for suppliers](new-zealand-hiso-10029-4-2023.md)
