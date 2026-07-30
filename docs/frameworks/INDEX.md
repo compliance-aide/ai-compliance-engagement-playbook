@@ -273,3 +273,5 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Oregon Consumer Privacy Act](oregon-consumer-privacy-act.md)
 - [South Carolina Insurance Data Security Act](south-carolina-insurance-data-security-act.md)
 - [NIST SP 800-53B baseline selection](nist-sp-800-53b.md)
+- [COSO Internal Control—Integrated Framework](coso-internal-control-integrated-framework.md)
+- [IEC 31010:2019 risk-assessment techniques](iec-31010-2019.md)
