@@ -32,6 +32,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Global Privacy Recognition for Processors system](global-privacy-recognition-for-processors.md)
 - [U.S. Cyber Trust Mark program](us-cyber-trust-mark.md)
 - [ISO/IEC 42005:2025 AI system impact assessment](iso-iec-42005-2025.md)
+- [ISO/IEC 42006:2025 AI management system certification bodies](iso-iec-42006-2025.md)
 - [EU NIS2](eu-nis2.md)
 - [EU payment-services transition](eu-payment-services-transition.md)
 - [FAR 52.204-21](far-52-204-21.md)
