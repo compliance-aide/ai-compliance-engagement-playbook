@@ -190,6 +190,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Hong Kong PDPO](hong-kong-pdpo.md)
 - [New Zealand Privacy Act 2020](new-zealand-privacy-act.md)
 - [Saudi Arabia PDPL](saudi-pdpl.md)
+- [Saudi SAMA Cyber Security Framework](saudi-sama-cybersecurity-framework.md)
 - [Singapore PDPA](singapore-pdpa.md)
 - [Singapore Cybersecurity Act](singapore-cybersecurity-act.md)
 - [South Africa POPIA](south-africa-popia.md)
