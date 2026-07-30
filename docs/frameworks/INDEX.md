@@ -356,6 +356,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Malaysia Personal Data Protection Act](malaysia-personal-data-protection-act.md)
 - [Costa Rica personal data protection](costa-rica-personal-data-protection.md)
 - [Canada ITSP.10.171 specified-information protection](canada-itsp-10-171.md)
+- [Canadian Program for Cyber Security Certification Level 1](canada-cpcsc-level-1.md)
 - [Canada ITSP.50.105 cloud assessment and authorization](canada-itsp-50-105.md)
 - [TSA rail cybersecurity directive](tsa-rail-cybersecurity-directive.md)
 - [TX-RAMP Level 1](tx-ramp-level-1.md)
