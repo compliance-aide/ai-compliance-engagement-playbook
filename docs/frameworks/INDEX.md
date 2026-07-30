@@ -276,3 +276,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [COSO Internal Control—Integrated Framework](coso-internal-control-integrated-framework.md)
 - [IEC 31010:2019 risk-assessment techniques](iec-31010-2019.md)
 - [Malaysia Personal Data Protection Act](malaysia-personal-data-protection-act.md)
+- [Costa Rica personal data protection](costa-rica-personal-data-protection.md)
