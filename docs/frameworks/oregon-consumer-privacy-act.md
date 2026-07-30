@@ -1,11 +1,11 @@
-# Oregon Consumer Privacy Act — engagement guide
+# Oregon Consumer Privacy Act engagement guide
 
-> Original operational guidance, not legal advice. Record a dated legal baseline from [Oregon Revised Statutes](https://www.oregonlegislature.gov/bills_laws/ors/ors646a.html).
+> Original operational guidance, not Oregon statutory text or legal advice. Confirm current requirements through the [Oregon legislative privacy materials](https://olis.oregonlegislature.gov/liz/2023I1/Downloads/CommitteeMeetingDocument/285470).
 
 ## Engagement focus
 
-Update processing, purpose, recipient, retention, vendor, rights, authorized-agent, opt-out, consent, notice, and assessment evidence; trace samples through downstream recipients.
+Maintain a year-round record of personal-data processing, owner decisions, consumer requests, sensitive-data handling, vendor evidence, notices, assessments, incidents, and product or policy changes.
 
 ## Roles and annual rhythm
 
-Counsel owns statutory change review; independent reviewers verify closure. AI identifies evidence drift and makes packs, but cannot authenticate agents, make legal determinations, or submit communications. Review quarterly and annually.
+Privacy and product owners maintain the operating record; security and procurement supply evidence; counsel confirms applicability; independent reviewers test evidence. AI can organize approved artifacts and identify stale decisions, but cannot resolve rights requests, interpret law, or authorize disclosures. Review material changes before release and retain human approvals and rationale.

@@ -269,3 +269,6 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [CMS MARS-E](cms-mars-e.md)
 - [FACTA Red Flags Rule](facta-red-flags-rule.md)
 - [California SB 327 connected devices](california-sb-327-connected-devices.md)
+- [Tennessee Information Protection Act](tennessee-information-protection-act.md)
+- [Oregon Consumer Privacy Act](oregon-consumer-privacy-act.md)
+- [South Carolina Insurance Data Security Act](south-carolina-insurance-data-security-act.md)
