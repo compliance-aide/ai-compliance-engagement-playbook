@@ -35,6 +35,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ISO/IEC 42006:2025 AI management system certification bodies](iso-iec-42006-2025.md)
 - [ISO/IEC TS 42119-2:2025 AI system testing](iso-iec-ts-42119-2-2025.md)
 - [IEC 62443-3-2:2020 IACS system-design risk assessment](iec-62443-3-2-2020.md)
+- [IEC TR 62443-3-1:2009 IACS technology assessment](iec-tr-62443-3-1-2009.md)
 - [IEC 62443-3-3:2013 IACS system security](iec-62443-3-3-2013.md)
 - [IEC PAS 62443-2-2:2025 IACS security protection scheme](iec-pas-62443-2-2-2025.md)
 - [IEC TS 63074:2023 security aspects of functional safety](iec-ts-63074-2023.md)
