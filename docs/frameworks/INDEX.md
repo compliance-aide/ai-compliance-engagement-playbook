@@ -109,6 +109,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ISO/IEC 27402:2023 IoT device baseline](iso-iec-27402-2023.md)
 - [ISO/IEC 27403:2024 smart-home IoT](iso-iec-27403-2024.md)
 - [ISO/IEC 27404:2025 consumer-IoT cybersecurity labeling](iso-iec-27404-2025.md)
+- [ISO/IEC TR 27550:2019 privacy engineering](iso-iec-tr-27550-2019.md)
 - [ISO/IEC 27043:2015 incident investigation](iso-iec-27043-2015.md)
 - [ISO/IEC 27050 electronic discovery](iso-iec-27050-ediscovery.md)
 - [ISO/IEC 27040:2024 storage security](iso-iec-27040-2024.md)
