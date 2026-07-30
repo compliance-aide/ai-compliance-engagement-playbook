@@ -309,3 +309,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Alaska Personal Information Protection Act](alaska-personal-information-protection-act.md)
 - [Nevada NRS Chapter 603A privacy and security](nevada-nrs-603a.md)
 - [Texas Cybersecurity Framework](texas-cybersecurity-framework.md)
+- [SPARTA spacecraft cybersecurity](sparta-spacecraft-cybersecurity.md)
