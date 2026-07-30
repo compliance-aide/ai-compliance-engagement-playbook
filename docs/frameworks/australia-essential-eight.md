@@ -14,7 +14,7 @@ assumptions.
 
 ## Roles and annual rhythm
 
-Leadership owns targets and exceptions. Reviewers assess evidence under their
-defined mandate. AI maintains the goal, exception, and evidence ledger and
-flags uneven maturity or unsupported conclusions; it never determines a formal
-result. Recalibrate target, investment, and risk acceptance annually.
+Leadership owns targets and exceptions. Independent reviewers assess evidence under their
+defined mandate. AI may maintain the goal, exception, and evidence ledger and
+flag uneven maturity or unsupported conclusions; it cannot determine a formal
+result, accept risk, approve an exception, alter systems, or make a maturity claim. Recalibrate target, investment, and risk acceptance annually.
