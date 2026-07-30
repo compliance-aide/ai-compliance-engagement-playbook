@@ -47,6 +47,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [HITRUST CSF — licensed program](hitrust-csf-licensed-program.md)
 - [42 CFR Part 2](42-cfr-part-2.md)
 - [FDA medical-device cybersecurity](fda-medical-device-cybersecurity.md)
+- [IEC TR 60601-4-5:2021 medical-device security](iec-tr-60601-4-5-2021.md)
 - [ISO/IEC 27001:2022](iso-iec-27001-2022.md)
 - [ISO 22301:2019](iso-22301-2019.md)
 - [ISO 31000:2018](iso-31000-2018.md)
