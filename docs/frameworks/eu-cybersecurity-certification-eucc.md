@@ -8,4 +8,4 @@ Maintain product scope, intended use, development and lifecycle evidence, config
 
 ## Roles and annual rhythm
 
-Product and security leaders validate evidence; certification bodies make scheme decisions. AI links artifacts and flags stale claims, but cannot certify, select an assurance level, or issue a declaration. Review before material releases and annually.
+Product and security leaders validate evidence; certification bodies and independent reviewers make scheme decisions and test readiness. AI may link authorized artifacts and flag stale claims, but cannot certify, select an assurance level, issue a declaration, approve a release, or submit a certification artifact. Review before material releases and annually.
