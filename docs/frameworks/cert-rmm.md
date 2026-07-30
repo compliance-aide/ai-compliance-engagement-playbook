@@ -14,7 +14,7 @@ resilience outcomes.
 ## Roles and annual rhythm
 
 Leadership owns priorities and residual-risk decisions. Independent reviewers
-evaluate evidence and scenario outcomes. AI maps service dependencies, evidence,
-and missing ownership; it drafts scenario questions and summaries but does not
-make an appraisal rating. Conduct leadership review annually and after material
+evaluate evidence and scenario outcomes. AI may map service dependencies, authorized evidence,
+and missing ownership and draft scenario questions and summaries, but cannot
+make an appraisal rating, accept residual risk, approve recovery decisions, or alter services. Conduct leadership review annually and after material
 service or threat changes.

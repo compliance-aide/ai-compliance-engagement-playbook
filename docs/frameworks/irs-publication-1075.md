@@ -8,4 +8,4 @@ Map FTI receipt, flow, storage, processing, transmission, disposal, labels, appr
 
 ## Roles and annual rhythm
 
-Operators maintain labels and evidence; independent reviewers sample boundaries and report support. AI must not receive FTI in unapproved environments, submit reports, authorize services, or decide incident reporting. Review quarterly and annually.
+Operators maintain labels and evidence; independent reviewers sample boundaries and report support. AI cannot receive FTI in unapproved environments, submit reports, authorize services, or decide incident reporting. Review quarterly and annually.

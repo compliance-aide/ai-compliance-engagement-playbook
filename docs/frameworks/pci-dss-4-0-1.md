@@ -15,9 +15,9 @@ and retain validation outputs separately.
 ## Roles
 
 The entity operates its card-data environment and evidence program. Qualified
-assessors independently perform work where required. AI builds the evidence
-calendar, finds scope drift and unowned evidence, and drafts questions; it must
-not select a validation route or attest to a result.
+assessors independently perform work where required. AI may build the authorized evidence
+calendar, find scope drift and unowned evidence, and draft questions; it cannot
+select a validation route, approve a scope or compensating-control decision, or attest to a result.
 
 ## Annual rhythm
 

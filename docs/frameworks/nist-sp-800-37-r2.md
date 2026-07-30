@@ -14,7 +14,7 @@ known limitations, and a human decision record.
 ## Roles and annual rhythm
 
 System teams own truthful evidence and corrective work. Independent reviewers
-challenge scope and evidence limitations without owning implementation. AI keeps
-an evidence ledger, detects contradictions, drafts questions, and escalates
-uncertainty; it never determines scope, authorizes a system, or accepts risk.
+challenge scope and evidence limitations without owning implementation. AI may keep
+an authorized evidence ledger, detect contradictions, draft questions, and escalate
+uncertainty; it cannot determine scope, authorize a system, accept risk, or issue an authorization decision.
 Refresh the plan for changes, incidents, control failures, and business impact.
