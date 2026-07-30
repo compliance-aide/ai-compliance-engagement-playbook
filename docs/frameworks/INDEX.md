@@ -7,6 +7,7 @@ repository from republishing restricted standards or proprietary crosswalks.
 Use [the framework template](../framework-template.md) to propose a guide.
 
 - [CMMC](cmmc.md)
+- [CMMC Level 2 program](cmmc-level-2-program.md)
 - [CSA STAR](csa-star.md)
 - [CSA AI Controls Matrix](csa-ai-controls-matrix.md)
 - [Colorado Privacy Act](colorado-privacy-act.md)
@@ -95,10 +96,14 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-160 Volume 1 Revision 1](nist-sp-800-160-v1-r1.md)
 - [NIST SP 800-171A Revision 3](nist-sp-800-171a-r3.md)
 - [NIST SP 800-172 Revision 3](nist-sp-800-172-r3.md)
+- [NIST SP 800-172A Revision 3](nist-sp-800-172a-r3.md)
+- [DoD NIST SP 800-171 assessment readiness](dod-nist-800-171-assessment.md)
 - [PCI DSS v4.0.1](pci-dss-4-0-1.md)
 - [Privacy Act of 1974](privacy-act-1974.md)
 - [CJIS Security Policy](cjis-security-policy.md)
 - [SOC 2](soc-2.md)
+- [3GPP SCAS / SECAM](3gpp-scas-secam.md)
+- [GSMA NESAS](gsma-nesas.md)
 - [SWIFT CSCF — licensed program](swift-cscf-licensed-program.md)
 - [SOX Section 404 / ICFR](sox-icfr.md)
 - [SEC cybersecurity disclosure readiness](sec-cybersecurity-disclosure.md)
