@@ -8,4 +8,4 @@ Establish the registered entity, jurisdiction, and bulk-electric-system scope fo
 
 ## Roles and annual rhythm
 
-Operators maintain truthful operational evidence. Independent reviewers sample provenance, timelines, and exceptions against then-effective requirements. AI organizes evidence and flags conflicts; it never decides legal applicability, changes operational technology, certifies compliance, or submits material to regulators. Review operational signals quarterly and scope annually.
+Operators maintain truthful operational evidence. Independent reviewers sample provenance, timelines, and exceptions against then-effective requirements. AI may organize authorized evidence and flag conflicts; it cannot decide legal applicability, change operational technology, certify compliance, or submit material to regulators. Review operational signals quarterly and scope annually.

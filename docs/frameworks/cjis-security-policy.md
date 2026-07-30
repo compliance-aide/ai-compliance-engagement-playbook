@@ -8,4 +8,4 @@ Establish CJI boundary and agreements; maintain authorized-user, device, service
 
 ## Roles and annual rhythm
 
-Operators own CJI-safe evidence; independent reviewers sample records without designing fixes. AI must not ingest CJI into unapproved tools, change access, make dissemination decisions, or represent a CJIS audit finding. Review quarterly and annually.
+Operators own CJI-safe evidence; independent reviewers sample records without designing fixes. AI cannot ingest CJI into unapproved tools, change access, make dissemination decisions, or represent a CJIS audit finding. Review quarterly and annually.
