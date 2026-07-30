@@ -317,3 +317,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [New Zealand HISO 10029:2022 health information security](new-zealand-hiso-10029-2022.md)
 - [Texas Business & Commerce Code Chapter 521 data security](texas-business-commerce-code-521.md)
 - [UK CAA CAP 1850 Cyber Assessment Framework for Aviation](uk-caa-cap-1850.md)
+- [Saudi NCA Data Cybersecurity Controls DCC-1:2022](saudi-nca-dcc-1-2022.md)
