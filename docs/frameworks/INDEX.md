@@ -320,3 +320,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Saudi NCA Data Cybersecurity Controls DCC-1:2022](saudi-nca-dcc-1-2022.md)
 - [New Zealand HISO 10029.4:2023 health information security for suppliers](new-zealand-hiso-10029-4-2023.md)
 - [Saudi NCA cybersecurity guidelines for Internet of Things](saudi-nca-cgiot-1-2024.md)
+- [New Zealand HISO 10029.2:2023 health information security for micro to small organizations](new-zealand-hiso-10029-2-2023.md)
