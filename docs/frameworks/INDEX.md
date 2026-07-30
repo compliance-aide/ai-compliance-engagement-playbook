@@ -286,3 +286,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ISO/IEC 27019:2024 energy utility](iso-iec-27019-2024.md)
 - [Singapore Internet Hygiene](singapore-internet-hygiene.md)
 - [Shared Assessments SIG — licensed program](shared-assessments-sig-licensed-program.md)
+- [Uruguay personal data protection](uruguay-personal-data-protection.md)
