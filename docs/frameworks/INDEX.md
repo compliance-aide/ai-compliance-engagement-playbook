@@ -285,3 +285,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-161 supplier flowdown](nist-sp-800-161-supplier-flowdown.md)
 - [ISO/IEC 27019:2024 energy utility](iso-iec-27019-2024.md)
 - [Singapore Internet Hygiene](singapore-internet-hygiene.md)
+- [Shared Assessments SIG — licensed program](shared-assessments-sig-licensed-program.md)
