@@ -310,3 +310,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Nevada NRS Chapter 603A privacy and security](nevada-nrs-603a.md)
 - [Texas Cybersecurity Framework](texas-cybersecurity-framework.md)
 - [SPARTA spacecraft cybersecurity](sparta-spacecraft-cybersecurity.md)
+- [UK Def Stan 05-138 Issue 4 defence suppliers](uk-defstan-05-138-issue-4.md)
