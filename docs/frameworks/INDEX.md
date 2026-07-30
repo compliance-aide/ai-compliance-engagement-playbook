@@ -272,3 +272,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Tennessee Information Protection Act](tennessee-information-protection-act.md)
 - [Oregon Consumer Privacy Act](oregon-consumer-privacy-act.md)
 - [South Carolina Insurance Data Security Act](south-carolina-insurance-data-security-act.md)
+- [NIST SP 800-53B baseline selection](nist-sp-800-53b.md)
