@@ -77,6 +77,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ISO/TS 37008:2023 internal investigations](iso-ts-37008-2023.md)
 - [ISO 31030:2021 travel-risk management](iso-31030-2021.md)
 - [ISO/IEC 27009:2020 sector-specific ISMS application](iso-iec-27009-2020.md)
+- [ISO/IEC 27010:2015 information sharing](iso-iec-27010-2015.md)
 - [ISO 9001:2015](iso-9001-2015.md)
 - [ISO 10002:2018 complaints handling](iso-10002-2018.md)
 - [ISO 10004:2018 customer-satisfaction measurement](iso-10004-2018.md)
