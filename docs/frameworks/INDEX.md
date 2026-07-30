@@ -370,6 +370,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [South Carolina Insurance Data Security Act](south-carolina-insurance-data-security-act.md)
 - [NIST SP 800-53B baseline selection](nist-sp-800-53b.md)
 - [NIST SP 800-53B low-impact baseline](nist-sp-800-53b-low-baseline.md)
+- [NIST SP 800-53B moderate-impact baseline](nist-sp-800-53b-moderate-baseline.md)
 - [COSO Internal Control—Integrated Framework](coso-internal-control-integrated-framework.md)
 - [Malaysia Personal Data Protection Act](malaysia-personal-data-protection-act.md)
 - [Costa Rica personal data protection](costa-rica-personal-data-protection.md)
