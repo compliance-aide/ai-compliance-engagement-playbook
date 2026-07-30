@@ -96,6 +96,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ISO 27799:2025 health-information security](iso-27799-2025.md)
 - [ISO/IEC 42001:2023](iso-iec-42001-2023.md)
 - [ISO/IEC 23894:2023 AI risk management](iso-iec-23894-2023.md)
+- [ISO/IEC 38507:2022 AI governance](iso-iec-38507-2022.md)
 - [IEC 62443](iec-62443.md)
 - [IEC 62443-2-1:2024 IACS asset-owner security](iec-62443-2-1-2024.md)
 - [IEC 62443-2-4:2023 IACS service-provider security](iec-62443-2-4-2023.md)
