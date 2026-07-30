@@ -12,7 +12,7 @@ deviations; and use the authorized route for formal assessment where sought.
 
 ## Roles and annual rhythm
 
-System owners maintain scope and evidence. Authorized scheme parties make any
-assessment decision. AI keeps the scope ledger, change watch, and question log;
+System owners maintain scope and evidence. Independent reviewers and authorized
+scheme parties make assessment decisions. AI keeps the scope ledger, change watch, and question log;
 it drafts only from approved evidence and never submits or claims a certificate.
 Monitor change throughout the year and plan renewal from current scheme rules.

@@ -1,8 +1,8 @@
 # SOC 2 — engagement guide
 
 > Original operational guidance, not an AICPA publication, CPA report, or “SOC 2
-> certification.” Use authorized AICPA materials and a qualified CPA firm for
-> any examination.
+> certification.” Use authorized [AICPA materials](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/socforserviceorganizations.html)
+> and a qualified CPA firm for any examination.
 
 ## Engagement focus
 
