@@ -50,6 +50,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [IEC TR 60601-4-5:2021 medical-device security](iec-tr-60601-4-5-2021.md)
 - [ISO/IEC 27001:2022](iso-iec-27001-2022.md)
 - [ISO 22301:2019](iso-22301-2019.md)
+- [ISO/SAE 21434:2021 automotive cybersecurity](iso-sae-21434-2021.md)
 - [ISO 31000:2018](iso-31000-2018.md)
 - [ISO 37001:2025](iso-37001-2025.md)
 - [ISO 37002:2021 whistleblowing management](iso-37002-2021.md)
