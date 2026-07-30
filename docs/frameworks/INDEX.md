@@ -214,6 +214,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-171A Revision 3](nist-sp-800-171a-r3.md)
 - [NIST SP 800-171A historical transition](nist-sp-800-171a-historical-transition.md)
 - [NIST SP 800-172 Revision 3](nist-sp-800-172-r3.md)
+- [NIST SP 800-172 historical transition](nist-sp-800-172-historical-transition.md)
 - [NIST SP 800-172A Revision 3](nist-sp-800-172a-r3.md)
 - [DoD NIST SP 800-171 assessment readiness](dod-nist-800-171-assessment.md)
 - [PCI DSS v4.0.1](pci-dss-4-0-1.md)
