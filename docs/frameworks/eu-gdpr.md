@@ -16,9 +16,10 @@ subprocessors; assess higher-risk change early; and preserve accountable records
 
 Controllers own processing purposes, means, and accountability. Processors act
 under documented instructions and contractual terms. Privacy and legal
-professionals decide consequential interpretations. AI helps with inventory,
-evidence tracing, deadlines, plain-language drafting, and gap triage; it does
-not determine lawful basis, reportability, or an individual's rights outcome.
+professionals decide consequential interpretations. Independent reviewers test
+traceability and the evidence supporting those decisions. AI may help with authorized inventory,
+evidence tracing, deadlines, plain-language drafting, and gap triage; it cannot
+determine lawful basis, reportability, an individual's rights outcome, or approve a transfer or processing decision.
 
 ## Annual rhythm
 
