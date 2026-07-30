@@ -262,3 +262,5 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NAIC Insurance Data Security Model Law](naic-insurance-data-security-model-law.md)
 - [NAIC Own Risk and Solvency Assessment](naic-orsa.md)
 - [NAIC insurance privacy model-law engagement](naic-insurance-privacy-model-law.md)
+- [CSA IoT Security Controls Framework v2](csa-iot-security-controls-framework-v2.md)
+- [ENISA National Capabilities Assessment Framework 2.0](enisa-ncaf-2.md)
