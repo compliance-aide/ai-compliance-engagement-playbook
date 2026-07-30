@@ -27,9 +27,12 @@ production systems without the approval specified in the engagement charter.
 2. Follow [the AI-agent execution protocol](docs/ai-agent-execution-protocol.md)
    to keep computer use, evidence, operator support, and auditor support separate.
 3. Create an engagement charter from [the template](templates/engagement-charter.md).
-4. Follow the [source research policy](docs/source-research-policy.md) before
+4. Start an [evidence register](templates/evidence-register.md) and use an
+   [independent-review workpaper](templates/independent-review-workpaper.md)
+   for reviewer testing.
+5. Follow the [source research policy](docs/source-research-policy.md) before
    creating or updating a framework guide.
-5. Use [the framework template](docs/framework-template.md), then obtain
+6. Use [the framework template](docs/framework-template.md), then obtain
    independent review and named human approval before publishing it.
 
 ## Framework guides
