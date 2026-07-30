@@ -104,6 +104,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ISO/IEC 27099:2022 PKI trust services](iso-iec-27099-2022.md)
 - [ISO/IEC 27102:2019 cyber insurance](iso-iec-27102-2019.md)
 - [ISO/IEC TS 27103:2026 cybersecurity framework](iso-iec-ts-27103-2026.md)
+- [ISO/IEC TS 27110:2021 cybersecurity-framework development](iso-iec-ts-27110-2021.md)
 - [ISO/IEC 27043:2015 incident investigation](iso-iec-27043-2015.md)
 - [ISO/IEC 27050 electronic discovery](iso-iec-27050-ediscovery.md)
 - [ISO/IEC 27040:2024 storage security](iso-iec-27040-2024.md)
