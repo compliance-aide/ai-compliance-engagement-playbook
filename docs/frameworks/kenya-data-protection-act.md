@@ -8,4 +8,4 @@ Refresh processing and accountable-owner maps, assess changed processing and ven
 
 ## Roles and annual rhythm
 
-Operators own inventories and test artifacts; independent reviewers sample systems and vendors. AI indexes evidence and detects changes, but humans determine legal status, sign-offs, and regulator actions. Review quarterly and annually.
+Operators own inventories and test artifacts; independent reviewers sample systems and vendors. AI may index authorized evidence and detect changes, but cannot determine legal status, approve data handling or transfers, decide notification obligations, access personal data without authorization, sign off, or take regulator actions. Review quarterly and annually.
