@@ -112,6 +112,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [ISO/IEC 38507:2022 AI governance](iso-iec-38507-2022.md)
 - [IEC 62443](iec-62443.md)
 - [IEC TS 62443-1-1:2009 IACS security concepts](iec-ts-62443-1-1-2009.md)
+- [IEC TS 62443-1-5:2023 IACS security profiles](iec-ts-62443-1-5-2023.md)
 - [IEC 62443-2-1:2024 IACS asset-owner security](iec-62443-2-1-2024.md)
 - [IEC 62443-2-4:2023 IACS service-provider security](iec-62443-2-4-2023.md)
 - [IEC 62443-4-1:2018 IACS product lifecycle](iec-62443-4-1-2018.md)
