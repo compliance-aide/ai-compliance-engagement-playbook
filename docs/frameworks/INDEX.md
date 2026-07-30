@@ -170,6 +170,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Mexico private-sector personal-data protection](mexico-private-sector-data-protection-law.md)
 - [NIST Privacy Framework 1.0](nist-privacy-framework-1.md)
 - [NIST SP 800-53 Revision 5](nist-sp-800-53-r5.md)
+- [NIST SP 800-53 Revision 4 historical transition](nist-sp-800-53-r4-historical-transition.md)
 - [NIST SP 800-55 information-security measurement](nist-sp-800-55-measurement.md)
 - [NIST SP 800-171 Revision 3](nist-sp-800-171-r3.md)
 - [NARA Controlled Unclassified Information Program](nara-cui-program.md)
