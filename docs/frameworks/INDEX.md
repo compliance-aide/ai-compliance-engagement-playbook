@@ -252,6 +252,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-40 Revision 4](nist-sp-800-40-r4.md)
 - [NIST SP 800-61 Revision 3](nist-sp-800-61-r3.md)
 - [NIST SP 800-115](nist-sp-800-115.md)
+- [NIST SP 800-108 Revision 1 key derivation](nist-sp-800-108-r1.md)
 - [NIST SP 800-116 Revision 1 PIV facility access](nist-sp-800-116-r1.md)
 - [NIST SP 800-124 Revision 2 mobile-device security](nist-sp-800-124-r2.md)
 - [NIST SP 800-111 end-user storage encryption](nist-sp-800-111.md)
