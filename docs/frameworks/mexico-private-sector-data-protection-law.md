@@ -11,3 +11,8 @@ Maintain a year-round record for personal-data processing in the private sector 
 Business, privacy, legal, security, product, data, customer operations, procurement, risk, and incident-response owners retain their decisions. Legal and privacy authorities determine scope and obligations; processing owners maintain authorized records; security and service owners preserve operating evidence; and incident authorities decide escalation and notification actions. Independent reviewers sample processing paths from stated purpose through notices, service-provider evidence, request outcomes, incident records, exceptions, and remediation, and escalate unresolved legal or factual uncertainty.
 
 AI may organize authorized evidence, identify missing ownership or review dates, draft questions, compare documented records, and prepare non-authoritative workpapers. AI cannot decide legal applicability, infer valid consent or another basis, respond to an individual, approve a transfer, make a notification decision, change production processing, accept risk, or claim compliance. Minimize and authorize any data used with AI. Reassess before material processing, notice, recipient, supplier, incident, or legal changes; conduct quarterly reviews and an annual independent readiness review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

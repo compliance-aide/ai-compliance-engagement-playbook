@@ -9,3 +9,8 @@ Maintain country/entity matrix, current local baseline, milestones, owners, cust
 ## Roles and annual rhythm
 
 Humans decide applicability and alert closure; independent reviewers test readiness. AI watches official changes and consolidates evidence, but cannot restrict accounts, report, or issue legal conclusions. Review quarterly and before effective dates.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

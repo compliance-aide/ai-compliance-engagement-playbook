@@ -9,3 +9,8 @@ Refresh processing and accountable-owner maps, assess changed processing and ven
 ## Roles and annual rhythm
 
 Operators own inventories and test artifacts; independent reviewers sample systems and vendors. AI may index authorized evidence and detect changes, but cannot determine legal status, approve data handling or transfers, decide notification obligations, access personal data without authorization, sign off, or take regulator actions. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

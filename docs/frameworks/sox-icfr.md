@@ -17,3 +17,8 @@ Management owns evaluation, remediation, and its report. Independent auditors
 perform separately required work. AI organizes controlled documentation, change
 tracking, and evidence lineage; it cannot set materiality, conclude effectiveness,
 classify a deficiency, sign certifications, or access MNPI without controls.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

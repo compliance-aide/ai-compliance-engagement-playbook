@@ -11,3 +11,8 @@ Treat SAQ B as a profile-specific validation workflow, not a generic PCI DSS ass
 Name accountable owners for payment operations, physical security, technology, security, vendor management, finance, and incident response. Operators maintain device inventory, transaction-path descriptions, provider documentation, access and maintenance records, exception records, and incident evidence. Reconcile the payment inventory and profile assumptions quarterly and after a new channel, device, provider, site, or connectivity change. Before annual submission, management confirms eligibility with the receiving entity; an independent reviewer samples payment operations and evidence for consistency with the stated profile. Auditors test the evidence and renewal process without choosing the profile or making management's attestation.
 
 AI may organize supplied records, reconcile inventory and change evidence, flag missing ownership or contradictions, and draft workpapers for human review. AI cannot select the questionnaire, decide eligibility or PCI DSS scope, authorize payment operations, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

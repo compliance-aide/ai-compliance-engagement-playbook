@@ -9,3 +9,8 @@ Confirm entity category and participation status; maintain international map, pa
 ## Roles and annual rhythm
 
 Operators maintain evidence; independent reviewers test claimed operation. AI flags partner and route gaps, but cannot fabricate submissions, certify, or submit to CBP. Review annually and on material events.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

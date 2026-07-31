@@ -9,3 +9,8 @@ Maintain a contract-aware record of specified information, in-scope non-governme
 ## Roles and annual rhythm
 
 Government and supplier authorities determine contractual scope; system and security owners retain evidence; independent reviewers test traceability. AI prepares evidence maps and change questions, but cannot determine contract applicability, select security requirements, or declare conformance. Revalidate scope on contract, supplier, and architecture changes, and keep human approvals for external representations.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

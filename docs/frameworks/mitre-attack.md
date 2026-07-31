@@ -9,3 +9,8 @@ Select relevant platforms and threat scenarios with stakeholders. Maintain a bou
 ## Roles and annual rhythm
 
 Defense owners maintain detections and exercise evidence. Independent reviewers sample rationale, outcomes, and closure records. AI can group signals, find evidence, propose hypotheses, and compare changes; it cannot label activity as fact, modify production detections, run offensive activity, or claim complete coverage. Review threats quarterly and scope annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

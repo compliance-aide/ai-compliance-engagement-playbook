@@ -9,3 +9,8 @@ Maintain an IoT cybersecurity engagement record that connects device and service
 ## Roles and annual rhythm
 
 Executive, product, engineering, security, privacy, safety, and legal authorities retain accountable decisions; device, platform, and supplier owners preserve evidence; independent reviewers test traceability and readiness. AI may organize authorized records, identify stale evidence, surface dependency changes, and draft review questions, but cannot make product-safety or regulatory determinations, approve a product release or supplier, accept risk, alter production services, issue an assessment, or claim compliance. Review annually and before material device, software, data, connectivity, supplier, safety, incident, or regulatory changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

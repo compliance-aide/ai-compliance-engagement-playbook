@@ -18,3 +18,8 @@ sample governance records and exception handling. AI consolidates approved
 records and flags timeline inconsistencies; it cannot judge consent, legal
 applicability, harm thresholds, reporting, or notices. Review with Canadian
 privacy advice when processing or requirements change.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

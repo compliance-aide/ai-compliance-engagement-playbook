@@ -9,3 +9,8 @@ Maintain an evidence-backed cybersecurity operating record for the regulated fin
 ## Roles and annual rhythm
 
 The board and senior management retain accountable oversight; cybersecurity and risk leaders maintain program evidence; technology and operations owners retain system records; procurement maintains supplier evidence; internal audit and independent reviewers challenge evidence; qualified Saudi regulatory counsel handles regulatory interpretation. AI may organize approved records, locate gaps, and draft questions, but cannot conduct or score a maturity assessment, accept risk, authorize compensating measures, request a waiver, report to SAMA, or claim compliance. Review continuously through material changes and perform a documented annual engagement review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

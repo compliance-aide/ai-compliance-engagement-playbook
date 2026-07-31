@@ -11,3 +11,8 @@ Use this guide only when an earlier assessment, plan, contract, customer request
 Assign accountable leadership for enhanced-CUI, contract, and risk decisions; system and security owners for operating evidence; supply-chain owners for dependencies; and records owners for historical artifacts. Review retained obligations, boundaries, supplier changes, evidence age, open remediation, and transition actions quarterly and after material change. Before annual renewal, an independent reviewer samples historical artifacts and the transition register for traceability and accurate version labeling. Auditors examine evidence without deciding CUI scope, selecting requirements, interpreting contracts, accepting risk, or attesting for management.
 
 AI may organize supplied historical evidence, reconcile findings and remediation records, flag missing version or ownership data, and draft workpapers for human review. AI cannot determine CUI scope, decide applicability, select requirements, interpret contract terms, determine transition completion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

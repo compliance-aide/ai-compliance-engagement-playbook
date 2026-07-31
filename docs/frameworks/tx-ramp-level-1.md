@@ -9,3 +9,8 @@ Maintain a cloud-service scope record, agency and provider responsibilities, dat
 ## Roles and annual rhythm
 
 Agency and provider owners determine scope; operating teams maintain evidence; independent reviewers test traceability; Texas DIR controls the certification process. AI prepares read-only evidence maps and gap questions, but cannot select a tier, certify a service, or submit a request. Reassess scope at data, service, or architecture change and retain human approvals.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

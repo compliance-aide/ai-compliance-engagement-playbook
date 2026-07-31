@@ -11,3 +11,8 @@ Maintain cloud forensic readiness that connects material cloud services, shared-
 Assign accountable executive, cloud, security, platform, application, data, privacy, legal, records-management, procurement, supplier-management, incident-command, and service-owner roles. Operators maintain cloud-service inventories, responsibility matrices, evidence-source maps, access and preservation procedures, provider-support records, retention approvals, exercise results, unresolved gaps, and remediation status. Review material cloud services, provider capabilities, evidence assumptions, and access paths quarterly; test representative preservation and provider-handoff scenarios at least annually and after material provider, architecture, data, or contract changes. Before annual renewal, an independent reviewer samples readiness and exercise artifacts; auditors test the evidence trail without accessing data outside authority, directing an investigation, approving provider arrangements, accepting risk, or attesting for management.
 
 AI may organize supplied cloud-evidence records, identify missing responsibility or source mappings, flag stale provider artifacts, and draft workpapers for human review. AI cannot access cloud accounts without authorization, preserve or alter evidence, determine legal discovery duties, make an investigative finding, approve a provider arrangement, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

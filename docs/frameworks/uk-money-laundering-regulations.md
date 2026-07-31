@@ -9,3 +9,8 @@ Maintain regulated-status, supervisor, service, risk assessment, CDD/EDD, owners
 ## Roles and annual rhythm
 
 Humans decide diligence, suspicion, reporting, and customer actions; independent reviewers test cases. AI compares versions and evidence, but cannot make customer or legal decisions. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

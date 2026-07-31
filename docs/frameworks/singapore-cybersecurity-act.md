@@ -9,3 +9,8 @@ Determine regulated-system status, accountable contacts, security-operations, te
 ## Roles and annual rhythm
 
 Operators maintain controls and records; independent reviewers sample evidence and reporting readiness. AI can identify timing gaps, but cannot interpret designations, decide reportability, notify CSA, or submit responses. Review quarterly and scope annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

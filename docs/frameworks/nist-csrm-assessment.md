@@ -9,3 +9,8 @@ Maintain assessment universe, tiering, supplier/product criticality, due diligen
 ## Roles and annual rhythm
 
 Management approves residual risk; independent reviewers define samples and challenge evidence. AI makes traceable registers and questions, but cannot accept risk or duplicate questionnaires. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

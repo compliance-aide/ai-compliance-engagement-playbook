@@ -9,3 +9,8 @@ Maintain a year-round system-assurance record: service boundary, data context, o
 ## Roles and annual rhythm
 
 System and business owners establish scope; security and privacy teams retain evidence; independent reviewers assess the engagement trail; authorizing officials make decisions. AI prepares evidence inventories and change-impact questions, but cannot authorize operation, interpret federal obligations, or submit an official package. Update records after material change and retain dated human approvals.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

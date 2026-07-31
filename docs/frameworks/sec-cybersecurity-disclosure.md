@@ -9,3 +9,8 @@ Confirm filing applicability with authorized counsel, then maintain a board-owne
 ## Roles and annual rhythm
 
 Management and counsel own materiality and filing decisions. Independent reviewers test traceability, timing, and controls over disclosure preparation. AI can reconcile records and flag inconsistent drafts; it cannot decide materiality, provide legal advice, sign or submit filings, or communicate external conclusions.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

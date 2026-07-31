@@ -9,3 +9,8 @@ Maintain vehicle type, market, governance, risk, field-monitoring, release, and 
 ## Roles and annual rhythm
 
 Qualified humans approve market actions; independent reviewers test retrieval and traceability. AI tracks evidence and rule changes, but cannot determine applicability, sign declarations, or submit type-approval materials.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

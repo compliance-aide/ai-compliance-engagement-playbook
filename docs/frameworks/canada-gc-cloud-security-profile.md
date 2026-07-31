@@ -9,3 +9,8 @@ For a government cloud service, maintain clear responsibility boundaries, servic
 ## Roles and annual rhythm
 
 The service owner defines service scope; cloud and customer teams maintain their respective evidence; security and privacy owners review dependencies; independent reviewers assess the evidence trail. AI catalogs approved provider artifacts, tracks shared-responsibility actions, and drafts evidence requests, but cannot declare a cloud service authorized, decide data suitability, or approve a production connection. Review boundaries at onboarding and material change, refresh supplier evidence on a schedule, and retain human approvals for risk and deployment decisions.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

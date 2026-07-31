@@ -9,3 +9,8 @@ Set executive sponsorship and measurable secure-development outcomes. Baseline o
 ## Roles and annual rhythm
 
 Program owners own roadmap delivery; engineering teams provide operating proof. Independent reviewers challenge whether claimed improvement is evidenced. AI can consolidate interviews, flag inconsistent claims, and track outcomes; it cannot assign official maturity, approve priorities, or turn plans into evidence. Review quarterly and re-baseline annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

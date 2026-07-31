@@ -9,3 +9,8 @@ Confirm customer-requested scope and locations with authorized parties; maintain
 ## Roles and annual rhythm
 
 Operators maintain evidence; assessors retain independent judgment. AI classifies records and gaps, but cannot self-score, choose level, or make/share results. Review quarterly and before assessment.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

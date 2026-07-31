@@ -9,3 +9,8 @@ Confirm contract/agency invocation and protected boundary; maintain assessment p
 ## Roles and annual rhythm
 
 Agency and program owners set parameters; independent reviewers test evidence. AI normalizes artifacts and staleness, but cannot select tolerances or determine compliance. Review after material changes and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

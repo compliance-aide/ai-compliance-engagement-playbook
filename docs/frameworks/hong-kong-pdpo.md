@@ -9,3 +9,8 @@ Map purposes, systems, disclosures, processors, notices, rights, retention, secu
 ## Roles and annual rhythm
 
 Operators maintain records; independent reviewers sample lifecycle and processor cases. AI classifies inventories and gaps, but cannot decide exemptions, respond to individuals, make legal conclusions, or release sensitive data. Review quarterly and renew scope annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

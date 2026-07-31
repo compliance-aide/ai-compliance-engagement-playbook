@@ -9,3 +9,8 @@ Maintain scope and business-associate inventory, risk decisions, incident-to-bre
 ## Roles and annual rhythm
 
 Authorized privacy and legal owners decide breach status and notices. Independent reviewers sample risk decisions, timelines, notices, and evidence lineage. AI can flag missing approvals and timing but cannot determine breach status, process PHI in unapproved systems, or submit reports.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

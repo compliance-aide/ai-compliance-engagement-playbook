@@ -9,3 +9,8 @@ Maintain application portfolio, security context, lifecycle evidence, requiremen
 ## Roles and annual rhythm
 
 Product, engineering, and security owners approve application decisions; independent reviewers sample delivery evidence. AI links work items, changes, tests, and releases, but cannot approve a release or make assurance claims. Review each release cycle and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

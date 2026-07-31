@@ -11,3 +11,8 @@ Use this guide only for a prior-year authorization package, contract, customer r
 Assign accountable officials for the transition and authorization context, system and security owners for evidence, record owners for historical artifacts, and a coordinator for contracts and external commitments. Review retained Revision 4 dependencies and the transition register at least quarterly and whenever an authorization, boundary, or cited requirement changes. Before annual renewal, an independent reviewer samples historical artifacts and current transition evidence for traceability and appropriate version labeling. Auditors examine those records without selecting controls, accepting risk, granting authorization, or assuming management responsibility.
 
 AI may organize supplied historical records, maintain a version-aware transition register, flag unlabeled claims or missing ownership, and draft workpapers for human review. AI cannot determine control equivalence, choose a successor baseline, decide transition completion, grant authorization, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

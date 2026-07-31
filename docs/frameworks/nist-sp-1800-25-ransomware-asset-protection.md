@@ -11,3 +11,8 @@ Maintain an evidence-backed view of data, devices, applications, configurations,
 Assign accountable executive, asset-owner, security, technology, data, platform, application, vulnerability-management, business-continuity, supplier-management, and risk owners. Operators maintain authoritative inventories, ownership and classification records, protection configuration evidence, integrity-check and backup records, logging coverage, vulnerability and maintenance records, supplier attestations, exceptions, and remediation status. Reconcile critical assets and their protection assumptions quarterly; reassess after material service, architecture, supplier, data-classification, or threat changes. Before annual renewal, an independent reviewer samples inventory-to-service links and protection evidence; auditors test the evidence trail without designing safeguards, accepting exceptions, accepting risk, approving architecture, or attesting for management.
 
 AI may reconcile supplied inventory and evidence records, flag missing ownership or stale protection artifacts, trace asset groups to service dependencies, and draft workpapers for human review. AI cannot approve architecture, classify data, accept risk or an exception, alter safeguards, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

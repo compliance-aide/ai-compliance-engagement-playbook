@@ -9,3 +9,8 @@ Maintain a Nevada-specific record of in-scope consumer-information activities: e
 ## Roles and annual rhythm
 
 Privacy and legal owners determine scope and response obligations; product and web-service owners maintain notice and workflow evidence; security teams retain incident evidence; supplier owners preserve third-party records; independent reviewers test traceability. AI may organize approved records, surface stale notices or incomplete request evidence, and draft questions, but cannot determine legal applicability, verify or respond to a consumer, send a notice, decide reportability, approve a sale or sharing decision, or claim compliance. Review annually and before material website, online-service, data-practice, supplier, notice, request, or incident changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

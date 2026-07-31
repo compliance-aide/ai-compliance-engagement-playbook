@@ -11,3 +11,8 @@ Assess the monitoring program as a program, not only the alerts it produces. Mai
 Security, risk, technology, operations, privacy, data, and executive owners retain accountable decisions. Monitoring-program owners maintain strategy and operating evidence; data owners attest to authorized availability and quality; management decides actions from observations; and auditors evaluate evidence in their independent role. Independent reviewers assess selected program capabilities from stated objectives through evidence sources, data handling, analysis, reporting, management response, remediation, and retest, challenging incomplete coverage, unsupported maturity claims, biased samples, stale data, and untested assumptions.
 
 AI may organize authorized assessment metadata, flag missing evidence or aging reviews, compare an approved assessment plan with available records, draft questions, and prepare non-authoritative workpapers. AI cannot choose an assessment method, determine monitoring effectiveness, select samples to reach a desired outcome, issue an assessment conclusion, accept risk, close a finding, alter evidence, or claim compliance. Reassess after material monitoring, risk, asset, data, technology, supplier, incident, or organizational changes; review program health routinely and conduct an annual independent readiness review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

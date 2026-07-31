@@ -11,3 +11,8 @@ Treat SAQ A as a conditional validation path, not a shortcut or a replacement fo
 Name business, payment, web, security, vendor-management, privacy, and finance owners. The payment and web teams retain current diagrams, merchant-webpage change evidence, provider agreements and confirmations, incident and vulnerability records, and the documentation that supports eligibility. Reconcile the scope record after any payment integration, webpage, provider, hosting, or commerce-channel change and at least quarterly. Before the annual validation cycle, management reviews eligibility with the receiving entity; an independent reviewer samples evidence and tests whether the documented scope and operational records agree. Auditors review the evidence trail and the assessment process without selecting the profile or attesting for management.
 
 AI may organize the supplied evidence, compare records for missing ownership or dated gaps, trace changes to the scope record, and draft workpapers for human review. AI cannot choose the SAQ, decide eligibility, determine PCI DSS scope, approve a payment integration, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

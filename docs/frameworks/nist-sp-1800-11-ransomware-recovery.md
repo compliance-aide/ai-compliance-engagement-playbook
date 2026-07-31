@@ -11,3 +11,8 @@ Maintain recovery evidence for critical data, applications, configurations, busi
 Assign accountable executive, recovery, platform, application, security, business-continuity, legal, communications, insurance, and incident-command owners. Operators maintain asset and dependency records, backup and retention evidence, restore-point validation, recovery runbooks, access and activity logs, recovery-test results, service-owner acceptance records, supplier evidence, and remediation status. Review recovery assumptions and critical-service changes quarterly; test representative recovery paths at least annually and after material architecture, provider, or threat changes. Before annual renewal, an independent reviewer samples restore evidence, integrity validation, and recovery-test records; auditors test the evidence trail without directing recovery, accepting restored services, deciding notification or payment, or attesting for management.
 
 AI may organize supplied recovery evidence, identify missing owner records or test artifacts, correlate recovery steps with critical services, and draft workpapers for human review. AI cannot activate recovery, select a restore point, direct incident response, accept service restoration, decide notification or payment, determine legal obligations, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

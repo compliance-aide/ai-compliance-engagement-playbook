@@ -9,3 +9,8 @@ Maintain a decision record for system-impact assumptions, baseline-selection rat
 ## Roles and annual rhythm
 
 System and risk owners establish system context; security and privacy teams maintain decision and evidence records; independent assessors test traceability; authorizing officials make authorization decisions. AI organizes approved evidence, highlights inconsistent or aging decisions, and drafts reviewer questions, but cannot select a baseline, tailor safeguards, assess effectiveness, or authorize operation. Revisit the record after material changes and retain dated human approvals.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

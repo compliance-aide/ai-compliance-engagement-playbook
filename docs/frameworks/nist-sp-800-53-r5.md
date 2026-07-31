@@ -24,3 +24,8 @@ it cannot select risk acceptance, approve a system boundary, alter configuration
 Reconfirm boundary and inherited services; refresh evidence; test representative
 operation; challenge changes and exceptions; review supply-chain dependencies;
 renew the assessment plan after material change.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

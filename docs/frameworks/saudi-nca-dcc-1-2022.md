@@ -9,3 +9,8 @@ Maintain a data-lifecycle cybersecurity engagement record that connects data cat
 ## Roles and annual rhythm
 
 Executive, data, cybersecurity, privacy, and legal authorities retain accountable decisions; platform and supplier owners preserve operating evidence; independent reviewers test traceability and assurance readiness. AI may organize authorized records, identify incomplete evidence, prepare review questions, and draft non-authoritative workpapers, but cannot determine scope or applicability, decide legal obligations, accept risk, approve suppliers, alter production systems, issue an assessment, or claim compliance. Review annually and before a material data, system, supplier, incident, regulatory, or service change.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

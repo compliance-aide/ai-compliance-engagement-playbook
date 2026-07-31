@@ -24,3 +24,8 @@ or alter systems; human review is required before conclusions or changes.
 Review ePHI flows, vendors, and environmental changes; complete the documented
 risk-analysis cycle; test response and recovery; update the remediation plan;
 and preserve management decisions with owners and review dates.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

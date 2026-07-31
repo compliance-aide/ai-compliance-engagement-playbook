@@ -20,3 +20,8 @@ AI may normalize authorized inventories, find undocumented flow changes, and dra
 questions; it cannot make legal determinations, answer rights requests alone,
 approve data uses, or ingest sensitive data outside approved boundaries. Review monthly changes,
 quarterly effectiveness, and annual governance.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

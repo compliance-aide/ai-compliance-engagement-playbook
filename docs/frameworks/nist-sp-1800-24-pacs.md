@@ -13,3 +13,8 @@ Preserve the rationale behind decisions affecting confidentiality, integrity, av
 Clinical leadership, radiology, imaging operations, biomedical engineering, IT, security, privacy, identity, vendor management, legal, safety, incident-response, continuity, and records owners establish scope and make accountable decisions. Operators maintain asset and interface inventories, approved configurations, access evidence, vendor materials, monitoring records, vulnerability and change actions, downtime or recovery tests, incidents, exceptions, and review history. Reconcile material components, interfaces, owners, and vendors quarterly; review safety-relevant changes promptly; exercise downtime or recovery scenarios during the year; and conduct an annual governance review.
 
 Independent reviewers sample an imaging-data path from clinical purpose through access and configuration evidence, vendor responsibility, continuity evidence, and leadership review, testing traceability. Auditors evaluate supplied evidence without changing clinical systems, authorizing access, deciding patient safety, making privacy or legal conclusions, accepting risk, or issuing an attestation. AI may organize supplied records, flag stale evidence or missing owners, draft workpapers, and prepare review questions. AI cannot alter PACS or clinical settings, grant access, decide care or safety, approve exceptions, make legal conclusions, or attest to conformance.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

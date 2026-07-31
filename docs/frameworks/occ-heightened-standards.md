@@ -9,3 +9,8 @@ Maintain covered-status, board-facing risk governance, strategic, control, escal
 ## Roles and annual rhythm
 
 Management owns risk information; independent reviewers challenge governance effectiveness. AI prepares evidence maps and alerts, but cannot decide scope, act as board, approve appetite, give legal opinions, or attest. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

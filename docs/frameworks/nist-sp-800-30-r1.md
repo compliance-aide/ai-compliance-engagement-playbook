@@ -9,3 +9,8 @@ Maintain assessment purpose, scope, assets, assumptions, threat and weakness inp
 ## Roles and annual rhythm
 
 Risk owners validate context and accountable leaders accept or decline risk; independent reviewers test the decision trail. AI connects evidence and surfaces stale assumptions, but cannot rate risk or accept it. Refresh on material change and review annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

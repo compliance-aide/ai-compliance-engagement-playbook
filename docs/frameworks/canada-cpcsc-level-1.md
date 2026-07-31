@@ -11,3 +11,8 @@ Maintain a supplier-readiness record that connects contract and program scope, o
 Authorized business leaders, contract owners, security, technology, operations, procurement, legal, and evidence owners retain accountable decisions. Program owners coordinate the readiness record; system owners maintain operating evidence; authorized signatories make any declaration or submission; and auditors evaluate evidence in their independent role. Independent reviewers sample scope, evidence, assessment activity, corrective actions, and change records, challenging missing systems, unsupported implementation claims, stale evidence, and unapproved representations.
 
 AI may organize authorized evidence metadata, identify missing owners or review fields, compare approved criteria records with retained artifacts, draft questions, and prepare non-authoritative workpapers. AI cannot determine program applicability, assess or certify an organization, make a contract-eligibility decision, submit a declaration, accept risk, alter evidence, or claim compliance. Reassess before material contract, system, supplier, program, incident, or scope changes; review readiness routinely and conduct an annual independent readiness review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

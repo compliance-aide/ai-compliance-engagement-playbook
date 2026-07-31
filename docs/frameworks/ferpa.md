@@ -18,3 +18,8 @@ handling. Independent privacy reviewers evaluate decision paths and evidence.
 AI handles approved redacted metadata and missing-approval checks; it cannot
 decide disclosure, infer consent, authenticate requestors, or handle identifiable
 education records outside an authorized environment.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

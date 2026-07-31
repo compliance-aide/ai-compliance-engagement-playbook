@@ -9,3 +9,8 @@ Set board-sponsored objectives, decision rights, risk, asset, supplier, incident
 ## Roles and annual rhythm
 
 Operators run the program; independent reviewers challenge governance-to-practice evidence. AI synthesizes inventories and drafts decision materials, but cannot substitute for executive risk decisions or state conformance. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

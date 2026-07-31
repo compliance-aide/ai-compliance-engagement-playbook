@@ -9,3 +9,8 @@ Maintain recruiting, selection, monitoring, productivity, pay, promotion, termin
 ## Roles and annual rhythm
 
 HR, counsel, accessibility, and qualified reviewers make employment decisions; independent reviewers test evidence. AI cannot make employment decisions, determine discrimination, or replace expert review. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

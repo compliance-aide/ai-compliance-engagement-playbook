@@ -9,3 +9,8 @@ Maintain a living protection-methodology record: organizational scope, service a
 ## Roles and annual rhythm
 
 Management establishes the desired protection level and accepts risk; security leadership coordinates the program; service owners maintain current evidence; independent reviewers test that claims have support. AI creates evidence inventories, follows change impacts, and drafts targeted review questions, but cannot select a protection approach, judge sufficiency, or issue certification claims. Refresh the engagement plan with material organizational or technical change, conduct periodic evidence reviews, and record human approvals.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

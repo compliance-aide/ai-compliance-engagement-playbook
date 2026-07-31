@@ -11,3 +11,8 @@ Maintain a public-sector security-engagement record that connects in-scope servi
 Authorized public-sector authorities, information, service, system, and security owners, risk, legal, privacy, procurement, operations, and suppliers retain accountable decisions. System owners maintain technical context; security owners coordinate evidence; authorized authorities approve policy, categorization, and risk decisions; and auditors evaluate evidence in their independent role. Independent reviewers sample services and systems through scope, ownership, risk, safeguards, evidence, provider obligations, assurance, findings, and closure, challenging unclear responsibilities, stale records, unsupported implementation claims, and unverified remediation.
 
 AI may organize authorized, suitably handled metadata, identify missing ownership or review fields, compare approved records with retained evidence, draft questions, and prepare non-authoritative workpapers. AI cannot determine legal scope, categorize a system, select safeguards, authorize a service, approve an exception, accept risk, make a certification claim, alter evidence, or claim compliance. Reassess before material service, system, data, supplier, authority, incident, or risk changes; review evidence routinely and conduct an annual independent readiness review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

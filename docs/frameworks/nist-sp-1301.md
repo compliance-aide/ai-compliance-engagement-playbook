@@ -15,3 +15,8 @@ Leadership establishes mission priorities and approves material targets. Busines
 Review profiles at least quarterly for evidence freshness, ownership, target progress, and material changes. Revisit them after an incident, service or architecture change, supplier change, acquisition, regulatory development, strategic shift, or material new risk. Conduct an annual profile review that confirms scope, stakeholder needs, current and target conditions, remaining gaps, resourcing decisions, and next-year priorities.
 
 Independent reviewers sample one profile outcome from scope and rationale through evidence, prioritization, planned work, and leadership review, testing whether changes are explainable. Auditors evaluate supplied evidence without defining organizational objectives, choosing outcomes, setting targets, accepting risk, approving investment, making legal or financial conclusions, or issuing an attestation. AI may organize profile records, compare approved versions, identify missing owners or stale evidence, draft workpapers and review questions, and summarize supplied information. AI cannot set scope, select outcomes, determine adequacy, prioritize investments, accept risk, approve plans, make legal or financial conclusions, or attest to conformance.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

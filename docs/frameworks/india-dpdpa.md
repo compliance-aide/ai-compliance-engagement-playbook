@@ -9,3 +9,8 @@ Maintain a readiness roadmap keyed to actual commencement dates. Map digital dat
 ## Roles and annual rhythm
 
 Legal and compliance owners determine applicability and timing. Independent reviewers test readiness claims against configured systems and signed evidence. AI can maintain a readiness register and draft evidence requests; it cannot select legal basis, lodge reports, or approve production changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

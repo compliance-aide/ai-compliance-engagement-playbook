@@ -9,3 +9,8 @@ Maintain a traceable, contract-aware engagement record for advanced protection a
 ## Roles and annual rhythm
 
 Authorized organizational leaders set scope and risk decisions; system teams maintain evidence; independent assessors review the evidence trail. AI supports evidence indexing, change detection, and reviewer-question drafting, but cannot judge assessment results, accept risk, or speak for DoD. Refresh evidence throughout the year and obtain human approval for all official representations.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

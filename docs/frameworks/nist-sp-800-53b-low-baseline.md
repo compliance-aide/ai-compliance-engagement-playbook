@@ -11,3 +11,8 @@ Use the low-impact baseline only after the organization has a documented, accoun
 Assign accountable officials for categorization and risk acceptance, system and security owners for operational evidence, common-control owners for shared services, and record owners for assessment artifacts. Operators keep current inventories, boundary records, implementation evidence, changes, assessment results, incidents, and remediation proof. Review system impact, scope, tailoring decisions, inherited-control claims, and open findings at least quarterly and after material changes. Before annual renewal, an independent reviewer samples the baseline-selection record and evidence trail; auditors test support for the decisions without selecting the baseline, tailoring controls, accepting risk, or granting authorization.
 
 AI may organize supplied evidence, reconcile scope and inherited-control records, flag missing ownership or dated gaps, and draft workpapers for human review. AI cannot categorize a system, select or tailor a baseline, determine authorization readiness, accept risk, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

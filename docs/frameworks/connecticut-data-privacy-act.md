@@ -9,3 +9,8 @@ Track legal changes, collection, sharing, sensitive/minor-data, automated-decisi
 ## Roles and annual rhythm
 
 Operators maintain the record; independent reviewers test end-to-end experiences and evidence. AI flags declared-versus-observed drift, but cannot judge coverage, minors’ status, or compliance. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

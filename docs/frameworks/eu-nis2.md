@@ -9,3 +9,8 @@ Maintain a country/entity applicability register, critical-service dependency ma
 ## Roles and annual rhythm
 
 Operators maintain evidence; independent reviewers test traceability and reporting readiness. AI can organize records and draft packets, but cannot decide scope, materiality, notification, or make legal representations. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -13,3 +13,8 @@ Treat an organization chart, job description, skills matrix, training record, ri
 Executive, enterprise-risk, security, workforce, human-resources, business, finance, privacy, legal, supplier, audit, and records owners establish scope and make accountable decisions. Operators maintain role and capability records, risk-to-workforce traceability, capacity and dependency evidence, training and development records, supplier responsibilities, exceptions, improvement actions, and review history. Reconcile material risk changes, role coverage, capacity assumptions, and key supplier dependencies at least quarterly; review staffing and capability impacts after material incidents or strategy changes; and conduct an annual workforce-and-risk governance review.
 
 Independent reviewers sample a risk response from business need through assigned capability, operating evidence, and follow-up. Auditors evaluate supplied records without selecting personnel, making employment decisions, setting compensation, accepting risk, approving budgets, or issuing an attestation. AI may organize role and evidence records, identify coverage gaps, draft workpapers and nonbinding plans, compare supplied records with approved decisions, and prepare review questions. AI cannot make hiring, performance, compensation, or employment decisions; set workforce policy; accept risk; approve budgets; make legal conclusions; or attest to conformance.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

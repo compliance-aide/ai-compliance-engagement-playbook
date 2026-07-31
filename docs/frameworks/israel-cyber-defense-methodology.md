@@ -9,3 +9,8 @@ Maintain a cybersecurity operating record that connects organizational scope, ac
 ## Roles and annual rhythm
 
 Executive and security leaders define scope and approve risk decisions; technical owners retain operating evidence; legal and sectoral owners determine obligations; independent reviewers challenge evidence traceability. AI may organize approved evidence, compare documented change history, identify incomplete ownership, and draft questions, but cannot determine applicability, perform or score an assessment, direct production changes, report an incident, accept risk, or claim compliance. Review annually and at material asset, service, supplier, threat, incident, or regulatory changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

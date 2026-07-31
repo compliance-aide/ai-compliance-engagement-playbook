@@ -11,3 +11,8 @@ Maintain a product-security progress record that connects the organization’s c
 Executive leadership, product, engineering, security, privacy, support, legal, communications, and customer-success owners retain accountable decisions. Product owners maintain scope and roadmap evidence; security owners coordinate measurement; legal and communications approve public representations; and auditors evaluate evidence in their independent role. Independent reviewers sample declared progress from baseline through engineering records, measurement method, customer-impact evidence, management approval, and proposed publication, challenging selective scope, ambiguous metrics, unsupported claims, and omissions that could mislead users.
 
 AI may organize authorized program metadata, identify missing evidence or review fields, compare approved statements with retained records, draft questions, and prepare non-authoritative workpapers. AI cannot decide participation, define a product scope, determine measurable progress, publish a representation, make a pledge, certify a product, accept risk, alter evidence, or claim compliance. Reassess before material product, customer, goal, metric, vulnerability, incident, or public-commitment changes; review progress routinely and conduct an annual independent readiness review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

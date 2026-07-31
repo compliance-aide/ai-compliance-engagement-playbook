@@ -11,3 +11,8 @@ Use this guide to organize a small organization’s evidence and decision proces
 Assign accountable leadership for contract and resource decisions, system and security owners for operational evidence, records owners for CUI handling artifacts, and supplier owners for external dependencies. Operators retain current scope and data-flow records, inventories, access and change evidence, vendor records, incident artifacts, training records, remediation status, and approved customer communications. Review CUI boundary changes, contracts, suppliers, evidence currency, open gaps, and resource decisions quarterly and after material change. Before annual renewal, an independent reviewer samples evidence and the scope record for traceability; auditors test the engagement trail without deciding CUI scope, interpreting contracts, accepting risk, or attesting for management.
 
 AI may organize supplied records, identify missing ownership or dated evidence, reconcile scope and supplier information, and draft workpapers for human review. AI cannot determine CUI scope, interpret customer or contract requirements, decide adequacy, accept risk, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -9,3 +9,8 @@ Maintain a high-assurance security engagement record that connects organizationa
 ## Roles and annual rhythm
 
 Business leadership, IT, security, privacy, legal, risk, procurement, and service owners retain accountable decisions; evidence owners preserve authorized records; independent reviewers challenge high-impact scope, evidence quality, exception treatment, and escalation paths. AI may organize authorized evidence, identify unresolved questions, draft workpapers, and prepare non-authoritative status views, but cannot choose an implementation group, select or approve safeguards, determine sufficiency, accept risk, alter production configuration, initiate scans or changes, or claim compliance. Review operating evidence quarterly, conduct annual independent readiness review, and reopen the plan before material asset, service, threat, incident, business, regulatory, or technology changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -9,3 +9,8 @@ Maintain a connected-product lifecycle record: intended use, product and softwar
 ## Roles and annual rhythm
 
 Product and engineering owners define intended use and release decisions; security and quality teams retain evidence; authorized evaluators apply any licensed criteria; independent reviewers test internal traceability. AI may organize organization-owned lifecycle evidence and draft questions, but cannot access or reproduce licensed criteria, perform product testing, decide safety, or claim certification. Reassess at design and release changes and retain human approvals for every product statement.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

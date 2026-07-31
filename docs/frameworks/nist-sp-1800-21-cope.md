@@ -11,3 +11,8 @@ Manage a year-round engagement for corporate-owned, personally enabled mobile de
 Security, mobility, identity, privacy, legal, HR, business, service desk, procurement, and records owners establish scope and make accountable decisions. Operators maintain enrollment, configuration, access, application, support, incident, exception, and retirement records. Reconcile ownership, enrollment, management posture, and high-risk access quarterly; review material device or policy changes promptly; and conduct an annual privacy and mobile-governance review.
 
 Independent reviewers sample a device from assignment through approved configuration, access, support or exception, and offboarding review. Auditors evaluate supplied evidence without changing devices, accessing personal content, approving employee actions, making privacy or legal conclusions, accepting risk, or issuing an attestation. AI may organize records, flag stale ownership or evidence, draft workpapers, and prepare review questions. AI cannot change device settings, inspect personal content, authorize wiping, decide personnel action, accept risk, or attest to conformance.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

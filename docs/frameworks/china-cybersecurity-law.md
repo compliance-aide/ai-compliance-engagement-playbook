@@ -9,3 +9,8 @@ Maintain a jurisdiction-aware cybersecurity operating record for in-scope networ
 ## Roles and annual rhythm
 
 China-qualified legal leadership determines scope and regulatory obligations; system and service owners maintain operation evidence; security teams retain monitoring, incident, and change records; procurement manages supplier commitments; independent reviewers test evidence traceability. AI may organize approved records, identify missing ownership and stale evidence, and draft review questions, but cannot determine legal applicability, classify criticality as a legal conclusion, direct technical operation, report an incident, make a filing, or claim compliance. Reassess annually and before material network, service, supplier, deployment-location, data-flow, or incident changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

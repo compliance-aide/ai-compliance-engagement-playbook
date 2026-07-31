@@ -27,3 +27,8 @@ Review processing and transfers; inspect notices, contracts, retention, and
 vendor changes; test rights, incident, and security processes; refresh risk and
 impact decisions after material change; and carry incident learnings into the
 following cycle.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

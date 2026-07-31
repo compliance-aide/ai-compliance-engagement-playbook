@@ -11,3 +11,8 @@ Use this guide only after prospective government partners and accountable organi
 Assign accountable offering, security, engineering, operations, privacy, supplier-management, customer-assurance, and executive owners. Operators retain scope, inventory, architecture, access, change, assessment, incident, supplier, remediation, and monitoring evidence throughout the year. Review offering boundaries, data classification inputs, government-partner requirements, assessment status, customer representations, and open findings quarterly and after material changes. Before annual renewal, an independent reviewer samples the impact-level record and operating evidence; auditors test the evidence trail without selecting the impact level, granting authorization, accepting risk, or making procurement decisions.
 
 AI may organize supplied evidence, reconcile offering and dependency records, flag missing ownership or dated artifacts, and draft workpapers for human review. AI cannot select an impact level, determine authorization readiness, make an authorization or procurement decision, accept risk, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

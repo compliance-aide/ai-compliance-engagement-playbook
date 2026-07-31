@@ -24,3 +24,8 @@ and flag inconsistencies; it cannot determine sufficiency, select scope, issue a
 Confirm scope, commitments, and vendors; maintain evidence throughout the
 observation period; inspect material changes and incidents; resolve exceptions;
 support independent review; and carry findings into the next operating cycle.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

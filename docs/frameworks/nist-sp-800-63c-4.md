@@ -9,3 +9,8 @@ Maintain CSP, relying party, trust link, assertion, attribute release, metadata,
 ## Roles and annual rhythm
 
 Humans approve trust and attribute decisions; independent reviewers sample paths. AI reconciles changes, but cannot make federation conclusions. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -9,3 +9,8 @@ Maintain a defensible record of covered personal-information handling that joins
 ## Roles and annual rhythm
 
 Business leaders, privacy counsel, security leadership, and incident-response authorities retain accountable decisions; system and supplier owners preserve operating evidence; independent reviewers test traceability and readiness. AI may organize authorized records, identify incomplete evidence, compare current facts against an approved engagement plan, and draft questions, but cannot decide legal applicability, breach or notification obligations, risk acceptance, supplier approval, remediation completion, production changes, or compliance status. Review annually and before a material personal-information, system, service-provider, incident, legal, or regulatory change.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

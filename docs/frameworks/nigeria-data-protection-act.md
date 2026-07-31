@@ -9,3 +9,8 @@ Maintain data-use, service, authority, rights, supplier, transfer, security, inc
 ## Roles and annual rhythm
 
 Operators maintain records and verified workflow evidence; independent reviewers challenge system-to-evidence claims. AI flags stale records and drafts questions, but cannot decide applicability, approve transfers or responses, or represent the organization to NDPC. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

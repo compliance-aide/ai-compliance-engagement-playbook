@@ -15,3 +15,8 @@ Program leadership approves the transition scope and prioritization. Security, r
 Review transition progress quarterly until the approved scope is resolved, and trigger targeted review after a material contractual, regulatory, architectural, supplier, or organizational change. Conduct an annual legacy-material review that confirms which records are retained for history, which are active, which are superseded, and which unresolved dependencies require leadership attention.
 
 Independent reviewers sample one legacy artifact through its current disposition, evidence, accountable decision, and stakeholder communication, testing that its status is clear. Auditors evaluate supplied records without deciding legal applicability, declaring framework equivalence, selecting remediation, accepting risk, approving policy, or issuing an attestation. AI may inventory supplied artifacts, identify stale references, organize transition evidence, draft comparison questions, and summarize approved decisions. AI cannot determine equivalence, decide applicability, approve retirement or remediation, accept risk, make legal or financial conclusions, or attest to conformance.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

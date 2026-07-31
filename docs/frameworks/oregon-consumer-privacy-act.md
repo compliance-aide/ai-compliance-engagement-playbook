@@ -9,3 +9,8 @@ Maintain a year-round record of personal-data processing, owner decisions, consu
 ## Roles and annual rhythm
 
 Privacy and product owners maintain the operating record; security and procurement supply evidence; counsel confirms applicability; independent reviewers test evidence. AI can organize approved artifacts and identify stale decisions, but cannot resolve rights requests, interpret law, or authorize disclosures. Review material changes before release and retain human approvals and rationale.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

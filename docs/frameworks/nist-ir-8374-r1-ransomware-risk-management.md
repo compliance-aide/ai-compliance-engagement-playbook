@@ -11,3 +11,8 @@ Maintain a ransomware-readiness record that connects critical services and data,
 Assign accountable executive, security, technology, business-continuity, legal, communications, insurance, supplier-management, and incident-command owners. Operators maintain inventories, backups and recovery-test records, protective and monitoring evidence, contact trees, exercises, incidents, recovery artifacts, supplier evidence, and remediation status. Review critical-service changes, recovery assumptions, supplier dependencies, scenario coverage, and open improvements quarterly; run and document a cross-functional exercise at least annually. Before annual renewal, an independent reviewer samples readiness and recovery evidence; auditors test the evidence trail without directing incident response, making notification or payment decisions, accepting risk, or attesting for management.
 
 AI may organize supplied evidence, trace readiness records to owned services, flag dated or missing artifacts, summarize exercise outcomes, and draft workpapers for human review. AI cannot direct incident response, decide notification or payment, determine legal obligations, approve recovery actions, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

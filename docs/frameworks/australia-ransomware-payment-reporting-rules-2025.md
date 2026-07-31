@@ -11,3 +11,8 @@ Maintain a reporting-readiness record for ransomware events that may bring the o
 Assign accountable executive, incident-command, legal, finance, security, records, communications, insurer, and supplier-management owners. Operators maintain incident intake, escalation, evidence-preservation, contact, report-preparation, and exercise records. Review entity-scope assumptions, reporting contacts, incident playbooks, evidence handling, insurer and supplier dependencies, and notification pathways quarterly; exercise the reporting workflow at least annually. Before annual renewal, an independent reviewer samples readiness records and completed exercises; auditors test the evidence trail without directing an incident, deciding payment, determining legal applicability, approving a report, or assuming management responsibility.
 
 AI may organize supplied incident evidence, maintain a time-stamped fact register, flag missing ownership or document gaps, and draft workpapers for human review. AI cannot direct incident response, decide a payment or report, determine legal applicability, approve external communications, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

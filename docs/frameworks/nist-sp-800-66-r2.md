@@ -9,3 +9,8 @@ Maintain ePHI scope, risk decisions, workforce and system evidence, safeguards o
 ## Roles and annual rhythm
 
 Privacy, security, legal, and healthcare leadership determine obligations and responses; independent reviewers form conclusions separately. AI coordinates approved evidence and drafts gap questions, but cannot interpret HIPAA, make determinations, or notify regulators. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

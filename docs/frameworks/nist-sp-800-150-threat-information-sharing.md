@@ -11,3 +11,8 @@ Operate governed cyber-threat information sharing that connects organizational o
 Assign accountable executive, threat-intelligence, security-operations, legal, privacy, communications, data, supplier-management, procurement, incident-command, and service-owner roles. Operators maintain sharing objectives, community and counterparty records, source records, handling and dissemination rules, approval records, exchange and receipt logs, technical integration evidence, exception decisions, and remediation status. Review sharing relationships, handling assumptions, and high-value use cases quarterly; exercise representative inbound and outbound sharing workflows at least annually and after material legal, privacy, supplier, technology, or threat changes. Before annual renewal, an independent reviewer samples governed exchanges and evidence of authorized use; auditors test the evidence trail without authorizing disclosure, directing an incident, making attribution, accepting risk, or attesting for management.
 
 AI may organize supplied sharing records, flag missing approvals or stale handling rules, relate received information to owned use cases, and draft workpapers for human review. AI cannot disclose information, authorize sharing, identify an actor, direct operational action, determine legal or privacy obligations, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

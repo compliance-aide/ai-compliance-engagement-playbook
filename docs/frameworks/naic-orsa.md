@@ -9,3 +9,8 @@ Maintain a current enterprise-risk record: material risk inventory, ownership, r
 ## Roles and annual rhythm
 
 Insurer leadership owns risk and capital decisions; risk, finance, actuarial, and business teams maintain their inputs; independent reviewers challenge evidence and governance. AI compiles approved records, identifies incomplete ownership or stale assumptions, and drafts internal questions, but cannot quantify capital adequacy, make actuarial judgments, or file a report. Reassess after material strategy changes, schedule management review, and retain human sign-off for confidential reporting.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

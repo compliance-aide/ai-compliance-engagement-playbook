@@ -9,3 +9,8 @@ Maintain update-capable types, market scope, update decisions, validation, deplo
 ## Roles and annual rhythm
 
 Humans approve releases and submissions; independent reviewers perform evidence retrieval tests. AI correlates version/release records, but cannot approve releases or make filings. Reconcile monthly and review annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -11,3 +11,8 @@ Use this guide only where a prior-year assessment, customer or federal contract,
 Assign accountable leadership for CUI boundary and contract decisions, system and security owners for operating records, supply-chain and records owners for shared evidence, and a coordinator for the transition register. Review retained Revision 2 commitments, boundary changes, transition actions, evidence currency, and open remediation quarterly and after material change. Before annual renewal, an independent reviewer samples historical artifacts and the current transition trail for traceability and accurate version labeling. Auditors examine evidence without determining CUI scope, interpreting contractual obligations, accepting risk, or attesting for management.
 
 AI may organize supplied historical evidence, maintain a version-aware register, identify missing ownership or conflicting records, and draft workpapers for human review. AI cannot determine CUI scope, interpret contract terms, decide equivalence between revisions, approve transition completion, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

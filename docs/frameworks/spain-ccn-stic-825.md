@@ -9,3 +9,8 @@ Maintain a separate evidence record for the organization’s National Security F
 ## Roles and annual rhythm
 
 Spanish legal and security leadership determine applicability and scope; ISMS and ENS owners maintain their respective evidence; assurance providers and certification bodies retain independent evaluation authority; independent reviewers challenge traceability and reuse rationale. AI may inventory approved evidence, identify missing provenance, and draft questions, but cannot create a mapping, declare equivalence, determine ENS applicability, certify, approve a statement of conformity, or submit externally. Review whenever scope, system, evidence, certification status, or applicable regulatory context materially changes and document annual renewal readiness.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

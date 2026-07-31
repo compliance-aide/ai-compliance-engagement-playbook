@@ -9,3 +9,8 @@ Verify entitlement, scope, and version; use only the licensee-approved workspace
 ## Roles and annual rhythm
 
 Licensee and authorized assessor roles control framework content and results. Independent reviewers examine organization-owned process evidence. AI cannot receive unlicensed content, generate mappings or scores, certify, act as an assessor, or approve a licensee decision. Preserve version and decision records through annual planning.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

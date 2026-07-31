@@ -9,3 +9,8 @@ Maintain an information-assurance engagement record that connects entity context
 ## Roles and annual rhythm
 
 Entity leadership, information-assurance, risk, security, continuity, privacy, and legal authorities retain accountable decisions; system and supplier owners preserve evidence; independent reviewers challenge scope, traceability, and readiness. AI may organize authorized records, identify stale evidence, prepare questions, and draft non-authoritative workpapers, but cannot determine applicability, accept risk, make a regulatory or assurance determination, approve suppliers or continuity decisions, alter production services, or claim compliance. Review annually and before material entity-context, asset, supplier, incident, continuity, legal, or regulatory changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

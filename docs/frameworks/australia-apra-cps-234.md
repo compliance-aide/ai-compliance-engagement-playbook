@@ -11,3 +11,8 @@ Maintain an information-security accountability record that connects information
 The board, senior management, security, risk, technology, privacy, operations, procurement, and information owners retain accountable decisions. Information owners maintain asset context; security owners coordinate assurance; incident authorities make escalation and reporting decisions; and auditors evaluate evidence in their independent role. Independent reviewers sample paths from asset understanding through safeguards, testing, observations, governance review, remediation, and retest, challenging unsupported capability claims, stale evidence, blind spots, and unverified closure.
 
 AI may organize authorized asset and evidence metadata, flag aging tests or missing ownership fields, compare approved expectations with retained records, draft factual questions, and prepare non-authoritative workpapers. AI cannot classify an asset, determine safeguard effectiveness, decide materiality, direct reporting, approve a risk decision, alter source evidence, or claim compliance. Reassess before material asset, threat, supplier, system, incident, or regulatory changes; review security evidence routinely and conduct an annual independent readiness review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

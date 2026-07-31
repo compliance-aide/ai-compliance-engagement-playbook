@@ -9,3 +9,8 @@ Maintain entity/record lifecycle, collection, access, consent, disclosure, logs,
 ## Roles and annual rhythm
 
 Operators own access and records; independent reviewers sample chains and local overlays. AI may access only authorized data and flag lifecycle inconsistencies; it cannot decide consent/disclosure, alter records, or communicate rights outcomes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

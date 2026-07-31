@@ -19,3 +19,8 @@ reviewers challenge evidence and report exceptions without owning fixes. AI may
 detect stale or conflicting claims and draft questions and change-impact lists;
 it cannot attest, close an exception, accept risk, or alter system configuration. Run monthly signal review, quarterly
 validation, and annual scope and priority renewal.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

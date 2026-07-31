@@ -9,3 +9,8 @@ Maintain a cybersecurity engagement record that connects organization scope, acc
 ## Roles and annual rhythm
 
 Executive sponsors and information-security owners set the engagement scope; technology and operations teams preserve evidence; risk and legal owners determine obligations; independent reviewers challenge traceability and assessment readiness. AI may organize approved records, identify evidence gaps, and draft questions, but cannot conduct or score an assessment, determine maturity, approve risk, make a government submission, direct production changes, or claim compliance. Review at least annually and after material system, service, supplier, incident, or organizational changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

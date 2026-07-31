@@ -9,3 +9,8 @@ Maintain a consumer IoT product assurance record that connects product identity 
 ## Roles and annual rhythm
 
 Executive, product, engineering, security, legal, privacy, and quality authorities retain accountable decisions; product and supplier owners preserve lifecycle evidence; authorized program administrators and independent reviewers perform their defined review roles. AI may organize authorized records, identify missing evidence, correlate approved product facts, and draft questions or non-authoritative workpapers, but cannot determine product eligibility, approve a product release, select a test or program route, assign a certification result, authorize label use, access customer data without authorization, submit an application, or claim certification or compliance. Review annually and before material product, software, vulnerability, supplier, label-program, incident, or regulatory changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

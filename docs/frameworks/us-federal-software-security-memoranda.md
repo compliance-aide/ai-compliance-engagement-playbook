@@ -9,3 +9,8 @@ Maintain covered-offering scope, customer requirements, software lifecycle evide
 ## Roles and annual rhythm
 
 Procurement, legal, security, and engineering owners interpret current customer requirements together; accountable people authorize responses; independent reviewers test traceability and response readiness. AI may track changes and evidence gaps, but cannot interpret terms, make representations, sign or submit, approve a supplier or release, or alter production systems. Review on requirement changes and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

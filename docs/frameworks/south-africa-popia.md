@@ -9,3 +9,8 @@ Maintain an accountable-owner and information-flow register; test purpose, quali
 ## Roles and annual rhythm
 
 Owners operate evidence; independent reviewers sample systems against records. AI normalizes inventories and flags stale evidence, but cannot determine exemptions, authorize marketing or automated decisions, submit notices, or certify compliance. Review quarterly and renew scope annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

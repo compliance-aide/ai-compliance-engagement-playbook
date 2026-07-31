@@ -9,3 +9,8 @@ Maintain an accountable security-management operating model: organizational scop
 ## Roles and annual rhythm
 
 Management owns scope and risk acceptance; security leadership maintains the program; service teams supply dated operational evidence; independent reviewers challenge completeness and traceability. AI creates an evidence map, detects unassigned or aging actions, and prepares review packets, but cannot accept risk, interpret legal duties, or certify an organization. Refresh scope and ownership at least annually, review evidence and changes routinely, and preserve human decisions with their rationale.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

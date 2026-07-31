@@ -11,3 +11,8 @@ For applicable Federal Civilian Executive Branch environments, maintain a govern
 Assign accountable agency or component executive, network, platform, cloud, security, zero-trust, system-owner, change-management, risk, and supplier-management roles. Operators maintain interface inventories, exposure and scope records, access-architecture evidence, protection and validation records, exception approvals, remediation plans, reporting artifacts, supplier evidence, and closure status. Review material interface populations, exposure findings, protection assumptions, and exceptions quarterly; reassess after material network, cloud, system, supplier, or access-architecture changes. Before annual renewal, an independent reviewer samples interface records through validated treatment; auditors test the evidence trail without deciding scope, authorizing production changes, accepting risk, or attesting for management.
 
 AI may organize supplied inventory and treatment evidence, flag stale validation or missing ownership, relate interfaces to recorded services, and draft workpapers for human review. AI cannot scan or alter systems without authorization, determine exposure disposition, authorize access architecture, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

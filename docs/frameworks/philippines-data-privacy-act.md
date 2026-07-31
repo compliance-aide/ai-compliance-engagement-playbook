@@ -9,3 +9,8 @@ Maintain processing system, controller/processor, notice, rights, security, brea
 ## Roles and annual rhythm
 
 Humans decide compliance, notification, and data-subject outcomes; independent reviewers test records. AI identifies missing review dates, but cannot notify the NPC. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

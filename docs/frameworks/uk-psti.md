@@ -9,3 +9,8 @@ Maintain a UK consumer-connectable product catalogue, role map, release and supp
 ## Roles and annual rhythm
 
 Product owners maintain records; independent reviewers sample catalogue, release, and post-release practice. AI connects product/build/support evidence and flags gaps, but cannot declare a product compliant, choose exceptions, or issue statements. Review releases continuously and catalogue annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -11,3 +11,8 @@ Maintain evidence that material data-integrity events can be detected, assessed,
 Assign accountable executive, security-operations, platform, application, data, incident-command, legal, communications, insurance, business-continuity, supplier-management, and service-owner roles. Operators maintain detection and logging coverage, integrity-monitoring evidence, alert and triage records, escalation and contact records, incident artifacts, containment approvals, investigation handoffs, communications records, recovery transitions, supplier evidence, and remediation status. Review material coverage and escalation assumptions quarterly; exercise representative detection-to-response paths at least annually and after material service, telemetry, supplier, or threat changes. Before annual renewal, an independent reviewer samples alerts, triage, escalation, and exercise records; auditors test the evidence trail without directing containment, deciding notification or payment, accepting risk, or attesting for management.
 
 AI may organize supplied alert and case evidence, flag gaps in ownership or escalation records, correlate documented events with affected services, and draft workpapers for human review. AI cannot direct containment, alter production safeguards, determine the severity of an event, make notification or payment decisions, determine legal obligations, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

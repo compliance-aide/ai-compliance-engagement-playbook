@@ -9,3 +9,8 @@ Maintain a DPO-owned inventory and test consent, purpose, notice, supplier-trans
 ## Roles and annual rhythm
 
 Program owners operate the record; independent reviewers sample collection-to-disposal evidence. AI organizes artifacts and proposes test samples, but cannot determine exceptions or notifications, contact individuals, or attest. Review quarterly and renew scope annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

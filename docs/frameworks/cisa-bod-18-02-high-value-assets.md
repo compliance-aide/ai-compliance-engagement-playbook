@@ -11,3 +11,8 @@ For applicable Federal Civilian Executive Branch environments, maintain a height
 Assign accountable agency or component executive, asset-owner, mission or business owner, security, platform, application, risk, authorization support, incident-command, reporting, and supplier-management roles. Operators maintain designation and scope records, criticality evidence, assessment and monitoring artifacts, remediation and exception records, reporting artifacts, supplier evidence, and closure status. Review material high-value-asset populations, ownership, assessment assumptions, open findings, and exceptions quarterly; reassess after material mission, service, architecture, supplier, threat, or scope changes. Before annual renewal, an independent reviewer samples designation through treatment evidence; auditors test the evidence trail without designating assets, authorizing systems, accepting risk, approving remediation, or attesting for management.
 
 AI may organize supplied designation and assessment evidence, flag missing ownership or stale review records, relate documented high-value assets to services and remediation, and draft workpapers for human review. AI cannot designate an asset, authorize operation, approve a remediation plan, accept risk, determine directive applicability, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

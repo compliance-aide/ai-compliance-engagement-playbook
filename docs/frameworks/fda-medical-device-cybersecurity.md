@@ -9,3 +9,8 @@ Maintain product and responsibility inventory, safety-cyber risk integration, se
 ## Roles and annual rhythm
 
 Product owners make safety, release, and regulatory decisions. Independent reviewers test selected lifecycle trails and escalation. AI can link evidence and detect gaps, but cannot make patient-safety, submission, clinical, vulnerability-disclosure, or release decisions.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

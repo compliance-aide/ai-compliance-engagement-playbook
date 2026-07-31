@@ -18,3 +18,8 @@ challenge scope and evidence limitations without owning implementation. AI may k
 an authorized evidence ledger, detect contradictions, draft questions, and escalate
 uncertainty; it cannot determine scope, authorize a system, accept risk, or issue an authorization decision.
 Refresh the plan for changes, incidents, control failures, and business impact.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

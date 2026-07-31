@@ -9,3 +9,8 @@ Maintain legal/perimeter and materiality decisions, disclosure/data owners, evid
 ## Roles and annual rhythm
 
 Counsel and management decide applicability/materiality; independent providers assure. AI checks internal consistency and gaps, but cannot file, sign, or assert compliance. Review monthly, quarterly, and pre-publication.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

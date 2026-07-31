@@ -11,3 +11,8 @@ Treat the service-provider SAQ D workflow as a comprehensive assessment of the p
 Assign accountable owners for service delivery, security, platform and network operations, engineering, customer assurance, vendor management, legal, privacy, finance, and incident response. Operators retain service maps, inventories, access and change evidence, supplier records, test outputs, vulnerability and incident evidence, customer communications, and remediation proof. Management reviews scope, service changes, inherited-control claims, customer-facing evidence, and overdue remediation quarterly. Before annual validation, an independent reviewer samples operating evidence and responsibility boundaries; management confirms the selected profile and submission route with the receiving entity. Auditors test evidence and assessment rigor without setting service scope, accepting risk, or attesting for management.
 
 AI may organize supplied evidence, trace services to ownership and customer-responsibility records, flag gaps or conflicts, summarize remediation, and draft workpapers for human review. AI cannot decide eligibility or PCI DSS scope, set responsibility allocation, make customer representations, determine compliance, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

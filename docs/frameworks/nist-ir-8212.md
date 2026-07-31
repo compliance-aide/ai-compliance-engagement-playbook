@@ -11,3 +11,8 @@ Use a repeatable assessment-methodology record to examine a continuous-monitorin
 Security, risk, technology, operations, privacy, data, and executive owners retain accountable decisions. Assessment leads maintain method and evidence records; monitoring owners explain operations and evidence sources; management decides response to observations; and auditors evaluate evidence in their independent role. Independent reviewers challenge assessment scope, evidence selection, evaluation logic, tool use, reviewer competence, judgment rationale, and conclusion wording, with particular attention to unsupported ratings, hidden calculations, stale inputs, and unreviewed exceptions.
 
 AI may organize authorized methodology metadata, identify incomplete workpapers, compare an approved plan with evidence records, draft questions, and prepare non-authoritative workpapers. AI cannot select a method, run an unapproved tool against sensitive data, determine an assessment judgment, assign a rating, issue a conclusion, close a finding, accept risk, alter evidence, or claim compliance. Reassess the method before material program, tool, source-data, risk, organization, or regulatory changes; review assessment quality routinely and conduct an annual independent readiness review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

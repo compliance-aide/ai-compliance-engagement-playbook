@@ -9,3 +9,8 @@ Maintain personal-data inventory, collection and use rationale, notices, sharing
 ## Roles and annual rhythm
 
 Privacy, legal, security, and business owners decide applicability and responses; independent reviewers test the evidence chain. AI organizes approved records and drafts gap questions, but cannot interpret law, decide rights outcomes, or notify authorities. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

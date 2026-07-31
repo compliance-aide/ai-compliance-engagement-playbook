@@ -9,3 +9,8 @@ Maintain research scope, researcher disclosures, external affiliations, foreign-
 ## Roles and annual rhythm
 
 Research leadership, legal, export-control, security, and authorized institutional officials decide disclosures and certifications; independent reviewers test evidence. AI inventories approved records and flags omissions, but cannot determine conflicts, certify, or submit grants. Review before submissions and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

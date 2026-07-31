@@ -9,3 +9,8 @@ Translate principles into an organization-owned charter and link each use case t
 ## Roles and annual rhythm
 
 Operators document purpose and signals; independent reviewers test whether stated principles drive decisions and remediation. AI maps evidence to the charter, but cannot represent adherence or score trustworthiness as fact. Review quarterly and refresh annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

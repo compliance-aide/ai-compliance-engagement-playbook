@@ -9,3 +9,8 @@ Maintain a supplier-facing health-information security record that connects cont
 ## Roles and annual rhythm
 
 Health-service executives, procurement, clinical-safety, privacy, and security authorities retain accountable decisions; suppliers and internal service owners preserve evidence; independent reviewers test traceability and readiness. AI may organize authorized evidence, flag stale supplier records, draft questions, and prepare review packets, but cannot access records without authorization, make clinical or safety decisions, approve a supplier, determine notification obligations, alter systems, decide contract terms, score assurance, or claim compliance. Review annually and before material supplier, patient-data, service, system, incident, contract, or regulatory changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

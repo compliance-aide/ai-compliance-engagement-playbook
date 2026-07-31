@@ -9,3 +9,8 @@ Maintain a scoped cybersecurity engagement record for the national entity: appli
 ## Roles and annual rhythm
 
 Accountable entity leadership owns program decisions; cybersecurity and risk teams maintain operating evidence; system and service owners retain technical records; supplier owners retain third-party proof; independent reviewers test provenance and traceability; qualified Saudi counsel interprets applicability. AI may organize approved evidence, flag stale records, and draft review questions, but cannot decide scope, score compliance, perform an assessment, approve risk, submit to NCA, or claim conformity. Review the engagement annually and before material asset, service, supplier, operating-model, or incident changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

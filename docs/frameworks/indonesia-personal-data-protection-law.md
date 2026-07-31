@@ -9,3 +9,8 @@ Maintain processing inventory, personal-data categories, legal-basis rationale, 
 ## Roles and annual rhythm
 
 Privacy, legal, security, and service owners determine applicable obligations and response decisions; independent reviewers sample evidence. AI maps approved records and flags gaps, but cannot interpret law, approve transfers, notify regulators, or make legal representations. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

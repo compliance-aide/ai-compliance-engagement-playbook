@@ -9,3 +9,8 @@ Refresh personal/sensitive-data and processor maps; validate notices, consent, r
 ## Roles and annual rhythm
 
 Legal owners decide scope; independent reviewers sample requests and disclosed flows. AI clusters evidence and tracks remediation, but cannot decide exemptions, cure posture, respond to consumers, or execute external changes. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

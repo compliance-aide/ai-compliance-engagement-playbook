@@ -9,3 +9,8 @@ Maintain a jurisdiction-aware record of personal-information activities connecte
 ## Roles and annual rhythm
 
 China-qualified legal and privacy leadership determine scope and legal obligations; business and product owners maintain purpose and process evidence; engineering and operations document actual data flows and safeguards; named representatives and local teams manage approved procedures; independent reviewers test traceability. AI may organize approved evidence, surface missing ownership, and draft questions, but cannot determine legal applicability, obtain consent, respond to individuals, approve transfers, submit or represent an organization, or make a compliance claim. Reassess at least annually and before material system, purpose, data-flow, supplier, location, or cross-border changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

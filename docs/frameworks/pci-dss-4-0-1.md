@@ -24,3 +24,8 @@ select a validation route, approve a scope or compensating-control decision, or 
 Refresh payment-flow and supplier inventories; review boundary changes; gather
 time-bounded evidence; test critical operations; track remediation; and confirm
 the appropriate validation path with the responsible human parties.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

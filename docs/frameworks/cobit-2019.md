@@ -18,3 +18,8 @@ Management owns transparent decision records and approved actions. Independent
 reviewers test decision traceability and escalation effectiveness. AI identifies
 missing owners, aged commitments, and conflicting metrics and drafts agenda
 questions; it cannot determine strategy or an assurance conclusion.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

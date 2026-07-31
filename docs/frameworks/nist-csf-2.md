@@ -24,3 +24,8 @@ Set scope and risk priorities; run quarterly evidence and change reviews; test
 the most consequential practices; track remediation to a human-reviewed outcome;
 reassess after incidents, major system changes, supplier changes, or changed
 business objectives.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

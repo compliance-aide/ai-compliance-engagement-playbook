@@ -9,3 +9,8 @@ Maintain cloud-service scope, service architecture, security evidence, assessmen
 ## Roles and annual rhythm
 
 Accountable cloud, security, legal, and authorized submission owners make readiness and registration decisions; independent assessors conclude separately. AI organizes approved evidence and flags gaps, but cannot assess, register a service, or make claims. Review releases continuously and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -9,3 +9,8 @@ Maintain private-information inventory, safeguards evidence, vendor records, inc
 ## Roles and annual rhythm
 
 Legal, privacy, security, and executive owners decide incident response and notifications; independent reviewers test the record chain. AI organizes approved evidence and highlights missing decisions, but cannot determine a breach, notify anyone, or make legal representations. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

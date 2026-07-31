@@ -9,3 +9,8 @@ Maintain facility and contract scope, personnel and system boundaries, security 
 ## Roles and annual rhythm
 
 Cleared facility and government authorities control access, classifications, reporting, and authorization decisions; independent reviewers test evidence. AI cannot receive classified information and may only organize approved non-sensitive metadata. Review continuously and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

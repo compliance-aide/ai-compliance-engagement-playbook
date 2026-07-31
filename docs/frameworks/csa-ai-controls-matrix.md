@@ -9,3 +9,8 @@ Maintain AI use-case, model, vendor, dataset, integration, autonomy, human-overs
 ## Roles and annual rhythm
 
 Security, privacy, product, and legal owners approve risk; independent reviewers test evidence. AI normalizes evidence and stale reviews, but cannot reproduce controls, score, make declarations, or approve external claims. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

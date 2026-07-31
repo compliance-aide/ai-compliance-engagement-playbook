@@ -6,7 +6,12 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 GUIDES = ROOT / "docs" / "frameworks"
-REQUIRED = ("original operational guidance", "engagement focus", "roles")
+REQUIRED = (
+    "original operational guidance",
+    "engagement focus",
+    "roles",
+    "universal engagement contract",
+)
 AI_TERMS = ("ai", "artificial intelligence")
 
 failures = []

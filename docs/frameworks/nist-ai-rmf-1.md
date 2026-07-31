@@ -19,3 +19,8 @@ reviewers challenge high-impact claims and document limitations. AI organizes
 inventory and evidence, summarizes evaluation results, and flags gaps; it cannot
 self-assess trustworthiness or approve deployment. Review signals quarterly and
 independently challenge the inventory and decisions annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -9,3 +9,8 @@ Maintain incident criteria, intake, triage, decision authority, investigation re
 ## Roles and annual rhythm
 
 Incident leaders make classifications, notification, and recovery decisions; independent reviewers test the case record. AI correlates timelines and drafts questions, but cannot decide reportability or direct containment. Exercise quarterly and review annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -9,3 +9,8 @@ Maintain a processing and accountability record: data uses, owner and database d
 ## Roles and annual rhythm
 
 Business and privacy owners retain the processing record; security and supplier owners provide operating evidence; Uruguayan counsel confirms scope; independent reviewers test traceability. AI organizes approved evidence and drafts review questions, but cannot interpret law, register a database, decide rights requests, or make regulatory submissions. Review material changes before release and retain human decisions with their rationale.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -9,3 +9,8 @@ Maintain agency and service scope, information and system inventory, risk decisi
 ## Roles and annual rhythm
 
 Agency security and system owners make implementation and residual-risk decisions; reviewers assess evidence independently. AI indexes approved evidence and highlights drift, but cannot determine applicability or accept risk. Review quarterly and perform an annual engagement assessment.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

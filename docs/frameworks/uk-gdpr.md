@@ -17,3 +17,8 @@ reviewers challenge scope and evidence without operating controls. AI organizes
 evidence and change records and flags inconsistencies; it cannot choose a lawful
 basis, decide individual rights, or submit reports. Recheck ICO updates and
 jurisdictional context at every cycle.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

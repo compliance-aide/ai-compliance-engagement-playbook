@@ -9,3 +9,8 @@ Maintain service scope, essential-function dependencies, governance decisions, s
 ## Roles and annual rhythm
 
 Service owners validate critical-function reality; independent assessors reach their own conclusions. AI organizes evidence and signals inconsistencies, but cannot classify essential functions or determine adequacy. Test meaningful scenarios quarterly and review annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

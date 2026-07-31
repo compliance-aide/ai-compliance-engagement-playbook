@@ -9,3 +9,8 @@ Maintain entity, product, geography, regulator, risk, program, data, case, filin
 ## Roles and annual rhythm
 
 Humans decide customer disposition, SAR-related judgment, filings, and remediation; independent reviewers test program evidence. AI performs read-only quality checks, but cannot make customer or filing decisions. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

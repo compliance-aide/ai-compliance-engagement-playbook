@@ -9,3 +9,8 @@ Maintain processing inventory, purpose and authority records, data flows, indivi
 ## Roles and annual rhythm
 
 Privacy, security, product, and legal owners determine applicability and responses; independent reviewers test evidence separately. AI inventories approved records and drafts questions, but cannot interpret law, decide rights requests, notify authorities, or make representations. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

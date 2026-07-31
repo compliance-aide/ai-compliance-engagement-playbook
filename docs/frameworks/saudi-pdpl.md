@@ -9,3 +9,8 @@ Maintain a data map and controller/processor roles, plus evidence for notices, p
 ## Roles and annual rhythm
 
 Program owners maintain evidence; independent reviewers test route-to-record linkage. AI can make indices and surface gaps, but cannot make transfer determinations, file notifications, or issue a legal conclusion. Review quarterly and renew scope annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -18,3 +18,8 @@ evaluate evidence and scenario outcomes. AI may map service dependencies, author
 and missing ownership and draft scenario questions and summaries, but cannot
 make an appraisal rating, accept residual risk, approve recovery decisions, or alter services. Conduct leadership review annually and after material
 service or threat changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.
