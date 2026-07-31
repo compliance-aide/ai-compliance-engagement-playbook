@@ -26,6 +26,10 @@ effective 2026-04-27. This guide uses original engagement language and links
 out rather than reproducing scheme questions or requirements. A named scheme
 owner must confirm the applicable route, scope boundary, and current edition.
 
+**Plan status:** Independently reviewed after source and skeptical review;
+three recorded corrections cover all five scheme themes, cloud/end-user scope,
+and provider commitment evidence.
+
 ### 1. Applicant scope and responsibility ledger
 
 - **Request and owner:** The applicant's scope statement, business-unit,
