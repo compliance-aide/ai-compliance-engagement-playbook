@@ -179,6 +179,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NARA Controlled Unclassified Information Program](nara-cui-program.md)
 - [NIST SP 800-18 Revision 2 system planning](nist-sp-800-18-r2.md)
 - [NIST SP 800-137 continuous monitoring](nist-sp-800-137.md)
+- [NIST SP 800-132 password-based key derivation](nist-sp-800-132.md)
 - [NIST SP 800-137A continuous monitoring program assessment](nist-sp-800-137a.md)
 - [NIST IR 8212 ISCM assessment methodology](nist-ir-8212.md)
 - [NIST IR 8374 Revision 1 ransomware risk management](nist-ir-8374-r1-ransomware-risk-management.md)
