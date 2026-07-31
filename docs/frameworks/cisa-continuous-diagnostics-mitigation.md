@@ -12,6 +12,28 @@ Assign accountable executive, program, security-operations, asset-management, id
 
 AI may organize supplied program evidence, flag missing ownership or stale data-quality records, correlate documented findings with recorded assets and treatments, and draft workpapers for human review. AI cannot change systems, determine risk scores, approve remediation, accept risk or an exception, make a compliance conclusion, attest for management, or replace independent review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Use the official [CISA CDM program overview](https://www.cisa.gov/sites/default/files/publications/cdm-program-overview-fact-sheet-012022-508.pdf), current participation direction, and component policy at engagement start; checked 2026-07-31. This plan is original guidance and does not reproduce program materials, define a government score, or certify coverage.
+
+### 1. Data-source, asset, and coverage-quality package
+
+- **Request and owner:** Asset-management, platform, endpoint, identity, network, and data owners provide authorized source inventories, collection scope, asset/account population definitions, connector or feed health records, coverage metrics, known blind spots, and data-quality remediation records.
+- **Validate and limit:** Independently trace a selected reported asset or identity population from source system through collection timestamp, normalization/quality checks, dashboard use, owner, and documented omission. This cannot prove complete discovery, validate every sensor, or determine program coverage.
+- **AI and trigger:** AI may compare supplied population counts and flag stale feeds, missing owners, or unexplained variance. Human program owners decide data-source scope and treatment of gaps. Refresh after new/decommissioned sources, collection failure, material variance, and program review.
+
+### 2. Prioritization, remediation, and exception package
+
+- **Request and owner:** Security operations and risk owners provide documented prioritization inputs, finding-to-asset links, remediation tickets, due dates, dependency/constraint notes, exception requests, human approvals, and retest/closure evidence.
+- **Validate and limit:** Sample one recorded risk-treatment path from source observation through prioritization basis, assigned owner, action, exception or decision, and current/retest status. This does not validate the score, establish enterprise prioritization accuracy, or authorize remediation closure.
+- **AI and trigger:** AI may queue missing handoffs and identify overdue items but cannot set risk scores, approve exceptions, modify systems, or close actions. Refresh after a material finding, missed deadline, exception expiry, or failed retest.
+
+### 3. Dashboard, reporting, and independent-assurance package
+
+- **Request and owner:** Program reporting and security leadership provide dashboard definitions, metric lineage, reporting periods, source-to-report reconciliation records, reviewer samples, management decisions, supplier evidence where applicable, and improvement actions.
+- **Validate and limit:** Trace a selected dashboard metric from report value through source population, transformation/assumption record, period, reviewer challenge, and accountable owner’s response. This assesses lineage for the sample; it cannot certify dashboard accuracy or submit authoritative reporting.
+- **AI and trigger:** AI may draft lineage workpapers and flag undocumented transformations or stale reports. Humans approve metric definitions, management decisions, and external reporting. Refresh before each reporting cycle, after metric logic/source change, and during annual independent review.
+
 
 ## Universal engagement contract
 
