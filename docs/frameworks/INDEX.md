@@ -264,6 +264,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-221 ICT-risk portfolio](nist-sp-800-221.md)
 - [NIST SP 800-221A ICT-risk outcomes](nist-sp-800-221a.md)
 - [NIST SP 800-223 high-performance-computing security](nist-sp-800-223.md)
+- [NIST SP 800-226 differential-privacy evaluation](nist-sp-800-226.md)
 - [NIST SP 800-204 microservices security](nist-sp-800-204.md)
 - [NIST SP 800-204A service-mesh microservices security](nist-sp-800-204a.md)
 - [NIST SP 800-204B ABAC service-mesh microservices security](nist-sp-800-204b.md)
