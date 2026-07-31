@@ -1,0 +1,13 @@
+# NIST SP 800-90B entropy-source engagement guide
+
+> Original operational guidance, not NIST entropy-source content, random-number-generator implementation instructions, a validation claim, or a compliance claim. Confirm current requirements and errata through [NIST SP 800-90B](https://csrc.nist.gov/pubs/sp/800/90/b/final) and the organization’s approved security, cryptography, engineering, procurement, and operational decisions.
+
+## Engagement focus
+
+Operate a governed inventory and assurance cycle for in-scope entropy sources used by cryptographic random-bit generation. Maintain traceability from product or system use through source and module identity, version, approved design and deployment baseline, health and validation evidence, operational monitoring, changes, incidents, supplier dependencies, and lifecycle review. A vendor assertion, test result, or health signal is evidence to assess; it does not prove sufficient entropy in a deployed context, correct implementation, validation status, or compliance.
+
+## Roles and annual rhythm
+
+Assign accountable executive, security, cryptography or platform engineering, architecture, product or system owners, procurement, supplier-management, change-management, incident-response, and records-management roles. Operators maintain an in-scope source and module inventory, approved versions and configurations, test and validation-status evidence, operational health and anomaly records, change approvals, supplier assurance, exception decisions, incident records, and system-to-source traceability. Reconcile sources, owners, modules, and deployed versions quarterly; review health anomalies, validation status, supplier notices, configuration changes, exceptions, and unresolved risks at least quarterly; and complete an annual management review after material system, module, provider, cryptographic, or threat changes. Before annual renewal, an independent reviewer samples inventory-to-deployment-to-test traceability; auditors test the evidence trail without generating random values, accessing cryptographic material, changing entropy-source configuration, approving exceptions, accepting risk, or attesting for management.
+
+AI may organize supplied inventory, test, supplier, health, and review evidence, identify missing ownership or stale validation-status records, and draft workpapers for human review. AI cannot design or implement an entropy source, generate or access cryptographic material, change production configuration, determine validation, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
