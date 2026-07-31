@@ -184,6 +184,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 1800-11 ransomware recovery](nist-sp-1800-11-ransomware-recovery.md)
 - [NIST SP 1800-25 ransomware asset protection](nist-sp-1800-25-ransomware-asset-protection.md)
 - [NIST SP 1800-26 ransomware detection and response](nist-sp-1800-26-ransomware-detection-response.md)
+- [NIST SP 1305 C-SCRM quick start](nist-sp-1305-csrm-quick-start.md)
 - [NIST SP 800-37 Revision 2](nist-sp-800-37-r2.md)
 - [NIST SP 800-161 Revision 1](nist-sp-800-161-r1.md)
 - [NIST SP 800-160 Volume 2 Revision 1 cyber resiliency](nist-sp-800-160-v2-r1.md)
