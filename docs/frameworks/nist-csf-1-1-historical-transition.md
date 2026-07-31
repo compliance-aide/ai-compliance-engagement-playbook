@@ -11,3 +11,8 @@ Use this guide only when a prior-year engagement, contract, customer request, or
 Assign accountable leadership for the transition plan, security owners for current operations, record owners for prior-year evidence, and a coordinator for customer and contract commitments. At least quarterly, review open historical dependencies, transition progress, current-framework evidence, and any customer representations. Before renewal, an independent reviewer samples the prior-year trail and the transition register to test traceability and whether current-year claims are appropriately versioned. Auditors may test the historical and transition records without selecting the successor framework, deciding equivalence, or taking management responsibility.
 
 AI may organize supplied historical evidence, maintain a version-aware register, flag unlabeled claims or missing transition ownership, and draft workpapers for human review. AI cannot determine equivalence between versions, select a successor framework, decide that a transition is complete, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

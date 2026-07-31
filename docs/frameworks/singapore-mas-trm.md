@@ -9,3 +9,8 @@ Maintain technology inventory, governance decisions, risk and resilience evidenc
 ## Roles and annual rhythm
 
 Financial-institution leaders and accountable risk owners decide technology and regulatory actions; independent reviewers test evidence. AI correlates approved records and highlights gaps, but cannot determine compliance, make notification decisions, or submit returns. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

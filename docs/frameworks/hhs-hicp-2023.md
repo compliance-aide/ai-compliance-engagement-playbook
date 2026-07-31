@@ -9,3 +9,8 @@ Maintain healthcare service scope, patient-safety dependencies, asset inventory,
 ## Roles and annual rhythm
 
 Healthcare, clinical, security, and risk leaders retain patient-safety and operational decisions; independent reviewers test evidence. AI organizes approved records and highlights gaps, but cannot diagnose, operate medical devices, or direct incident response. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

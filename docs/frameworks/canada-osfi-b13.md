@@ -11,3 +11,8 @@ Maintain a technology and cyber-risk record that connects governance, accountabl
 The board, senior management, risk, technology, security, operations, privacy, procurement, data, and service owners retain accountable decisions. Technology owners maintain asset and service context; cyber owners coordinate assurance; management decides resources and treatment; incident authorities make escalation and reporting decisions; and auditors evaluate evidence in their independent role. Independent reviewers sample technology services through governance, dependency, design or change, resilience, security evidence, observations, remediation, and closure, challenging unmanaged dependencies, stale evidence, unsupported capability claims, and untested recovery assumptions.
 
 AI may organize authorized metadata, identify missing owners or review fields, compare approved expectations with retained evidence, draft factual questions, and prepare non-authoritative workpapers. AI cannot determine regulatory applicability, decide materiality, approve a risk treatment, direct reporting, authorize a change, close remediation, accept risk, or claim compliance. Reassess before material technology, service, supplier, threat, incident, business, or regulatory changes; review evidence routinely and conduct an annual independent readiness review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

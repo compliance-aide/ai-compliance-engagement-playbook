@@ -9,3 +9,8 @@ Maintain architecture, infrastructure, provider, change, resilience, cyber, oper
 ## Roles and annual rhythm
 
 Operators provide accurate diagrams and results; independent reviewers challenge support for the risk narrative. AI reconciles inventories and evidence age, but cannot represent institutions, decide safety-and-soundness, or make examiner claims. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

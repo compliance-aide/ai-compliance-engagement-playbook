@@ -11,3 +11,8 @@ Maintain an accountable privacy-baseline engagement for systems and activities t
 Assign accountable privacy and security officials, system and data owners, common-control owners, legal and records stakeholders, supplier owners, and assessment-record owners. Operators retain data-flow and inventory records, privacy analyses, access and change evidence, supplier evidence, notices and commitments, incidents, assessments, and remediation proof. Review the processing boundary, baseline rationale, inherited claims, tailoring, exceptions, and open findings quarterly and after material change. Before annual renewal, an independent reviewer samples the applicability record and evidence trail; auditors test support for decisions without determining legal obligations, selecting the baseline, accepting risk, or attesting for management.
 
 AI may organize supplied evidence, reconcile processing and ownership records, identify gaps or conflicting documentation, and draft workpapers for human review. AI cannot determine privacy-law applicability, select or tailor a baseline, make a legal or compliance conclusion, accept risk, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -9,3 +9,8 @@ Inventory candidate systems of records; map collection, purpose, retrieval, use,
 ## Roles and annual rhythm
 
 Operators document processing and route requests; independent reviewers sample boundaries, notices, and logs. AI may classify records, but cannot decide exceptions, release records, or make legal determinations. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

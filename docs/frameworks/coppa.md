@@ -9,3 +9,8 @@ Maintain service/data-flow, purpose, retention, third-party, parental notice/con
 ## Roles and annual rhythm
 
 Operators own service configuration and consent execution; independent reviewers sample evidence and scope. AI indexes evidence and drift, but cannot decide applicability, validate a parent, make disclosure decisions, or certify. Review after material change and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

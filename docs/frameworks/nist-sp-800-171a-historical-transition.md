@@ -11,3 +11,8 @@ Use this guide only where prior assessment workpapers, a customer request, a con
 Assign accountable leadership for CUI and contract decisions, system and security owners for operational evidence, assessment owners for workpapers, and records owners for retention and transition tracking. Review retained assessment dependencies, scope changes, evidence age, remediation, and transition actions quarterly and after material change. Before annual renewal, an independent reviewer samples the historical assessment trail and transition record for traceability and accurate version labels. Auditors examine evidence and review rigor without determining CUI scope, setting assessment criteria, interpreting contract terms, accepting risk, or attesting for management.
 
 AI may organize supplied workpapers, reconcile historical findings and remediation records, flag missing version or ownership information, and draft review notes for human review. AI cannot choose an assessment method, determine CUI scope, draw an assessment conclusion, interpret contract terms, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -11,3 +11,8 @@ Maintain a coherent cyber-security program that connects risk management, people
 Assign accountable executive, security, technology, asset, identity, data, platform, application, incident, business-continuity, procurement, supplier-management, legal, privacy, and service-owner roles. Operators maintain risk and asset records, training evidence, architecture and configuration artifacts, vulnerability and access records, data-protection evidence, monitoring records, incident artifacts, supplier evidence, exceptions, and improvement status. Review material risk, asset, access, data, monitoring, incident, and supplier assumptions quarterly; exercise representative scenarios at least annually and after material service, architecture, supplier, data, or threat changes. Before annual renewal, an independent reviewer samples evidence across the program; auditors test the evidence trail without designing safeguards, accepting risk, directing incidents, or attesting for management.
 
 AI may organize supplied evidence, identify stale ownership or missing review artifacts, trace program records to owned services, and draft workpapers for human review. AI cannot approve technical design, alter systems, accept risk, direct incident response, determine legal obligations, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

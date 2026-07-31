@@ -9,3 +9,8 @@ Maintain data, process, vendor, collection, use, disclosure, retention, rights, 
 ## Roles and annual rhythm
 
 Operators execute processes; independent reviewers test selected flows and records. AI classifies evidence and discrepancies, but cannot authenticate compliance, make filings, or resolve individual requests. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

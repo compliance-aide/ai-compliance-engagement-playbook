@@ -9,3 +9,8 @@ Inventory legacy artifacts, preserve retention-required records, identify linger
 ## Roles and annual rhythm
 
 Record owners retain and classify material; compliance owners select the current approach. Independent reviewers verify migration claims against operating practice. AI can catalog evidence and identify unresolved references; it cannot score an institution, predict regulator views, represent the tool as active, or dispose of records without approval.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -9,3 +9,8 @@ Maintain an aviation cyber-assurance record that connects critical-system scope,
 ## Roles and annual rhythm
 
 Accountable aviation leaders, safety and security owners, and designated cyber-responsible managers retain decision rights; system and supplier owners preserve operational evidence; independent reviewers test scope, traceability, and readiness. AI may organize authorized evidence, identify stale records, draft questions, and prepare review packets, but cannot establish the critical-system scope, decide safety or operational acceptability, make a regulatory determination, assign assessment outcomes, approve a flight or service change, or claim compliance. Review annually and before a material aviation-system, service, supplier, safety, security, incident, or regulatory change.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

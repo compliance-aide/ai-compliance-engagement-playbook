@@ -9,3 +9,8 @@ Maintain a jurisdiction-aware data-security record for in-scope activities: data
 ## Roles and annual rhythm
 
 China-qualified legal leadership determines obligations and regulatory interactions; data owners classify and approve business use; security and engineering teams maintain technical evidence; procurement and supplier owners maintain third-party records; independent reviewers test evidence traceability. AI may catalog approved data records, highlight incomplete lineage, and draft review questions, but cannot classify data as a legal conclusion, approve a transfer, determine a security incident’s reportability, make a filing, or represent compliance. Reassess at least annually and before material data, system, supplier, location, sharing, or cross-border changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

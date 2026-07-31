@@ -9,3 +9,8 @@ Maintain agency scope, network and service inventory, traffic and trust-boundary
 ## Roles and annual rhythm
 
 Federal architecture, security, and system owners authorize design and operation decisions; independent assessors test evidence. AI maps approved artifacts and flags drift, but cannot configure connectivity, approve architecture, or authorize operation. Review changes continuously and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

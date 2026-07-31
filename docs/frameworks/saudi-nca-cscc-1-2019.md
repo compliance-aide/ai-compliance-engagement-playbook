@@ -9,3 +9,8 @@ Maintain a critical-system engagement record: authoritative system scope, servic
 ## Roles and annual rhythm
 
 Critical-system sponsors and operational owners define service obligations and authorize consequential actions; cybersecurity teams retain monitoring and assurance evidence; engineering maintains change and recovery records; safety, legal, and risk functions challenge material decisions; independent reviewers test evidence traceability. AI may organize approved records, compare versions, identify incomplete provenance, and draft review questions, but cannot designate critical systems, operate systems, authorize access or change, make safety decisions, score an assessment, submit to NCA, or claim compliance. Review whenever system, service, supplier, or incident risk materially changes and complete an accountable annual review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

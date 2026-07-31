@@ -9,3 +9,8 @@ Maintain insurer evidence for information-security governance, risk decisions, s
 ## Roles and annual rhythm
 
 Licensed-entity leadership owns program decisions; security and privacy teams preserve evidence; legal counsel directs notifications; independent reviewers test the record. AI organizes approved artifacts and flags missing dates, owners, or change reviews, but cannot determine legal duties, approve notification, or report to regulators. Review program evidence periodically and preserve human decisions for events and external communications.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

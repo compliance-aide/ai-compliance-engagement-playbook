@@ -11,3 +11,8 @@ Operate a repeatable cyber-exercise program that uses appropriate scenarios to t
 Assign accountable executive, exercise facilitator, security, technology, incident-command, business-continuity, legal, privacy, communications, human-resources, supplier-management, and service-owner roles. Operators maintain an exercise schedule, scenario-selection records, participant and facilitator lists, exercise artifacts, observer notes, findings, action owners, closure evidence, and lessons learned. Review scenario coverage and open actions quarterly; run and document representative exercises at least annually and after material service, supplier, architecture, staffing, or threat changes. Before annual renewal, an independent reviewer samples exercises and corrective-action closure; auditors test the evidence trail without directing a real incident, rating individual performance for personnel purposes, accepting risk, or attesting for management.
 
 AI may organize supplied exercise evidence, flag missing ownership or stale corrective actions, summarize approved observations, and draft workpapers for human review. AI cannot direct an exercise, declare readiness, make personnel decisions, accept risk, determine legal obligations, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

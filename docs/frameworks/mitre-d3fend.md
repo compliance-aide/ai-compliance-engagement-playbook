@@ -9,3 +9,8 @@ Define architecture and defense questions, approved data, selected defensive pat
 ## Roles and annual rhythm
 
 Architecture and defense owners maintain evidence and test outcomes. Independent reviewers challenge the link between modeled capability and observed operation. AI can discover related evidence, draft narratives, and flag missing verification; it cannot infer effectiveness, deploy changes, or certify defenses. Review changes continuously and evidence annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

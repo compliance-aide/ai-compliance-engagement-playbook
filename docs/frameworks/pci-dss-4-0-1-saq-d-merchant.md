@@ -11,3 +11,8 @@ Treat the merchant SAQ D workflow as a comprehensive, profile-specific self-asse
 Set accountable ownership across payment operations, technology, security, engineering, physical operations, vendor management, finance, privacy, legal, and incident response. Operators preserve architecture and data-flow records, assets, access reviews, configurations, changes, testing, vulnerability and incident records, provider evidence, training, and remediation proof throughout the year. Management reviews scope, overdue evidence, exceptions, and remediation quarterly. Before annual submission, an independent reviewer tests a risk-based sample across the merchant environment and reports factual results to management; management confirms the selected profile and attestation route with the recipient. Auditors test evidence and assessment discipline without deciding scope, accepting risk, or attesting for management.
 
 AI may organize supplied evidence, trace records to scope and ownership, flag missing or inconsistent documentation, summarize remediation status, and draft workpapers for human review. AI cannot select the SAQ, decide eligibility or scope, approve compensating measures, determine compliance, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -9,3 +9,8 @@ Maintain use and disclosure inventory, notices, authorizations, complaints, supp
 ## Roles and annual rhythm
 
 Operators run intake and remediation; independent reviewers sample notice-to-system and closure records. AI organizes records and contradictions, but cannot decide authorization, submit registrations, or answer a data subject as the organization.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

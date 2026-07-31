@@ -9,3 +9,8 @@ Maintain agency AI portfolio, executive governance, reporting calendar, impact r
 ## Roles and annual rhythm
 
 Operators retain use-case and change records; independent reviewers test inventory completeness and exceptions. AI prepares records and identifies missing evidence, but cannot make agency determinations, grant exceptions, certify compliance, or submit reports. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

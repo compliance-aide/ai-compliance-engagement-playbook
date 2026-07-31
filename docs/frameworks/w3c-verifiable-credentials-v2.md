@@ -9,3 +9,8 @@ Maintain issuer, holder, verifier, purpose, schema, status, key, registry, flow,
 ## Roles and annual rhythm
 
 Humans decide policy and claim handling; independent reviewers test lifecycle. AI correlates records, but cannot assert claim truth or make legal identity decisions. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

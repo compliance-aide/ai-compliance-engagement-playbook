@@ -11,3 +11,8 @@ Treat SAQ C as a conditional validation profile with its own eligibility conditi
 Name accountable owners for payment operations, information technology, security, vendor management, facilities, finance, and incident response. Operators retain inventories, diagrams, configurations, access evidence, change approvals, provider records, security testing results, exceptions, and incident artifacts. Review the scope record and evidence register quarterly, and after any material payment-environment change. Before annual validation, management obtains confirmation from the submission recipient; an independent reviewer samples systems, payment paths, and evidence to assess whether the documented profile boundary operated. Auditors test the evidence and review process without choosing the profile or attesting for management.
 
 AI may organize supplied evidence, reconcile asset and change records, identify missing ownership or contradictory facts, and draft workpapers for human review. AI cannot select an SAQ, decide eligibility or scope, authorize system changes, determine compliance, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

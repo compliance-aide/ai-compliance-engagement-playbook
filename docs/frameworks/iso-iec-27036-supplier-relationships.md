@@ -9,3 +9,8 @@ Maintain supplier criticality, services, access, dependencies, owner, contract, 
 ## Roles and annual rhythm
 
 Business owners accept supplier risk; independent reviewers test residual-risk support. AI organizes contracts and missing reviews, but cannot accept risk, negotiate legal language, or make assurance conclusions. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

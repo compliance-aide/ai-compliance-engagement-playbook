@@ -9,3 +9,8 @@ Maintain database, controller/processor, security, vendor, overseas transfer, ri
 ## Roles and annual rhythm
 
 Humans decide applicability, security requirements, and rights; independent reviewers test reconciliations. AI summarizes variance, but cannot contact the PPA. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -14,3 +14,10 @@ Operator work implements and operates controls. Auditor work independently
 examines, interviews, and tests. The AI may help either role organize work, but
 it must not blur independence, approve its own work, or make the final audit
 conclusion.
+
+Every guide also inherits the [universal engagement contract](universal-engagement-contract.md).
+It requires a jurisdiction-aware applicability card, phase-by-phase authority
+gate, typed evidence contract, optional technical-evidence adapter, expiry-bound
+exception record, source and system change control, and visible annual work
+queues. A technical pass remains an evidence input for human evaluation, not a
+conformance conclusion.

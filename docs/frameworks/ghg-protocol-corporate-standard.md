@@ -9,3 +9,8 @@ Maintain reporting entity, boundary, source-system, method, factor, estimate, ba
 ## Roles and annual rhythm
 
 Data owners certify sources; methodology owners approve treatments; independent reviewers test evidence. AI assists reconciliation and drafts questions, but cannot choose accounting treatments, validate emissions, make public claims, or sign assurance.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -9,3 +9,8 @@ Maintain a proportionate health-information security record that connects the sm
 ## Roles and annual rhythm
 
 Business, clinical-safety, privacy, and security authorities retain accountable decisions; service and supplier owners preserve evidence; an independent reviewer challenges completeness and traceability. AI may organize authorized records, identify missing evidence, prepare reminders, and draft questions, but cannot access health records without authorization, make clinical or safety decisions, approve a supplier, determine legal or notification obligations, alter systems, accept risk, score the organization, or claim compliance. Review annually and before a material service, patient-data, supplier, system, incident, or regulatory change.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

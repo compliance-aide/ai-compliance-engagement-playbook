@@ -9,3 +9,8 @@ Maintain processing inventory, purpose and notice records, access and correction
 ## Roles and annual rhythm
 
 Privacy, legal, security, and business owners determine application and individual-rights responses; independent reviewers test evidence. AI maps approved artifacts and drafts questions, but cannot interpret law, decide rights, notify regulators, or make representations. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

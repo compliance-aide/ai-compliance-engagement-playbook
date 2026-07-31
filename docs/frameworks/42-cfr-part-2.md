@@ -9,3 +9,8 @@ Determine whether programs and data are in scope; maintain consent, disclosure, 
 ## Roles and annual rhythm
 
 Privacy and legal owners decide scope and disclosures. Independent reviewers test selected paths using approved methods. AI uses only approved redacted metadata and cannot infer coverage, authorize disclosure, answer legal requests, handle patient decisions, or send data to unapproved tools.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

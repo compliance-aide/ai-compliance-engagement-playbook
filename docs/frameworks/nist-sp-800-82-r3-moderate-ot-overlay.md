@@ -11,3 +11,8 @@ Use this engagement only after accountable owners document the OT system boundar
 Assign accountable leadership for impact and risk decisions, OT engineering and operations owners for process evidence, safety owners for safety constraints, security owners for cybersecurity evidence, and supplier owners for external dependencies. Operators preserve architecture, asset, interconnection, access, maintenance, change, test, incident, safety-escalation, supplier, and remediation evidence. Review scope, impact, overlay rationale, exceptions, safety constraints, dependencies, and open findings quarterly and before material operational changes. Before annual renewal, an independent reviewer samples the overlay record and critical operating evidence; auditors test decision support without classifying the system, tailoring the overlay, directing operations, accepting risk, or making safety decisions.
 
 AI may organize supplied evidence, reconcile asset and dependency records, flag missing ownership or conflicts, summarize remediation, and draft workpapers for human review. AI cannot classify OT impact, select or tailor an overlay, approve operational or safety changes, determine authorization readiness, accept risk, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

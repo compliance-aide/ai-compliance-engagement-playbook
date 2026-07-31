@@ -9,3 +9,8 @@ Maintain a current data-governance record: processing context, accountable owner
 ## Roles and annual rhythm
 
 Business and privacy owners maintain data-use records; security and vendor owners retain operating evidence; counsel confirms scope; independent reviewers test traceability. AI maps approved evidence and drafts gap questions, but cannot interpret law, decide consumer-rights outcomes, or approve notices. Review at material processing changes and on a scheduled cadence with human approval.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

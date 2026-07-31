@@ -9,3 +9,8 @@ Maintain an owner-approved record of covered rail operations, critical cyber-sys
 ## Roles and annual rhythm
 
 Rail owner/operators and accountable security leaders determine coverage and operational priorities; safety and operations teams retain evidence; independent reviewers test documentation and exercise traceability. AI organizes approved records and prepares non-sensitive questions, but cannot determine directive applicability, approve an operational plan, perform safety actions, or submit material to TSA. Review after material system or threat changes and retain human decisions for every external representation.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

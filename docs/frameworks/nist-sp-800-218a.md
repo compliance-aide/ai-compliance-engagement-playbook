@@ -9,3 +9,8 @@ Maintain a federal software-provider engagement record that connects product sco
 ## Roles and annual rhythm
 
 Engineering, product, security, legal, and authorized business officials retain accountable decisions; product and supplier owners preserve lifecycle evidence; independent reviewers test traceability and readiness. AI may organize authorized records, identify missing evidence, correlate approved product facts, and draft non-authoritative workpapers, but cannot determine contract applicability, make an attestation decision, sign or submit a representation, accept risk, approve a release or supplier, alter production services, or claim compliance. Review releases continuously, conduct a formal annual review, and reassess before material product, supplier, vulnerability, contract, or regulatory changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

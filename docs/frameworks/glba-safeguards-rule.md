@@ -18,3 +18,8 @@ test evidence coherence and governance reporting, without replacing management.
 AI prepares evidence indexes and draft reports but cannot declare safeguards
 adequate, approve exceptions, classify regulators, or make notifications. Review
 material changes continuously and perform annual governance review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

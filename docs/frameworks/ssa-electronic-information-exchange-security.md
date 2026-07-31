@@ -11,3 +11,8 @@ Maintain a controlled exchange record connecting the executed agreement, authori
 Agreement owners, data-exchange program leads, security, privacy, legal, operations, system, records, and incident-response owners retain accountable decisions. Authorized contacts manage agreement communications; system owners preserve authorized operating evidence; legal and privacy owners determine handling boundaries; and incident authorities decide escalation and reporting under the agreement. Independent reviewers sample the path from approved exchange purpose through system and access evidence, incident readiness, exception handling, periodic review, and agreement lifecycle actions, escalating any conflict or uncertainty to authorized SSA contacts.
 
 AI may organize authorized metadata, identify missing ownership or review dates, prepare non-authoritative evidence indexes, and draft questions for human review. AI cannot access SSA data, interpret agreement terms, determine eligibility, transmit or receive exchange data, modify exchange systems, make a security certification, report an incident, accept risk, or claim compliance. Use only sanitized, permitted metadata in AI tools. Reassess before material agreement, participant, system, interface, access, incident, or data changes; perform scheduled reviews and an annual independent readiness review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

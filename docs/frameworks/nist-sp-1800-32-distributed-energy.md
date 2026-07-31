@@ -13,3 +13,8 @@ Make the operational impact of cybersecurity actions explicit. Preserve decision
 Energy operations, grid engineering, DER engineering, safety, cybersecurity, network, identity, data, supplier, procurement, regulatory, legal, incident-response, recovery, and records owners establish scope and make accountable decisions. Operators maintain asset and data-flow inventories, approved architectures, configuration and access evidence, monitoring records, supplier materials, change records, exceptions, incident cases, exercises, and review history. Reconcile material DER assets, owners, connectivity, and supplier dependencies quarterly; review changes and anomalies promptly; exercise contingency scenarios during the year; and conduct an annual safety-aware governance review.
 
 Independent reviewers sample a DER communication path from approved purpose and architecture through access and monitoring evidence, change control, and operational review, testing traceability. Auditors evaluate supplied evidence without operating grid equipment, changing configuration, authorizing dispatch, determining safety, approving suppliers, accepting risk, making regulatory conclusions, or issuing an attestation. AI may organize supplied records, flag stale ownership or evidence, summarize data flows, draft workpapers, and prepare review questions. AI cannot operate or control DERs, grant access, change settings, determine safety, approve operational actions, accept risk, or attest to conformance.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

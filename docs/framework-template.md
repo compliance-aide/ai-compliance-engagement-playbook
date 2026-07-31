@@ -17,6 +17,14 @@
 - Exclusions, assumptions, and overlays:
 - Required human roles and prohibited claims:
 
+## Universal engagement contract
+
+Apply the [universal engagement contract](universal-engagement-contract.md).
+Complete the applicability card, phase authority gate, evidence contract,
+technical-evidence adapter where useful, exception/change record, and annual
+quality gate. State framework-specific variations rather than weakening the
+shared human-approval and evidence-provenance boundaries.
+
 ## Framework interpretation notes
 
 For every applicable requirement, record an identifier, a short source-linked

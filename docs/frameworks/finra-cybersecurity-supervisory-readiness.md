@@ -9,3 +9,8 @@ With qualified compliance ownership, establish firm-specific supervisory obligat
 ## Roles and annual rhythm
 
 Business and technology owners operate and evidence processes. Independent reviewers sample records and challenge escalations. AI may normalize authorized inventories, surface missing evidence, and prepare review packets; it cannot interpret FINRA rules, approve a program, decide reporting, or file anything. Review signals quarterly and scope annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -9,3 +9,8 @@ Maintain controlled-data assets, authorization, storage, collaboration, cloud, r
 ## Roles and annual rhythm
 
 Export officers decide jurisdiction and authorization; independent reviewers challenge assumptions and access records. AI uses only approved sanitized metadata and cannot classify, screen conclusively, release technical data, or file with DDTC. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

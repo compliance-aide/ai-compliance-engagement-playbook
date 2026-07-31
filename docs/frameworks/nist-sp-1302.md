@@ -13,3 +13,8 @@ Treat self-assessments, profile documents, metrics, policies, meeting records, a
 Executive, governing body, enterprise-risk, security, business, technology, privacy, legal, supplier, audit, and records owners establish scope and make accountable decisions. Operators maintain profile and context records, evidence references, governance and management activity records, improvement actions, owner assignments, exceptions, decisions, and review history. Reconcile the profile context, material risks, ownership, evidence freshness, and improvement progress at least quarterly; revisit after material incidents, strategy changes, acquisitions, supplier shifts, or regulatory developments; and conduct an annual governance review.
 
 Independent reviewers sample a stated governance characteristic through supporting evidence, operating practice, and improvement follow-up. Auditors evaluate supplied material without assigning binding tiers, changing profiles, accepting risk, approving investments, making legal conclusions, or issuing an attestation. AI may organize evidence, identify missing ownership or stale context, draft workpapers, compare supplied records with approved decisions, and prepare review questions. AI cannot assign authoritative tiers, set risk appetite, select investments, accept risk, make legal conclusions, or attest to conformance.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

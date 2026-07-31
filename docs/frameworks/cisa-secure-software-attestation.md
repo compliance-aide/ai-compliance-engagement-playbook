@@ -9,3 +9,8 @@ Maintain the requested-product boundary, responsible parties, development and su
 ## Roles and annual rhythm
 
 Authorized organizational representatives control representations and submissions; independent reviewers challenge the evidence package. AI creates an evidence inventory and drafts gaps, but cannot complete, sign, transmit, or characterize an attestation. Reassess each request and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

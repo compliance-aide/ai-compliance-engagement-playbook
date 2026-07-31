@@ -9,3 +9,8 @@ Maintain a policy-level evidence record for cybersecurity strategy execution: ac
 ## Roles and annual rhythm
 
 National authorities own strategic direction; program leads maintain evidence; stakeholders provide operational inputs; independent reviewers test the assessment narrative. AI structures approved records, compares stated goals to evidence, and drafts review questions, but cannot assess national maturity, set policy, or make public claims. Review the record on a planned cycle and after material strategy or threat changes, with human approval for published results.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

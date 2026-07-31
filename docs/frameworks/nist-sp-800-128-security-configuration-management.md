@@ -11,3 +11,8 @@ Operate security-focused configuration management that connects material systems
 Assign accountable executive, security, platform, network, application, cloud, change-management, service-owner, risk, and supplier-management roles. Operators maintain system and baseline inventories, configuration standards, change records, assessment evidence, variance and exception records, monitoring outputs, rollback records, supplier evidence, and remediation status. Review material baselines, variance assumptions, exceptions, and high-impact changes quarterly; test representative baseline deployment, change, detection, and rollback paths at least annually and after material architecture, service, supplier, or tooling changes. Before annual renewal, an independent reviewer samples baselines through approved change evidence; auditors test the evidence trail without authorizing production changes, setting technical baselines, accepting risk, or attesting for management.
 
 AI may organize supplied configuration and change evidence, identify stale reviews or missing ownership, correlate variances with recorded services, and draft workpapers for human review. AI cannot alter configurations, authorize production changes, approve a baseline, accept risk or an exception, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

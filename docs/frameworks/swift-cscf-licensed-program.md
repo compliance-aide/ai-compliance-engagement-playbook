@@ -9,3 +9,8 @@ Maintain SWIFT footprint, accountable owner, version-change, implementation, evi
 ## Roles and annual rhythm
 
 Operators own truthful evidence; independent reviewers determine scope independently. AI may organize evidence and changes, but cannot assess, assert compliance, submit attestation, or access/alter production assets. Review continuously and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

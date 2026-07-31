@@ -9,3 +9,8 @@ Maintain an industrial-control-system evidence record: asset and network boundar
 ## Roles and annual rhythm
 
 OT process and safety owners authorize operational decisions; cybersecurity teams retain monitoring and assurance evidence; engineering and maintenance owners document changes; supplier owners maintain access and service evidence; independent reviewers challenge traceability; qualified Saudi counsel interprets regulatory scope. AI may inventory approved records, flag missing provenance, and draft questions, but cannot operate or configure industrial systems, override safety processes, authorize remote access, approve change windows, conduct an assessment, submit to NCA, or claim compliance. Review continuously across material changes and conduct a documented annual engagement review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

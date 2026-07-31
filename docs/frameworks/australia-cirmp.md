@@ -9,3 +9,8 @@ Establish in-scope assets and accountable owner; maintain dependencies, all-haza
 ## Roles and annual rhythm
 
 Operators own inventories and treatment; independent reviewers test material scenarios to records. AI flags stale ownership and drafts workpapers, but cannot decide scope, approve the program, or submit reports. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

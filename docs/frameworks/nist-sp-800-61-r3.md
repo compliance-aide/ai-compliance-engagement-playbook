@@ -9,3 +9,8 @@ Maintain incident preparation, detection sources, triage records, authority matr
 ## Roles and annual rhythm
 
 Incident leaders decide classification, notification, and containment; independent reviewers test cases and exercises. AI builds timelines and identifies missing records, but cannot make incident, legal, or notification decisions. Exercise quarterly and review annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

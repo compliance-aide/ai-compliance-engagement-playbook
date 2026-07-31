@@ -9,3 +9,8 @@ Maintain cloud-service scope, data and responsibility boundaries, provider evide
 ## Roles and annual rhythm
 
 Service and system owners establish scope; cloud providers and operating teams provide evidence; assessors independently review it; authorizing officials decide outcomes. AI indexes approved evidence and flags changes or missing conditions, but cannot assess a service, authorize use, or accept risk. Reassess after material changes and retain dated human authorization decisions.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -9,3 +9,8 @@ Maintain a product-cybersecurity engagement record that connects products with d
 ## Roles and annual rhythm
 
 Executive, product, engineering, security, legal, privacy, and quality authorities retain accountable decisions; product and supplier owners preserve lifecycle evidence; independent reviewers test traceability and readiness. AI may organize authorized records, identify incomplete evidence, correlate known product dependencies, and draft questions or workpapers, but cannot determine legal scope, make a conformity or market-access determination, approve a release, accept risk, decide a reporting obligation, alter production systems, or claim compliance. Review annually and before material product, software, vulnerability, supplier, incident, market, or regulatory changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

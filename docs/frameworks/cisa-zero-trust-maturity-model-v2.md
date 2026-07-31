@@ -9,3 +9,8 @@ Maintain a zero-trust transformation record that connects mission and service co
 ## Roles and annual rhythm
 
 Mission executives, architecture, identity, security, privacy, and operations authorities retain accountable decisions; platform and service owners preserve evidence; independent reviewers test traceability and readiness. AI may organize authorized records, identify evidence gaps, correlate approved inventories, and draft questions or workpapers, but cannot determine an agency’s target state, assign a maturity rating, approve an architecture or exception, accept risk, modify production access or services, or claim compliance. Review annually and before material identity, data, device, workload, network, supplier, incident, or mission changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

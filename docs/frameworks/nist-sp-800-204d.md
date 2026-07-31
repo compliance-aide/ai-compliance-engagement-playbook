@@ -11,3 +11,8 @@ Maintain a traceable supply-chain assurance record for DevSecOps delivery pipeli
 Product, development, platform, security, supply-chain, procurement, legal, privacy, operations, risk, and release owners retain accountable decisions. Engineering owners preserve build and dependency evidence; platform owners control authorized pipeline operation; supply-chain owners govern supplier records; release authorities approve deployment; and risk owners decide exceptions within mandate. Independent reviewers sample selected releases from source and dependency context through pipeline evidence, artifact provenance, exceptions, vulnerability handling, and production decision, then challenge unverified inputs and missing owner attestations.
 
 AI may organize authorized dependency and evidence metadata, detect incomplete provenance fields, summarize approved pipeline records, draft questions, and prepare non-authoritative workpapers. AI cannot modify source or pipeline configuration, create or approve credentials, approve a supplier, waive a verification failure, authorize release, accept risk, or claim compliance. Use AI only with permitted, minimized artifacts. Reassess after material pipeline, component, supplier, vulnerability, build-environment, or release-process changes; review exceptions quarterly and complete an annual independent readiness review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

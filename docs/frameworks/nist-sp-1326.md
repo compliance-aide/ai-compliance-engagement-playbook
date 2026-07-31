@@ -13,3 +13,8 @@ Treat a supplier questionnaire, ownership disclosure, assurance report, product 
 Procurement, supply-chain, security, technology, product, finance, legal, privacy, business, continuity, risk, supplier-management, and records owners establish scope and make accountable decisions. Operators maintain supplier and product inventories, assessment scopes, source records, dependency maps, ownership and provenance evidence, resilience and cybersecurity evidence, findings, exceptions, decision records, monitoring triggers, and offboarding evidence. Reconcile critical suppliers, material dependencies, assessment currency, and open actions at least quarterly; reassess before material acquisition, renewal, architecture, ownership, or service changes; and conduct annual management review.
 
 Independent reviewers sample a supplier record from scope through evidence, findings, decision trail, monitoring, and follow-up. Auditors evaluate supplied evidence without investigating beyond authorized sources, selecting suppliers, negotiating terms, approving contracts, accepting risk, making legal or financial conclusions, or issuing an attestation. AI may organize evidence, identify stale or conflicting records, map dependencies, draft workpapers, and prepare review questions. AI cannot select or approve suppliers, contract or renew services, determine ownership or legal status, make financial decisions, accept risk, or attest to conformance.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

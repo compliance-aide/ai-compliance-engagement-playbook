@@ -11,3 +11,8 @@ Operate a controlled baseline program for products and services covered by CIS B
 Assign accountable executive, security, platform, endpoint, network, cloud, application, configuration-management, change-management, risk, procurement, and supplier-management roles. Operators maintain technology scope, authorized benchmark version records, tailored-baseline approvals, validation evidence, exception and remediation records, change and rollback artifacts, license and source records, and refresh status. Review material baseline coverage, exceptions, evidence quality, and vendor or benchmark changes quarterly; test representative tailoring, implementation, validation, and rollback workflows at least annually and after material technology, service, provider, or architecture changes. Before annual renewal, an independent reviewer samples records from applicable baseline selection through validated treatment; auditors test the evidence trail without configuring systems, interpreting license terms, authorizing production changes, accepting risk, or attesting for management.
 
 AI may organize supplied evidence, flag stale benchmark-version or ownership records, relate validation results to recorded assets, and draft workpapers for human review. AI cannot retrieve or reproduce restricted content, alter systems, select final tailoring, authorize production changes, accept risk or an exception, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -9,3 +9,8 @@ Maintain GxP system estate, intended use, data owners, suppliers, validation, ch
 ## Roles and annual rhythm
 
 Qualified humans approve validation and batch-quality decisions; independent reviewers test lineage. AI flags risks and creates read-only packs, but cannot accept validation or make interpretations. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

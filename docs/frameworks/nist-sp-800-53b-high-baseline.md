@@ -11,3 +11,8 @@ Use the high-impact baseline only after an accountable organization documents th
 Assign accountable officials for categorization and risk acceptance, system and security owners for operating evidence, common-control owners for shared capabilities, and responsible owners for assessment and authorization artifacts. Operators retain current inventory, boundaries, interconnections, access, configurations, changes, assessment evidence, incidents, supplier evidence, and remediation proof. Review scope, categorization, tailoring, inherited claims, exceptions, dependencies, and open findings quarterly and after material change. Before annual renewal, an independent reviewer samples the selection rationale and critical evidence; auditors test decision support and the evidence trail without selecting the baseline, tailoring controls, accepting risk, or granting authorization.
 
 AI may organize supplied evidence, reconcile scope and dependency records, flag missing ownership or contradictions, summarize remediation status, and draft workpapers for human review. AI cannot categorize a system, select or tailor a baseline, determine authorization readiness, accept risk, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

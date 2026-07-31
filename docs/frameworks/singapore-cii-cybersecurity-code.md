@@ -9,3 +9,8 @@ Maintain critical-infrastructure scope, owner and authority records, risk assess
 ## Roles and annual rhythm
 
 Designated infrastructure owners and legal authorities make compliance and reporting decisions; qualified auditors reach conclusions independently. AI coordinates evidence and flags missing records, but cannot determine CII status, report an incident, or make a representation. Exercise and review annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

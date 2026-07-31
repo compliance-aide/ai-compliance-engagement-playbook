@@ -11,3 +11,8 @@ For participating or aligned government environments, operate continuous diagnos
 Assign accountable executive, program, security-operations, asset-management, identity, network, data, platform, application, risk, reporting, and supplier-management roles. Operators maintain capability scope, data-source inventories, collection and quality evidence, dashboard and prioritization records, remediation handoffs, exception approvals, reporting artifacts, supplier evidence, and closure status. Review material data coverage, quality trends, priority-risk handling, and exceptions quarterly; reassess after material system, sensor, identity, network, data, provider, or reporting changes. Before annual renewal, an independent reviewer samples records from source through risk-treatment evidence; auditors test the evidence trail without changing systems, setting risk scores, accepting risk, submitting authoritative reports, or attesting for management.
 
 AI may organize supplied program evidence, flag missing ownership or stale data-quality records, correlate documented findings with recorded assets and treatments, and draft workpapers for human review. AI cannot change systems, determine risk scores, approve remediation, accept risk or an exception, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

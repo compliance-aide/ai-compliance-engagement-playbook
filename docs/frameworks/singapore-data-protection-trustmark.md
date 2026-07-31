@@ -9,3 +9,8 @@ Maintain an accountable data-protection engagement record that connects personal
 ## Roles and annual rhythm
 
 Executive, privacy, legal, security, risk, and business authorities retain accountable decisions; system and supplier owners preserve evidence; independent reviewers test traceability and readiness. AI may organize authorized records, identify gaps, draft questions, and prepare non-authoritative workpapers, but cannot determine legal obligations, select a certification body, assign an assessment result, approve data uses or transfers, decide a notification obligation, access personal data without authorization, submit an application, or claim certification or compliance. Review annually and before material personal-data, supplier, cross-border, incident, policy, or certification-scope changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

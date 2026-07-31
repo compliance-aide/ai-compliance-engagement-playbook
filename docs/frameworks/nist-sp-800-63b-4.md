@@ -18,3 +18,8 @@ evidence. Independent reviewers evaluate rationale and evidence coherence. AI ma
 trace authorized claims to evidence and flag staleness; it cannot make
 access, identity, or exception decisions. Review operational signals throughout
 the year and watch for source revisions.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

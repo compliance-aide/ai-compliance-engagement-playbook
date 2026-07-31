@@ -11,3 +11,8 @@ Maintain an assurance record for Linux application-container deployments that co
 Application, platform, infrastructure, security, operations, architecture, risk, supplier, and release owners retain accountable decisions. Platform owners preserve environment and implementation evidence; security and architecture owners govern verification boundaries; workload owners attest to intended usage; and release authorities decide whether documented evidence is sufficient for deployment. Independent reviewers test selected workloads from stated objective through component evidence, verification result, exception, runtime operation, and release decision, and report unsupported assumptions or evidence gaps.
 
 AI may organize authorized assurance artifacts, compare declared dependencies with evidence records, flag missing verification or ownership fields, draft questions, and prepare non-authoritative workpapers. AI cannot perform a security test, modify a deployment, infer that evidence is sufficient, approve an exception, make a release decision, alter production configuration, or claim compliance. Reassess after material workload, image, host, runtime, orchestration, supplier, vulnerability, or deployment changes; review exceptions quarterly and conduct an annual independent readiness review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

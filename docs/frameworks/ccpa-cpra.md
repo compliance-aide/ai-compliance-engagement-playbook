@@ -17,3 +17,8 @@ Independent reviewers test evidence integrity and escalation governance. AI
 assembles review packets and detects stale notices; it cannot decide applicability,
 consumer outcomes, data classifications, or filings. Review quarterly and after
 regulatory or business changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

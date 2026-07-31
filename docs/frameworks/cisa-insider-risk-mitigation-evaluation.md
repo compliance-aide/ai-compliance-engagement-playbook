@@ -11,3 +11,8 @@ Operate a privacy-aware insider-risk readiness program that connects governance,
 Assign accountable executive, insider-risk program, security, legal, privacy, human-resources, ethics, physical security, records-management, communications, and service-owner roles. Operators maintain program scope, approved data-use and access records, training evidence, reporting and escalation records, self-assessment artifacts, exercise results, privacy and legal approvals, corrective actions, and closure status. Review governance, data handling, reporting pathways, and open improvements quarterly; conduct and document an approved readiness evaluation at least annually and after material workforce, legal, privacy, technology, or threat changes. Before annual renewal, an independent reviewer samples governance and self-assessment evidence; auditors test the evidence trail without identifying individuals, conducting investigations, making personnel decisions, accepting risk, or attesting for management.
 
 AI may organize supplied program evidence, flag missing ownership or stale review artifacts, summarize approved self-assessment results, and draft workpapers for human review. AI cannot profile people, access restricted workforce data, make a threat or misconduct finding, initiate an investigation, recommend discipline, determine legal obligations, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

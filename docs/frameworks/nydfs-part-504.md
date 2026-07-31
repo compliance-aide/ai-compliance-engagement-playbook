@@ -9,3 +9,8 @@ Maintain scope, filing ownership, program change, data quality, tuning, governan
 ## Roles and annual rhythm
 
 Operators own procedures and alerts; independent reviewers evaluate filing support without operating scenarios. AI triages evidence gaps, but cannot disposition alerts, override judgments, sign/submit certification, or conceal defects. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

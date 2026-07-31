@@ -11,3 +11,8 @@ Operate a log-management program that makes material security and operational re
 Assign accountable executive, security-operations, platform, network, application, data, privacy, legal, records-management, service-owner, and supplier-management roles. Operators maintain log-source inventories, collection and storage evidence, access records, retention and disposal approvals, time-synchronization evidence, monitoring and escalation records, exception registers, supplier evidence, and remediation status. Review material log coverage, access, retention assumptions, and exceptions quarterly; test representative log availability, retrieval, and evidence integrity at least annually and after material service, architecture, data, or supplier changes. Before annual renewal, an independent reviewer samples log evidence from source through retrieval; auditors test the evidence trail without changing records, directing investigations, setting retention policy, accepting risk, or attesting for management.
 
 AI may organize supplied log-management evidence, identify missing ownership or stale coverage records, correlate documented sources with service inventories, and draft workpapers for human review. AI cannot alter or delete records, determine legal retention duties, make an investigative finding, accept risk, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

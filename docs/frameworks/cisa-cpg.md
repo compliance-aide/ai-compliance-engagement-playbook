@@ -17,3 +17,8 @@ Operators describe current reality and retain evidence. Independent reviewers
 sample claims and test whether exceptions remain acceptable. AI may keep the source
 register, evidence requests, and stale-claim log and draft risk narratives, but
 cannot decide risk, accept an exception, alter systems, or make a certification or endorsement claim. Re-rank the roadmap annually and after material change.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

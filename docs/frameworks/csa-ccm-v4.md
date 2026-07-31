@@ -19,3 +19,8 @@ Independent reviewers challenge assumed responsibility splits. AI may maintain a
 service/evidence register and draft vendor questions; it cannot decide a shared-
 responsibility dispute, approve a supplier, accept risk, alter cloud configuration, or claim assurance. Monitor changes monthly, review dependencies quarterly,
 and renew the supplier calendar annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

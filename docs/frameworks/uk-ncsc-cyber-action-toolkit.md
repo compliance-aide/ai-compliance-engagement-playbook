@@ -11,3 +11,8 @@ For sole traders, micro businesses, and small organizations, maintain a practica
 Assign an accountable owner and, where available, technology, security, data, finance, supplier, and service-owner roles. Operators maintain a simple service and account inventory, chosen action plan, completion and validation evidence, access and recovery records, supplier contacts, exceptions, incident notes, and improvement backlog. Review priority actions and open exceptions monthly; exercise account recovery, incident contact, and essential-service continuity at least annually and after material device, service, provider, staffing, or threat changes. Before annual renewal, an independent reviewer samples completed actions and recovery evidence; auditors test the evidence trail without configuring systems, accepting risk, deciding legal obligations, or attesting for management.
 
 AI may organize supplied evidence, flag stale action records or missing owners, help summarize progress, and draft workpapers for human review. AI cannot configure systems, approve actions, accept risk or an exception, determine legal obligations, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

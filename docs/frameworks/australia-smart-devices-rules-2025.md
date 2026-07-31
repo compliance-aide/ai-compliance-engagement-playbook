@@ -11,3 +11,8 @@ Maintain a product-compliance record for smart devices placed in the relevant Au
 Assign accountable product, security, engineering, support, supplier-management, legal, records, and executive owners. Operators preserve product and version inventories, design and test evidence, vulnerability intake and response records, update and end-of-support evidence, statement records, supplier confirmations, and approved external communications. Review in-scope products, statement validity, support commitments, vulnerabilities, supplier changes, and external claims quarterly and before releases. Before annual renewal, an independent reviewer samples products and records for traceability and consistency; auditors test the evidence trail without determining legal applicability, approving statements, making market-access decisions, or assuming management responsibility.
 
 AI may organize supplied evidence, reconcile product and support inventories, flag missing ownership or conflicting records, and draft workpapers for human review. AI cannot determine statutory applicability, approve a statement of compliance, decide product safety or market access, make a legal or compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

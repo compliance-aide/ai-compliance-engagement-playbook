@@ -9,3 +9,8 @@ Maintain system/service inventory, responsibilities, boundary changes, configura
 ## Roles and annual rhythm
 
 Operators maintain asset/data/service links; independent reviewers sample scope and closure. AI organizes evidence and gaps, but cannot grant authorization, determine impact, submit reports, or assert compliance. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

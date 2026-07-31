@@ -26,3 +26,8 @@ Maintain the monitoring calendar; validate evidence and inventory changes;
 review vulnerabilities, incidents, and remediation; assess significant changes
 early; support independent assessment; and always re-check current program
 rules rather than relying on legacy workflow descriptions.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

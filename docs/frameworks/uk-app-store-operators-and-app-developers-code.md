@@ -11,3 +11,8 @@ Set the engagement boundary around the organisation's role in the app ecosystem:
 Name accountable leaders for marketplace policy, application security, privacy, platform operations, vulnerability handling, releases, user communications, and legal escalation. Operators and platform teams preserve records of submission checks, policy exceptions, removals, appeals, developer notices, and store-level vulnerability handling. Developers preserve their application security design, dependency review, test, update, disclosure, and incident records. Review the register and material security decisions each quarter; exercise the removal, emergency-update, and vulnerable-app communication paths at least annually. Before renewal, an independent reviewer samples applications, store decisions, and end-to-end records to assess whether the stated process operated; auditors test the record trail without becoming the decision maker.
 
 AI may organize supplied evidence, reconcile app and release inventories, identify gaps in documented ownership or records, and prepare review workpapers for human review. AI cannot determine that an app is safe, approve publication or removal, decide legal notification duties, make a compliance or certification conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

@@ -11,3 +11,8 @@ Treat SAQ P2PE as a conditional validation path that depends on a documented pay
 Assign accountable owners for payment operations, physical and technical operations, security, key and device management, vendor management, finance, and incident response. Operators retain device and location inventory, solution deployment evidence, service and provider records, custody and maintenance records, access and change documentation, training, test results, exceptions, and incident artifacts. Reconcile the payment environment and solution evidence quarterly and after any device, provider, process, location, or network change. Before annual validation, management confirms eligibility and submission expectations with the recipient; an independent reviewer samples the scope statement and operations evidence. Auditors examine those records without determining solution status, scope, or management's attestation.
 
 AI may organize supplied evidence, reconcile payment devices and solution records, identify gaps or contradictory documentation, and draft workpapers for human review. AI cannot determine solution status, select the SAQ, decide eligibility or PCI DSS scope, approve a deployment, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

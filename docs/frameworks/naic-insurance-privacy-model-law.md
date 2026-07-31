@@ -9,3 +9,8 @@ Maintain an evidence trail for insurance-data governance: data uses and disclosu
 ## Roles and annual rhythm
 
 Privacy and business owners maintain notices and decision records; security and vendor owners supply operating evidence; legal counsel confirms jurisdictional interpretation; independent reviewers test traceability. AI inventories approved data-flow evidence, finds aging vendor or notice reviews, and drafts questions, but cannot determine legal obligations, approve consumer notices, or decide individual-rights outcomes. Review material data-practice changes before release, perform recurring evidence reviews, and keep human approvals with their rationale.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

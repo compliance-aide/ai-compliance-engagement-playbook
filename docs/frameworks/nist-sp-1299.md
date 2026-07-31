@@ -15,3 +15,8 @@ Security, risk, technology, privacy, legal, procurement, records, business, and 
 Review high-use and high-impact resources at least quarterly, validate the source register before annual planning and assessment preparation, and perform an annual governance review of resource ownership, currency, usage, and unresolved impacts. Trigger targeted review when a publisher releases a material change, an engagement scope changes, a new contractual or regulatory requirement appears, or a material incident reveals a gap.
 
 Independent reviewers sample a resource from official source through applicability decision, local use, impacted records, and subsequent review, testing traceability and currency. Auditors evaluate supplied evidence without declaring which resources govern, deciding applicability, making legal conclusions, approving policy, accepting risk, or issuing an attestation. AI may monitor approved source lists, compare versions, organize registers, flag stale reviews, draft change-impact questions, and summarize supplied records. AI cannot determine legal applicability, select authoritative sources, approve scope or policy, accept risk, make legal or financial conclusions, or attest to conformance.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

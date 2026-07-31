@@ -13,3 +13,8 @@ Preserve the chain from procurement and receipt through validation, accountable 
 Procurement, supply-chain, security, platform engineering, asset management, receiving, legal, finance, supplier, operations, incident-response, and records owners establish scope and make accountable decisions. Operators maintain supplier and device inventories, acquisition and receiving evidence, validation records, approved baselines, disposition and exception records, deployment evidence, incidents, and review history. Reconcile material device categories, suppliers, and validation coverage quarterly; review anomalies and supplier changes promptly; and conduct an annual integrity-program review.
 
 Independent reviewers sample a device from purchase or receipt through integrity evidence, accountable disposition, inventory, and periodic review, testing traceability and segregation of duties. Auditors evaluate supplied evidence without approving suppliers or procurement, conducting device changes, authorizing deployment, declaring authenticity, accepting risk, making legal or financial conclusions, or issuing an attestation. AI may organize records, identify missing provenance or stale reviews, draft workpapers, and prepare review questions. AI cannot determine authenticity, authorize isolation or deployment, select suppliers, approve procurement, accept risk, make legal or financial conclusions, or attest to conformance.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

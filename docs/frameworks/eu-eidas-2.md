@@ -9,3 +9,8 @@ Determine declared organizational role, identity and data flows, accountable own
 ## Roles and annual rhythm
 
 Identity owners operate the service; independent reviewers test flow diagrams and sample access and incident handling. AI maps evidence and identifies stale integrations, but cannot approve assurance, assert legal trust status, or alter credentialing decisions. Review changes quarterly and scope annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

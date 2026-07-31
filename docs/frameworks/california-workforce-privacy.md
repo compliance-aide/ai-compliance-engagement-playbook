@@ -9,3 +9,8 @@ Maintain applicability, applicant/workforce data, purpose, recipient, provider, 
 ## Roles and annual rhythm
 
 Counsel decides scope; independent reviewers test notices and workflows. AI organizes evidence, but cannot deny or respond to rights requests without human authorization. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

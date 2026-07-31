@@ -9,3 +9,8 @@ Maintain current IoT system boundaries, device and service ownership, data and n
 ## Roles and annual rhythm
 
 System owners define intended use and risk context; engineering and operations teams maintain evidence; independent reviewers challenge traceability. AI inventories approved device and service evidence, finds missing owners or stale lifecycle records, and drafts questions, but cannot approve deployment, determine safety, or claim conformance. Revisit records at onboarding, major change, and scheduled review; retain human approval for risk and release decisions.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

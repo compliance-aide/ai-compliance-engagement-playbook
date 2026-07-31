@@ -20,3 +20,8 @@ explicit. AI may analyze approved records for staleness, prepare interview and
 tabletop material, and flag missing safety approvals; it cannot control OT,
 initiate scans, alter configuration, or make a safety determination. Review throughout the year with annual
 operations-and-safety signoff.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

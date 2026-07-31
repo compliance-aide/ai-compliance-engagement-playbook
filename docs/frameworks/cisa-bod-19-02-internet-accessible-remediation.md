@@ -11,3 +11,8 @@ For applicable Federal Civilian Executive Branch systems, maintain a governed re
 Assign accountable agency or component executive, vulnerability-management, security, network, platform, application, system-owner, change-management, risk, and supplier-management roles. Operators maintain internet-accessible asset records, vulnerability evidence, prioritization records, treatment plans, change and test evidence, validation results, exception approvals, reporting artifacts, supplier evidence, and closure status. Review material asset scope, open vulnerability treatments, validation quality, and exceptions quarterly; reassess after material asset, software, provider, network, or threat changes. Before annual renewal, an independent reviewer samples records from identification through validated closure or approved exception; auditors test the evidence trail without directing remediation, authorizing production changes, accepting risk, submitting reports, or attesting for management.
 
 AI may organize supplied asset and remediation evidence, flag missing ownership or stale validation, correlate documented vulnerabilities with recorded services, and draft workpapers for human review. AI cannot scan or change systems without authorization, determine exposure, approve remediation, accept risk or an exception, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

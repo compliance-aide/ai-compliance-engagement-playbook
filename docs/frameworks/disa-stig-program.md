@@ -11,3 +11,8 @@ Maintain a release-aware technical-hardening engagement that connects applicable
 Assign accountable system-owner, security, platform, network, application, configuration-management, assessor, authorizing-official support, change-management, and supplier-management roles. Operators maintain technology inventories, applicable guidance/version decisions, baseline and implementation evidence, assessment results, exception and remediation records, test evidence, release-monitoring records, supplier evidence, and approved change records. Review published releases, material technology changes, open findings, and exceptions quarterly; reassess in scope when relevant guidance, system scope, or architecture changes. Before annual renewal, an independent reviewer samples guidance selection through closure evidence; auditors test the evidence trail without authorizing operation, approving production changes, accepting risk, or attesting for management.
 
 AI may organize supplied applicability, assessment, and remediation evidence, flag stale release reviews or missing ownership, and draft workpapers for human review. AI cannot change systems, determine an authorization decision, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

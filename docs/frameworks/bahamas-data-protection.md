@@ -9,3 +9,8 @@ Maintain a current record of personal-data uses, accountable owners, processing 
 ## Roles and annual rhythm
 
 Business and privacy owners maintain the processing record; security and supplier owners provide operating evidence; Bahamian counsel confirms scope; independent reviewers test traceability. AI organizes approved evidence and drafts questions, but cannot interpret law, decide individual rights, determine reportability, or make regulatory submissions. Review material changes before release and preserve human decisions with their rationale.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

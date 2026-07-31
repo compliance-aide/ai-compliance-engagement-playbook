@@ -9,3 +9,8 @@ Maintain technology inventory, update sources, prioritization criteria, test evi
 ## Roles and annual rhythm
 
 System owners approve change windows and exceptions; independent reviewers sample the evidence chain. AI correlates inventory, advisories, tickets, and results, but cannot deploy changes or waive risk. Track continuously, test quarterly, and review annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

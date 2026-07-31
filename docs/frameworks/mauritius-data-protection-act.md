@@ -9,3 +9,8 @@ Refresh data, service, processor, access, incident, registration-lifecycle, auto
 ## Roles and annual rhythm
 
 Operators maintain records and drills; independent reviewers sample system and vendor proof. AI drafts evidence requests and trends exceptions, but cannot interpret law, register, accept risk, or submit externally. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

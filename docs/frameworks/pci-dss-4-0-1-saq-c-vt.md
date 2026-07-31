@@ -11,3 +11,8 @@ Treat SAQ C-VT as a conditional validation profile with a documented operating b
 Assign accountable owners for payment operations, technology, security, vendor management, finance, physical operations, and incident response. Operators retain transaction-process diagrams, device and account inventories, access and change records, provider documentation, training and support evidence, test results, exceptions, and incident artifacts. Reconcile profile assumptions against live operations quarterly and immediately after material changes. Before the annual validation cycle, management confirms the profile with the submission recipient; an independent reviewer samples transaction activity and evidence to assess whether the stated profile is supported. Auditors examine the evidence and review process without choosing the profile or providing management's attestation.
 
 AI may organize supplied evidence, reconcile transaction and asset records, flag missing or inconsistent facts, and prepare review workpapers for human review. AI cannot choose an SAQ, decide eligibility or PCI DSS scope, approve payment operations, determine compliance, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

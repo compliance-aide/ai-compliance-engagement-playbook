@@ -9,3 +9,8 @@ Maintain service role, agreements, subprocessor, customer-assistance, incident, 
 ## Roles and annual rhythm
 
 Qualified humans decide interpretation and adherence; independent reviewers sample operations. AI identifies inconsistency among commitments and evidence, but cannot declare adherence or engage monitoring bodies. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

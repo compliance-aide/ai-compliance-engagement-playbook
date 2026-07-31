@@ -9,3 +9,8 @@ Maintain a record of Alaska personal-information handling: covered records and s
 ## Roles and annual rhythm
 
 Privacy and legal owners determine applicability and notification obligations; security leads preserve incident evidence; system and records owners maintain handling and retention evidence; communications owners approve external statements; independent reviewers test record traceability. AI may organize approved records, flag missing evidence, and draft nonbinding questions, but cannot determine whether an incident is legally reportable, send notices, contact affected people or authorities, approve disposal, or claim compliance. Review annually and when material data, system, supplier, retention, or incident circumstances change.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

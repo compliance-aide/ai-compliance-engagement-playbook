@@ -11,3 +11,8 @@ Treat SAQ A-EP as a conditional validation profile for an e-commerce environment
 Assign accountable owners for commerce, payment integration, web engineering, security, vendor management, incident response, and finance. Operators retain change, dependency, test, payment-flow, provider-confirmation, access, and incident records as normal business evidence. Reassess the scope record after payment-page, checkout, script, hosting, or provider changes and at least quarterly. Before annual validation, management confirms profile eligibility with the recipient; an independent reviewer tests a risk-based sample of scope statements and operating records. Auditors examine evidence and assessment discipline without deciding eligibility, scope, or management's attestation.
 
 AI may organize submitted records, identify evidence gaps and conflicts, link technical changes to scope decisions, and prepare workpapers for human review. AI cannot choose the SAQ, decide eligibility or PCI DSS scope, approve payment-page changes, determine compliance, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

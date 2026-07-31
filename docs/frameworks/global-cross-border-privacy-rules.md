@@ -9,3 +9,8 @@ Maintain a cross-border privacy assurance record that connects processing purpos
 ## Roles and annual rhythm
 
 Executive, privacy, legal, security, risk, and business authorities retain accountable decisions; system and supplier owners preserve evidence; recognized accountability agents and independent reviewers perform their defined review roles. AI may organize authorized records, identify evidence gaps, draft questions, and prepare non-authoritative workpapers, but cannot determine legal applicability, approve processing or transfers, select an accountability agent, assign an assessment result, access personal data without authorization, submit an application, or claim certification or compliance. Review annually and before material data, supplier, transfer, incident, jurisdiction, or certification-scope changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

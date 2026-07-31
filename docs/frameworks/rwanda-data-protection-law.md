@@ -9,3 +9,8 @@ Maintain data inventory, accountable processing and rights records, processor an
 ## Roles and annual rhythm
 
 Operators preserve operational proof; independent reviewers reperform samples and test closure. AI synthesizes gaps but cannot make legal determinations, approve processing, decide notifications, or contact authorities.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

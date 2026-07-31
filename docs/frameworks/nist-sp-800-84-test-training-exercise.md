@@ -11,3 +11,8 @@ Operate a disciplined test, training, and exercise program for information-techn
 Assign accountable executive, exercise-program, security, technology, business-continuity, incident-command, human-resources or training, legal, communications, supplier-management, and service-owner roles. Operators maintain plan inventories, annual exercise schedules, scope and scenario approvals, participant lists, facilitator and observer records, exercise artifacts, evaluation results, lessons learned, corrective-action records, and closure evidence. Review schedule, scenario coverage, dependencies, and remediation status quarterly; conduct and document representative tests, training, or exercises at least annually and after material plan, service, supplier, architecture, or threat changes. Before annual renewal, an independent reviewer samples exercise evidence and corrective-action closure; auditors test the evidence trail without directing the exercise, accepting residual risk, approving remediation, or attesting for management.
 
 AI may organize supplied exercise records, identify missing scenarios or closure evidence, summarize observed patterns, and draft workpapers for human review. AI cannot select final scenarios alone, direct an exercise, evaluate participant performance as a personnel decision, accept risk, approve remediation, make a compliance conclusion, attest for management, or replace independent review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

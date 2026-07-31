@@ -13,3 +13,8 @@ An outcome statement, metric, dashboard, assessment, management report, or assur
 Enterprise risk, executive, board or governing body, finance, security, privacy, technology, supply-chain, business-unit, legal, audit, and records owners define accountable outcomes and make decisions. Operators maintain outcome-to-activity traceability, evidence and measurement records, ownership and dependency links, reporting history, exceptions, improvement work, and management decisions. Reconcile outcome coverage, metric currency, ownership, dependencies, and evidence quality at least quarterly; update after material incidents, strategy changes, acquisitions, supplier shifts, or regulatory developments; and conduct an annual governance review.
 
 Independent reviewers sample from an enterprise outcome through the supporting program activities and evidence, noting gaps and inconsistent interpretation. Auditors evaluate supplied materials without setting outcomes, choosing metrics, changing risk records, accepting risk, approving investments, or issuing an attestation. AI may organize traceability, compare evidence with approved outcome definitions, flag missing ownership or stale measures, draft workpapers, and prepare review questions. AI cannot define enterprise outcomes, set materiality or appetite, select risk treatment, accept risk, make financial or legal conclusions, or attest to conformance.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

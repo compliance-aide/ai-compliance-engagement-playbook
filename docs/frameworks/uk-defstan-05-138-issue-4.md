@@ -9,3 +9,8 @@ Maintain a contract-aware supplier cybersecurity record: relevant contracts and 
 ## Roles and annual rhythm
 
 Contract and security owners maintain evidence; subcontract-management owners preserve flowdown and supplier records; legal and security leadership interpret contract obligations; independent reviewers test traceability; MOD and other authorized assessors retain independent decision rights. AI may organize approved evidence, identify gaps, and draft nonbinding questions, but cannot determine a contract risk profile, complete or submit a Supplier Assurance Questionnaire, certify a supplier, accept contractual risk, approve a Cyber Improvement Plan, or claim compliance. Review at contract award, renewal, subcontract, material service, incident, and annual engagement checkpoints.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

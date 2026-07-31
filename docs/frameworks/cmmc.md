@@ -24,3 +24,8 @@ the organization to DoD, certify a result, make submissions, or approve scope or
 Revalidate contract and program status, CUI flows, scope, and evidence; test
 operation; track remediation; and trigger early review after award changes,
 significant system changes, or program-rule updates.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

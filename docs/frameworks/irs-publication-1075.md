@@ -9,3 +9,8 @@ Map FTI receipt, flow, storage, processing, transmission, disposal, labels, appr
 ## Roles and annual rhythm
 
 Operators maintain labels and evidence; independent reviewers sample boundaries and report support. AI cannot receive FTI in unapproved environments, submit reports, authorize services, or decide incident reporting. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

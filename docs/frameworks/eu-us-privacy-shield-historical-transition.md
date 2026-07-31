@@ -9,3 +9,8 @@ Treat this as a legacy-transition record, not a new compliance target. Inventory
 ## Roles and annual rhythm
 
 Qualified privacy and legal owners determine transition obligations and current transfer mechanisms; business and communications owners approve changes to customer-facing statements; procurement maintains supplier records; independent reviewers test closure evidence. AI may locate references, organize approved evidence, and draft questions, but cannot select a transfer mechanism, self-certify, state that participation is current, modify public notices, or make a legal conclusion. Review the legacy record when a contract, data flow, supplier, notice, dispute, or legal-status change occurs, and keep an accountable annual confirmation that historical references have not re-entered active use.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

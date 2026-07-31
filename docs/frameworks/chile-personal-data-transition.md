@@ -9,3 +9,8 @@ Maintain distinct current-operation and transition-readiness records that connec
 ## Roles and annual rhythm
 
 Executive, privacy, legal, security, and business authorities retain accountable decisions; system and supplier owners preserve evidence; independent reviewers test date-sensitive readiness and traceability. AI may organize authorized records, identify milestones at risk, draft questions, and prepare non-authoritative workpapers, but cannot interpret transitional law, determine scope or effective dates, approve data uses or transfers, decide notification obligations, access personal data without authorization, submit a regulatory representation, or claim compliance. Review annually and before material personal-data, supplier, cross-border, incident, policy, or legal-transition changes.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

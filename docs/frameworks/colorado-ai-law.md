@@ -9,3 +9,8 @@ Identify consequential-decision workflows and organizational role; maintain deci
 ## Roles and annual rhythm
 
 Operators track workflow evidence; independent reviewers sample outcomes and remediation. AI may flag potential coverage and assemble case evidence, but cannot decide applicability, make or reconsider decisions, issue notices, or respond to regulators. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

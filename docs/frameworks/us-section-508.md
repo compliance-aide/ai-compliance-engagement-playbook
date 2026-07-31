@@ -9,3 +9,8 @@ Maintain covered ICT, applicability, procurement/build scope, exception, vendor 
 ## Roles and annual rhythm
 
 Human leads decide scope and exceptions; independent reviewers test evidence. AI assists inventory and issue dedupe, but cannot validate testing, rely solely on vendor statements, or make compliance claims. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

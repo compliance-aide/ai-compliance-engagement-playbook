@@ -6,7 +6,12 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 GUIDES = ROOT / "docs" / "frameworks"
-REQUIRED = ("original operational guidance", "engagement focus", "roles")
+REQUIRED = (
+    "original operational guidance",
+    "engagement focus",
+    "roles",
+)
+CONTRACT_LINK = "[universal engagement contract](../universal-engagement-contract.md)"
 AI_TERMS = ("ai", "artificial intelligence")
 
 failures = []
@@ -15,6 +20,8 @@ for guide in sorted(GUIDES.glob("*.md")):
         continue
     body = guide.read_text(encoding="utf-8").lower()
     missing = [term for term in REQUIRED if term not in body]
+    if CONTRACT_LINK not in body:
+        missing.append("universal engagement contract link")
     if not any(term in body for term in AI_TERMS):
         missing.append("AI role")
     if "independent" not in body:

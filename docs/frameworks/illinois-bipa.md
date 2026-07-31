@@ -9,3 +9,8 @@ Maintain biometric-use inventory, purpose and notice records, consent authority,
 ## Roles and annual rhythm
 
 Privacy, legal, security, HR, and product owners determine applicability and rights handling; independent reviewers test evidence. AI maps approved records and flags gaps, but cannot collect biometrics, obtain consent, decide retention, or make legal conclusions. Review on change and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

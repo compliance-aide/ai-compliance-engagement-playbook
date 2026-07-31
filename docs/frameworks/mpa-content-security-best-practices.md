@@ -9,3 +9,8 @@ Maintain a defensible content-protection operating record for each production, p
 ## Roles and annual rhythm
 
 Content owners define access and release decisions; production and vendor owners maintain operational evidence; security teams coordinate access, monitoring, and incident response; legal and rights holders decide contractual and intellectual-property matters; independent reviewers test evidence traceability. AI may inventory approved records, flag incomplete custody evidence, and prepare review questions, but cannot access unreleased content without authorization, make rights decisions, complete an MPA or TPN assessment, submit information, or represent registry or certification status. Reassess before a material workflow, supplier, location, platform, release-window, or incident change, with named human approval for every external statement.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

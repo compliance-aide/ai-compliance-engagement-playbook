@@ -15,3 +15,8 @@ Business leadership establishes priorities, funding, tolerances, and accountable
 Review high-priority actions and material changes at least quarterly, test a small number of realistic recovery or incident scenarios during the year, review access and critical backups on a defined cadence, and perform an annual leadership review of priorities, evidence limitations, remaining risk, investment needs, and next-year work. Reassess promptly after a material incident, new service, supplier change, significant personnel change, acquisition, or business-model change.
 
 Independent reviewers sample a priority from the business need through the implemented safeguard, available evidence, and leadership review, testing whether the record is coherent and current. Auditors evaluate supplied evidence without choosing safeguards, setting priorities, accepting risk, approving spending, operating systems, making legal or financial conclusions, or issuing an attestation. AI may organize supplied records, surface missing ownership or stale evidence, draft task lists and workpapers, summarize approved decisions, and prepare review questions. AI cannot determine adequate protection, set business priorities, select or approve safeguards, accept risk, authorize spending, make legal or financial conclusions, or attest to conformance.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

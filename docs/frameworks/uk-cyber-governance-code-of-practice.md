@@ -11,3 +11,8 @@ Maintain a board-ready cyber-governance record that connects material digital ri
 The board, directors, senior management, risk, security, technology, operations, procurement, legal, and internal-audit owners retain accountable decisions. Executives prepare management information; risk and security owners maintain evidence and escalation routes; the board decides governance direction; and auditors evaluate evidence in their independent role. Independent reviewers sample reported risks and metrics through source records, management challenge, decision logs, supplier evidence, remediation, and follow-up, challenging optimism bias, ambiguous tolerances, missing escalation, and unsupported assurance claims.
 
 AI may organize authorized governance metadata, identify missing sources or review fields, compare approved reporting definitions with records, draft questions, and prepare non-authoritative workpapers. AI cannot set risk appetite, determine materiality, advise a board as an authority, approve strategy, authorize a disclosure, accept risk, alter evidence, or claim compliance. Reassess before material business, technology, supplier, threat, incident, regulatory, or leadership changes; provide routine management reporting and conduct an annual independent readiness review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

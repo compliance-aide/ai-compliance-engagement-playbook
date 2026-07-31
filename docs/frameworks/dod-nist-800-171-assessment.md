@@ -9,3 +9,8 @@ Confirm contract clauses and assessment need; maintain SSP, implementation evide
 ## Roles and annual rhythm
 
 Authorized humans approve scores and submissions; independent reviewers test evidence quality. AI builds read-only readiness ledgers, but cannot calculate or submit official scores. Reconcile quarterly and prepare annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

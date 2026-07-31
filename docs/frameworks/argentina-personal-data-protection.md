@@ -9,3 +9,8 @@ Maintain a data-set register for purpose, source, use, recipient, retention, and
 ## Roles and annual rhythm
 
 Operators remediate stale holdings; independent reviewers trace records through lifecycle and rights cases. AI flags inconsistent evidence, but cannot resolve identity checks, determine legal basis, authorize disclosures, or decide exceptions. Review quarterly and annually.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.

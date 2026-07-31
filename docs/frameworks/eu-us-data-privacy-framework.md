@@ -9,3 +9,8 @@ Maintain a cross-border transfer and participation-readiness record: participati
 ## Roles and annual rhythm
 
 Qualified privacy and legal owners determine eligibility, program obligations, and transfer mechanisms; business owners approve service scope and public statements; operations and suppliers maintain evidence; independent reviewers test traceability and renewal readiness. AI may organize approved records, flag stale statements or evidence, and draft nonbinding questions, but cannot self-certify, submit a filing, decide eligibility, respond to a complaint, select a legal transfer mechanism, or claim participation. Reassess before any material entity, service, data-flow, supplier, public-statement, complaint, or program-status change and complete an accountable human annual review.
+
+
+## Universal engagement contract
+
+Apply the [universal engagement contract](../universal-engagement-contract.md) for the shared applicability, authority, evidence, technical-test, exception, source-change, and renewal requirements that govern this framework engagement.
