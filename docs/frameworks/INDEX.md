@@ -280,6 +280,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 1300 small-business cybersecurity](nist-sp-1300.md)
 - [NIST SP 1301 organizational profiles](nist-sp-1301.md)
 - [NIST SP 1299 CSF resource governance](nist-sp-1299.md)
+- [NIST SP 1271 CSF 1.1 transition](nist-sp-1271-csf-1-1-transition.md)
 - [NIST SP 800-204 microservices security](nist-sp-800-204.md)
 - [NIST SP 800-204A service-mesh microservices security](nist-sp-800-204a.md)
 - [NIST SP 800-204B ABAC service-mesh microservices security](nist-sp-800-204b.md)
