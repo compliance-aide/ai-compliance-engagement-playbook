@@ -269,6 +269,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-228 cloud-native API protection](nist-sp-800-228.md)
 - [NIST SP 800-231 cybersecurity-bug classification](nist-sp-800-231.md)
 - [NIST SP 800-232 lightweight cryptography](nist-sp-800-232.md)
+- [NIST SP 800-233 service-mesh proxy](nist-sp-800-233.md)
 - [NIST SP 800-204 microservices security](nist-sp-800-204.md)
 - [NIST SP 800-204A service-mesh microservices security](nist-sp-800-204a.md)
 - [NIST SP 800-204B ABAC service-mesh microservices security](nist-sp-800-204b.md)
