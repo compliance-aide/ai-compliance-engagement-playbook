@@ -258,6 +258,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-210 cloud access control](nist-sp-800-210.md)
 - [NIST SP 800-213 IoT-device acquisition](nist-sp-800-213.md)
 - [NIST SP 800-213A IoT-capability evidence](nist-sp-800-213a.md)
+- [NIST SP 800-215 enterprise-network landscape](nist-sp-800-215.md)
 - [NIST SP 800-204 microservices security](nist-sp-800-204.md)
 - [NIST SP 800-204A service-mesh microservices security](nist-sp-800-204a.md)
 - [NIST SP 800-204B ABAC service-mesh microservices security](nist-sp-800-204b.md)
