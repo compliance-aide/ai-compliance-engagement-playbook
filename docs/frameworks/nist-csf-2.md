@@ -29,6 +29,8 @@ business objectives.
 
 **Source and rights snapshot.** Use the [NIST CSF source](https://www.nist.gov/cyberframework), which identifies CSF 2.0 and its profile resources, as the official source. Reviewed 2026-07-31. This is original operational guidance, not a copied CSF outcome list or a conformance statement. A risk owner approves the organization profile, scope, and use of informative references.
 
+**Plan status:** Independently reviewed; see the [review receipt](../evidence-plan-reviews/nist-csf-2.md).
+
 ### 1. Organizational profile and risk-decision record
 
 - **Request and owner:** Approved current and target profiles, business objectives, material services, risk appetite, dependencies, and open risk decisions from the enterprise-risk and security owners.

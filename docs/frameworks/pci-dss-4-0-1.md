@@ -29,6 +29,8 @@ the appropriate validation path with the responsible human parties.
 
 **Source and rights snapshot.** Use the current [PCI DSS library](https://www.pcisecuritystandards.org/document_library/?class=pcidss&doc=pci_dss), payment-brand, and acquirer direction; checked 2026-07-31. PCI materials and validation routes have program conditions. This is original planning language, not a substitute for a PCI SSC document, SAQ, ROC, compensating-control decision, or attestation.
 
+**Plan status:** Independently reviewed; see the [review receipt](../evidence-plan-reviews/pci-dss-4-0-1.md).
+
 ### 1. Payment-data boundary and responsibility evidence
 
 - **Request and owner:** Payment-flow diagrams, card-data environment and connected-system inventory, account-data location/retention records, service-provider responsibility matrix, and human-selected validation route inputs, from payment, security, architecture, and vendor owners.

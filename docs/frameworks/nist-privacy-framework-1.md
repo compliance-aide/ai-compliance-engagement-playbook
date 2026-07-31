@@ -25,6 +25,8 @@ quarterly effectiveness, and annual governance.
 
 **Source and rights snapshot.** Use the [NIST Privacy Framework](https://www.nist.gov/privacy-framework/privacy-framework) together with applicable laws and qualified privacy review; reviewed 2026-07-31. This plan organizes evidence for privacy-risk management and does not decide legal applicability, lawful processing, or an individual's request outcome.
 
+**Plan status:** Independently reviewed; see the [review receipt](../evidence-plan-reviews/nist-privacy-framework-1.md).
+
 ### 1. Data-processing and privacy-risk map
 
 - **Request and owner:** An approved inventory of personal-data categories, purposes, systems, data flows, recipients, retention points, and affected people, plus privacy-risk scenarios and accountable owners.

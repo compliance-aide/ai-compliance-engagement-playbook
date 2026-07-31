@@ -15,6 +15,8 @@ Program owners own roadmap delivery; engineering teams provide operating proof. 
 
 **Source and rights snapshot.** Use the [OWASP SAMM project](https://owasp.org/www-project-samm/) under applicable terms; checked 2026-07-31. This plan is original implementation guidance and does not assign an official maturity rating or reproduce source material. Program leadership approves scope, baseline method, roadmap priorities, and external representations.
 
+**Plan status:** Independently reviewed; see the [review receipt](../evidence-plan-reviews/owasp-samm-v2.md).
+
 ### 1. Product/SDLC boundary and baseline record
 
 - **Request and owner:** Product and SDLC inventory, executive sponsorship record, operating-process baseline, accountable team/role map, measurement approach, and known scope exclusions from application-security and engineering leaders.

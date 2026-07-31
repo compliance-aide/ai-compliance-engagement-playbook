@@ -24,6 +24,8 @@ independently challenge the inventory and decisions annually.
 
 **Source and rights snapshot.** Use the current [NIST AI RMF source](https://www.nist.gov/itl/ai-risk-management-framework) and revision notices; reviewed 2026-07-31. This plan is original language and does not declare a system trustworthy, safe, fair, lawful, or fit for deployment. The accountable AI governance owner approves scope, risk decisions, and release decisions.
 
+**Plan status:** Independently reviewed; see the [review receipt](../evidence-plan-reviews/nist-ai-rmf-1.md).
+
 ### 1. AI use-case, role, and impact inventory
 
 - **Request and owner:** A versioned inventory of each use case, intended purpose, deployment context, model/data/provider dependencies, organization role, affected parties, and lifecycle state, owned by the product and AI-governance leads.
