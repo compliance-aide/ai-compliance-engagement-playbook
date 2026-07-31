@@ -250,6 +250,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [FIPS 198-1 keyed-hash message authentication](fips-198-1-hmac.md)
 - [FIPS 200 minimum-security requirements](fips-200.md)
 - [FIPS 203 post-quantum key encapsulation](fips-203.md)
+- [FIPS 201-3 Personal Identity Verification](fips-201-3.md)
 - [FIPS 204 post-quantum digital signatures](fips-204.md)
 - [FIPS 205 post-quantum hash-based signatures](fips-205.md)
 - [FIPS 140-3 cryptographic modules](fips-140-3.md)
