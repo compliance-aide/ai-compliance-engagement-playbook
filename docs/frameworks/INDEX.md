@@ -200,6 +200,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [CISA BOD 20-01 vulnerability disclosure](cisa-bod-20-01-vulnerability-disclosure.md)
 - [CISA BOD 23-02 internet-exposed management interfaces](cisa-bod-23-02-management-interfaces.md)
 - [CISA BOD 25-01 secure cloud services](cisa-bod-25-01-cloud-services.md)
+- [CISA BOD 18-02 high-value assets](cisa-bod-18-02-high-value-assets.md)
 - [NIST SP 800-37 Revision 2](nist-sp-800-37-r2.md)
 - [NIST SP 800-161 Revision 1](nist-sp-800-161-r1.md)
 - [NIST SP 800-160 Volume 2 Revision 1 cyber resiliency](nist-sp-800-160-v2-r1.md)
