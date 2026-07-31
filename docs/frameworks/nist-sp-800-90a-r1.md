@@ -1,0 +1,13 @@
+# NIST SP 800-90A Revision 1 DRBG engagement guide
+
+> Original operational guidance, not NIST DRBG content, random-number-generator implementation instructions, a validation claim, or a compliance claim. Confirm current status and future revision activity through [NIST SP 800-90A Revision 1](https://csrc.nist.gov/pubs/sp/800/90/a/r1/final) and the organization’s approved security, cryptography, engineering, procurement, and operational decisions.
+
+## Engagement focus
+
+Operate a governed lifecycle for in-scope deterministic random-bit generators used by applications, cryptographic modules, platforms, services, and suppliers. Maintain traceability from intended use through generator and module identity, approved version and configuration baseline, entropy and construction dependencies, test and validation evidence, operational health, change history, supplier dependencies, and standards-status review. A passing test, generated output, or vendor statement is evidence to assess; it does not prove cryptographic suitability, correct implementation, validation, or compliance.
+
+## Roles and annual rhythm
+
+Assign accountable executive, security, cryptography or platform engineering, architecture, application and product owners, procurement, supplier-management, change-management, incident-response, and records-management roles. Operators maintain an in-scope DRBG inventory, approved versions and configurations, dependent entropy and construction records, test and validation-status evidence, operational health records, change approvals, supplier assurance, exception decisions, incidents, and system-to-generator traceability. Reconcile generators, components, owners, and deployed versions quarterly; review technical guidance status, health anomalies, validation status, supplier notices, configuration changes, exceptions, and unresolved risks at least quarterly; and complete an annual management review after material system, module, provider, cryptographic, or threat changes. Before annual renewal, an independent reviewer samples inventory-to-deployment-to-test traceability; auditors test the evidence trail without generating random values, accessing cryptographic material, changing production configuration, approving exceptions, accepting risk, or attesting for management.
+
+AI may organize supplied inventory, dependency, test, supplier, health, and review evidence, identify missing ownership or stale standards-status records, and draft workpapers for human review. AI cannot design or implement a DRBG, generate or access cryptographic material, change production configuration, determine validation, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
