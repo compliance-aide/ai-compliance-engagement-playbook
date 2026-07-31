@@ -32,9 +32,13 @@ conformance, certification, authorization, or a legal conclusion.
 
 ## Review and publication rule
 
-Before a plan is marked reviewed, an independent source reviewer confirms the
-official link, current-status statement, and rights boundary. A skeptical
-reviewer checks that the packages are genuinely framework-specific, testable,
-and explicit about non-proof and human authority. Record material
-disagreement in the engagement workpaper; do not place customer evidence or
-identifiers in this repository.
+Before a plan is marked reviewed, create a guide-specific receipt under
+`docs/evidence-plan-reviews/`. The receipt records the official URL, source
+status/version/effective date where known, retrieval date, source-rights result,
+source-reviewer identity and independence, skeptical-reviewer identity and
+independence, review date, corrections or disagreements, and the review
+boundary. The source reviewer confirms the official link, current-status
+statement, and rights boundary. The skeptical reviewer checks that the packages
+are genuinely framework-specific, testable, and explicit about non-proof and
+human authority. Do not place customer evidence or identifiers in this
+repository.
