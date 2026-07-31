@@ -12,6 +12,28 @@ Assign accountable executive, security, cryptography or platform engineering, ar
 
 AI may organize supplied inventory, design, implementation, test, supplier, and review evidence, identify missing owners or stale decisions, and draft workpapers for human review. AI cannot select a format-preserving-encryption method or parameters, access protected material, change configuration, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Use the official [NIST SP 800-38G publication record](https://csrc.nist.gov/pubs/sp/800/38/g/upd1/final) and approved organizational cryptography decisions; checked 2026-07-31. This original plan collects format-preserving-encryption implementation and usage evidence only. It does not reproduce the publication, validate an algorithm or module, prescribe an FPE method or parameters, or make a conformance claim.
+
+### 1. Format-domain purpose and integration package
+
+- **Request and owner:** Application, data, and cryptography owners provide an inventory of declared FPE uses, approved purpose and data-flow references, declared input format/domain descriptions that exclude live protected values, sender/receiver or service identifiers, library/provider versions, key-management dependency references, and named owners.
+- **Validate and limit:** Trace one declared use from purpose and format-domain record through the identified integration, library/provider, key-management interface, and owner. This checks traceability of supplied records; it cannot determine whether the format domain, method, parameterization, data handling, or implementation is suitable or correct.
+- **AI and trigger:** AI may reconcile redacted inventories and flag missing format-domain descriptions, owners, dependencies, or versions. Humans decide data treatment, scope, and cryptographic design. Refresh after a new use, format/domain change, integration, library, provider, or key-management change.
+
+### 2. Deployment and data-path-operation package
+
+- **Request and owner:** Platform and application owners provide approved build/release/deployment records, non-secret configuration references identifying the declared FPE integration, protected configuration-access records, change tickets, and non-secret error or incident summaries for the affected data path.
+- **Validate and limit:** Link a selected deployment or data-path change to its approved change, release identity, declared integration/configuration reference, owner, and available operational evidence. This does not expose protected values, access keying material, run FPE operations, test format preservation, or establish safe data handling.
+- **AI and trigger:** AI may compare supplied version and deployment metadata and prepare missing-evidence questions. It may not access production data or keys, invoke cryptographic operations, change configuration, or interpret errors as validation. Humans approve releases, exceptions, and remediation. Refresh after a release, data-flow incident, format/domain change, or provider change.
+
+### 3. Supplier, exception, and retirement package
+
+- **Request and owner:** Security, supplier-management, data-governance, and records owners provide component/provider provenance, support or vulnerability notices, exception and incident references, migration/retirement decisions, review minutes, and evidence-retention references.
+- **Validate and limit:** Sample one component, exception, or retirement event through provenance, accountable review, decision record, corrective action, and next-review date. This supports lifecycle accountability; it cannot validate a supplier component, prove reversibility or data protection, or establish compliance.
+- **AI and trigger:** AI may flag stale notices, unowned exceptions, missing migration links, or overdue review dates. Humans decide remediation, data migration, risk acceptance, and external statements. Review quarterly and after material supplier, threat, data-format, implementation, or publication changes.
+
 
 ## Universal engagement contract
 
