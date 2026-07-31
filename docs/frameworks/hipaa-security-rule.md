@@ -21,13 +21,17 @@ or alter systems; human review is required before conclusions or changes.
 
 ## Annual rhythm
 
-Review ePHI flows, vendors, and environmental changes; complete the documented
-risk-analysis cycle; test response and recovery; update the remediation plan;
-and preserve management decisions with owners and review dates.
+Perform periodic review and update when environmental or organizational change
+affects the security program; as this playbook's minimum engagement cadence,
+annually review ePHI flows, vendors, the documented risk-analysis cycle,
+response/recovery tests, remediation, and management decisions. This cadence is
+not a statement that HIPAA itself mandates an annual review.
 
 ## Tailored evidence plan
 
-**Source and rights snapshot.** Use the current [HIPAA Security Rule](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-C) together with HHS Security Rule guidance; checked 2026-07-31. The eCFR is a continuously updated reference rather than the official legal edition, so legal/compliance owners confirm binding text and applicability. This plan requests artifact classes, never ePHI, and does not make a legal compliance conclusion.
+**Plan status:** Independently reviewed; see the [review receipt](../evidence-plan-reviews/hipaa-security-rule.md).
+
+**Source and rights snapshot.** Use the current [HIPAA Security Rule](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-C), [HHS Security Rule overview](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html), and [HHS guidance](https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html); checked 2026-07-31. Treat the current rule as binding and any separately identified proposed modification as nonbinding unless and until effective. The eCFR is a continuously updated reference rather than the official legal edition, so legal/compliance owners confirm binding text and applicability. This plan requests artifact classes, never ePHI, and does not make a legal compliance conclusion.
 
 ### 1. ePHI boundary, role, and supplier record
 
@@ -43,7 +47,7 @@ and preserve management decisions with owners and review dates.
 
 ### 2a. Physical, workstation, device-media, and business-associate evidence
 
-- **Request and owner:** Facility/workstation access and environment records, device and media handling/disposal records, ePHI-capable asset assignment, business-associate agreement or written-assurance record, and vendor change evidence from facilities, endpoint, records, privacy, and vendor owners.
+- **Request and owner:** Facility/workstation access and environment records, device and media handling/disposal records, ePHI-capable asset assignment, business-associate contract or other arrangement providing satisfactory assurances, and vendor change evidence from facilities, endpoint, records, privacy, and vendor owners.
 - **Validate and limit:** Trace a selected ePHI-capable asset or vendor to its accountable owner, authorized environment/handling record, and written business-associate responsibility evidence while keeping ePHI out of the workpaper. This can support that these evidence domains are addressed; it cannot establish agreement sufficiency, complete physical coverage, or vendor compliance.
 - **AI and trigger:** AI may index approved metadata and flag missing ownership or expired vendor review. Humans approve contracts, physical safeguards, asset disposition, and vendor decisions. Refresh after a facility, workstation/device, media-handling, or business-associate change.
 
