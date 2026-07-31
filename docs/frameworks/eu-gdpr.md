@@ -48,8 +48,8 @@ following cycle.
 ### 3. Processor, security, and incident-change record
 
 - **Request and owner:** Processor/subprocessor register, contractual responsibility and change records, security-assurance inputs, incident timeline/exercise records, risk or impact assessments where the accountable owner considers them, and remediation tracking.
-- **Validate and limit:** Trace a selected vendor or incident to its responsibility record, evidence provenance, approval, and corrective action. This can support a documented governance trail; it cannot prove processor compliance, security effectiveness, reportability, or supervisory-authority notification obligations.
-- **AI and trigger:** AI may maintain a source-linked index and flag expiring or missing records. Legal/privacy and incident owners approve transfers, incident decisions, risk acceptance, and external communication. Refresh after a processor/subprocessor change, incident, high-risk initiative, or annual review.
+- **Validate and limit:** Trace a selected vendor or incident to its processing-agreement/instruction record, evidence provenance, approval, and corrective action. Maintain a counsel-owned high-risk-change/DPIA decision record, including the facts considered and why an assessment is initiated, updated, or not required. This can support a documented governance trail; it cannot prove processor compliance, security effectiveness, reportability, a DPIA outcome, or supervisory-authority notification obligations.
+- **AI and trigger:** AI may maintain a source-linked index and flag expiring or missing records. Legal/privacy and incident owners approve transfers, incident decisions, risk acceptance, DPIA decisions, and external communication. Refresh after a processor/subprocessor change, incident, high-risk initiative, or annual review.
 
 ## Universal engagement contract
 
