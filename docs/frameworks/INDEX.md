@@ -178,6 +178,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-107 Revision 1 hash applications](nist-sp-800-107-r1.md)
 - [NIST SP 800-57 Part 1 Revision 5 key management](nist-sp-800-57-pt1-r5.md)
 - [NIST SP 800-57 Part 2 Revision 1 key-management organizations](nist-sp-800-57-pt2-r1.md)
+- [NIST SP 800-57 Part 3 Revision 1 application-specific key management](nist-sp-800-57-pt3-r1.md)
 - [NIST SP 800-171 Revision 3](nist-sp-800-171-r3.md)
 - [NIST SP 800-171 Revision 2 historical transition](nist-sp-800-171-r2-historical-transition.md)
 - [NIST SP 1318 CUI small-business primer](nist-sp-1318-cui-small-business-primer.md)
