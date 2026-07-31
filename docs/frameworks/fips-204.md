@@ -1,0 +1,13 @@
+# FIPS 204 post-quantum digital-signature engagement guide
+
+> Original operational guidance, not FIPS content, ML-DSA implementation instructions, a cryptographic approval, a validation claim, or a compliance claim. Confirm current requirements and errata through [FIPS 204](https://csrc.nist.gov/pubs/fips/204/final) and the organization’s approved security, cryptography, architecture, legal, and operational decisions.
+
+## Engagement focus
+
+Operate a governed discovery-and-migration process for in-scope digital-signature uses that may adopt FIPS 204. Connect signing purposes, signer or service identities, applications and protocols, dependencies, module or provider versions, test outcomes, approval gates, rollout records, exceptions, rollback readiness, and lifecycle evidence to accountable owners. A product announcement, passing test, or configuration change is evidence to assess; it does not prove a migration is appropriate, interoperable, secure in context, legally effective, or compliant.
+
+## Roles and annual rhythm
+
+Assign accountable executive, security, cryptography or platform engineering, architecture, identity, application and service owners, legal, privacy where relevant, procurement, supplier-management, change-management, incident-response, business-continuity, and records-management roles. Operators maintain a scoped signature-use inventory, approved migration roadmap, signer and service ownership records, protocol and dependency evidence, module or provider status, test and rollout artifacts, change approvals, exception decisions, rollback evidence, and supplier assurances. Reconcile uses, owners, and dependencies quarterly; review cryptographic and provider changes, test results, expiring dependencies, exceptions, supplier notices, and unresolved risks at least quarterly; and complete an annual management review after material application, protocol, provider, cryptographic, legal, or threat changes. Before annual renewal, an independent reviewer samples use-to-rollout traceability and exception handling; auditors test the evidence trail without selecting algorithms, signing on behalf of a user, accessing private keys, configuring production systems, accepting risk, or attesting for management.
+
+AI may organize supplied inventory, test, supplier, rollout, and review evidence, identify missing ownership or stale decisions, and draft workpapers for human review. AI cannot design or implement cryptography, select parameters, sign or access private keys, determine signer authority, configure production systems, approve a migration or exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
