@@ -27,7 +27,7 @@ significant system changes, or program-rule updates.
 
 ## Tailored evidence plan
 
-**Source and rights snapshot.** Use the active solicitation/contract and current [DoD CMMC materials](https://dodcio.defense.gov/CMMC/Resources-Documentation/); checked 2026-07-31. This plan uses original readiness language and does not create a DoD representation, assessment result, SPRS entry, or certification claim. Contract, legal, and accountable security owners confirm the actual requirement and program status.
+**Source and rights snapshot.** Use the active solicitation/contract, current [DoD CMMC materials](https://dodcio.defense.gov/CMMC/Resources-Documentation/), the applicable 32 CFR Part 170 program rule, and any controlling 48 CFR/DFARS contract clause; checked 2026-07-31. This plan uses original readiness language and does not create a DoD representation, assessment result, SPRS entry, or certification claim. Contract, legal, and accountable security owners confirm the actual requirement and program status.
 
 ### 1. Contract, information type, and CUI scope record
 

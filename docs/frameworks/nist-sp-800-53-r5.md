@@ -27,7 +27,7 @@ renew the assessment plan after material change.
 
 ## Tailored evidence plan
 
-**Source and rights snapshot.** Use the current [NIST SP 800-53 source](https://www.nist.gov/publications/security-and-privacy-controls-information-systems-and-organizations); checked 2026-07-31. This guide records original evidence planning, not copied control text, a baseline selection, an authorization decision, or a conformance claim. The authorizing/system-risk authorities approve boundary and risk decisions.
+**Source and rights snapshot.** Use the current [NIST SP 800-53 source](https://www.nist.gov/publications/security-and-privacy-controls-information-systems-and-organizations); at review, NIST identified Revision 5 Release 5.2.0 (August 2025). Check release/change status before every assessment cycle. This guide records original evidence planning, not copied control text, a baseline selection, an authorization decision, or a conformance claim. The authorizing/system-risk authorities approve boundary and risk decisions.
 
 ### 1. Authorized boundary, inheritance, and implementation narrative
 

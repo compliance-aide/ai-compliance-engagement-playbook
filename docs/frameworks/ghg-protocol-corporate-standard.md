@@ -13,7 +13,7 @@ Data owners certify sources; methodology owners approve treatments; independent 
 
 ## Tailored evidence plan
 
-**Source and rights snapshot.** Use the [GHG Protocol Corporate Standard](https://ghgprotocol.org/corporate-standard?page=1) and current methodology material; checked 2026-07-31. This plan requests evidence records, not a substitute for methodology, verification, or assurance. Methodology and reporting owners approve organizational boundary, accounting treatments, factors, estimates, and public claims.
+**Source and rights snapshot.** Use the [GHG Protocol Corporate Standard](https://ghgprotocol.org/corporate-standard?page=1) and current methodology material; checked 2026-07-31. Scope 3 and project-offset work require separately scoped source material and are not implied by this corporate-inventory plan. This plan requests evidence records, not a substitute for methodology, verification, or assurance. Methodology and reporting owners approve organizational boundary, accounting treatments, factors, estimates, and public claims.
 
 ### 1. Reporting boundary and methodology-decision record
 
