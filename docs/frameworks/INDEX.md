@@ -218,6 +218,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-161 Revision 1](nist-sp-800-161-r1.md)
 - [NIST SP 800-160 Volume 2 Revision 1 cyber resiliency](nist-sp-800-160-v2-r1.md)
 - [NIST SP 800-207](nist-sp-800-207.md)
+- [NIST SP 800-208 stateful hash-based signatures](nist-sp-800-208.md)
 - [NIST SP 800-204 microservices security](nist-sp-800-204.md)
 - [NIST SP 800-204D DevSecOps supply chain](nist-sp-800-204d.md)
 - [NIST SP 800-190 application-container security](nist-sp-800-190.md)
