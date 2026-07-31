@@ -17,8 +17,8 @@ Humans validate with assistive technology and approve claims; independent review
 
 ### 1. Product/content inventory and target record
 
-- **Request and owner:** Product, page, template, content, platform, and third-party boundary inventory; declared target level; acceptance criteria; release owner; and known exclusions from product and accessibility owners.
-- **Validate and limit:** Trace a selected user journey or page to the inventory, target, owner, and release boundary. This can support a stated test population; it cannot prove the population is complete or establish conformance.
+- **Request and owner:** Complete-process and relevant page-set inventory, product/template/content/platform and third-party boundaries, declared target level, accessibility-supported technology assumptions, acceptance criteria, release owner, and known exclusions from product and accessibility owners.
+- **Validate and limit:** Trace a selected user journey or page to the complete process/page set, target, supported technology, owner, and release boundary. This can support a stated test population; it cannot prove the population is complete or establish conformance.
 - **AI and trigger:** AI may organize inventories and flag changed surfaces. Humans approve target, scope, exceptions, and public claims. Refresh after a material release, template/component, content, or third-party change.
 
 ### 2. Automated and human evaluation evidence
