@@ -183,6 +183,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-38B CMAC authentication](nist-sp-800-38b.md)
 - [NIST SP 800-38C CCM authenticated encryption](nist-sp-800-38c.md)
 - [NIST SP 800-38D GCM and GMAC](nist-sp-800-38d.md)
+- [NIST SP 800-38E storage-device confidentiality](nist-sp-800-38e.md)
 - [NIST SP 800-137 continuous monitoring](nist-sp-800-137.md)
 - [NIST SP 800-132 password-based key derivation](nist-sp-800-132.md)
 - [NIST SP 800-130 cryptographic key management systems](nist-sp-800-130.md)
