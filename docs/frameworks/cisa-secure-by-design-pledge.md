@@ -12,6 +12,28 @@ Executive leadership, product, engineering, security, privacy, support, legal, c
 
 AI may organize authorized program metadata, identify missing evidence or review fields, compare approved statements with retained records, draft questions, and prepare non-authoritative workpapers. AI cannot decide participation, define a product scope, determine measurable progress, publish a representation, make a pledge, certify a product, accept risk, alter evidence, or claim compliance. Reassess before material product, customer, goal, metric, vulnerability, incident, or public-commitment changes; review progress routinely and conduct an annual independent readiness review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Use the official [CISA Secure by Design Pledge](https://www.cisa.gov/sites/default/files/2024-05/CISA%20Secure%20by%20Design%20Pledge_508c.pdf), its current participation instructions, and organization-approved legal and communications direction; checked 2026-07-31. This is original progress-evidence planning, not pledge text, a participation determination, CISA endorsement, or an authorized public representation. Human owners confirm source currency, permitted use, pledge scope, and publication authority.
+
+### 1. Pledge scope, product population, and baseline package
+
+- **Request and owner:** Executive, product, security, and legal owners provide the proposed in-scope product/service population, accountable leaders, eligibility/scope rationale, baseline date, metric definitions, source-system references, exclusions, and approved limitations.
+- **Validate and limit:** Trace a selected in-scope product and baseline measure to its version/service boundary, source record, owner, calculation method, and documented exclusion. This can test whether claimed progress starts from a defined record; it cannot decide participation, validate metric completeness, or determine whether a pledge expectation is met.
+- **AI and trigger:** AI may reconcile authorized inventory and metric metadata and flag missing baselines or scope drift. Humans approve participation, scope, metric definitions, and exclusions. Refresh before a material product, portfolio, ownership, or metric-method change.
+
+### 2. Secure-development, remediation, and progress-measurement package
+
+- **Request and owner:** Engineering, security, release, vulnerability-management, support, and product owners provide approved roadmap items, development/review references, release and remediation records, measurement inputs, trend calculations, exceptions, corrective actions, and review history.
+- **Validate and limit:** Sample a reported improvement from baseline through product/version evidence, measurement input, engineering or remediation record, human review, and stated remaining limitation. This can assess traceability of one reported change; it cannot prove product security, absence of vulnerabilities, or progress across every product.
+- **AI and trigger:** AI may index approved artifacts, compare periods, and identify stale calculations or missing approvals. Humans interpret results, prioritize remediation, accept exceptions, and approve releases. Refresh after a material vulnerability, failed measure, release, incident, or roadmap change.
+
+### 3. Public-statement, customer-impact, and challenge package
+
+- **Request and owner:** Legal, communications, product, customer-success, security, and independent-review owners provide proposed statements, supporting evidence citations, customer-impact analysis, approval trail, limitations, corrections, and skeptical-review workpapers.
+- **Validate and limit:** Trace a selected statement to its approved scope, evidence period, metric method, named approvers, limitations, and correction route. This can identify unsupported or outdated language; it cannot authorize publication, make a pledge, determine customer obligations, or attest for management.
+- **AI and trigger:** AI may compare supplied draft language to approved evidence and flag absent qualifiers. Humans approve external statements, customer communications, corrections, and risk decisions. Recheck before publication and after a material product, metric, vulnerability, incident, or public-commitment change.
+
 
 ## Universal engagement contract
 

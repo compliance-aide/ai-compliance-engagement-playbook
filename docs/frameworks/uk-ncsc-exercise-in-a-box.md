@@ -12,6 +12,28 @@ Assign accountable executive, exercise facilitator, security, technology, incide
 
 AI may organize supplied exercise evidence, flag missing ownership or stale corrective actions, summarize approved observations, and draft workpapers for human review. AI cannot direct an exercise, declare readiness, make personnel decisions, accept risk, determine legal obligations, make a compliance conclusion, attest for management, or replace independent review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Record the retrieval date, accessed scenario category, and applicable site terms for the official [NCSC Exercise in a Box overview](https://www.ncsc.gov.uk/section/exercise-in-a-box/overview). This is original evidence-planning language and does not reproduce exercise content. A named human approves exercise scope, participation, scenario choice, and any real-world response action.
+
+### 1. Exercise scope, scenario-selection, and safe-participation package
+
+- **Request and owner:** Exercise, security, continuity, legal, privacy, HR, communications, and service owners provide the approved exercise charter, scenario-selection rationale, objectives, participant and observer roles, safety boundaries, supplier participation decisions, and privacy/communications constraints.
+- **Validate and limit:** Trace a selected exercise from approved objectives through scenario rationale, accountable facilitator, participant scope, and safety/escalation arrangements. This supports governed planning; it cannot establish participant competence, authorize a real incident action, or prove readiness.
+- **AI and trigger:** AI may index supplied charters and identify missing owners or dates. Humans approve scope, personnel participation, simulations, and legal/privacy decisions. Refresh before each exercise and after material service, threat, supplier, or staffing change.
+
+### 2. Facilitation, observation, and findings package
+
+- **Request and owner:** Facilitator, security, incident-command, technology, continuity, communications, and records owners provide approved exercise artifacts, attendance evidence, observer notes, decision logs, issue register, and retained evidence locations.
+- **Validate and limit:** Follow a selected observation from exercise record to evidence, accountable finding owner, severity rationale, and management escalation where applicable. This can substantiate a bounded learning observation; it cannot recreate the event, judge individual performance, or establish a real incident outcome.
+- **AI and trigger:** AI may organize approved notes and flag unresolved ownership. Humans validate observations, determine significance, and control personnel records. Recollect after each exercise or material finding.
+
+### 3. Corrective-action, retest, and management-assurance package
+
+- **Request and owner:** Security, technology, service, supplier, risk, executive, and assurance owners provide action plans, change approvals, exception decisions, retest or follow-up records, trend metrics, and annual review minutes.
+- **Validate and limit:** Trace a selected finding through accountable action, approved remediation or exception, follow-up evidence, and management review. This supports closure traceability; it cannot approve risk acceptance, prove effectiveness outside the sample, or provide an audit attestation.
+- **AI and trigger:** AI may compare open actions with due dates and draft a workpaper. Humans approve remediation, exceptions, risk treatment, and management conclusions. Review quarterly and after overdue, repeated, or high-impact findings.
+
 
 ## Universal engagement contract
 

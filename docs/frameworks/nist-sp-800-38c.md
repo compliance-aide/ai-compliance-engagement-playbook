@@ -12,6 +12,28 @@ Assign accountable executive, security, cryptography or platform engineering, ar
 
 AI may organize supplied inventory, design, implementation, test, supplier, and review evidence, identify missing owners or stale decisions, and draft workpapers for human review. AI cannot select an authenticated-encryption mode or parameters, access protected material, change configuration, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Use the official [NIST SP 800-38C publication record](https://csrc.nist.gov/pubs/sp/800/38/c/upd1/final) and approved organizational cryptography decisions; checked 2026-07-31. This original plan collects implementation and usage evidence only. It does not reproduce the publication, validate an algorithm or module, prescribe CCM inputs or parameters, or make a conformance claim.
+
+### 1. AEAD use and associated-data package
+
+- **Request and owner:** Application, data, and cryptography owners provide an inventory of declared CCM uses, approved purpose/data-flow references, associated-data and interface descriptions at a non-secret design level, library/version references, key-management dependencies, and named owners.
+- **Validate and limit:** Trace a selected declared use from purpose and data flow to its application/library reference, associated-data design reference, key-management interface, and owner. This checks evidentiary linkage; it cannot determine that confidentiality or integrity is achieved, that inputs are correct, or that the design is suitable.
+- **AI and trigger:** AI may organize supplied metadata and flag a missing data owner, dependency, or version reference. Humans approve data treatment, cryptographic decisions, and scope. Refresh after new data, associated-data, integration, library, or key-management changes.
+
+### 2. Release and failure-handling package
+
+- **Request and owner:** Application and platform owners provide approved change/release records, deployment identifiers, configuration references identifying the declared integration, access-control records for protected configuration, and non-secret decryption/authentication failure handling and incident references.
+- **Validate and limit:** Link one deployment to its approved change, implementation reference, configuration reference, owner, and documented operational handling path. This cannot execute encryption/decryption, inspect keys, validate error treatment, or establish secure operation.
+- **AI and trigger:** AI may identify missing links or stale release metadata and draft review questions; it may not invoke services, access protected material, alter configurations, or make validation claims. Humans approve releases, exceptions, and remediation. Refresh after release, material failure, incident, or service-provider change.
+
+### 3. Dependency and lifecycle package
+
+- **Request and owner:** Security, supplier-management, and records owners provide component provenance, dependency/support notices, exception records, transition/retirement plans, review decisions, and evidence-retention references.
+- **Validate and limit:** Sample a component or lifecycle event from source provenance through accountable review, action record, and next-review date. This demonstrates governance traceability only; it cannot certify a dependency, prove vulnerability absence, or decide residual risk.
+- **AI and trigger:** AI may flag stale component records, expiring exceptions, and absent lifecycle owners. Humans determine transition, remediation, risk acceptance, and external communication. Review quarterly and after material dependency, threat, implementation, or publication changes.
+
 
 ## Universal engagement contract
 

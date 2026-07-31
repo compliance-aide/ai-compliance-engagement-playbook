@@ -12,6 +12,28 @@ Assign accountable executive, security, cryptography or platform engineering, ar
 
 AI may organize supplied inventory, design, implementation, test, supplier, and review evidence, identify missing owners or stale decisions, and draft workpapers for human review. AI cannot select an algorithm or parameters, access protected material, change cryptographic configuration, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Use the current [FIPS 197 publication record](https://csrc.nist.gov/pubs/fips/197/final), public NIST material retrieved 2026-07-31. This is original engagement guidance, not AES specification text, an implementation recipe, or a cryptographic approval. Architecture, cryptography, and data owners determine approved use and deployment scope.
+
+### 1. Encryption-use and protection-boundary package
+
+- **Request and owner:** Data, application, infrastructure, and cryptography owners provide an in-scope encryption-use inventory, protected-data classification reference, declared boundary, service or component association, approved purpose, and responsible owner.
+- **Validate and limit:** Trace a selected inventory item to its system/data context, declared boundary, and approved use record without collecting keys or plaintext. This can support inventory and ownership traceability; it cannot prove all data is protected, correct implementation, or appropriate cryptographic architecture.
+- **AI and trigger:** AI may organize inventory data and flag absent classification or ownership. Human authorities decide scope and design. Refresh after new data use, system migration, integration, or architecture change.
+
+### 2. Key-management dependency and configuration package
+
+- **Request and owner:** Key-management, platform, engineering, and supplier owners provide approved integration references, protected configuration/baseline identifiers, access-governance records, rotation/lifecycle references, and supplier service documentation.
+- **Validate and limit:** Inspect a selected deployed service’s recorded configuration baseline and key-management dependency through authorized metadata only. This can show a documented dependency and review path; it cannot expose or test secret material, validate a configuration, or establish key security.
+- **AI and trigger:** AI may compare approved identifiers with supplied deployment metadata and flag drift. Authorized humans decide configuration, access, and remediation. Refresh after rotation, configuration change, supplier change, or security finding.
+
+### 3. Change, assurance, and exception package
+
+- **Request and owner:** Change management, quality, security, risk, and records owners provide release/change approvals, permitted test observations, supplier notices, exceptions, incidents, and annual management-review evidence.
+- **Validate and limit:** Trace a selected change or exception from stated impact through approval, implementation record, review, and follow-up. This can support a controlled governance trail; it cannot make a conformance conclusion, approve risk, or prove operation across the population.
+- **AI and trigger:** AI may flag unmatched changes, stale exceptions, and unassigned remediation. Humans decide exception and risk outcomes. Refresh after a material release, incident, supplier notice, publication change, or annual renewal.
+
 
 ## Universal engagement contract
 

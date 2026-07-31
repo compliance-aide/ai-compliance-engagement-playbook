@@ -12,6 +12,28 @@ Assign accountable executive, security-operations, network, domain, vulnerabilit
 
 AI may organize supplied alert and case evidence, correlate approved asset inventories with documented registration, identify missing ownership or overdue follow-up, and draft workpapers for human review. AI cannot enroll assets, monitor or access networks, determine compromise, direct remediation, make notification decisions, accept risk, make a compliance conclusion, attest for management, or replace independent review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** At engagement start, retain retrieval date, eligibility/status check, and applicable use terms for the official [NCSC Early Warning service](https://www.ncsc.gov.uk/section/active-cyber-defence/early-warning). Source status is current when this official service material is available. This plan is original operational guidance, not enrollment instructions, incident advice, or a conclusion that all public exposure is monitored. A named human confirms authority, eligibility, and scope.
+
+### 1. Registered-asset and authorized-contact package
+
+- **Request and owner:** Domain/network, asset, security, service, privacy, legal, and records owners provide approved public-domain/IP inventory, authority/ownership evidence, service registration records, authorized contacts, alert-routing design, and documented exclusions.
+- **Validate and limit:** Reconcile a selected registered domain or address with the approved asset inventory, named accountable owner, contact path, and any recorded exclusion using protected, read-only records. This can assess scope traceability; it cannot enroll an asset, confirm service coverage, or prove that the inventory is complete.
+- **AI and trigger:** AI may compare supplied inventories and flag unmatched registrations, owners, or contact dates. Humans verify authority, decide registration and exclusions, and approve routing. Refresh after public-asset, contact, network, organizational, or service change.
+
+### 2. Notification triage, investigation, and closure package
+
+- **Request and owner:** Security operations, vulnerability, network, service, incident, legal, privacy, and communications owners provide sampled notifications, receipt timestamps, triage criteria, investigation/ticket records, escalation decisions, remediation/change evidence, exceptions, and closure validation.
+- **Validate and limit:** Trace one notification from receipt through accountable triage, documented investigation, approved response or exception, and closure check; safeguard sensitive incident evidence with access controls and redaction. This can support an observation about that case record; it cannot establish compromise, root cause, severity, or legal notification duty.
+- **AI and trigger:** AI may assemble timelines and highlight aging or missing owner links. Humans determine incident status, direct remediation, approve communications, and accept exceptions. Recollect after material alerts, escalation failures, recurring alerts, or closure reversals.
+
+### 3. Recurrence, supplier-dependency, and management-improvement package
+
+- **Request and owner:** Security, service, supplier, procurement, risk, executive, incident, and records owners provide trend metrics, recurring-alert analysis, supplier/dependency records, corrective-action backlog, service-change assessments, exception decisions, and annual management-review records.
+- **Validate and limit:** Inspect one recurring condition or supplier-linked case from metric or notification trend through assigned corrective action, responsible decision, and follow-up review. This can test improvement governance evidence; it cannot validate supplier performance, guarantee future detection, or establish compliance.
+- **AI and trigger:** AI may group supplied trends and flag overdue corrective actions. Humans decide supplier escalation, technical remediation, risk acceptance, and management priorities. Review quarterly and after a material service, supplier, asset, or threat change.
+
 
 ## Universal engagement contract
 

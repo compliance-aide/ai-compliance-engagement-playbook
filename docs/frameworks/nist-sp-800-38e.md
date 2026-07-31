@@ -12,6 +12,28 @@ Assign accountable executive, security, cryptography or platform engineering, ar
 
 AI may organize supplied inventory, design, implementation, test, supplier, and review evidence, identify missing owners or stale decisions, and draft workpapers for human review. AI cannot select cryptographic modes or parameters, access protected material, change device configuration, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Use the official [NIST SP 800-38E publication record](https://csrc.nist.gov/pubs/sp/800/38/e/final) and approved organizational cryptography decisions; checked 2026-07-31. This original plan collects storage-device implementation and usage evidence only. It does not reproduce the publication, validate an algorithm or module, prescribe XTS-AES use or parameters, or make a conformance claim.
+
+### 1. Device scope and protection-intent package
+
+- **Request and owner:** Device, platform, data, and cryptography owners provide an in-scope device/service inventory, approved usage and data-context references, device-to-owner mappings, implementation/provider identifiers, key-management dependency identifiers, and documented intended and non-intended protection properties.
+- **Validate and limit:** Trace a selected device or storage service from inventory through owner, declared implementation/provider, data context, key-management dependency, and protection-intent statement. This assesses record linkage only; it cannot establish data protection, correct configuration, or whether the stated properties are achieved.
+- **AI and trigger:** AI may reconcile non-secret inventory metadata and flag absent owners, providers, data contexts, or protection-intent records. Humans decide device scope, cryptographic treatment, and data-risk decisions. Refresh after device onboarding, replacement, provider, data-classification, or key-management change.
+
+### 2. Build, provisioning, and operational package
+
+- **Request and owner:** Endpoint/platform owners provide approved build or provisioning records, deployment/configuration references that identify the declared storage protection integration, protected administrative-access records, change tickets, and non-secret operational/incident summaries.
+- **Validate and limit:** Link one selected provisioning or configuration change to its approved record, device/service identity, declared implementation reference, owner, and available operational evidence. This does not access device secrets, alter a device, inspect media, validate configuration, or prove recovery or protection outcomes.
+- **AI and trigger:** AI may compare supplied build and inventory metadata, and flag unlinked changes or stale ownership; it may not connect to devices, use credentials, change settings, or declare a device validated. Humans approve provisioning, exceptions, and remediation. Refresh after provisioning, configuration, incident, or operational-model change.
+
+### 3. Supplier, media lifecycle, and exception package
+
+- **Request and owner:** Supplier-management, security, device-operations, and records owners provide vendor/component provenance, support notices, media custody/sanitization or disposition process references where applicable, exception/incident records, transition/retirement decisions, and review minutes.
+- **Validate and limit:** Sample one supplier, media-lifecycle, exception, or retirement record through provenance, accountable owner review, approved action, and next-review date. This checks lifecycle accountability; it cannot verify sanitization, supplier assurance, encryption strength, or compliance.
+- **AI and trigger:** AI may flag stale lifecycle records, unowned exceptions, or missing disposition links. Humans approve supplier actions, disposal, migration, risk acceptance, and external statements. Review quarterly and after material supplier, device, threat, implementation, or publication changes.
+
 
 ## Universal engagement contract
 

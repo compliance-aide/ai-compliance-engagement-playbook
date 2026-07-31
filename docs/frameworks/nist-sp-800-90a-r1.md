@@ -12,6 +12,28 @@ Assign accountable executive, security, cryptography or platform engineering, ar
 
 AI may organize supplied inventory, dependency, test, supplier, health, and review evidence, identify missing ownership or stale standards-status records, and draft workpapers for human review. AI cannot design or implement a DRBG, generate or access cryptographic material, change production configuration, determine validation, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Use the official [NIST SP 800-90A Revision 1 publication record](https://csrc.nist.gov/pubs/sp/800/90/a/r1/final) and approved organizational cryptography decisions; checked 2026-07-31. This original plan collects DRBG inventory and operational-governance evidence only. It does not reproduce the publication, prescribe DRBG construction or parameters, generate random bits, validate an implementation or module, or make a conformance claim.
+
+### 1. DRBG deployment and dependency package
+
+- **Request and owner:** Cryptography, platform, and application owners provide a non-secret inventory of declared DRBG/module or provider identities, deployed versions, intended service/application use, accountable owners, and references to upstream entropy and construction dependencies.
+- **Validate and limit:** Trace one declared deployment from its service/application reference through the stated DRBG/module or provider, version, dependency record, and accountable owner. This checks supplied traceability; it cannot determine correct construction, entropy sufficiency, output quality, or appropriate deployment.
+- **AI and trigger:** AI may reconcile redacted metadata and flag a missing owner, version, dependency, or scope record. Humans decide technical design, deployment treatment, and scope. Refresh after a new use, module/provider, version, or dependency change.
+
+### 2. Release, health, and operational-event package
+
+- **Request and owner:** Platform and application owners provide approved release/change records, non-secret configuration references, deployment identities, availability of health or anomaly records, and non-secret incident or corrective-action references.
+- **Validate and limit:** Link a sampled release or anomaly record to its approved change, deployment identity, accountable owner, available health record, and documented follow-up. This does not generate random values, access cryptographic material, run DRBG tests, change configuration, or establish correct operation.
+- **AI and trigger:** AI may organize authorized metadata, identify missing links, and prepare questions about stale health reviews. It may not invoke a generator, access protected material, alter configuration, or interpret an event as validation. Humans approve releases, incident response, exceptions, and remediation. Refresh after a release, anomaly, incident, or platform change.
+
+### 3. Component status, exception, and review package
+
+- **Request and owner:** Security, supplier-management, and records owners provide component/provider provenance, support and vulnerability notices, declared test/validation-status references where supplied, exception records, management-review minutes, and retention locations.
+- **Validate and limit:** Sample a component status, notice, or exception through source reference, accountable review, recorded action, and next-review date. This supports a reviewable evidence trail; it cannot determine validation status, certify a component, or establish compliance.
+- **AI and trigger:** AI may flag stale notices, missing status dates, unowned exceptions, and absent follow-up. Humans decide remediation, migration, risk acceptance, and external statements. Review quarterly and after material supplier, threat, implementation, or publication changes.
+
 
 ## Universal engagement contract
 

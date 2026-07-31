@@ -31,6 +31,17 @@ For every applicable requirement, record an identifier, a short source-linked
 paraphrase where permitted, applicability rationale, intended control objective,
 dependencies, ambiguity, and human-review status. Do not paste restricted text.
 
+## Tailored evidence plan
+
+Use the [tailored evidence-plan standard](evidence-plan-standard.md). State the
+current official source, edition or effective date where available, retrieval
+date, and a rights boundary. Write at least three framework-specific evidence
+packages—not a copied control checklist. For every package identify the
+original objective, artifacts to request, accountable owner, population and
+time window, safe validation method, what the package can support, what it
+cannot prove, data-handling constraints, the AI action allowed, the human
+decision point, and the change or renewal trigger.
+
 ## Year-round operating cycle
 
 Plan the calendar and evidence requests; operate controls; collect and preserve

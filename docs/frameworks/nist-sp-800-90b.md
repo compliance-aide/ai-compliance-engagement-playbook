@@ -12,6 +12,28 @@ Assign accountable executive, security, cryptography or platform engineering, ar
 
 AI may organize supplied inventory, test, supplier, health, and review evidence, identify missing ownership or stale validation-status records, and draft workpapers for human review. AI cannot design or implement an entropy source, generate or access cryptographic material, change production configuration, determine validation, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Use the official [NIST SP 800-90B publication record](https://csrc.nist.gov/pubs/sp/800/90/b/final) and approved organizational cryptography decisions; checked 2026-07-31. This original plan collects entropy-source inventory and operational-governance evidence only. It does not reproduce the publication, prescribe entropy-source design or testing, collect entropy samples, validate an implementation or module, or make a conformance claim.
+
+### 1. Entropy-source and consuming-module package
+
+- **Request and owner:** Cryptography, platform, and product owners provide a non-secret inventory of declared entropy sources, consuming modules/services, deployed versions, platform/provider identities, approved scope references, and accountable owners.
+- **Validate and limit:** Trace one declared source from its platform/provider and consuming-module reference to a deployed-version record and accountable owner. This evaluates supplied record linkage; it cannot determine entropy quality, source sufficiency, correct integration, or cryptographic suitability.
+- **AI and trigger:** AI may reconcile redacted inventory metadata and flag missing source, consumer, owner, version, or provider links. Humans decide scope, source treatment, and technical design. Refresh after a module, platform, provider, version, or consumer change.
+
+### 2. Deployment change, health, and anomaly package
+
+- **Request and owner:** Platform and operations owners provide approved change/release records, non-secret configuration/baseline references, deployment identities, available health or anomaly-monitoring records, and incident/corrective-action references.
+- **Validate and limit:** Link a selected deployment or anomaly to its approved change, source/module identity, accountable owner, available health record, and documented action. This does not access or generate random material, change a source, run entropy tests, determine validation, or establish operational correctness.
+- **AI and trigger:** AI may index authorized metadata and identify missing ownership, change, health-review, or corrective-action links. It may not connect to, sample, test, configure, or alter an entropy source, or treat telemetry as validation. Humans approve changes, incident response, exceptions, and remediation. Refresh after a deployment, anomaly, incident, or platform change.
+
+### 3. Supplier status, exception, and lifecycle-review package
+
+- **Request and owner:** Security, supplier-management, and records owners provide provider/component provenance, support or vulnerability notices, declared test/validation-status references where supplied, exceptions, transition/retirement decisions, review minutes, and retention locations.
+- **Validate and limit:** Sample one provider status, notice, exception, or transition through source record, accountable review, documented action, and next-review date. This checks lifecycle accountability; it cannot determine validation status, certify a component, prove source quality, or make a compliance conclusion.
+- **AI and trigger:** AI may flag stale notices, missing status dates, unresolved exceptions, and missing review links. Humans decide remediation, migration, risk acceptance, and external statements. Review quarterly and after material supplier, threat, source, module, or publication changes.
+
 
 ## Universal engagement contract
 

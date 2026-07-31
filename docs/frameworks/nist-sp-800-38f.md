@@ -12,6 +12,28 @@ Assign accountable executive, security, cryptography or platform engineering, ar
 
 AI may organize supplied inventory, design, implementation, test, supplier, and review evidence, identify missing owners or stale decisions, and draft workpapers for human review. AI cannot select a wrapping method or parameters, wrap or access keys, change cryptographic configuration, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Use the official [NIST SP 800-38F publication record](https://csrc.nist.gov/pubs/sp/800/38/f/final) and approved organizational cryptography decisions; checked 2026-07-31. This original plan collects key-wrapping implementation and usage evidence only. It does not reproduce the publication, validate an algorithm or module, prescribe a wrapping method or parameters, or make a conformance claim.
+
+### 1. Protected-key purpose and dependency package
+
+- **Request and owner:** Cryptography, application, and key-management owners provide an inventory of declared protected-key transfer or storage uses, approved purpose references, caller and receiver/service identifiers, cryptographic-library or provider/version identifiers, wrapping-key dependency references, and named owners.
+- **Validate and limit:** Trace one declared use from purpose through its identified caller, receiver or service, library/provider, and wrapping-key-management dependency. This evaluates supplied record linkage; it cannot establish that a wrapping method, key relationship, implementation, or protected-key handling is appropriate or correct.
+- **AI and trigger:** AI may reconcile redacted inventory metadata and flag missing owners, endpoints, dependencies, or version links. Humans decide scope and technical treatment. Refresh after a new use, integration, provider, library, or key-management change.
+
+### 2. Release and key-transfer-operation package
+
+- **Request and owner:** Platform and application owners provide approved change records, build/release/deployment identities, non-secret configuration references identifying the declared integration, protected administrative-access records, and non-secret transfer failure or incident summaries.
+- **Validate and limit:** Link one selected release or transfer-path change to its approved change, deployed identity, configuration reference, accountable owner, and available operational record. This does not unwrap or access keys, inspect secret material, run cryptographic operations, validate a transfer, or establish secure operation.
+- **AI and trigger:** AI may index metadata and identify unlinked changes, unavailable records, or stale ownership. It may not access keys, call cryptographic services, alter configuration, or treat telemetry as validation. Humans approve releases, exceptions, and corrective actions. Refresh after a release, transfer-path change, incident, or provider change.
+
+### 3. Component, incident, and transition package
+
+- **Request and owner:** Security, supplier-management, and records owners provide component/provider provenance, support or vulnerability notices, exception and incident references, transition or retirement decisions, review minutes, and evidence-retention locations.
+- **Validate and limit:** Sample a component, incident, exception, or transition event through provenance, owner review, recorded action, and next-review date. This supports accountable lifecycle evidence; it cannot establish component assurance, absence of vulnerabilities, key protection, or compliance.
+- **AI and trigger:** AI may flag stale notices, unowned exceptions, and missing follow-up. Humans decide remediation, migration, risk acceptance, and external statements. Review quarterly and after material supplier, threat, implementation, or publication changes.
+
 
 ## Universal engagement contract
 

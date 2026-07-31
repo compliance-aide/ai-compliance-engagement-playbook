@@ -12,6 +12,28 @@ Energy operations, OT engineering, safety, cybersecurity, network, asset-managem
 
 Independent reviewers sample an asset from inventory through monitoring, approved baseline, change history, and operational review. Auditors evaluate supplied evidence without operating OT, changing configuration, determining safety, approving suppliers, accepting risk, or issuing an attestation. AI may organize records, flag stale ownership or evidence, draft workpapers, and prepare review questions. AI cannot operate equipment, change settings, determine safety, approve action, accept risk, or attest to conformance.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Retain the retrieved version and applicable use terms for the official [NIST SP 1800-23 publication record](https://csrc.nist.gov/pubs/sp/1800/23/final) with approved engineering, safety, cybersecurity, regulatory, legal, and operational direction. This original plan does not reproduce NIST material, operate OT, or make a conformance claim.
+
+### 1. Energy-asset scope and accountability package
+
+- **Request and owner:** OT engineering, energy operations, asset-management, safety, cybersecurity, and maintenance owners provide asset inventory, logical-zone/location records, criticality rationale, ownership, supplier/support record, and connection map.
+- **Validate and limit:** Trace one material OT asset from inventory through owner, function, zone, criticality rationale, support state, and declared communications. This assesses record linkage, not inventory completeness or safe operation.
+- **AI and trigger:** AI may identify absent owners or inconsistent asset attributes. Humans decide safety, criticality, and operational scope. Refresh after asset, topology, supplier, or maintenance change.
+
+### 2. Discovery, baseline, and maintenance package
+
+- **Request and owner:** OT engineering, cybersecurity, network, maintenance, and service owners provide approved baselines, discovery/monitoring summaries, configuration-change approvals, maintenance records, and documented evidence gaps.
+- **Validate and limit:** Sample one asset’s baseline, observed/discovery record, maintenance or change record, and accountable review. This cannot operate equipment, validate security configuration, or authorize remediation.
+- **AI and trigger:** AI may reconcile supplied asset identifiers and flag stale baselines. Humans authorize maintenance, configuration, and operational action. Recollect after an anomaly, failed maintenance, material change, or incident.
+
+### 3. Exception, incident, and lifecycle-governance package
+
+- **Request and owner:** Safety, risk, operations, supplier, incident-response, records, and independent-review owners provide exception records, incident follow-up, supplier notices, retirement plans, corrective actions, and review minutes.
+- **Validate and limit:** Trace a selected exception or lifecycle event to accountable human decision, limitation, target date, follow-up, and current disposition. This supports accountable governance, not safety or regulatory conclusions.
+- **AI and trigger:** AI may flag overdue action or unsupported exception links. Humans approve risk treatment, supplier decisions, and closure. Review quarterly and after a safety-relevant change, incident, or supplier notice.
+
 
 ## Universal engagement contract
 
