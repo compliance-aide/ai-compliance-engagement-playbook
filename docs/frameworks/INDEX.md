@@ -208,6 +208,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [CISA Insider Risk Mitigation Program Evaluation](cisa-insider-risk-mitigation-evaluation.md)
 - [NIST SP 800-70 Revision 5 checklist program](nist-sp-800-70-r5-checklist-program.md)
 - [NIST SP 800-73-5 PIV interfaces](nist-sp-800-73-5.md)
+- [NIST SP 800-78-5 PIV cryptography](nist-sp-800-78-5.md)
 - [CIS Benchmarks program](cis-benchmarks-program.md)
 - [UK NCSC 10 Steps to Cyber Security](uk-ncsc-10-steps.md)
 - [UK NCSC Cyber Action Toolkit](uk-ncsc-cyber-action-toolkit.md)
