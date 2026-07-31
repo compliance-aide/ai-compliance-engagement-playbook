@@ -248,6 +248,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [FIPS 199 security categorization](fips-199.md)
 - [FIPS 200 minimum-security requirements](fips-200.md)
 - [FIPS 140-3 cryptographic modules](fips-140-3.md)
+- [FIPS 186-5 digital signatures](fips-186-5.md)
 - [NIST SP 800-63B-4](nist-sp-800-63b-4.md)
 - [NIST SP 800-160 Volume 1 Revision 1](nist-sp-800-160-v1-r1.md)
 - [NIST SP 800-171A Revision 3](nist-sp-800-171a-r3.md)
