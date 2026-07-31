@@ -205,6 +205,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [CISA BOD 18-01 email and web security](cisa-bod-18-01-email-web-security.md)
 - [CISA Continuous Diagnostics and Mitigation](cisa-continuous-diagnostics-mitigation.md)
 - [CISA Insider Risk Mitigation Program Evaluation](cisa-insider-risk-mitigation-evaluation.md)
+- [NIST SP 800-70 Revision 5 checklist program](nist-sp-800-70-r5-checklist-program.md)
 - [NIST SP 800-37 Revision 2](nist-sp-800-37-r2.md)
 - [NIST SP 800-161 Revision 1](nist-sp-800-161-r1.md)
 - [NIST SP 800-160 Volume 2 Revision 1 cyber resiliency](nist-sp-800-160-v2-r1.md)
