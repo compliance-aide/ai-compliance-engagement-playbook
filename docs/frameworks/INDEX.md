@@ -186,6 +186,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 1800-26 ransomware detection and response](nist-sp-1800-26-ransomware-detection-response.md)
 - [NIST SP 1305 C-SCRM quick start](nist-sp-1305-csrm-quick-start.md)
 - [NIST SP 800-184 cybersecurity event recovery](nist-sp-800-184-cybersecurity-event-recovery.md)
+- [NIST SP 800-84 test, training, and exercise program](nist-sp-800-84-test-training-exercise.md)
 - [NIST SP 800-37 Revision 2](nist-sp-800-37-r2.md)
 - [NIST SP 800-161 Revision 1](nist-sp-800-161-r1.md)
 - [NIST SP 800-160 Volume 2 Revision 1 cyber resiliency](nist-sp-800-160-v2-r1.md)
