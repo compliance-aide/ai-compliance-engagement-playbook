@@ -12,6 +12,28 @@ Assign accountable executive, asset-owner, security, technology, data, platform,
 
 AI may reconcile supplied inventory and evidence records, flag missing ownership or stale protection artifacts, trace asset groups to service dependencies, and draft workpapers for human review. AI cannot approve architecture, classify data, accept risk or an exception, alter safeguards, make a compliance conclusion, attest for management, or replace independent review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Retain the retrieved version and applicable use terms for the official [NIST SP 1800-25 publication record](https://csrc.nist.gov/pubs/sp/1800/25/final) with approved risk, architecture, incident-response, and operational decisions. This is original evidence-planning language, not NIST practice-guide text, a safeguard design, or a conformance claim.
+
+### 1. Critical-asset and service-dependency package
+
+- **Request and owner:** Asset, data, application, platform, business-continuity, and service owners provide critical-asset inventory, classification/criticality decisions, service-dependency map, ownership, and documented integrity-risk assumptions.
+- **Validate and limit:** Trace one selected asset group to a named service, owner, data/integrity rationale, dependencies, and documented scope. This assesses evidence linkage; it cannot establish completeness, acceptable risk, or effective protection.
+- **AI and trigger:** AI may identify missing owners or unlinked dependencies. Humans approve criticality and scope. Refresh after material asset, service, classification, architecture, or threat change.
+
+### 2. Protective-measure and recoverability-evidence package
+
+- **Request and owner:** Security, platform, vulnerability-management, backup, and application owners provide approved protection baselines, change records, integrity-check/backup records, maintenance evidence, logging references, and known evidence limitations.
+- **Validate and limit:** Sample one asset/service relation through its declared protection baseline, change record, integrity or backup evidence, and accountable review. This cannot validate technical effectiveness, alter safeguards, or authorize recovery.
+- **AI and trigger:** AI may organize supplied records and flag missing review dates. Humans approve technical changes and remediation. Recollect after a protection failure, vulnerability, backup issue, or material implementation change.
+
+### 3. Exception, incident, and improvement package
+
+- **Request and owner:** Risk, incident-response, supplier, continuity, records, security, and independent-review owners provide exception decisions, incident lessons, supplier notices, remediation/retest records, transition plans, and management-review minutes.
+- **Validate and limit:** Trace one selected exception or protection finding to human authority, limitation, corrective action, due date, and retest or disposition. This supports improvement tracking; it cannot accept risk or conclude ransomware resilience.
+- **AI and trigger:** AI may flag overdue exceptions or missing retest links. Humans decide risk acceptance, closure, and external statements. Review quarterly and after a material incident, supplier notice, control change, or threat change.
+
 
 ## Universal engagement contract
 
