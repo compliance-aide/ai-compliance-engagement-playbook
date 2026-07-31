@@ -186,6 +186,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-152 federal cryptographic key management systems](nist-sp-800-152.md)
 - [NIST SP 800-56A Revision 3 discrete-logarithm key establishment](nist-sp-800-56a-r3.md)
 - [NIST SP 800-56B Revision 2 integer-factorization key establishment](nist-sp-800-56b-r2.md)
+- [NIST SP 800-56C Revision 2 key derivation in key establishment](nist-sp-800-56c-r2.md)
 - [NIST SP 800-137A continuous monitoring program assessment](nist-sp-800-137a.md)
 - [NIST IR 8212 ISCM assessment methodology](nist-ir-8212.md)
 - [NIST IR 8374 Revision 1 ransomware risk management](nist-ir-8374-r1-ransomware-risk-management.md)
