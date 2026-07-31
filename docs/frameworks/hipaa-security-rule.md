@@ -27,7 +27,7 @@ and preserve management decisions with owners and review dates.
 
 ## Tailored evidence plan
 
-**Source and rights snapshot.** Use the current [HIPAA Security Rule](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-C) and HHS guidance; reviewed 2026-07-31. The eCFR describes itself as authoritative but unofficial, so legal/compliance owners must resolve binding-source and applicability questions. This plan requests artifact classes, never ePHI, and does not make a legal compliance conclusion.
+**Source and rights snapshot.** Use the current [HIPAA Security Rule](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-C) together with HHS Security Rule guidance; checked 2026-07-31. The eCFR is a continuously updated reference rather than the official legal edition, so legal/compliance owners confirm binding text and applicability. This plan requests artifact classes, never ePHI, and does not make a legal compliance conclusion.
 
 ### 1. ePHI boundary, role, and supplier record
 
@@ -40,6 +40,12 @@ and preserve management decisions with owners and review dates.
 - **Request and owner:** Risk-analysis method and results, risk-treatment decisions, safeguard rationale, approved exceptions, and remediation tracking from the security and privacy owners.
 - **Validate and limit:** Reperform a selected approved risk calculation or trace it to source assumptions, evidence, responsible decision-maker, and expiry date. This can support that risks and decisions were documented; it cannot prove safeguards are reasonable and appropriate for every environment or establish compliance.
 - **AI and trigger:** AI may organize evidence and draft questions but cannot choose safeguards, accept risk, or access restricted records without authorization. Refresh after incident, architecture, threat, workforce, or process change.
+
+### 2a. Physical, workstation, device-media, and business-associate evidence
+
+- **Request and owner:** Facility/workstation access and environment records, device and media handling/disposal records, ePHI-capable asset assignment, business-associate agreement or written-assurance record, and vendor change evidence from facilities, endpoint, records, privacy, and vendor owners.
+- **Validate and limit:** Trace a selected ePHI-capable asset or vendor to its accountable owner, authorized environment/handling record, and written business-associate responsibility evidence while keeping ePHI out of the workpaper. This can support that these evidence domains are addressed; it cannot establish agreement sufficiency, complete physical coverage, or vendor compliance.
+- **AI and trigger:** AI may index approved metadata and flag missing ownership or expired vendor review. Humans approve contracts, physical safeguards, asset disposition, and vendor decisions. Refresh after a facility, workstation/device, media-handling, or business-associate change.
 
 ### 3. Operating-practice and resilience evidence
 
