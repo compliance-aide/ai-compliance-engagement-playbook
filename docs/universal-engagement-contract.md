@@ -92,3 +92,12 @@ source and date, license boundary, applicability card, authority gate, evidence
 contract, exception path, source-change trigger, original-language warning,
 independent review record, and fictional-only examples. Any conclusion remains
 subject to the responsible human and applicable assessor method.
+
+## Rollout status
+
+Every published framework guide links to this contract. That inheritance makes
+the contract the required operating method for future work and renewal; it does
+not by itself prove that every legacy guide or real-world engagement has a
+completed applicability card, evidence contract, independent review, or license
+assessment. Those records remain subject to guide-by-guide and engagement-by-
+engagement review.

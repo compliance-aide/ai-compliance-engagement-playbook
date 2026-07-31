@@ -32,3 +32,11 @@ references for this change.
 - “Supports many frameworks” is not a quality metric. Source quality,
   applicability, evidence traceability, independent review, and maintained
   change history are required separately.
+
+## Rollout boundary
+
+The repository-wide contract link is present in every published guide and is
+validated as an exact local link. This is a shared-methodology rollout, not a
+retroactive claim that every guide has completed all new records or independent
+review steps. Future guide work and guide-specific renewal audits must create
+and retain that evidence separately.

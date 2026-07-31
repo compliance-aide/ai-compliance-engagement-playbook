@@ -26,9 +26,11 @@ production systems without the approval specified in the engagement charter.
 1. Read [the operating model](docs/operating-model.md).
 2. Follow [the AI-agent execution protocol](docs/ai-agent-execution-protocol.md)
    to keep computer use, evidence, operator support, and auditor support separate.
-3. Apply the [universal engagement contract](docs/universal-engagement-contract.md)
-   to every guide: applicability, authority, evidence, technical-test,
-   exception, and renewal records.
+3. Use the [universal engagement contract](docs/universal-engagement-contract.md)
+   inherited by every guide: applicability, authority, evidence, technical-test,
+   exception, and renewal records. A link establishes the required method; it is
+   not proof that a particular engagement or existing guide has completed every
+   record.
 4. Create an engagement charter from [the template](templates/engagement-charter.md).
 5. Start an [evidence register](templates/evidence-register.md) and use an
    [independent-review workpaper](templates/independent-review-workpaper.md)
