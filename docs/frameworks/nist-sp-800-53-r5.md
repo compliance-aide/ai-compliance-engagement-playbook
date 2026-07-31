@@ -1,7 +1,7 @@
 # NIST SP 800-53 Revision 5 — engagement guide
 
 > Original operational guidance, not an official NIST publication or a claim of
-> conformance. Review the current [NIST source](https://www.nist.gov/publications/security-and-privacy-controls-information-systems-and-organizations)
+> conformance. Review the current [NIST publication record](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
 > before each engagement milestone.
 
 ## Engagement focus
@@ -23,16 +23,18 @@ it cannot select risk acceptance, approve a system boundary, alter configuration
 
 Reconfirm boundary and inherited services; refresh evidence; test representative
 operation; challenge changes and exceptions; review supply-chain dependencies;
-renew the assessment plan after material change.
+and revise the human-authorized assessment approach after material change.
 
 ## Tailored evidence plan
 
-**Source and rights snapshot.** Use the current [NIST SP 800-53 source](https://www.nist.gov/publications/security-and-privacy-controls-information-systems-and-organizations); at review, NIST identified Revision 5 Release 5.2.0 (August 2025). Check release/change status before every assessment cycle. This guide records original evidence planning, not copied control text, a baseline selection, an authorization decision, or a conformance claim. The authorizing/system-risk authorities approve boundary and risk decisions.
+**Plan status:** Independently reviewed; see the [review receipt](../evidence-plan-reviews/nist-sp-800-53-r5.md).
+
+**Source and rights snapshot.** Use the [NIST SP 800-53 Rev. 5 CSRC record](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final), Release 5.2.0 issued 2025-08-27; use [SP 800-53A](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final), Release 5.2.0 issued 2025-08-27, only for human-authorized assessment-method context; and use [SP 800-53B](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final) only where its authority applies. NIST records 5.2.0 as version-aligned for 53B without baseline changes. Check release/change status before every engagement cycle. This guide records original evidence planning, not copied controls, procedures, baselines, mappings, OSCAL data, a baseline selection, an authorization decision, or a conformance claim. The authorizing/system-risk authorities approve boundary and risk decisions.
 
 ### 1. Authorized boundary, inheritance, and implementation narrative
 
-- **Request and owner:** System boundary and asset/data inventory, common/inherited-service record, authorization or organizational scope inputs, implementation narratives, and applicability/risk decisions from system, common-control, and risk owners.
-- **Validate and limit:** Trace a selected system component or inherited service to its owner, implementation statement, evidence pointer, and approved boundary decision. This can support a defensible assessment population; it cannot establish authorization, baseline selection, or complete applicability.
+- **Request and owner:** System boundary and asset/data inventory, common/inherited-service record, authorization or organizational scope inputs, human-approved selection/tailoring rationale and any authorized overlay, implementation narratives, and applicability/risk decisions from system, common-control, and risk owners.
+- **Validate and limit:** Trace a selected system component or inherited service to its owner, implementation statement, evidence pointer, approved boundary decision, and human selection/tailoring rationale. This can support a defensible assessment population; it cannot establish authorization, select a baseline, or establish complete applicability.
 - **AI and trigger:** AI may reconcile statements and evidence references, flag conflicts, and preserve provenance. Humans approve scope, inheritance, applicability, and risk acceptance. Revisit after boundary, shared-service, supplier, or material architecture change.
 
 ### 2. Governance, operation, and technical-evidence package
