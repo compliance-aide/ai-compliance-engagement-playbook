@@ -253,6 +253,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-157 derived PIV credentials](nist-sp-800-157.md)
 - [NIST SP 800-160 Volume 2 Revision 1 cyber resiliency](nist-sp-800-160-v2-r1.md)
 - [NIST SP 800-207](nist-sp-800-207.md)
+- [NIST SP 800-207A cloud-native multi-cloud zero trust access](nist-sp-800-207a.md)
 - [NIST SP 800-208 stateful hash-based signatures](nist-sp-800-208.md)
 - [NIST SP 800-204 microservices security](nist-sp-800-204.md)
 - [NIST SP 800-204A service-mesh microservices security](nist-sp-800-204a.md)
