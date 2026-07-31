@@ -187,6 +187,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-38F cryptographic key wrapping](nist-sp-800-38f.md)
 - [NIST SP 800-38G format-preserving encryption](nist-sp-800-38g.md)
 - [NIST SP 800-137 continuous monitoring](nist-sp-800-137.md)
+- [NIST SP 800-135 Revision 1 application-specific key derivation](nist-sp-800-135-r1.md)
 - [NIST SP 800-132 password-based key derivation](nist-sp-800-132.md)
 - [NIST SP 800-130 cryptographic key management systems](nist-sp-800-130.md)
 - [NIST SP 800-131A Revision 2 cryptographic transitions](nist-sp-800-131a-r2.md)
