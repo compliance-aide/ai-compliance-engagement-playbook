@@ -272,6 +272,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-233 service-mesh proxy](nist-sp-800-233.md)
 - [NIST SP 800-234 high-performance-computing overlay](nist-sp-800-234.md)
 - [NIST SP 800-126 Revision 4 security content automation](nist-sp-800-126-r4.md)
+- [NIST SP 1314 small-enterprise RMF](nist-sp-1314.md)
 - [NIST SP 800-204 microservices security](nist-sp-800-204.md)
 - [NIST SP 800-204A service-mesh microservices security](nist-sp-800-204a.md)
 - [NIST SP 800-204B ABAC service-mesh microservices security](nist-sp-800-204b.md)
