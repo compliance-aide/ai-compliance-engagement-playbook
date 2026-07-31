@@ -261,6 +261,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-215 enterprise-network landscape](nist-sp-800-215.md)
 - [NIST SP 800-216 vulnerability disclosure](nist-sp-800-216.md)
 - [NIST SP 800-219 Revision 1 macOS configuration](nist-sp-800-219-r1.md)
+- [NIST SP 800-221 ICT-risk portfolio](nist-sp-800-221.md)
 - [NIST SP 800-204 microservices security](nist-sp-800-204.md)
 - [NIST SP 800-204A service-mesh microservices security](nist-sp-800-204a.md)
 - [NIST SP 800-204B ABAC service-mesh microservices security](nist-sp-800-204b.md)
