@@ -20,7 +20,7 @@ regulatory or business changes.
 
 ## Tailored evidence plan
 
-**Source and rights snapshot.** Use the current [California Privacy Protection Agency regulations](https://cppa.ca.gov/regulations/) and qualified California counsel; reviewed 2026-07-31. This original plan does not decide business/consumer scope, exemptions, whether an activity is a sale or sharing, or a consumer-request outcome.
+**Source and rights snapshot.** Use the current [California Consumer Privacy Act statutory record](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5) and [California Privacy Protection Agency regulations](https://cppa.ca.gov/regulations/); at review the CPPA page identified CCPA and regulations effective 2026-01-01, current monetary thresholds, and completed September 2025 cybersecurity-audit, risk-assessment, and ADMT regulations. Counsel confirms which current rule set applies. This original plan does not decide business/consumer scope, exemptions, whether an activity is a sale or sharing, or a consumer-request outcome.
 
 ### 1. Applicability, data-use, and party inventory
 
