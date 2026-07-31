@@ -1,0 +1,13 @@
+# NIST SP 800-57 Part 2 Revision 1 key-management-organization engagement guide
+
+> Original operational guidance, not NIST key-management content, a key-management policy, an approval, or a compliance claim. Confirm current material through [NIST SP 800-57 Part 2 Revision 1](https://csrc.nist.gov/pubs/sp/800/57/pt2/r1/final) and the organization’s approved cryptography, security, architecture, legal, procurement, and operational decisions.
+
+## Engagement focus
+
+Operate a governed organizational key-management engagement that connects accountability, policy, planning, specifications, practice statements, key-management services, technical dependencies, supplier arrangements, operations, incidents, change, and evidence retention. Maintain traceability from organization-level decisions through service and system execution. A policy, planning record, architecture diagram, supplier statement, configuration extract, test result, or audit log is evidence to assess; none alone proves effective key management, secure operation, approved use, or compliance.
+
+## Roles and annual rhythm
+
+Assign accountable executive, security, cryptography or platform engineering, architecture, key-management operations, identity, application and data owners, procurement, supplier-management, legal and privacy where relevant, change-management, incident-response, and records-management roles. Operators maintain approved policy and practice records, scope and service inventories, key-management plans and specifications, ownership and interface traceability, implementation and configuration baselines, access and audit evidence, supplier materials, exceptions, incidents, review decisions, and retirement evidence. Reconcile services, owners, dependencies, interfaces, and suppliers quarterly; review key-management operations, policy or practice changes, exceptions, incidents, and unresolved risks at least quarterly; and complete an annual management review after material organization, system, provider, cryptographic, threat, or publication changes. Before annual renewal, an independent reviewer samples policy-to-practice-to-operation-to-review traceability; auditors test supplied evidence without accessing keys, operating services, changing configuration, approving exceptions, accepting risk, or attesting for management.
+
+AI may organize supplied policy, planning, inventory, implementation, supplier, and review evidence, identify missing owners or stale decisions, and draft workpapers for human review. AI cannot establish key-management policy, access or derive keys, operate key-management services, change configuration, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
