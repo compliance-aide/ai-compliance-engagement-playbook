@@ -287,6 +287,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 1800-36 IoT onboarding](nist-sp-1800-36-iot-onboarding.md)
 - [NIST SP 1800-34 computing-device integrity](nist-sp-1800-34-device-integrity.md)
 - [NIST SP 1800-32 distributed-energy cybersecurity](nist-sp-1800-32-distributed-energy.md)
+- [NIST SP 1800-24 PACS cybersecurity](nist-sp-1800-24-pacs.md)
 - [NIST SP 800-204 microservices security](nist-sp-800-204.md)
 - [NIST SP 800-204A service-mesh microservices security](nist-sp-800-204a.md)
 - [NIST SP 800-204B ABAC service-mesh microservices security](nist-sp-800-204b.md)
