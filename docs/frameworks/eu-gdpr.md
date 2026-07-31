@@ -31,12 +31,14 @@ following cycle.
 
 ## Tailored evidence plan
 
-**Source and rights snapshot.** Use the [official GDPR text](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng), applicable national law, and regulator guidance; reviewed 2026-07-31. This original planning aid does not decide applicability, lawful basis, transfer adequacy, or a data-subject outcome. A qualified privacy/legal owner makes those decisions.
+**Plan status:** Independently reviewed; see the [review receipt](../evidence-plan-reviews/eu-gdpr.md).
+
+**Source and rights snapshot.** Use the [official EUR-Lex Regulation (EU) 2016/679 record](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng), in force and marked changed by EUR-Lex when checked 2026-07-31, plus applicable Member-State law and competent-supervisory-authority guidance. Maintain a source-change check. This original planning aid does not decide applicability, lawful basis, transfer adequacy, or a data-subject outcome. A qualified privacy/legal owner makes those decisions.
 
 ### 1. Processing, purpose, and recipient inventory
 
-- **Request and owner:** A processing inventory that connects purposes, data categories, data-subject groups, systems, locations, controllers/processors, recipients, and international transfers, owned by the privacy program with system and vendor owners.
-- **Validate and limit:** Trace a selected processing activity to an actual system/data-flow record, notice, and processor or recipient entry; record unverified fields and access restrictions. This can support a traceable accountability record. It cannot determine lawful basis, joint-controller status, or transfer legality.
+- **Request and owner:** A processing inventory that connects purposes, data categories, data-subject groups, systems, locations, expected erasure/retention periods, security-measures reference, controller/processor/DPO/representative details where applicable, recipients, and international transfers, owned by the privacy program with system and vendor owners.
+- **Validate and limit:** Trace a selected processing activity to an actual system/data-flow record, notice, responsibility record, retention/security reference, and processor or recipient entry; record unverified fields and access restrictions. This can support a traceable accountability record. It cannot determine lawful basis, joint-controller status, DPO applicability, or transfer legality.
 - **AI and trigger:** AI may reconcile approved metadata and identify mismatches; human privacy/legal owners approve classifications and decisions. Refresh on a new purpose, sensitive-data use, recipient, transfer, or material system change.
 
 ### 2. Transparency, rights, and retention operating evidence
@@ -47,9 +49,9 @@ following cycle.
 
 ### 3. Processor, security, and incident-change record
 
-- **Request and owner:** Processor/subprocessor register, contractual responsibility and change records, security-assurance inputs, incident timeline/exercise records, risk or impact assessments where the accountable owner considers them, and remediation tracking.
-- **Validate and limit:** Trace a selected vendor or incident to its processing-agreement/instruction record, evidence provenance, approval, and corrective action. Maintain a counsel-owned high-risk-change/DPIA decision record, including the facts considered and why an assessment is initiated, updated, or not required. This can support a documented governance trail; it cannot prove processor compliance, security effectiveness, reportability, a DPIA outcome, or supervisory-authority notification obligations.
-- **AI and trigger:** AI may maintain a source-linked index and flag expiring or missing records. Legal/privacy and incident owners approve transfers, incident decisions, risk acceptance, DPIA decisions, and external communication. Refresh after a processor/subprocessor change, incident, high-risk initiative, or annual review.
+- **Request and owner:** Processor/subprocessor register; executed processor agreement or other binding legal act; documented processing instructions; subprocessor authorization/change-notice evidence; transfer mechanism/transfer-assessment and applicable safeguard decision records; security-assurance inputs; breach register documenting facts, effects, and remedial action; incident timeline/exercise records; DPO-designation/applicability decision where relevant; risk or impact assessments; and remediation tracking.
+- **Validate and limit:** Trace a selected vendor, transfer, or breach to its binding arrangement/instruction, approval, source evidence, and corrective action. Maintain a counsel-owned high-risk-change/DPIA decision record including whether prior consultation escalation is considered where residual high risk remains after measures. This supports a documented governance trail; it cannot prove processor compliance, security effectiveness, reportability, a DPIA outcome, transfer legality, or supervisory-authority notification obligations.
+- **AI and trigger:** AI may maintain a source-linked index and flag expiring or missing records. Legal/privacy and incident owners approve DPO applicability, transfers, incident decisions, risk acceptance, DPIA/prior-consultation decisions, and external communication. Refresh after a processor/subprocessor change, transfer, incident, high-risk initiative, official source change, or annual review.
 
 ## Universal engagement contract
 
