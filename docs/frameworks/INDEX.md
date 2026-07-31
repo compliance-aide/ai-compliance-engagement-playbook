@@ -190,6 +190,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-84 test, training, and exercise program](nist-sp-800-84-test-training-exercise.md)
 - [NIST SP 800-92 log management](nist-sp-800-92-log-management.md)
 - [NIST SP 800-90B entropy sources](nist-sp-800-90b.md)
+- [NIST SP 800-90A Revision 1 deterministic random bit generators](nist-sp-800-90a-r1.md)
 - [NIST SP 800-90C random bit generators](nist-sp-800-90c.md)
 - [NIST SP 800-86 forensic integration](nist-sp-800-86-forensic-integration.md)
 - [NIST SP 800-88 Revision 2 media sanitization](nist-sp-800-88-r2.md)
