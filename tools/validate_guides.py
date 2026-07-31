@@ -13,8 +13,16 @@ REQUIRED = (
 )
 CONTRACT_LINK = "[universal engagement contract](../universal-engagement-contract.md)"
 AI_TERMS = ("ai", "artificial intelligence")
+EVIDENCE_HEADING = "## tailored evidence plan"
+EVIDENCE_MARKERS = (
+    "source and rights snapshot",
+    "request and owner:",
+    "validate and limit:",
+    "ai and trigger:",
+)
 
 failures = []
+evidence_ready = []
 for guide in sorted(GUIDES.glob("*.md")):
     if guide.name == "INDEX.md":
         continue
@@ -30,6 +38,12 @@ for guide in sorted(GUIDES.glob("*.md")):
         missing.append("AI authority boundary")
     if "https://" not in body:
         missing.append("HTTPS official-source link")
+    if EVIDENCE_HEADING in body:
+        evidence_missing = [marker for marker in EVIDENCE_MARKERS if marker not in body]
+        if evidence_missing:
+            missing.append("incomplete tailored evidence plan: " + ", ".join(evidence_missing))
+        else:
+            evidence_ready.append(guide.name)
     if missing:
         failures.append(f"{guide.relative_to(ROOT)}: missing {', '.join(missing)}")
 
@@ -52,4 +66,9 @@ if failures:
     print("Guide validation failed:")
     print("\n".join(failures))
     sys.exit(1)
-print(f"Validated {len(list(GUIDES.glob('*.md'))) - 1} framework guides.")
+total = len(list(GUIDES.glob('*.md'))) - 1
+print(f"Validated {total} framework guides.")
+print(f"Tailored evidence plans complete: {len(evidence_ready)}/{total}.")
+if "--require-evidence-plans" in sys.argv and len(evidence_ready) != total:
+    print("Evidence-plan completeness failed: every published guide requires a complete tailored evidence plan.")
+    sys.exit(1)
