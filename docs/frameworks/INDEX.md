@@ -347,6 +347,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [PPRA](ppra.md)
 - [IDEA confidentiality](idea-confidentiality.md)
 - [GovRAMP — licensed program](govramp-licensed-program.md)
+- [GovRAMP Low impact level](govramp-low-impact-level.md)
 - [Korea Personal Information Protection Act](korea-pipa.md)
 - [Indonesia Personal Data Protection Law](indonesia-personal-data-protection-law.md)
 - [Taiwan Personal Data Protection Act](taiwan-personal-data-protection-act.md)
