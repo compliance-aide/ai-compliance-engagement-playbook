@@ -192,6 +192,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-82 Revision 3](nist-sp-800-82-r3.md)
 - [NIST SP 800-82 Revision 3 low-impact OT overlay](nist-sp-800-82-r3-low-ot-overlay.md)
 - [NIST SP 800-82 Revision 3 moderate-impact OT overlay](nist-sp-800-82-r3-moderate-ot-overlay.md)
+- [NIST SP 800-82 Revision 3 high-impact OT overlay](nist-sp-800-82-r3-high-ot-overlay.md)
 - [NIST SP 800-144](nist-sp-800-144.md)
 - [NERC CIP](nerc-cip.md)
 - [NYDFS Part 500](nydfs-part-500.md)
