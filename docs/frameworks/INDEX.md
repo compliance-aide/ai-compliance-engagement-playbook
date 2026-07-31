@@ -178,6 +178,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 1318 CUI small-business primer](nist-sp-1318-cui-small-business-primer.md)
 - [NARA Controlled Unclassified Information Program](nara-cui-program.md)
 - [NIST SP 800-18 Revision 2 system planning](nist-sp-800-18-r2.md)
+- [NIST SP 800-185 SHA-3-derived functions](nist-sp-800-185.md)
 - [NIST SP 800-137 continuous monitoring](nist-sp-800-137.md)
 - [NIST SP 800-132 password-based key derivation](nist-sp-800-132.md)
 - [NIST SP 800-130 cryptographic key management systems](nist-sp-800-130.md)
