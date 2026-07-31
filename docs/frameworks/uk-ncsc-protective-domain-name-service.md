@@ -12,6 +12,28 @@ Assign accountable executive, security, network, identity or endpoint, architect
 
 AI may organize supplied configuration, event, and review evidence, compare approved scope with documented service coverage, flag missing ownership or overdue follow-up, and draft workpapers for human review. AI cannot determine eligibility, change DNS or endpoint settings, approve an exception or allow list, decide a block is benign, accept risk, make a compliance conclusion, attest for management, or replace independent review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Record retrieval date, eligibility assumptions, service-status check, and applicable terms for the official [NCSC Protective Domain Name Service](https://www.ncsc.gov.uk/information/pdns). This is original planning guidance, not operational service instructions; named security, network, privacy, legal, and change authorities decide eligibility and configuration.
+
+### 1. Eligibility, protected-scope, and design package
+
+- **Request and owner:** Security, network, endpoint, architecture, service, privacy, legal, and asset owners provide eligibility decision, approved network/device inventory, resolver and traffic-flow design, named service contacts, exclusions, dependency map, and architecture approvals.
+- **Validate and limit:** Trace a selected protected network or device population to authoritative inventory, owner, approved design, eligibility decision, and stated exclusion where relevant. This supports scope traceability; it cannot determine eligibility, prove all traffic is protected, or authorize configuration.
+- **AI and trigger:** AI may compare supplied inventories and flag unmatched scope or owners. Humans determine eligibility, scope, architecture, and privacy basis. Refresh after network, device, remote-access, provider, or ownership change.
+
+### 2. Configuration-change, availability, and continuity package
+
+- **Request and owner:** Network, service, change, continuity, supplier, and security owners provide approved DNS/endpoint change records, baseline references, implementation validation, monitoring/availability records, failover design, outage tickets, and continuity-test evidence.
+- **Validate and limit:** Follow a selected material change or outage from request through authorization, validation, monitoring, and recovery/follow-up evidence. This supports controlled-operation evidence; it cannot alter DNS, guarantee availability, or prove configuration completeness.
+- **AI and trigger:** AI may assemble read-only change timelines and flag missing validation. Humans authorize changes, failover, and restoration. Recollect after material change, outage, failed test, or supplier transition.
+
+### 3. Block-event, exception, and governance package
+
+- **Request and owner:** Security operations, service desk, incident-response, privacy, legal, risk, and executive owners provide selected blocked-domain cases, investigation records, allow-list or exception requests, approvals, user-support records, trend measures, and management-review minutes.
+- **Validate and limit:** Trace a selected block or exception from detection through accountable investigation, approved disposition, expiry/review date, and follow-up. This supports a bounded handling trail; it cannot determine maliciousness, approve an allow list, or establish absence of compromise.
+- **AI and trigger:** AI may group records and identify stale exceptions. Humans decide investigation outcomes, exceptions, notifications, and risk treatment. Review quarterly and after material block patterns, incidents, or privacy concerns.
+
 
 ## Universal engagement contract
 

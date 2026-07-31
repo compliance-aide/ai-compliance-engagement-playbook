@@ -12,6 +12,28 @@ Assign a senior accountable leader to set the scope, fund corrective work, and a
 
 AI may organize supplied evidence, trace release records to declared ownership, flag missing or contradictory records, and draft workpapers for human review. AI cannot decide whether software is secure, make a legal or certification conclusion, approve a release, attest on behalf of management, or replace independent review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Record retrieval date and applicable use terms for the official [UK Software Security Code of Practice](https://www.gov.uk/government/publications/software-security-code-of-practice). This plan is original guidance and treats the Code as voluntary unless a named human records a separate contractual, regulatory, or customer obligation. Product, security, legal, and authorized release owners decide scope and external representations.
+
+### 1. Product, ownership, and secure-development-governance package
+
+- **Request and owner:** Product, engineering, security, legal, procurement, and records owners provide in-scope product/version inventory, accountable-role map, secure-development policies, design-review records, dependency/supplier inventory, and stated customer or contractual requirements.
+- **Validate and limit:** Trace a selected product/version to its accountable owners, development and dependency records, and recorded scope decision. This supports accountable traceability; it cannot determine security, contractual applicability, or inventory completeness.
+- **AI and trigger:** AI may reconcile supplied product, owner, and dependency metadata. Humans decide scope, architecture, supplier acceptance, and policy exceptions. Refresh before material product, supplier, architecture, or market change.
+
+### 2. Build, release, and vulnerability-response package
+
+- **Request and owner:** Engineering, security, release, support, and supplier owners provide build provenance references, test and review outputs, release approvals, vulnerability intake/triage records, remediation decisions, version links, and support/customer-contact evidence.
+- **Validate and limit:** Follow a selected release or vulnerability from accountable intake through review, authorized release/remediation decision, version record, and customer communication decision. This supports a sampled lifecycle trail; it cannot approve a release, prove absence of vulnerabilities, or guarantee remediation efficacy.
+- **AI and trigger:** AI may organize supplied evidence and flag missing version, owner, or due-date links. Humans authorize releases, severity, remediation, disclosure, and customer communications. Recollect after release, vulnerability, incident, or material supplier issue.
+
+### 3. Assurance, exception, and customer-commitment package
+
+- **Request and owner:** Product, security, legal, commercial, assurance, and executive owners provide approved security-commitment language, exception register, risk decisions, independent review workpapers, corrective-action records, and management-review evidence.
+- **Validate and limit:** Trace a selected commitment or exception to its product/version context, supporting evidence, authorized approval, expiry/follow-up, and independent challenge note. This supports controlled representation; it cannot make a legal conclusion, accept risk, or certify software.
+- **AI and trigger:** AI may prepare an access-controlled evidence index and flag unsupported commitments. Humans approve claims, exceptions, risk treatment, and closure. Review quarterly, before material commitments, and annually across active products.
+
 
 ## Universal engagement contract
 
