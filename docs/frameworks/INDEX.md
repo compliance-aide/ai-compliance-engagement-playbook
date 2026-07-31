@@ -458,3 +458,4 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [New Zealand HISO 10029.2:2023 health information security for micro to small organizations](new-zealand-hiso-10029-2-2023.md)
 - [CISA Zero Trust Maturity Model Version 2](cisa-zero-trust-maturity-model-v2.md)
 - [UAE National Information Assurance Framework](uae-national-information-assurance-framework.md)
+- [Washington My Health My Data Act](washington-my-health-my-data-act.md)
