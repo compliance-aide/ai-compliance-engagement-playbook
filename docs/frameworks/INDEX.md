@@ -246,6 +246,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-114 Revision 1 telework and BYOD](nist-sp-800-114-r1.md)
 - [FIPS 199 security categorization](fips-199.md)
 - [FIPS 200 minimum-security requirements](fips-200.md)
+- [FIPS 140-3 cryptographic modules](fips-140-3.md)
 - [NIST SP 800-63B-4](nist-sp-800-63b-4.md)
 - [NIST SP 800-160 Volume 1 Revision 1](nist-sp-800-160-v1-r1.md)
 - [NIST SP 800-171A Revision 3](nist-sp-800-171a-r3.md)
