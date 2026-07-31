@@ -216,6 +216,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [UK NCSC Protective Domain Name Service](uk-ncsc-protective-domain-name-service.md)
 - [NIST SP 800-37 Revision 2](nist-sp-800-37-r2.md)
 - [NIST SP 800-161 Revision 1](nist-sp-800-161-r1.md)
+- [NIST SP 800-157 derived PIV credentials](nist-sp-800-157.md)
 - [NIST SP 800-160 Volume 2 Revision 1 cyber resiliency](nist-sp-800-160-v2-r1.md)
 - [NIST SP 800-207](nist-sp-800-207.md)
 - [NIST SP 800-208 stateful hash-based signatures](nist-sp-800-208.md)
