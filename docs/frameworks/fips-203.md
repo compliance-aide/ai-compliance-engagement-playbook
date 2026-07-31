@@ -1,0 +1,13 @@
+# FIPS 203 post-quantum key-encapsulation engagement guide
+
+> Original operational guidance, not FIPS content, ML-KEM implementation instructions, a cryptographic approval, a validation claim, or a compliance claim. Confirm current requirements and errata through [FIPS 203](https://csrc.nist.gov/pubs/fips/203/final) and the organization’s approved security, cryptography, architecture, legal, and operational decisions.
+
+## Engagement focus
+
+Operate a governed inventory-and-migration process for in-scope key-establishment uses that may adopt FIPS 203. Connect business and data-protection needs, protocols and applications, dependencies, cryptographic-module and provider versions, migration design, interoperability and performance testing, rollout approvals, exceptions, rollback readiness, and lifecycle evidence to accountable owners. A vendor announcement, lab result, or enabled setting is evidence to assess; it does not prove a deployment is suitable, interoperable, validated, quantum-safe in context, or compliant.
+
+## Roles and annual rhythm
+
+Assign accountable executive, security, cryptography or platform engineering, architecture, application and infrastructure owners, identity, procurement, supplier-management, privacy and legal where relevant, change-management, incident-response, business-continuity, and records-management roles. Operators maintain a scoped cryptographic-use inventory, approved migration roadmap, protocol and dependency records, module or provider status evidence, test and rollout artifacts, change approvals, exception decisions, rollback evidence, supplier assurance, and system-to-use traceability. Reconcile in-scope uses, owners, and dependencies quarterly; review version changes, threat assumptions, test outcomes, exceptions, supplier notices, and unresolved risks at least quarterly; and complete an annual management review after material protocol, provider, cryptographic, regulatory, or threat changes. Before annual renewal, an independent reviewer samples inventory-to-rollout traceability and exception handling; auditors test the evidence trail without selecting algorithms, changing cryptographic settings, authorizing deployment, accepting risk, or attesting for management.
+
+AI may organize supplied inventory, supplier, test, rollout, and review evidence, identify missing ownership or stale decisions, and draft workpapers for human review. AI cannot design or implement cryptography, select a parameter set, generate or access keys, configure production systems, approve a migration or exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
