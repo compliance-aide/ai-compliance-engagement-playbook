@@ -12,6 +12,28 @@ Assign accountable executive, security, cryptography or platform engineering, ar
 
 AI may organize supplied application, configuration, ownership, supplier, and review evidence, identify missing owners or stale decisions, and draft workpapers for human review. AI cannot select application security settings, access or derive keys, change configuration, authorize procurement, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
 
+## Tailored evidence plan
+
+**Source and rights snapshot.** Use the official [NIST SP 800-57 Part 3 Revision 1 publication record](https://csrc.nist.gov/pubs/sp/800/57/pt3/r1/final) and approved organizational cryptography decisions; checked 2026-07-31. This original plan collects application-specific key-management decision and operating evidence only. It does not reproduce the publication, prescribe application or protocol settings, validate an implementation, or make a conformance claim.
+
+### 1. Application use, responsibility, and dependency package
+
+- **Request and owner:** Application, cryptography, identity, and data owners provide an in-scope application/use inventory, approved purpose references, named system and user responsibilities where applicable, library/provider and interface identifiers, key-management dependency references, and accountable owners.
+- **Validate and limit:** Trace one declared application use from purpose and owner through its relevant application/interface and key-management dependency record. This evaluates supplied provenance; it cannot determine whether an application choice, user option, protocol, or key treatment is correct or secure.
+- **AI and trigger:** AI may reconcile redacted inventory metadata and flag an undocumented owner, user responsibility, interface, version, or dependency. Humans decide application configuration, user-facing choices, and technical treatment. Refresh after a new application use, integration, provider, or ownership change.
+
+### 2. Implementation, deployment, and transition package
+
+- **Request and owner:** Application and platform owners provide approved design/change references, build/release/deployment identities, non-secret configuration references, protected administrative-access records, transition/retirement plans, and available non-secret operational issue summaries.
+- **Validate and limit:** Link a selected release or transition record to its approved change, application identity, configuration reference, owner, and follow-up or review record. This does not access key material, change configuration, test application behavior, establish interoperability, or establish secure operation.
+- **AI and trigger:** AI may index approved metadata and identify missing release, ownership, transition, or review links. It may not invoke applications, access secrets, alter settings, or interpret telemetry as validation. Humans approve releases, transitions, exceptions, and corrective actions. Refresh after a release, integration, transition, or incident change.
+
+### 3. Supplier, exception, and lifecycle-review package
+
+- **Request and owner:** Security, supplier-management, and records owners provide application/provider provenance, support or vulnerability notices, exception and incident references, review minutes, corrective-action references, and retention locations.
+- **Validate and limit:** Sample one supplier event, exception, incident, or retirement decision from source record through accountable review, action, and next-review date. This checks lifecycle accountability; it cannot certify a component, prove vulnerability absence, or make a compliance conclusion.
+- **AI and trigger:** AI may flag stale notices, unresolved exceptions, and missing next-review dates. Humans decide remediation, migration, risk acceptance, and external statements. Review quarterly and after material supplier, threat, application, cryptographic, or publication changes.
+
 
 ## Universal engagement contract
 
