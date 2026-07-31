@@ -190,6 +190,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-92 log management](nist-sp-800-92-log-management.md)
 - [NIST SP 800-86 forensic integration](nist-sp-800-86-forensic-integration.md)
 - [NIST SP 800-201 cloud forensic readiness](nist-sp-800-201-cloud-forensic-readiness.md)
+- [NIST SP 800-150 threat information sharing](nist-sp-800-150-threat-information-sharing.md)
 - [NIST SP 800-37 Revision 2](nist-sp-800-37-r2.md)
 - [NIST SP 800-161 Revision 1](nist-sp-800-161-r1.md)
 - [NIST SP 800-160 Volume 2 Revision 1 cyber resiliency](nist-sp-800-160-v2-r1.md)
