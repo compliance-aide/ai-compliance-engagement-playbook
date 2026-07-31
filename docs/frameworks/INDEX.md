@@ -190,6 +190,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-84 test, training, and exercise program](nist-sp-800-84-test-training-exercise.md)
 - [NIST SP 800-92 log management](nist-sp-800-92-log-management.md)
 - [NIST SP 800-86 forensic integration](nist-sp-800-86-forensic-integration.md)
+- [NIST SP 800-88 Revision 2 media sanitization](nist-sp-800-88-r2.md)
 - [NIST SP 800-201 cloud forensic readiness](nist-sp-800-201-cloud-forensic-readiness.md)
 - [NIST SP 800-150 threat information sharing](nist-sp-800-150-threat-information-sharing.md)
 - [NIST SP 800-83 Revision 1 malware incident handling](nist-sp-800-83-r1-malware-incident.md)
