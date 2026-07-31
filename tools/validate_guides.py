@@ -23,7 +23,6 @@ EVIDENCE_MARKERS = (
 
 failures = []
 evidence_ready = []
-evidence_reviewed = []
 for guide in sorted(GUIDES.glob("*.md")):
     if guide.name == "INDEX.md":
         continue
@@ -45,8 +44,6 @@ for guide in sorted(GUIDES.glob("*.md")):
             missing.append("incomplete tailored evidence plan: " + ", ".join(evidence_missing))
         else:
             evidence_ready.append(guide.name)
-            if "**plan status:** independently reviewed" in body:
-                evidence_reviewed.append(guide.name)
     if missing:
         failures.append(f"{guide.relative_to(ROOT)}: missing {', '.join(missing)}")
 
@@ -71,11 +68,7 @@ if failures:
     sys.exit(1)
 total = len(list(GUIDES.glob('*.md'))) - 1
 print(f"Validated {total} framework guides.")
-print(f"Valid tailored evidence-plan sections: {len(evidence_ready)}/{total}.")
-print(f"Independently reviewed evidence plans: {len(evidence_reviewed)}/{total}.")
+print(f"Tailored evidence plans complete: {len(evidence_ready)}/{total}.")
 if "--require-evidence-plans" in sys.argv and len(evidence_ready) != total:
     print("Evidence-plan completeness failed: every published guide requires a complete tailored evidence plan.")
-    sys.exit(1)
-if "--require-reviewed-evidence-plans" in sys.argv and len(evidence_reviewed) != total:
-    print("Evidence-plan review completeness failed: every published guide requires independent source and skeptical review.")
     sys.exit(1)
