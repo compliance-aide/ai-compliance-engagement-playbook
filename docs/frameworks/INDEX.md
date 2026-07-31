@@ -184,6 +184,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 1318 CUI small-business primer](nist-sp-1318-cui-small-business-primer.md)
 - [NARA Controlled Unclassified Information Program](nara-cui-program.md)
 - [NIST SP 800-18 Revision 2 system planning](nist-sp-800-18-r2.md)
+- [NIST SP 800-22 Revision 1a randomness testing](nist-sp-800-22-r1a.md)
 - [NIST SP 800-185 SHA-3-derived functions](nist-sp-800-185.md)
 - [NIST SP 800-38A block-cipher modes](nist-sp-800-38a.md)
 - [NIST SP 800-38B CMAC authentication](nist-sp-800-38b.md)
