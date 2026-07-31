@@ -209,6 +209,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [CIS Benchmarks program](cis-benchmarks-program.md)
 - [UK NCSC 10 Steps to Cyber Security](uk-ncsc-10-steps.md)
 - [UK NCSC Cyber Action Toolkit](uk-ncsc-cyber-action-toolkit.md)
+- [UK NCSC Exercise in a Box](uk-ncsc-exercise-in-a-box.md)
 - [NIST SP 800-37 Revision 2](nist-sp-800-37-r2.md)
 - [NIST SP 800-161 Revision 1](nist-sp-800-161-r1.md)
 - [NIST SP 800-160 Volume 2 Revision 1 cyber resiliency](nist-sp-800-160-v2-r1.md)
