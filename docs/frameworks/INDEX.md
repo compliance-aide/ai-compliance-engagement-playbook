@@ -269,6 +269,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [Australia Essential Eight](australia-essential-eight.md)
 - [Australia IoT Code of Practice historical engagement](australia-iot-code-of-practice-historical.md)
 - [Australia Smart Devices Rules 2025](australia-smart-devices-rules-2025.md)
+- [Australia Ransomware Payment Reporting Rules 2025](australia-ransomware-payment-reporting-rules-2025.md)
 - [Australia Critical Infrastructure Risk Management Program](australia-cirmp.md)
 - [India Digital Personal Data Protection Act](india-dpdpa.md)
 - [Japan APPI](japan-appi.md)
