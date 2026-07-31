@@ -181,6 +181,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-137 continuous monitoring](nist-sp-800-137.md)
 - [NIST SP 800-132 password-based key derivation](nist-sp-800-132.md)
 - [NIST SP 800-130 cryptographic key management systems](nist-sp-800-130.md)
+- [NIST SP 800-152 federal cryptographic key management systems](nist-sp-800-152.md)
 - [NIST SP 800-137A continuous monitoring program assessment](nist-sp-800-137a.md)
 - [NIST IR 8212 ISCM assessment methodology](nist-ir-8212.md)
 - [NIST IR 8374 Revision 1 ransomware risk management](nist-ir-8374-r1-ransomware-risk-management.md)
