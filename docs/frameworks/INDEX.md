@@ -192,6 +192,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-201 cloud forensic readiness](nist-sp-800-201-cloud-forensic-readiness.md)
 - [NIST SP 800-150 threat information sharing](nist-sp-800-150-threat-information-sharing.md)
 - [NIST SP 800-83 Revision 1 malware incident handling](nist-sp-800-83-r1-malware-incident.md)
+- [NIST SP 800-167 application allowlisting](nist-sp-800-167-application-allowlisting.md)
 - [NIST SP 800-37 Revision 2](nist-sp-800-37-r2.md)
 - [NIST SP 800-161 Revision 1](nist-sp-800-161-r1.md)
 - [NIST SP 800-160 Volume 2 Revision 1 cyber resiliency](nist-sp-800-160-v2-r1.md)
