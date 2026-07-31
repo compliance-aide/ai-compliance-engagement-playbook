@@ -1,0 +1,13 @@
+# NIST SP 800-204A service-mesh engagement guide
+
+> Original operational guidance, not NIST service-mesh deployment guidance, a production architecture, a configuration authorization, or a compliance claim. Confirm current material through [NIST SP 800-204A](https://csrc.nist.gov/pubs/sp/800/204/a/final) and the organization’s approved security, architecture, engineering, privacy, legal, and operational decisions.
+
+## Engagement focus
+
+Operate a governed engagement for in-scope service-mesh deployments supporting microservices. Connect service and workload inventory to approved architecture, identity and communication decisions, mesh components and policy dependencies, deployment and configuration evidence, access, monitoring, resilience, testing, third-party components, changes, incidents, and retirement. An architecture diagram, policy extract, deployment record, test result, or audit log is evidence to assess; none alone proves service communication is protected, policies are correctly enforced, a deployment is safe, or compliance.
+
+## Roles and annual rhythm
+
+Assign accountable executive, security, architecture, platform and microservices engineering, identity and access-management operations, application and data owners, supplier-management, privacy and legal where relevant, change-management, incident-response, and records-management roles. Operators maintain scoped service and mesh inventories, approved architecture and policy decisions, workload and interface traceability, deployment and configuration baselines, access and audit evidence, monitoring and resilience-test records, supplier materials, exceptions, incidents, and retirement evidence. Reconcile services, mesh components, owners, policies, interfaces, and suppliers quarterly; review policy or configuration changes, communication failures, exceptions, incidents, and unresolved risks at least quarterly; and complete an annual management review after material architecture, platform, provider, threat, or publication changes. Before annual renewal, an independent reviewer samples service-to-policy-to-deployment-to-review traceability; auditors test supplied evidence without changing mesh policy, granting access, deploying workloads, approving exceptions, accepting risk, or attesting for management.
+
+AI may organize supplied inventory, architecture, policy, deployment, monitoring, and review evidence, identify missing owners or stale decisions, and draft workpapers for human review. AI cannot select a service-mesh architecture, change policy or configuration, grant access, deploy workloads, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
