@@ -257,6 +257,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-204 microservices security](nist-sp-800-204.md)
 - [NIST SP 800-204A service-mesh microservices security](nist-sp-800-204a.md)
 - [NIST SP 800-204B ABAC service-mesh microservices security](nist-sp-800-204b.md)
+- [NIST SP 800-204C DevSecOps service-mesh microservices security](nist-sp-800-204c.md)
 - [NIST SP 800-204D DevSecOps supply chain](nist-sp-800-204d.md)
 - [NIST SP 800-190 application-container security](nist-sp-800-190.md)
 - [NISTIR 8176 Linux-container deployment assurance](nist-ir-8176.md)
