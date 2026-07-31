@@ -276,6 +276,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 1308 cybersecurity risk and workforce](nist-sp-1308.md)
 - [NIST SP 1326 supply-chain due diligence](nist-sp-1326.md)
 - [NIST SP 1302 CSF tiers](nist-sp-1302.md)
+- [NIST SP 1303 CSF enterprise risk management](nist-sp-1303.md)
 - [NIST SP 800-204 microservices security](nist-sp-800-204.md)
 - [NIST SP 800-204A service-mesh microservices security](nist-sp-800-204a.md)
 - [NIST SP 800-204B ABAC service-mesh microservices security](nist-sp-800-204b.md)
