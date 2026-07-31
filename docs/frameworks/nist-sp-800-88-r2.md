@@ -1,0 +1,13 @@
+# NIST SP 800-88 Revision 2 media-sanitization engagement guide
+
+> Original operational guidance, not NIST sanitization content, a command to erase or destroy media, a disposal authorization, or a compliance claim. Confirm current material through [NIST SP 800-88 Revision 2](https://csrc.nist.gov/pubs/sp/800/88/r2/final) and the organization’s approved security, legal, privacy, records, environmental, and operational decisions.
+
+## Engagement focus
+
+Operate a governed media-sanitization program for in-scope storage, devices, removable media, cloud or supplier media responsibilities, and disposition channels. Maintain traceability from asset and data sensitivity through custody, approved disposition decision, authorized technique, execution evidence, verification, certificate or record of completion, exceptions, supplier handoff, and retention. An asset ticket, erase log, destruction certificate, or vendor statement is evidence to assess; it does not prove the target data is unrecoverable, every copy was in scope, lawful retention obligations were met, or compliance.
+
+## Roles and annual rhythm
+
+Assign accountable executive, security, asset management, data or system owners, privacy, legal, records-management, facilities or environmental management where relevant, procurement, supplier-management, IT operations, incident-response, and internal audit or independent review roles. Operators maintain media and asset inventories, data-sensitivity and retention references, custody records, approved sanitization and disposition decisions, execution and verification evidence, certificates, supplier-chain evidence, exceptions, incident records, and disposal metrics. Reconcile retiring assets, media, and supplier responsibilities quarterly; review incomplete dispositions, exceptions, verification failures, legal holds, supplier performance, and unresolved risks at least quarterly; and complete an annual management review after material technology, supplier, data-classification, retention, or regulatory changes. Before annual renewal, an independent reviewer samples assets from custody through approved disposition and verification evidence; auditors test the evidence trail without erasing or destroying media, releasing legal holds, approving disposal, accepting risk, or attesting for management.
+
+AI may organize supplied asset, custody, disposition, verification, and supplier evidence, identify missing ownership or overdue disposition, and draft workpapers for human review. AI cannot erase, cryptographically erase, destroy, release, ship, or dispose of media, lift a legal hold, approve an exception, accept risk, make a compliance conclusion, attest for management, or replace independent review.
