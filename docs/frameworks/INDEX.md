@@ -174,6 +174,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-55 information-security measurement](nist-sp-800-55-measurement.md)
 - [NIST SP 800-171 Revision 3](nist-sp-800-171-r3.md)
 - [NIST SP 800-171 Revision 2 historical transition](nist-sp-800-171-r2-historical-transition.md)
+- [NIST SP 1318 CUI small-business primer](nist-sp-1318-cui-small-business-primer.md)
 - [NARA Controlled Unclassified Information Program](nara-cui-program.md)
 - [NIST SP 800-18 Revision 2 system planning](nist-sp-800-18-r2.md)
 - [NIST SP 800-137 continuous monitoring](nist-sp-800-137.md)
