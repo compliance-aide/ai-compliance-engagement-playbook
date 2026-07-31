@@ -172,6 +172,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-53 Revision 5](nist-sp-800-53-r5.md)
 - [NIST SP 800-53 Revision 4 historical transition](nist-sp-800-53-r4-historical-transition.md)
 - [NIST SP 800-55 information-security measurement](nist-sp-800-55-measurement.md)
+- [NIST SP 800-57 Part 1 Revision 5 key management](nist-sp-800-57-pt1-r5.md)
 - [NIST SP 800-171 Revision 3](nist-sp-800-171-r3.md)
 - [NIST SP 800-171 Revision 2 historical transition](nist-sp-800-171-r2-historical-transition.md)
 - [NIST SP 1318 CUI small-business primer](nist-sp-1318-cui-small-business-primer.md)

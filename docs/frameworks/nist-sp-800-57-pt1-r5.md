@@ -1,0 +1,13 @@
+# NIST SP 800-57 Part 1 Revision 5 key-management engagement guide
+
+> Original operational guidance, not NIST key-management content, cryptographic design instructions, an authorization decision, or a compliance claim. Confirm current material through [NIST SP 800-57 Part 1 Revision 5](https://csrc.nist.gov/pubs/sp/800/57/pt1/r5/final) and the organization’s approved security, cryptography, legal, privacy, engineering, and operational decisions.
+
+## Engagement focus
+
+Operate a governed lifecycle for cryptographic keys and related security parameters across approved systems, services, applications, and suppliers. Maintain traceability from business use and data sensitivity to ownership, key purpose, generation or establishment, protection, access, rotation or replacement, backup and recovery, suspension, compromise response, archival where permitted, and destruction. A key-inventory record, successful rotation, or technical scan is evidence to assess; it does not prove correct cryptographic design, secure implementation, lawful processing, or complete key coverage.
+
+## Roles and annual rhythm
+
+Assign accountable executive, security, cryptography or platform engineering, architecture, application and infrastructure owners, identity, data protection, privacy, legal, procurement, supplier-management, incident-response, change-management, and records-management roles. Operators maintain a scoped key inventory, approved purpose and ownership, lifecycle and access records, platform or provider configuration evidence, rotation and recovery records, exception decisions, compromise and revocation procedures, supplier assurance, and system-to-key traceability. Reconcile key inventories and ownership quarterly; review aging, access, rotation, exceptions, provider changes, recovery evidence, and unresolved findings at least quarterly; and complete an annual management review after material system, cryptographic, supplier, data-classification, or regulatory changes. Before annual renewal, an independent reviewer samples key records through lifecycle events and verifies closure evidence; auditors test the evidence trail without generating or accessing keys, changing cryptographic configuration, approving exceptions, accepting risk, or attesting for management.
+
+AI may organize supplied inventory and lifecycle evidence, identify missing ownership or overdue review, correlate approved system inventories with key records, and draft workpapers for human review. AI cannot design cryptography, generate, access, export, rotate, revoke, or destroy keys, approve an exception, determine legal applicability, accept risk, make a compliance conclusion, attest for management, or replace independent review.
