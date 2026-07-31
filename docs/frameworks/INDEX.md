@@ -197,6 +197,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [DISA STIG program](disa-stig-program.md)
 - [CISA Known Exploited Vulnerabilities Catalog](cisa-known-exploited-vulnerabilities-catalog.md)
 - [CISA BOD 23-01 asset visibility and vulnerability detection](cisa-bod-23-01-asset-visibility.md)
+- [CISA BOD 20-01 vulnerability disclosure](cisa-bod-20-01-vulnerability-disclosure.md)
 - [NIST SP 800-37 Revision 2](nist-sp-800-37-r2.md)
 - [NIST SP 800-161 Revision 1](nist-sp-800-161-r1.md)
 - [NIST SP 800-160 Volume 2 Revision 1 cyber resiliency](nist-sp-800-160-v2-r1.md)
