@@ -173,6 +173,7 @@ Use [the framework template](../framework-template.md) to propose a guide.
 - [NIST SP 800-53 Revision 4 historical transition](nist-sp-800-53-r4-historical-transition.md)
 - [FIPS 197 Advanced Encryption Standard](fips-197.md)
 - [FIPS 180-4 Secure Hash Standard](fips-180-4.md)
+- [FIPS 202 SHA-3 Standard](fips-202.md)
 - [NIST SP 800-55 information-security measurement](nist-sp-800-55-measurement.md)
 - [NIST SP 800-57 Part 1 Revision 5 key management](nist-sp-800-57-pt1-r5.md)
 - [NIST SP 800-171 Revision 3](nist-sp-800-171-r3.md)
