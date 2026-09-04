@@ -543,32 +543,44 @@
     {
       "guide": "3gpp-scas-secam.md",
       "baseline_sha256": "f4b93f2bb1f36d087aa232b40d432914a6b01f5284a764f798211c45c5db0ef7",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "6b6a8135e61bea01838e695061883112e26c1e970c26527721049a8e04328b2f",
+      "review_record": "docs/refresh-reviews/3gpp-scas-secam.md"
     },
     {
       "guide": "42-cfr-part-2.md",
       "baseline_sha256": "563e84de3a09bef2d76c24ceceea61ce321da5be50a421a2f288d92b92b55198",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "8e7883984b73154663bd86c764c1a977800c067ce36cbe59662d84a8b4aec814",
+      "review_record": "docs/refresh-reviews/42-cfr-part-2.md"
     },
     {
       "guide": "alaska-personal-information-protection-act.md",
       "baseline_sha256": "02243651055b4903486f70f39bda66b22a1351256c251f66859eea95b63ede15",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "535cac45ca12fc30c9e45e510376d501563cf304dd2455a254f4269cf42b3782",
+      "review_record": "docs/refresh-reviews/alaska-personal-information-protection-act.md"
     },
     {
       "guide": "argentina-personal-data-protection.md",
       "baseline_sha256": "26ff68f9523d32a7c9332fd07dee941e66c8c03aec0f38f029a8f103d66947c5",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "5d6ad6122cdaedab90d6d49f1c69a26e7f7322a56dfde12d9a3962890468ad9c",
+      "review_record": "docs/refresh-reviews/argentina-personal-data-protection.md"
     },
     {
       "guide": "australia-apra-cps-230.md",
       "baseline_sha256": "21f087376d1cf3bf3c77f297f2ed0111a3a70bc3761820adc754d150552d324c",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "157d1efd521e38a2a0c9b90248bdd7e3f9d803cf96046406acd6024f7e39e925",
+      "review_record": "docs/refresh-reviews/australia-apra-cps-230.md"
     },
     {
       "guide": "australia-apra-cps-234.md",
       "baseline_sha256": "cf10b72bd455e7a5b0a8c8e4552ff04a2e9ea61cb3d55b101d015ed5aae00395",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "a7c529b94fa48e859e2619ad6b99dfe312d11c9fef75e866ed8dac9465d39f93",
+      "review_record": "docs/refresh-reviews/australia-apra-cps-234.md"
     },
     {
       "guide": "australia-cirmp.md",
@@ -578,7 +590,9 @@
     {
       "guide": "australia-essential-eight.md",
       "baseline_sha256": "4318652bd839f3ba7af5a24e88025c34ace5e28b7d7df49829ab3754566a1e82",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "00b71768d8328da1205799df81dfbf922a49cb7acc5b2c3824433918ca66f859",
+      "review_record": "docs/refresh-reviews/australia-essential-eight.md"
     },
     {
       "guide": "australia-iot-code-of-practice-historical.md",
