@@ -599,7 +599,9 @@
     {
       "guide": "australia-iot-code-of-practice-historical.md",
       "baseline_sha256": "d8d10657c6199ad00293d8d14e2c95c9772265af47333447bec48e9ad7b378cc",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "26a125b2c8862025896d7bf51fe6bba7d31489d29dcfa9aec5e9e4d4c7148ed9",
+      "review_record": "docs/refresh-reviews/australia-iot-code-of-practice-historical.md"
     },
     {
       "guide": "australia-ism.md",
@@ -618,12 +620,16 @@
     {
       "guide": "australia-ransomware-payment-reporting-rules-2025.md",
       "baseline_sha256": "680f1833c28f6466297dd12ee6c8691f047627e0c920aecffb67cfd616077c25",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "2a2369c42f98300eddb94cb383167ae4290e09de6c521e37fceb8f36c004df2c",
+      "review_record": "docs/refresh-reviews/australia-ransomware-payment-reporting-rules-2025.md"
     },
     {
       "guide": "australia-smart-devices-rules-2025.md",
       "baseline_sha256": "136924ab1151dff04fc4dd878f7584e3b3cc787cf9d6bf5cc83bbd3941081114",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "1d2c0828f1566a70c0fd0eb898f30a3b8f462d471d176ba6cbecdbe50179aa8e",
+      "review_record": "docs/refresh-reviews/australia-smart-devices-rules-2025.md"
     },
     {
       "guide": "bahamas-data-protection.md",
