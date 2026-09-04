@@ -648,7 +648,9 @@
     {
       "guide": "bma-operational-cyber-risk-code.md",
       "baseline_sha256": "253d9335128f8695c72d9069b33bfb65178ff5dfd99db99cbe471a079ea541e7",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "b1395a42e5aee0a305597c50a4a9cd1466737455e94a7f4625cb8ccb568d814a",
+      "review_record": "docs/refresh-reviews/bma-operational-cyber-risk-code.md"
     },
     {
       "guide": "brazil-lgpd.md",
