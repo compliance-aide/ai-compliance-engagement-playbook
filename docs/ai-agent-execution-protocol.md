@@ -5,6 +5,10 @@ one framework guide, an approved engagement charter, and a human owner. It does
 not authorize an assessment conclusion, legal interpretation, certification,
 risk acceptance, submission, or production change.
 
+Use the [step-by-step agent runbook](agent-runbook.md) and
+[work-item record](../templates/work-item.md) to execute this protocol. They define
+inputs, expected outputs, failure branches, result states and interruption recovery.
+
 ## 1. Establish a read-only record
 
 Create separate, dated records for source facts, observed evidence, analysis,
@@ -25,10 +29,11 @@ inferences, and open questions differently.
 
 Default to observation. An AI agent may navigate approved systems, collect
 permitted read-only evidence, calculate checks, prepare drafts, and open a
-review packet. Before a write, configuration change, ticket closure, external
-message, disclosure, submission, payment, or production action, present the
-exact target, proposed effect, and reversible alternative to the named human
-approver. Never enter secrets into a prompt or copy restricted framework text
+review packet. For a write, configuration change, ticket closure, external
+message, disclosure, submission, payment, or production action, check whether
+the recorded human approval already covers the exact target, effect and
+conditions. If it does, continue within that authority; otherwise prepare the
+exact proposal and obtain the missing approval before that action. Never enter secrets into a prompt or copy restricted framework text
 into an external system.
 
 ## 4. Preserve evidence integrity

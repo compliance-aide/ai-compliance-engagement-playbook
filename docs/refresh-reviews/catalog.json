@@ -1,0 +1,3235 @@
+{
+  "baseline_commit": "2adcb457a1aa6d518fa07e7ca23c42ab9362f112",
+  "baseline_guides": [
+    "3gpp-scas-secam.md",
+    "42-cfr-part-2.md",
+    "alaska-personal-information-protection-act.md",
+    "argentina-personal-data-protection.md",
+    "australia-apra-cps-230.md",
+    "australia-apra-cps-234.md",
+    "australia-cirmp.md",
+    "australia-essential-eight.md",
+    "australia-iot-code-of-practice-historical.md",
+    "australia-ism.md",
+    "australia-privacy-act-apps.md",
+    "australia-ransomware-payment-reporting-rules-2025.md",
+    "australia-smart-devices-rules-2025.md",
+    "bahamas-data-protection.md",
+    "bermuda-pipa.md",
+    "bma-operational-cyber-risk-code.md",
+    "brazil-lgpd.md",
+    "bsi-c5-2020.md",
+    "bsi-standard-200-1.md",
+    "bsi-standard-200-2.md",
+    "bsi-standard-200-4.md",
+    "c2m2.md",
+    "california-data-breach-notification.md",
+    "california-sb-327-connected-devices.md",
+    "california-workforce-privacy.md",
+    "canada-cpcsc-level-1.md",
+    "canada-dnd-it-security-risk-management.md",
+    "canada-gc-cloud-security-profile.md",
+    "canada-itsg-33.md",
+    "canada-itsp-10-171.md",
+    "canada-itsp-50-105.md",
+    "canada-osfi-b10.md",
+    "canada-osfi-b13.md",
+    "ccpa-cpra.md",
+    "cert-rmm.md",
+    "chile-personal-data-transition.md",
+    "china-cybersecurity-law.md",
+    "china-data-security-law.md",
+    "china-pipl.md",
+    "cis-benchmarks-program.md",
+    "cis-controls-v8-1-ig1.md",
+    "cis-controls-v8-1-ig2.md",
+    "cis-controls-v8-1-ig3.md",
+    "cis-controls-v8-1.md",
+    "cisa-bod-18-01-email-web-security.md",
+    "cisa-bod-18-02-high-value-assets.md",
+    "cisa-bod-19-02-internet-accessible-remediation.md",
+    "cisa-bod-20-01-vulnerability-disclosure.md",
+    "cisa-bod-23-01-asset-visibility.md",
+    "cisa-bod-23-02-management-interfaces.md",
+    "cisa-bod-25-01-cloud-services.md",
+    "cisa-continuous-diagnostics-mitigation.md",
+    "cisa-cpg.md",
+    "cisa-insider-risk-mitigation-evaluation.md",
+    "cisa-known-exploited-vulnerabilities-catalog.md",
+    "cisa-secure-by-design-pledge.md",
+    "cisa-secure-by-design.md",
+    "cisa-secure-software-attestation.md",
+    "cisa-tic-3.md",
+    "cisa-zero-trust-maturity-model-v2.md",
+    "cjis-security-policy.md",
+    "cmmc-level-1-program.md",
+    "cmmc-level-2-program.md",
+    "cmmc-level-3-program.md",
+    "cmmc.md",
+    "cms-mars-e.md",
+    "cobit-2019.md",
+    "colombia-personal-data-protection.md",
+    "colorado-ai-law.md",
+    "colorado-privacy-act.md",
+    "connecticut-data-privacy-act.md",
+    "coppa.md",
+    "coso-internal-control-integrated-framework.md",
+    "costa-rica-personal-data-protection.md",
+    "csa-ai-controls-matrix.md",
+    "csa-ccm-v4.md",
+    "csa-iot-security-controls-framework-v2.md",
+    "csa-star.md",
+    "ctpat.md",
+    "dama-dmbok-informed.md",
+    "dfars-cybersecurity.md",
+    "disa-stig-program.md",
+    "dod-nist-800-171-assessment.md",
+    "dod-zero-trust-reference-architecture-v2.md",
+    "eba-gl-2019-04.md",
+    "eeoc-ai-employment-guidance.md",
+    "eidas-trust-services.md",
+    "enisa-ncaf-2.md",
+    "etsi-en-303-645-v3-1-3.md",
+    "eu-ai-act.md",
+    "eu-aml-transition.md",
+    "eu-cloud-code-of-conduct.md",
+    "eu-critical-entities-resilience.md",
+    "eu-csrd-esrs.md",
+    "eu-cyber-resilience-act.md",
+    "eu-cybersecurity-certification-eucc.md",
+    "eu-dora.md",
+    "eu-eidas-2.md",
+    "eu-gdpr-employment-context.md",
+    "eu-gdpr.md",
+    "eu-gmp-annex-11.md",
+    "eu-nis2.md",
+    "eu-payment-services-transition.md",
+    "eu-us-data-privacy-framework.md",
+    "eu-us-privacy-shield-historical-transition.md",
+    "facta-red-flags-rule.md",
+    "far-52-204-21.md",
+    "far-52-204-25-section-889.md",
+    "far-52-204-27.md",
+    "fatf-recommendations-context.md",
+    "fda-21-cfr-part-11.md",
+    "fda-medical-device-cybersecurity.md",
+    "fda-qmsr-21-cfr-part-820.md",
+    "fedramp.md",
+    "fema-national-response-framework.md",
+    "ferpa.md",
+    "ffiec-aio-booklet.md",
+    "ffiec-cat-historical.md",
+    "fido-certification-program.md",
+    "finra-cybersecurity-supervisory-readiness.md",
+    "fips-140-3.md",
+    "fips-180-4.md",
+    "fips-186-5.md",
+    "fips-197.md",
+    "fips-198-1-hmac.md",
+    "fips-199.md",
+    "fips-200.md",
+    "fips-201-3.md",
+    "fips-202.md",
+    "fips-203.md",
+    "fips-204.md",
+    "fips-205.md",
+    "fisma-federal-information-security.md",
+    "ftc-act-consumer-privacy-security.md",
+    "ghana-data-protection-act.md",
+    "ghg-protocol-corporate-standard.md",
+    "glba-safeguards-rule.md",
+    "global-cross-border-privacy-rules.md",
+    "global-privacy-recognition-for-processors.md",
+    "govramp-licensed-program.md",
+    "govramp-low-impact-level.md",
+    "govramp-low-plus-impact-level.md",
+    "govramp-moderate-impact-level.md",
+    "gsma-nesas.md",
+    "hhs-hicp-2023.md",
+    "hipaa-security-rule.md",
+    "hitech-breach-readiness.md",
+    "hitrust-csf-licensed-program.md",
+    "hong-kong-pdpo.md",
+    "ich-q9-r1.md",
+    "idea-confidentiality.md",
+    "iec-31010-2019.md",
+    "iec-62443-2-1-2024.md",
+    "iec-62443-2-4-2023.md",
+    "iec-62443-3-2-2020.md",
+    "iec-62443-3-3-2013.md",
+    "iec-62443-4-1-2018.md",
+    "iec-62443-4-2-2019.md",
+    "iec-62443.md",
+    "iec-pas-62443-1-6-2025.md",
+    "iec-pas-62443-2-2-2025.md",
+    "iec-tr-60601-4-5-2021.md",
+    "iec-tr-62443-2-3-2015.md",
+    "iec-tr-62443-3-1-2009.md",
+    "iec-ts-62443-1-1-2009.md",
+    "iec-ts-62443-1-5-2023.md",
+    "iec-ts-62443-6-2-2025.md",
+    "iec-ts-63074-2023.md",
+    "illinois-bipa.md",
+    "illinois-personal-information-protection.md",
+    "india-dpdpa.md",
+    "indonesia-personal-data-protection-law.md",
+    "irs-publication-1075.md",
+    "iso-10002-2018.md",
+    "iso-10004-2018.md",
+    "iso-10013-2021.md",
+    "iso-10015-2019.md",
+    "iso-13485-2016.md",
+    "iso-14001-2026.md",
+    "iso-15489-1-2016.md",
+    "iso-22301-2019.md",
+    "iso-22316-2017.md",
+    "iso-22361-2022.md",
+    "iso-22398-2013.md",
+    "iso-27799-2025.md",
+    "iso-28000-2022.md",
+    "iso-31000-2018.md",
+    "iso-31030-2021.md",
+    "iso-37001-2025.md",
+    "iso-37002-2021.md",
+    "iso-37301-2021.md",
+    "iso-45001-2018.md",
+    "iso-50001-2018.md",
+    "iso-8000-8-2015.md",
+    "iso-9001-2015.md",
+    "iso-iec-20000-1-2018.md",
+    "iso-iec-23894-2023.md",
+    "iso-iec-27000-2026.md",
+    "iso-iec-27001-2022.md",
+    "iso-iec-27002-2022.md",
+    "iso-iec-27003-2017.md",
+    "iso-iec-27004-2016.md",
+    "iso-iec-27005-2022.md",
+    "iso-iec-27006-1-2024.md",
+    "iso-iec-27007-2020.md",
+    "iso-iec-27009-2020.md",
+    "iso-iec-27010-2015.md",
+    "iso-iec-27011-2024.md",
+    "iso-iec-27013-2021.md",
+    "iso-iec-27014-2020.md",
+    "iso-iec-27017-2015.md",
+    "iso-iec-27018-2025.md",
+    "iso-iec-27019-2024.md",
+    "iso-iec-27031-2025.md",
+    "iso-iec-27032-2023.md",
+    "iso-iec-27033-7-2023.md",
+    "iso-iec-27033-network-security.md",
+    "iso-iec-27034-application-security.md",
+    "iso-iec-27035-incident-management.md",
+    "iso-iec-27036-supplier-relationships.md",
+    "iso-iec-27037-2012.md",
+    "iso-iec-27038-2014.md",
+    "iso-iec-27039-2015.md",
+    "iso-iec-27040-2024.md",
+    "iso-iec-27041-2015.md",
+    "iso-iec-27042-2015.md",
+    "iso-iec-27043-2015.md",
+    "iso-iec-27050-ediscovery.md",
+    "iso-iec-27099-2022.md",
+    "iso-iec-27102-2019.md",
+    "iso-iec-27400-2022.md",
+    "iso-iec-27402-2023.md",
+    "iso-iec-27403-2024.md",
+    "iso-iec-27404-2025.md",
+    "iso-iec-27551-2021.md",
+    "iso-iec-27553-1-2022.md",
+    "iso-iec-27553-2-2025.md",
+    "iso-iec-27554-2024.md",
+    "iso-iec-27555-2021.md",
+    "iso-iec-27556-2022.md",
+    "iso-iec-27557-2022.md",
+    "iso-iec-27559-2022.md",
+    "iso-iec-27561-2024.md",
+    "iso-iec-27701-2025.md",
+    "iso-iec-29100-2024.md",
+    "iso-iec-29134-2023.md",
+    "iso-iec-29147-2018.md",
+    "iso-iec-30111-2019.md",
+    "iso-iec-38507-2022.md",
+    "iso-iec-42001-2023.md",
+    "iso-iec-42005-2025.md",
+    "iso-iec-42006-2025.md",
+    "iso-iec-tr-27016-2014.md",
+    "iso-iec-tr-27550-2019.md",
+    "iso-iec-ts-27008-2019.md",
+    "iso-iec-ts-27022-2021.md",
+    "iso-iec-ts-27103-2026.md",
+    "iso-iec-ts-27110-2021.md",
+    "iso-iec-ts-42119-2-2025.md",
+    "iso-sae-21434-2021.md",
+    "iso-ts-37008-2023.md",
+    "israel-cyber-defense-methodology.md",
+    "israel-protection-of-privacy.md",
+    "itar-technical-data-protection.md",
+    "japan-appi.md",
+    "japan-cybersecurity-management-guidelines.md",
+    "japan-ismap.md",
+    "kenya-data-protection-act.md",
+    "korea-pipa.md",
+    "malaysia-personal-data-protection-act.md",
+    "massachusetts-201-cmr-17.md",
+    "mauritius-data-protection-act.md",
+    "mexico-private-sector-data-protection-law.md",
+    "mhra-gxp-data-integrity.md",
+    "mitre-attack.md",
+    "mitre-d3fend.md",
+    "mpa-content-security-best-practices.md",
+    "naic-insurance-data-security-model-law.md",
+    "naic-insurance-privacy-model-law.md",
+    "naic-orsa.md",
+    "nara-cui-program.md",
+    "nerc-cip.md",
+    "nevada-nrs-603a.md",
+    "new-york-shield-act.md",
+    "new-zealand-hiso-10029-2-2023.md",
+    "new-zealand-hiso-10029-2022.md",
+    "new-zealand-hiso-10029-4-2023.md",
+    "new-zealand-nzism.md",
+    "new-zealand-privacy-act.md",
+    "nigeria-data-protection-act.md",
+    "nispom-32-cfr-part-117.md",
+    "nist-ai-rmf-1.md",
+    "nist-csf-1-1-historical-transition.md",
+    "nist-csf-2.md",
+    "nist-csrm-assessment.md",
+    "nist-ir-8176.md",
+    "nist-ir-8212.md",
+    "nist-ir-8374-r1-ransomware-risk-management.md",
+    "nist-privacy-framework-1.md",
+    "nist-sp-1271-csf-1-1-transition.md",
+    "nist-sp-1299.md",
+    "nist-sp-1300.md",
+    "nist-sp-1301.md",
+    "nist-sp-1302.md",
+    "nist-sp-1303.md",
+    "nist-sp-1305-csrm-quick-start.md",
+    "nist-sp-1308.md",
+    "nist-sp-1314.md",
+    "nist-sp-1318-cui-small-business-primer.md",
+    "nist-sp-1326.md",
+    "nist-sp-1800-11-ransomware-recovery.md",
+    "nist-sp-1800-21-cope.md",
+    "nist-sp-1800-23-energy-asset-management.md",
+    "nist-sp-1800-24-pacs.md",
+    "nist-sp-1800-25-ransomware-asset-protection.md",
+    "nist-sp-1800-26-ransomware-detection-response.md",
+    "nist-sp-1800-28-data-confidentiality.md",
+    "nist-sp-1800-29-data-breach-response.md",
+    "nist-sp-1800-32-distributed-energy.md",
+    "nist-sp-1800-34-device-integrity.md",
+    "nist-sp-1800-36-iot-onboarding.md",
+    "nist-sp-1800-45-water-ot-remote-access.md",
+    "nist-sp-800-107-r1.md",
+    "nist-sp-800-108-r1.md",
+    "nist-sp-800-111.md",
+    "nist-sp-800-114-r1.md",
+    "nist-sp-800-115.md",
+    "nist-sp-800-116-r1.md",
+    "nist-sp-800-122.md",
+    "nist-sp-800-124-r2.md",
+    "nist-sp-800-126-r4.md",
+    "nist-sp-800-128-security-configuration-management.md",
+    "nist-sp-800-130.md",
+    "nist-sp-800-131a-r2.md",
+    "nist-sp-800-132.md",
+    "nist-sp-800-133-r2.md",
+    "nist-sp-800-135-r1.md",
+    "nist-sp-800-137.md",
+    "nist-sp-800-137a.md",
+    "nist-sp-800-144.md",
+    "nist-sp-800-150-threat-information-sharing.md",
+    "nist-sp-800-152.md",
+    "nist-sp-800-157.md",
+    "nist-sp-800-160-v1-r1.md",
+    "nist-sp-800-160-v2-r1.md",
+    "nist-sp-800-161-r1.md",
+    "nist-sp-800-161-supplier-flowdown.md",
+    "nist-sp-800-167-application-allowlisting.md",
+    "nist-sp-800-171-r2-historical-transition.md",
+    "nist-sp-800-171-r3.md",
+    "nist-sp-800-171a-historical-transition.md",
+    "nist-sp-800-171a-r3.md",
+    "nist-sp-800-172-historical-transition.md",
+    "nist-sp-800-172-r3.md",
+    "nist-sp-800-172a-r3.md",
+    "nist-sp-800-18-r2.md",
+    "nist-sp-800-184-cybersecurity-event-recovery.md",
+    "nist-sp-800-185.md",
+    "nist-sp-800-190.md",
+    "nist-sp-800-192.md",
+    "nist-sp-800-193.md",
+    "nist-sp-800-201-cloud-forensic-readiness.md",
+    "nist-sp-800-204.md",
+    "nist-sp-800-204a.md",
+    "nist-sp-800-204b.md",
+    "nist-sp-800-204c.md",
+    "nist-sp-800-204d.md",
+    "nist-sp-800-207.md",
+    "nist-sp-800-207a.md",
+    "nist-sp-800-208.md",
+    "nist-sp-800-210.md",
+    "nist-sp-800-213.md",
+    "nist-sp-800-213a.md",
+    "nist-sp-800-215.md",
+    "nist-sp-800-216.md",
+    "nist-sp-800-218.md",
+    "nist-sp-800-218a.md",
+    "nist-sp-800-219-r1.md",
+    "nist-sp-800-22-r1a.md",
+    "nist-sp-800-221.md",
+    "nist-sp-800-221a.md",
+    "nist-sp-800-223.md",
+    "nist-sp-800-226.md",
+    "nist-sp-800-227.md",
+    "nist-sp-800-228.md",
+    "nist-sp-800-231.md",
+    "nist-sp-800-232.md",
+    "nist-sp-800-233.md",
+    "nist-sp-800-234.md",
+    "nist-sp-800-30-r1.md",
+    "nist-sp-800-34-r1.md",
+    "nist-sp-800-37-r2.md",
+    "nist-sp-800-38a.md",
+    "nist-sp-800-38b.md",
+    "nist-sp-800-38c.md",
+    "nist-sp-800-38d.md",
+    "nist-sp-800-38e.md",
+    "nist-sp-800-38f.md",
+    "nist-sp-800-38g.md",
+    "nist-sp-800-39.md",
+    "nist-sp-800-40-r4.md",
+    "nist-sp-800-53-r4-historical-transition.md",
+    "nist-sp-800-53-r5.md",
+    "nist-sp-800-53b-high-baseline.md",
+    "nist-sp-800-53b-low-baseline.md",
+    "nist-sp-800-53b-moderate-baseline.md",
+    "nist-sp-800-53b-privacy-baseline.md",
+    "nist-sp-800-53b.md",
+    "nist-sp-800-55-measurement.md",
+    "nist-sp-800-56a-r3.md",
+    "nist-sp-800-56b-r2.md",
+    "nist-sp-800-56c-r2.md",
+    "nist-sp-800-57-pt1-r5.md",
+    "nist-sp-800-57-pt2-r1.md",
+    "nist-sp-800-57-pt3-r1.md",
+    "nist-sp-800-61-r3.md",
+    "nist-sp-800-63-4.md",
+    "nist-sp-800-63a-4.md",
+    "nist-sp-800-63b-4.md",
+    "nist-sp-800-63c-4.md",
+    "nist-sp-800-66-r2.md",
+    "nist-sp-800-70-r5-checklist-program.md",
+    "nist-sp-800-73-5.md",
+    "nist-sp-800-76-2.md",
+    "nist-sp-800-78-5.md",
+    "nist-sp-800-79-2.md",
+    "nist-sp-800-82-r3-high-ot-overlay.md",
+    "nist-sp-800-82-r3-low-ot-overlay.md",
+    "nist-sp-800-82-r3-moderate-ot-overlay.md",
+    "nist-sp-800-82-r3.md",
+    "nist-sp-800-83-r1-malware-incident.md",
+    "nist-sp-800-84-test-training-exercise.md",
+    "nist-sp-800-86-forensic-integration.md",
+    "nist-sp-800-88-r2.md",
+    "nist-sp-800-90a-r1.md",
+    "nist-sp-800-90b.md",
+    "nist-sp-800-90c.md",
+    "nist-sp-800-92-log-management.md",
+    "nspm-33-research-security.md",
+    "nydfs-part-500.md",
+    "nydfs-part-504.md",
+    "occ-heightened-standards.md",
+    "oecd-ai-principles.md",
+    "oregon-consumer-privacy-act.md",
+    "owasp-asvs-5.md",
+    "owasp-samm-v2.md",
+    "owasp-top-10-2025.md",
+    "pci-dss-4-0-1-saq-a-ep.md",
+    "pci-dss-4-0-1-saq-a.md",
+    "pci-dss-4-0-1-saq-b-ip.md",
+    "pci-dss-4-0-1-saq-b.md",
+    "pci-dss-4-0-1-saq-c-vt.md",
+    "pci-dss-4-0-1-saq-c.md",
+    "pci-dss-4-0-1-saq-d-merchant.md",
+    "pci-dss-4-0-1-saq-d-service-provider.md",
+    "pci-dss-4-0-1-saq-p2pe.md",
+    "pci-dss-4-0-1.md",
+    "peru-personal-data-protection.md",
+    "philippines-data-privacy-act.md",
+    "pipeda.md",
+    "ppra.md",
+    "privacy-act-1974.md",
+    "qatar-personal-data-privacy.md",
+    "rwanda-data-protection-law.md",
+    "saudi-nca-ccc-2-2024.md",
+    "saudi-nca-cgiot-1-2024.md",
+    "saudi-nca-cscc-1-2019.md",
+    "saudi-nca-dcc-1-2022.md",
+    "saudi-nca-ecc-2-2024.md",
+    "saudi-nca-otcc-1-2022.md",
+    "saudi-pdpl.md",
+    "saudi-sama-cybersecurity-framework.md",
+    "sec-cybersecurity-disclosure.md",
+    "shared-assessments-sig-licensed-program.md",
+    "singapore-cii-cybersecurity-code.md",
+    "singapore-cyber-trust-mark.md",
+    "singapore-cybersecurity-act.md",
+    "singapore-data-protection-trustmark.md",
+    "singapore-internet-hygiene.md",
+    "singapore-mas-trm.md",
+    "singapore-model-ai-governance.md",
+    "singapore-pdpa.md",
+    "soc-2.md",
+    "south-africa-popia.md",
+    "south-carolina-insurance-data-security-act.md",
+    "sox-icfr.md",
+    "spain-ccn-stic-825.md",
+    "spain-ens-rd-311-2022.md",
+    "sparta-spacecraft-cybersecurity.md",
+    "ssa-electronic-information-exchange-security.md",
+    "swift-cscf-licensed-program.md",
+    "taiwan-personal-data-protection-act.md",
+    "tennessee-information-protection-act.md",
+    "texas-business-commerce-code-521.md",
+    "texas-cybersecurity-framework.md",
+    "texas-tdpsa.md",
+    "thailand-pdpa.md",
+    "tisax-licensed-program.md",
+    "tsa-rail-cybersecurity-directive.md",
+    "tx-ramp-level-1.md",
+    "tx-ramp-level-2.md",
+    "uae-national-information-assurance-framework.md",
+    "uae-pdpl.md",
+    "uk-ai-cyber-security-code.md",
+    "uk-app-store-operators-and-app-developers-code.md",
+    "uk-caa-cap-1850.md",
+    "uk-cyber-essentials.md",
+    "uk-cyber-governance-code-of-practice.md",
+    "uk-defstan-05-138-issue-4.md",
+    "uk-employment-data-protection.md",
+    "uk-gdpr.md",
+    "uk-money-laundering-regulations.md",
+    "uk-ncsc-10-steps.md",
+    "uk-ncsc-active-cyber-defence.md",
+    "uk-ncsc-caf-4.md",
+    "uk-ncsc-cyber-action-toolkit.md",
+    "uk-ncsc-early-warning.md",
+    "uk-ncsc-exercise-in-a-box.md",
+    "uk-ncsc-protective-domain-name-service.md",
+    "uk-nis-regulations.md",
+    "uk-psti.md",
+    "uk-software-security-code-of-practice.md",
+    "ul-2900-1-licensed-program.md",
+    "unece-r155.md",
+    "unece-r156.md",
+    "uruguay-personal-data-protection.md",
+    "us-bsa-fincen-aml.md",
+    "us-cyber-trust-mark.md",
+    "us-federal-ai-governance-m-25-21.md",
+    "us-federal-software-security-memoranda.md",
+    "us-section-508.md",
+    "vermont-security-breach-notice.md",
+    "virginia-vcdpa.md",
+    "w3c-verifiable-credentials-v2.md",
+    "washington-my-health-my-data-act.md",
+    "wcag-2-2.md",
+    "wolfsberg-financial-crime-principles.md"
+  ],
+  "guides": [
+    {
+      "guide": "3gpp-scas-secam.md",
+      "baseline_sha256": "f4b93f2bb1f36d087aa232b40d432914a6b01f5284a764f798211c45c5db0ef7",
+      "status": "pending"
+    },
+    {
+      "guide": "42-cfr-part-2.md",
+      "baseline_sha256": "563e84de3a09bef2d76c24ceceea61ce321da5be50a421a2f288d92b92b55198",
+      "status": "pending"
+    },
+    {
+      "guide": "alaska-personal-information-protection-act.md",
+      "baseline_sha256": "02243651055b4903486f70f39bda66b22a1351256c251f66859eea95b63ede15",
+      "status": "pending"
+    },
+    {
+      "guide": "argentina-personal-data-protection.md",
+      "baseline_sha256": "26ff68f9523d32a7c9332fd07dee941e66c8c03aec0f38f029a8f103d66947c5",
+      "status": "pending"
+    },
+    {
+      "guide": "australia-apra-cps-230.md",
+      "baseline_sha256": "21f087376d1cf3bf3c77f297f2ed0111a3a70bc3761820adc754d150552d324c",
+      "status": "pending"
+    },
+    {
+      "guide": "australia-apra-cps-234.md",
+      "baseline_sha256": "cf10b72bd455e7a5b0a8c8e4552ff04a2e9ea61cb3d55b101d015ed5aae00395",
+      "status": "pending"
+    },
+    {
+      "guide": "australia-cirmp.md",
+      "baseline_sha256": "5af0e0782e68f4eb904101dd1e7f4f94c74158d80c48e949b2ee496218bd02ef",
+      "status": "pending"
+    },
+    {
+      "guide": "australia-essential-eight.md",
+      "baseline_sha256": "4318652bd839f3ba7af5a24e88025c34ace5e28b7d7df49829ab3754566a1e82",
+      "status": "pending"
+    },
+    {
+      "guide": "australia-iot-code-of-practice-historical.md",
+      "baseline_sha256": "d8d10657c6199ad00293d8d14e2c95c9772265af47333447bec48e9ad7b378cc",
+      "status": "pending"
+    },
+    {
+      "guide": "australia-ism.md",
+      "baseline_sha256": "5a3f7fd33b7c64d694177224f6708ad9cab0795a3faa9b60994342c0cbb8a9f5",
+      "status": "pending"
+    },
+    {
+      "guide": "australia-privacy-act-apps.md",
+      "baseline_sha256": "77972dad7962a16fa2a1ce0e2b238295c5e65b2ab199236e34e42bf9d737056c",
+      "status": "pending"
+    },
+    {
+      "guide": "australia-ransomware-payment-reporting-rules-2025.md",
+      "baseline_sha256": "680f1833c28f6466297dd12ee6c8691f047627e0c920aecffb67cfd616077c25",
+      "status": "pending"
+    },
+    {
+      "guide": "australia-smart-devices-rules-2025.md",
+      "baseline_sha256": "136924ab1151dff04fc4dd878f7584e3b3cc787cf9d6bf5cc83bbd3941081114",
+      "status": "pending"
+    },
+    {
+      "guide": "bahamas-data-protection.md",
+      "baseline_sha256": "3a82d24863d897a0e192ec054766bf2e4277159f623e3bd419162cd64a80b75b",
+      "status": "pending"
+    },
+    {
+      "guide": "bermuda-pipa.md",
+      "baseline_sha256": "5237df3b6e6272ef2eade21044e4584812c61d56c938f1857494a7ec2e73048f",
+      "status": "pending"
+    },
+    {
+      "guide": "bma-operational-cyber-risk-code.md",
+      "baseline_sha256": "253d9335128f8695c72d9069b33bfb65178ff5dfd99db99cbe471a079ea541e7",
+      "status": "pending"
+    },
+    {
+      "guide": "brazil-lgpd.md",
+      "baseline_sha256": "d595ae32008936526a3e9940973ba5ba62323b010916cc5c46c551972071fa7b",
+      "status": "pending"
+    },
+    {
+      "guide": "bsi-c5-2020.md",
+      "baseline_sha256": "492e45729392453dfb931564ffbefe7ecb696b959dae43389442c05e81f985b9",
+      "status": "pending"
+    },
+    {
+      "guide": "bsi-standard-200-1.md",
+      "baseline_sha256": "775bd9f142720f581fc930b4f7f055fd83fdaac45bc8ff9a7996138633d5a968",
+      "status": "pending"
+    },
+    {
+      "guide": "bsi-standard-200-2.md",
+      "baseline_sha256": "787eccf0e7e9264526bb85225caf0b23ac9420263c49ae98d474590c9e2b254b",
+      "status": "pending"
+    },
+    {
+      "guide": "bsi-standard-200-4.md",
+      "baseline_sha256": "1720aa6a1a9a143fae18bab16044043d09c2c9531d7ecdd2ac81e39de44501ae",
+      "status": "pending"
+    },
+    {
+      "guide": "c2m2.md",
+      "baseline_sha256": "01942d07ea3c955e926adf07b7f77d06b2bb38d05d392e5b719ba7630b11024c",
+      "status": "pending"
+    },
+    {
+      "guide": "california-data-breach-notification.md",
+      "baseline_sha256": "5afa5e4481856aa210fff280dbcf87143e62d0c7e916e912b1caaad9c57b05c9",
+      "status": "pending"
+    },
+    {
+      "guide": "california-sb-327-connected-devices.md",
+      "baseline_sha256": "18b735a2a8804835c6ee3e43d880451d1c4c0b57a1df2f3e859dc3348deac972",
+      "status": "pending"
+    },
+    {
+      "guide": "california-workforce-privacy.md",
+      "baseline_sha256": "e6cf0a8a9ac3013ae35c8fac472cc54b471ef266db271ef5c3544dd2cefad6e7",
+      "status": "pending"
+    },
+    {
+      "guide": "canada-cpcsc-level-1.md",
+      "baseline_sha256": "aa182361cea95d6da0840bd22943d4dc64cd8efa0c1766a37a04113559e2acd8",
+      "status": "pending"
+    },
+    {
+      "guide": "canada-dnd-it-security-risk-management.md",
+      "baseline_sha256": "ac5b8ad1ef5ff372e48840cf0893e13b16cb10f8b26de65655bc144f90f04171",
+      "status": "pending"
+    },
+    {
+      "guide": "canada-gc-cloud-security-profile.md",
+      "baseline_sha256": "c02cb7065ff373c2254cdcf55017bb56a2b8c1224e448e67bed8abe4690488dd",
+      "status": "pending"
+    },
+    {
+      "guide": "canada-itsg-33.md",
+      "baseline_sha256": "5300974015a4cb796ddf737c4bcd820276aa0809b802fca502944bb1fb587e29",
+      "status": "pending"
+    },
+    {
+      "guide": "canada-itsp-10-171.md",
+      "baseline_sha256": "8a3537a91a3977c37b5fe1a90ff48ff061f00546733f4f17e8890b3638bfbe70",
+      "status": "pending"
+    },
+    {
+      "guide": "canada-itsp-50-105.md",
+      "baseline_sha256": "c8718d67b30ee134fd1888c3d1ecbf533b71478160a00cd5f3cba5f540db2776",
+      "status": "pending"
+    },
+    {
+      "guide": "canada-osfi-b10.md",
+      "baseline_sha256": "9ab78aeb82031256c3ce1b572e321d8bcef2f5e51fd4af10eec10740698272eb",
+      "status": "pending"
+    },
+    {
+      "guide": "canada-osfi-b13.md",
+      "baseline_sha256": "d790be69d38fd9802e2b6b0ed5e29052ad5497e42f33576b99a051634ac1daf8",
+      "status": "pending"
+    },
+    {
+      "guide": "ccpa-cpra.md",
+      "baseline_sha256": "860b74708042801a7c5646130fe699a20f6643cc4e8d3b1f7dcf660856b40e61",
+      "status": "pending"
+    },
+    {
+      "guide": "cert-rmm.md",
+      "baseline_sha256": "eacb3bac05debd61b0abaf7700520d28272b7f30252ec84102db8f706873c89e",
+      "status": "pending"
+    },
+    {
+      "guide": "chile-personal-data-transition.md",
+      "baseline_sha256": "a5bb2eefe71994a172015eb92dbf7ef96744613f795a13184aa029a1ac03a73f",
+      "status": "pending"
+    },
+    {
+      "guide": "china-cybersecurity-law.md",
+      "baseline_sha256": "776033d1c3cda3d2b292dcdd3e152ae04253068de94cb82b3400b4e57396d10d",
+      "status": "pending"
+    },
+    {
+      "guide": "china-data-security-law.md",
+      "baseline_sha256": "f08329b1ed14fe998e01e6a09b085dfeed9026e90b854b02fb5d84f15c5570b8",
+      "status": "pending"
+    },
+    {
+      "guide": "china-pipl.md",
+      "baseline_sha256": "48078c1b70e566ab8e0650c3386ddec6492430ae951d23cb16c291e4ede02040",
+      "status": "pending"
+    },
+    {
+      "guide": "cis-benchmarks-program.md",
+      "baseline_sha256": "187b68e1e3172455a660ac5197e93820f4e14bc5f931339829b19a3ddf3e38bd",
+      "status": "pending"
+    },
+    {
+      "guide": "cis-controls-v8-1-ig1.md",
+      "baseline_sha256": "68e24811ef2dc98068684e8275604e90070ac7403b5d873d536108dce847755e",
+      "status": "pending"
+    },
+    {
+      "guide": "cis-controls-v8-1-ig2.md",
+      "baseline_sha256": "caac059f2c873c7c4501063b00e6022021d51cfb63054b5901410dbc719b168e",
+      "status": "pending"
+    },
+    {
+      "guide": "cis-controls-v8-1-ig3.md",
+      "baseline_sha256": "7e167de34caf363a61b463eabc6fc3da23d97c2423b56d247e7a816dc327c1ef",
+      "status": "pending"
+    },
+    {
+      "guide": "cis-controls-v8-1.md",
+      "baseline_sha256": "65e97b89e9fbbfd5ecd4e6a999017bdda13c05005bdaa16cbd0a6679e62b8324",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-bod-18-01-email-web-security.md",
+      "baseline_sha256": "c5e027d5e69812345b918b3fe53057aafb27ed6e55b00927564fd3e216970fb9",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-bod-18-02-high-value-assets.md",
+      "baseline_sha256": "176a8b0b7bc8b96f604bb4660dd22ebd7bafd18c55924bdc3e4e305448636f7a",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-bod-19-02-internet-accessible-remediation.md",
+      "baseline_sha256": "faa869266af89e40a3fbc19466b35ab050ed5bd47d4d7c89aaddc68340611b3a",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-bod-20-01-vulnerability-disclosure.md",
+      "baseline_sha256": "7d562a74a83cc4994386d9cced637852f57992cfadc1970635fe8c7b61934cf4",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-bod-23-01-asset-visibility.md",
+      "baseline_sha256": "80a2f2874d1caef529c7641734f28bcb4fd29c31dc7d10b10bd0b74a9e930f45",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-bod-23-02-management-interfaces.md",
+      "baseline_sha256": "f762d241673421550ec68d5df0aba5d644caaf231ed121974cf98fa4ccc8de73",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-bod-25-01-cloud-services.md",
+      "baseline_sha256": "fef9dc63fcae65be660200e97894acc82044f5b79357d6744fa310e1421b4356",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-continuous-diagnostics-mitigation.md",
+      "baseline_sha256": "0e0b32033cb952491b8e7b37bee81d0fe98d03fa9bf125748f93def861697412",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-cpg.md",
+      "baseline_sha256": "31c1e7b50f545497bf95696278830afe4410aca4c759660b57d226848028733f",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-insider-risk-mitigation-evaluation.md",
+      "baseline_sha256": "74a6ab3e81e09d788404027b1ce140be3f19794f2924447358687ecb49684212",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-known-exploited-vulnerabilities-catalog.md",
+      "baseline_sha256": "1f8f92125ae01c2e4a7582c324709edbbe4f657fc0c458d4e9c2e67ae2a90e33",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-secure-by-design-pledge.md",
+      "baseline_sha256": "55e97fc39e1467c688ef266651d69cd11dae0d01df88425d3faf1af011964b8a",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-secure-by-design.md",
+      "baseline_sha256": "edbeef3626e45121cd3acb65a247bde02ac362bb9b5518cb7a9d2669d6f51494",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-secure-software-attestation.md",
+      "baseline_sha256": "e787486d25924ee9399b1d73150a7c1811b72d79bf02bb390a442142a1873939",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-tic-3.md",
+      "baseline_sha256": "a67a81888a5fc7159e109170cd4e5883722790af6ec1690a433545f11874c478",
+      "status": "pending"
+    },
+    {
+      "guide": "cisa-zero-trust-maturity-model-v2.md",
+      "baseline_sha256": "0cf7795b56908deb66b1f3231b7c6882b7885cb2df33f45736a3ad13c5707a72",
+      "status": "pending"
+    },
+    {
+      "guide": "cjis-security-policy.md",
+      "baseline_sha256": "0d82d59a3d2f9dbc7d1973fd06a39b763d68601600fac98ef2c922a49b5e6c11",
+      "status": "pending"
+    },
+    {
+      "guide": "cmmc-level-1-program.md",
+      "baseline_sha256": "b0cbcf032cb75cc1ed45ba8be05ceb7482575a2bfb768f80b58576280d76daaf",
+      "status": "pending"
+    },
+    {
+      "guide": "cmmc-level-2-program.md",
+      "baseline_sha256": "6b6054978a87a66a023f5f4a39b9c7dea2f56783b5c4334ac536e9835ce046b0",
+      "status": "pending"
+    },
+    {
+      "guide": "cmmc-level-3-program.md",
+      "baseline_sha256": "cfc469cd9ed89a86e159ce82540850e4cf5161d144cfacef912ef892758c8378",
+      "status": "pending"
+    },
+    {
+      "guide": "cmmc.md",
+      "baseline_sha256": "1ea0e3951bcee6ab6d23abf7d5cc3392e3d73abf8c4fe22254d6ebd790bd5427",
+      "status": "pending"
+    },
+    {
+      "guide": "cms-mars-e.md",
+      "baseline_sha256": "1524c700913da5b2452355768644c270acebe0959c4da275cfc0e8f27fee4e2c",
+      "status": "pending"
+    },
+    {
+      "guide": "cobit-2019.md",
+      "baseline_sha256": "50ffda273035114a4179b4d286c0f8062e346a4d606d66017837efa01099beb2",
+      "status": "pending"
+    },
+    {
+      "guide": "colombia-personal-data-protection.md",
+      "baseline_sha256": "76a70b74d3090c78a449960dbae3f3b1adad81ca07046456bc7bfd5946839cd9",
+      "status": "pending"
+    },
+    {
+      "guide": "colorado-ai-law.md",
+      "baseline_sha256": "2b3629141b5e87217541c1379bf4a32beaacc43ca5ff16a6064778f3db48cfa8",
+      "status": "pending"
+    },
+    {
+      "guide": "colorado-privacy-act.md",
+      "baseline_sha256": "d8471840f6a83ed308ed50a33bd0f896550ac559bde6c4def50d529aaba1bd1f",
+      "status": "pending"
+    },
+    {
+      "guide": "connecticut-data-privacy-act.md",
+      "baseline_sha256": "486c65e1185e9a73abaa5fb06c046afb68092c1ce292d133f1b3570d60323b45",
+      "status": "pending"
+    },
+    {
+      "guide": "coppa.md",
+      "baseline_sha256": "641f0103996ba3708fffe88da575915e149cd20614feefc1efc8cf91781d663a",
+      "status": "pending"
+    },
+    {
+      "guide": "coso-internal-control-integrated-framework.md",
+      "baseline_sha256": "671217e4b1e64eabea5c8e041d42d6b6ffdca88c281aa10a9d7c72a911c156c3",
+      "status": "pending"
+    },
+    {
+      "guide": "costa-rica-personal-data-protection.md",
+      "baseline_sha256": "cd5a6c57accf62957bd97eac5a4f3f289ee7524c9e0883fc95f537ee6da4e7cc",
+      "status": "pending"
+    },
+    {
+      "guide": "csa-ai-controls-matrix.md",
+      "baseline_sha256": "7163a9aa246f89669558d1f274aafdf364362dc9dc3ad65184619e29de3d4ab6",
+      "status": "pending"
+    },
+    {
+      "guide": "csa-ccm-v4.md",
+      "baseline_sha256": "4a41ab42b7716a09c4fd03c62edfaac9f6e2bbbb626222b243abf52fb8188025",
+      "status": "pending"
+    },
+    {
+      "guide": "csa-iot-security-controls-framework-v2.md",
+      "baseline_sha256": "5d70b0033a26409058788fdae60cc59eeee989aab38839320ef2e58ce07a2fcf",
+      "status": "pending"
+    },
+    {
+      "guide": "csa-star.md",
+      "baseline_sha256": "6347da5d16952f6a7987e1028c39cd17e8beeb00ef040ac8ace06d3705681b1b",
+      "status": "pending"
+    },
+    {
+      "guide": "ctpat.md",
+      "baseline_sha256": "2ed79f6d0e6766abb2e2d99c1cb1316ea09681809df444a8214adf28aa5e2056",
+      "status": "pending"
+    },
+    {
+      "guide": "dama-dmbok-informed.md",
+      "baseline_sha256": "87a4affa80161701809feda91399461e8d6716281085b623a3bed5c0b3232371",
+      "status": "pending"
+    },
+    {
+      "guide": "dfars-cybersecurity.md",
+      "baseline_sha256": "990ffca45138a6ad85f2d5461071fd031081eede56d019ee4aeb949ad8eb01de",
+      "status": "pending"
+    },
+    {
+      "guide": "disa-stig-program.md",
+      "baseline_sha256": "3b8b54b98ce492859d37a97bbf138ccba77caef30a68c14298d39b1256f13518",
+      "status": "pending"
+    },
+    {
+      "guide": "dod-nist-800-171-assessment.md",
+      "baseline_sha256": "18ed0fb7eb36acdd962270c439078a2b0013cd61d79914576274621dea791703",
+      "status": "pending"
+    },
+    {
+      "guide": "dod-zero-trust-reference-architecture-v2.md",
+      "baseline_sha256": "2ca9d1f49a99bd2df310c74531a56e4391f2c9d5d6baf69db24dfe78060c0532",
+      "status": "pending"
+    },
+    {
+      "guide": "eba-gl-2019-04.md",
+      "baseline_sha256": "72064e8f2f72c11bbdca34f0dc8c5e725934c441620b0ea4939003f7a4a7583a",
+      "status": "pending"
+    },
+    {
+      "guide": "eeoc-ai-employment-guidance.md",
+      "baseline_sha256": "3d2f534f0dbb173c445933888566e9d0ba64a9960c3eff75e1b225b3309dfb0c",
+      "status": "pending"
+    },
+    {
+      "guide": "eidas-trust-services.md",
+      "baseline_sha256": "4904014a09e42841d767796ea74b1f165d92afd50605ce588104d50e110183e6",
+      "status": "pending"
+    },
+    {
+      "guide": "enisa-ncaf-2.md",
+      "baseline_sha256": "b8209fe1c66a863f014870bbe1ca336b0495d095af10399233bd729d9adf920f",
+      "status": "pending"
+    },
+    {
+      "guide": "etsi-en-303-645-v3-1-3.md",
+      "baseline_sha256": "0e648b487a03b99cbe5adf3af6f61358de8b1f3643508026b07b69e4770fb31c",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-ai-act.md",
+      "baseline_sha256": "933f90357388bc040717b10480e39370f6cdade9425b62af83ecf8b0224c7554",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-aml-transition.md",
+      "baseline_sha256": "8b3b1e2c7250b0df2c8964683409c7810179083d6c93ab86ac07db8cec7d1173",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-cloud-code-of-conduct.md",
+      "baseline_sha256": "c5cef29e750570d0a5ac75df93a65caaaea810207e7b19dfd7f6926bca9e1083",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-critical-entities-resilience.md",
+      "baseline_sha256": "67c7fea1783d3b8b8af7729b8752d736920b9bc8d1e6e32dc0184b70107098a0",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-csrd-esrs.md",
+      "baseline_sha256": "630a05ea97e9d834b732fe368c26b8712d4e4a14447cbb2c4ee680293d904d8b",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-cyber-resilience-act.md",
+      "baseline_sha256": "ff0979e666bcb0a7ec24110f55d82a8ce2ebe30f48d49a55fab7abafbb1e6bf1",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-cybersecurity-certification-eucc.md",
+      "baseline_sha256": "89be3562ef55c4202a9cb55ed693a8563cfdc2fd9daf67111307e0b6d5001951",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-dora.md",
+      "baseline_sha256": "edbb30eed216dd8351d4d560ee2808108e91cd079c09a5491576375f9615146b",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-eidas-2.md",
+      "baseline_sha256": "ccaca1de116657f36bb8b9c8ad79795318e563c91cd37a401658f6812b987c25",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-gdpr-employment-context.md",
+      "baseline_sha256": "2f03fc33fec6b3ef64e369e3fe4f6d10824b51a185ae1513f0a6a3bc6888d84d",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-gdpr.md",
+      "baseline_sha256": "baa2a8fc28c5aa80ee3e5db87ae42ce52859550ab6d5dc667288121ee5618283",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-gmp-annex-11.md",
+      "baseline_sha256": "a9cc88eee192500f400a9b37b5eb1860fe6c7bb4caf99daa53871988663f3657",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-nis2.md",
+      "baseline_sha256": "786adf16b8648adf7ed8adc57aa6752f7f65ebb4ebc7464a38971ceca90c9974",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-payment-services-transition.md",
+      "baseline_sha256": "27bb8e9295301a05e46b81c0c6cf7ac11d44a58f1f436ce6e289bbfcfd28f509",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-us-data-privacy-framework.md",
+      "baseline_sha256": "082712a436eb71d2efd214ad4d5e1d5671796bdeb2253380c5968355e25d35f6",
+      "status": "pending"
+    },
+    {
+      "guide": "eu-us-privacy-shield-historical-transition.md",
+      "baseline_sha256": "f99851d388019b5eac0a00383bc88c579a9dbad0f3fac5d0ef476ce196b370d4",
+      "status": "pending"
+    },
+    {
+      "guide": "facta-red-flags-rule.md",
+      "baseline_sha256": "ee65312cb145a1debfad5b4f4533c809fbc41d833fb9a9c2b943e75a799199d4",
+      "status": "pending"
+    },
+    {
+      "guide": "far-52-204-21.md",
+      "baseline_sha256": "1ed83f191b4f882e2488c381a0e4faf65cf8e14fff9d4d1099b2ef9b8f9ac1a0",
+      "status": "pending"
+    },
+    {
+      "guide": "far-52-204-25-section-889.md",
+      "baseline_sha256": "66a577df56aedb22b4eebf758c2a10953ebebd3ecb40edb93aad400381151d76",
+      "status": "pending"
+    },
+    {
+      "guide": "far-52-204-27.md",
+      "baseline_sha256": "1b4ca3d79b3cecca55d4c6472da1ea2857cecb151d468226bd7df49b8685cfa8",
+      "status": "pending"
+    },
+    {
+      "guide": "fatf-recommendations-context.md",
+      "baseline_sha256": "bd02a2dc76866c10cd563d258d8216cc3b9533301d6f8356e468e17034d11555",
+      "status": "pending"
+    },
+    {
+      "guide": "fda-21-cfr-part-11.md",
+      "baseline_sha256": "8235c660daebfe4aef4d7960aa6ebddd172d21bf3353a0f69642b86713828e4b",
+      "status": "pending"
+    },
+    {
+      "guide": "fda-medical-device-cybersecurity.md",
+      "baseline_sha256": "8c22522b528442db0f45dcdb745a3c3a7cf378417c72ce27f06e529141d35085",
+      "status": "pending"
+    },
+    {
+      "guide": "fda-qmsr-21-cfr-part-820.md",
+      "baseline_sha256": "87b924e51d3a4382a77433a350d9da384565f2be39f7e7802209174c0d6ca4e0",
+      "status": "pending"
+    },
+    {
+      "guide": "fedramp.md",
+      "baseline_sha256": "db187bedc11f76716d0bb416afda7348a8280cac15cb928614c06cee7434e109",
+      "status": "pending"
+    },
+    {
+      "guide": "fema-national-response-framework.md",
+      "baseline_sha256": "940e7f3cd36f155a220975bf614e1c7b80c5b6c0927d566735d2a9014e2d21a4",
+      "status": "pending"
+    },
+    {
+      "guide": "ferpa.md",
+      "baseline_sha256": "38cd66ea347534cd47310fd0249f7fa2640671308402b6d29c855de2a23b08b6",
+      "status": "pending"
+    },
+    {
+      "guide": "ffiec-aio-booklet.md",
+      "baseline_sha256": "adfac4124f394589169286b267bf59834a0df39af9753225e85f6b00b4beaf7a",
+      "status": "pending"
+    },
+    {
+      "guide": "ffiec-cat-historical.md",
+      "baseline_sha256": "de4871a7fb6f992ed37c7f6645e43f22ea8420022c1aa203518e1c8853ba82ba",
+      "status": "pending"
+    },
+    {
+      "guide": "fido-certification-program.md",
+      "baseline_sha256": "15386beffbc667d26e9e71e891a4888af88734596e96badba00d4e070cbcb6c9",
+      "status": "pending"
+    },
+    {
+      "guide": "finra-cybersecurity-supervisory-readiness.md",
+      "baseline_sha256": "bdf6a3497219cd58fd4201514880979599435ce387e6ecd97bcf358128f7a3e2",
+      "status": "pending"
+    },
+    {
+      "guide": "fips-140-3.md",
+      "baseline_sha256": "22c4cbc0bce88c60155faa609ad6958151c2c73276fe75cf2620a3c76b9d8aab",
+      "status": "pending"
+    },
+    {
+      "guide": "fips-180-4.md",
+      "baseline_sha256": "1a472e7aa0c079765522876ceb4d7466813b4feba71cf9a24ba4e5f706287221",
+      "status": "pending"
+    },
+    {
+      "guide": "fips-186-5.md",
+      "baseline_sha256": "b7298eb42981dfaeae422156168a35657fcaff6c48ca9ba845d0eeefc4ae3a31",
+      "status": "pending"
+    },
+    {
+      "guide": "fips-197.md",
+      "baseline_sha256": "99c4d40a213f8a9013ab0222a2a64df90710f41722f0fad960cfa7a3af83a8e6",
+      "status": "pending"
+    },
+    {
+      "guide": "fips-198-1-hmac.md",
+      "baseline_sha256": "d4c68699c30f5c573e8929e133e82e8ec8233c3987b0fab0bf5fc7f60d8393dd",
+      "status": "pending"
+    },
+    {
+      "guide": "fips-199.md",
+      "baseline_sha256": "a801ad200f6f6e2108bc2f1e6854fe418e79c2e51b2dbb4f5b8fa4a40f827ee0",
+      "status": "pending"
+    },
+    {
+      "guide": "fips-200.md",
+      "baseline_sha256": "4c58018dc768f9e1fa6175e737ec5f7c72eea527b3ac9f25bbaa51e97035980c",
+      "status": "pending"
+    },
+    {
+      "guide": "fips-201-3.md",
+      "baseline_sha256": "9f1eb58f14f0b86e9843153bc48c34d0835d4775c2af263e84ae5760ac29863f",
+      "status": "pending"
+    },
+    {
+      "guide": "fips-202.md",
+      "baseline_sha256": "b11fcf7109a2dc9781e68c6fcb1de55756112d06f516d02c101fa2c31a70e673",
+      "status": "pending"
+    },
+    {
+      "guide": "fips-203.md",
+      "baseline_sha256": "529617d6f67a5c9198f12d1732db154f9aef763277d8a9243a2db68a0b8d3ac8",
+      "status": "pending"
+    },
+    {
+      "guide": "fips-204.md",
+      "baseline_sha256": "b5adbac85c78cbac377d07a3cda61ab175e30980b653faccafb65a6e542759ef",
+      "status": "pending"
+    },
+    {
+      "guide": "fips-205.md",
+      "baseline_sha256": "c4d83718f9f692b9f8753f80b9e687e9e7dc3e9f75a7a3f727d367bb0288401d",
+      "status": "pending"
+    },
+    {
+      "guide": "fisma-federal-information-security.md",
+      "baseline_sha256": "2801de5df95decf320262a7525ad6554f2de0949f7477f6abf423bbcb625b1e3",
+      "status": "pending"
+    },
+    {
+      "guide": "ftc-act-consumer-privacy-security.md",
+      "baseline_sha256": "2ef6b94326f0f4213604208ec8ac1c03e521a588a89a94b8a659d625cc632028",
+      "status": "pending"
+    },
+    {
+      "guide": "ghana-data-protection-act.md",
+      "baseline_sha256": "e3be5b42215b3b85b8b62be7c2abd61ce92a20ae1907b351ff1db444217c05e6",
+      "status": "pending"
+    },
+    {
+      "guide": "ghg-protocol-corporate-standard.md",
+      "baseline_sha256": "17d25310ccca20da693f3203b0e62518ed041ccabf2f18cf0e66b998b4042568",
+      "status": "pending"
+    },
+    {
+      "guide": "glba-safeguards-rule.md",
+      "baseline_sha256": "16187bec2163e818121be208e9646e9e71d6fe6dc25d32e050ff9ea18589b029",
+      "status": "pending"
+    },
+    {
+      "guide": "global-cross-border-privacy-rules.md",
+      "baseline_sha256": "a75f3dd49e68f5acc8bc4aa3c75b2d3fd7633adc5dc1705dde81412a22a7c81a",
+      "status": "pending"
+    },
+    {
+      "guide": "global-privacy-recognition-for-processors.md",
+      "baseline_sha256": "16e81f2626fc10c1e67ee348fb5d9c1e6c4f1452952a73608369140c6e15c362",
+      "status": "pending"
+    },
+    {
+      "guide": "govramp-licensed-program.md",
+      "baseline_sha256": "9b857ea2eccbdc1739763ee9a9c4cd10f271344419731bc4895cfb134a49cc47",
+      "status": "pending"
+    },
+    {
+      "guide": "govramp-low-impact-level.md",
+      "baseline_sha256": "1f1a32a8786362cdd98a66765120068dce354a388e1636d223a4a7bf360a5d99",
+      "status": "pending"
+    },
+    {
+      "guide": "govramp-low-plus-impact-level.md",
+      "baseline_sha256": "78c27a2e7e52eb6622bdf2484acb7bb7004c0ccf71f389a41a8189d0dc2671c8",
+      "status": "pending"
+    },
+    {
+      "guide": "govramp-moderate-impact-level.md",
+      "baseline_sha256": "20d8df5fdfe4fd81cce36034c25b1ad16dde7aed66e3edc805eb0abba774357c",
+      "status": "pending"
+    },
+    {
+      "guide": "gsma-nesas.md",
+      "baseline_sha256": "cad7f881768353fdb19f347b40625fc986ac0a298e212929c084498b783e1595",
+      "status": "pending"
+    },
+    {
+      "guide": "hhs-hicp-2023.md",
+      "baseline_sha256": "46d99baf8ca854b630674473a9e25c0a9f2570272b29789084fe1f8f9ecb67e5",
+      "status": "pending"
+    },
+    {
+      "guide": "hipaa-security-rule.md",
+      "baseline_sha256": "6e4caa7302ae9ba8c7363e2b435212d373a823a20a0ba4d799d75212c076acb3",
+      "status": "pending"
+    },
+    {
+      "guide": "hitech-breach-readiness.md",
+      "baseline_sha256": "b1e45fc5a8305cded64fb72ee6702b1141986e32a79cc8482ab1f25116fd7b69",
+      "status": "pending"
+    },
+    {
+      "guide": "hitrust-csf-licensed-program.md",
+      "baseline_sha256": "d152f1abbe957870ad257b4f1a9fb06fd0bf3940e7b1dd6fbaa74883f13fcfad",
+      "status": "pending"
+    },
+    {
+      "guide": "hong-kong-pdpo.md",
+      "baseline_sha256": "fa8e37a1bab6c8d28a546948cb02dabf3f16a049c5faa44e8d43fe934e27c220",
+      "status": "pending"
+    },
+    {
+      "guide": "ich-q9-r1.md",
+      "baseline_sha256": "73aff30a472a48b6fab7f4a6cfb8f9d0f21049a94f1c35f4006f29d82c4f81dc",
+      "status": "pending"
+    },
+    {
+      "guide": "idea-confidentiality.md",
+      "baseline_sha256": "6bf24392adfb31bceabe704c93f3dd80fd83e6f15863b041637bd8da699837f3",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-31010-2019.md",
+      "baseline_sha256": "f28d6ae7f6bead1a5d8c8c3334b4158beda4f9279197a92f27e0c10c7c4c94ed",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-62443-2-1-2024.md",
+      "baseline_sha256": "2fa76d3f6f080c32646baffd6c4fd56275986cc1f811fa6962670376f3604136",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-62443-2-4-2023.md",
+      "baseline_sha256": "182e80f14a2d4897b11e9066d3812d118f0d63dc6f4addb77a2f0b5790571318",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-62443-3-2-2020.md",
+      "baseline_sha256": "2cbf34162b9c93b2dcbd23d0f86fcb488310160b3783e84efd2e2141cdeb92f2",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-62443-3-3-2013.md",
+      "baseline_sha256": "d98d1f080897db7bfef8ab7759cbb85fe941b8de8b5a02e22b3be560740a076b",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-62443-4-1-2018.md",
+      "baseline_sha256": "0ba750af7f01d5aaa944f6b55bc1b9cb3d8decfadb78ff8a5bcb777987c024ca",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-62443-4-2-2019.md",
+      "baseline_sha256": "40c3c9998229d16aa855cec9f2278a071012adf578665f04ae99251cb14245a9",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-62443.md",
+      "baseline_sha256": "f209e96d98b58da9e7be421be8d36e6138fbb557f91d6ea110308cc8f1fd6d79",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-pas-62443-1-6-2025.md",
+      "baseline_sha256": "54c64ba55c12ad72ec89e3bc233b6f21b0471cf445a70d9b4356b1e5b37b978f",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-pas-62443-2-2-2025.md",
+      "baseline_sha256": "5edb3df7caaef8e4c7f07606d73f44d5e1179e58b91770c380d150917d3f5484",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-tr-60601-4-5-2021.md",
+      "baseline_sha256": "2341f6bdabff71224e61c735966cbc7d0e5721012d7956754dae510f0b532284",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-tr-62443-2-3-2015.md",
+      "baseline_sha256": "d545eaf45bae4c431b531abede5a2cf8923fa478db22df258703bc426be114f1",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-tr-62443-3-1-2009.md",
+      "baseline_sha256": "69e5a959ddbcbcd4bb16e4f3c3ab3b4bda1bcaf434fb0cb88b751ef3724049ed",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-ts-62443-1-1-2009.md",
+      "baseline_sha256": "b703f339a932e7f3e3db3a2223e60f450b5588bc9ce3984ab807e93b93ba9a18",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-ts-62443-1-5-2023.md",
+      "baseline_sha256": "15d72831159ec706ed7cca062ad48f76ae47841a36cbbd8f69946a0004973f33",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-ts-62443-6-2-2025.md",
+      "baseline_sha256": "34683ead2a2ae8e68faa2d28221fc09c1a7d6d2beab34ff4bc0c3597924d2ece",
+      "status": "pending"
+    },
+    {
+      "guide": "iec-ts-63074-2023.md",
+      "baseline_sha256": "46f697ad7f22e47f7fe96a913f320e5da3e48279ef64fba7982387d2a1d29565",
+      "status": "pending"
+    },
+    {
+      "guide": "illinois-bipa.md",
+      "baseline_sha256": "9d887982dec4d5917d7402bda5cd0f4ed3388410f2be5659cc56b4510b345bd8",
+      "status": "pending"
+    },
+    {
+      "guide": "illinois-personal-information-protection.md",
+      "baseline_sha256": "208b323ce1084c4d4558a4db625df14f4d54650aa89b03b9c11688068a020164",
+      "status": "pending"
+    },
+    {
+      "guide": "india-dpdpa.md",
+      "baseline_sha256": "ac86883368be8b2845b604f66a1815d94a1db3489d987d31d46ae07c6aa74b5b",
+      "status": "pending"
+    },
+    {
+      "guide": "indonesia-personal-data-protection-law.md",
+      "baseline_sha256": "7f73341a5dfc698ffa36a7cb69638f15f8ac3893365a9b4a8f54ec2a0807780b",
+      "status": "pending"
+    },
+    {
+      "guide": "irs-publication-1075.md",
+      "baseline_sha256": "725ea6bf4d20bd7d6771bb10054bf1651dca61b3197631fa1d76de1ec07a359b",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-10002-2018.md",
+      "baseline_sha256": "9f897b37adc5068c4bc4105d8c4d6b3dad37fae26b52644743ba2dd131d1ec67",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-10004-2018.md",
+      "baseline_sha256": "b80beab0ce039cdac5bacecc9b8fc497b5a9ecaa4e5999327bfd2ecbb11d375a",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-10013-2021.md",
+      "baseline_sha256": "5af5e4ee27ab5a260d98c6c19cb140358cacbd4fce6513b448670bb3e6debdc3",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-10015-2019.md",
+      "baseline_sha256": "71bdc741fd84954a0f4e96ffb77058607253fd2aa428ed8e23bef5ee4d518473",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-13485-2016.md",
+      "baseline_sha256": "a482f0dd532a066df7eed7f6da7f20b34eeaf129a384d07da30a5eda5dfb0842",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-14001-2026.md",
+      "baseline_sha256": "07df65d4c784ac5efb7d45efbb2c1faf08423b51c376323a624c61ca0a3b5c14",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-15489-1-2016.md",
+      "baseline_sha256": "b7c22e87255badb3976126a6385ccad3890f8eda28709b0ab1181e6d1214269c",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-22301-2019.md",
+      "baseline_sha256": "691527fff8836164238f35ccb3c36ad8a51a9b7110a4c08a8f026367ac5d8b31",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-22316-2017.md",
+      "baseline_sha256": "eb5aa4f5de45f85da26e5cfb3bb4f292fd01667fbb4c1860b7e73f13200c11a8",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-22361-2022.md",
+      "baseline_sha256": "666bc82f3819f1883b5366ae4507c957bff640ae0d0cae17fc9b5622504a968b",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-22398-2013.md",
+      "baseline_sha256": "6d36234b866f49fcf8997b5213a6a3bdc91f1c0305ab46ab7077d774c264f6a5",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-27799-2025.md",
+      "baseline_sha256": "94aabe7bf23b5151192ee1b65e85a3777b6884ab834eb579dd8315b9b2515949",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-28000-2022.md",
+      "baseline_sha256": "94a986823fec235020460dd043ab7c8960485916bee271235d24522f19b74e69",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-31000-2018.md",
+      "baseline_sha256": "37aaefc31667039277e447a404a110170cb4daddbbba2dfe582893d45d024e47",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-31030-2021.md",
+      "baseline_sha256": "6236dad80d4262fc81ba3bd0454f2df325dab3569d7cbf0b8a573b9695c07dcb",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-37001-2025.md",
+      "baseline_sha256": "7f16f4a7a106fd23f03c58fb7acb9c01c5ab82c7edc9b7f3b53978604a80404f",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-37002-2021.md",
+      "baseline_sha256": "a4649eecf857fb145f15e8e2c0a043fd20db586bb87d55c95c31c0d46a58bca2",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-37301-2021.md",
+      "baseline_sha256": "6443466e685372bfc4ee39e4eeaf8d18675d34e08e2710ce5c940b9f967933b4",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-45001-2018.md",
+      "baseline_sha256": "99aff1e9e66bebfc9524923ac8662759ab5c376c52f6daa093c1d1f47e41eef7",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-50001-2018.md",
+      "baseline_sha256": "01a8052b9b6d25c28f6f24b0fe2309ae81f4318bc3962630d13e5dfad4ff031a",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-8000-8-2015.md",
+      "baseline_sha256": "438548709fabd8e5d7307a529acde0f9e30e059a13656f92d20bea18bf5dd417",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-9001-2015.md",
+      "baseline_sha256": "69962380622f9974a51a4705b6c8a0ae4581eb0f70d49be68d442c0246eeaa11",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-20000-1-2018.md",
+      "baseline_sha256": "e8973cea4cd7018d4d7f9803c567bcc9f66de07a09ad692718f10241fca54396",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-23894-2023.md",
+      "baseline_sha256": "3430d49400c3c773d2a84e578c349d6be527946fffe73a9cb013460404dbb498",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27000-2026.md",
+      "baseline_sha256": "1547919a41216316044750f6d51882b4555f036e8556c5fa583a451171ffeea5",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27001-2022.md",
+      "baseline_sha256": "3e4dcb23912c7878cd5bf7b5fe4b5b5751b63c7abec2489539cbce1771d9be04",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27002-2022.md",
+      "baseline_sha256": "ddde27ab879f0f27d5402499917b2797fc433e12c817c3e8895ae71dc6ea6256",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27003-2017.md",
+      "baseline_sha256": "0ce6aff4f810345af0e2f1d21112ab6008f7da97514d0cb89dde94b4931abfcf",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27004-2016.md",
+      "baseline_sha256": "e470492bb6fdf4034da9e5f734c9cc276040e8e050a72f212977d699ebb49da8",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27005-2022.md",
+      "baseline_sha256": "8b3a962a4d9364603c74e545c51e15a2fb49f26024e7c903383ee43a61182315",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27006-1-2024.md",
+      "baseline_sha256": "6f0c9715b69ae0f66fba4c940c2af3a9d2e1c5b3cdd0bc6d30a5cb8a3bf0cfdf",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27007-2020.md",
+      "baseline_sha256": "2b2d7cc7059dbc8e0924a89e24542a28bafa726b368b819c389b4e2639791d99",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27009-2020.md",
+      "baseline_sha256": "d5adff75f1ca8fa09c78d18d1518c0d6eea9975c80afc16f5da7cc96c572d1b5",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27010-2015.md",
+      "baseline_sha256": "f89b9bd59e27c4ad0e811681bdea52dc5c29c9263b7a48cdf62c105fb5e7fa6d",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27011-2024.md",
+      "baseline_sha256": "8b442e56abe908c3dc1b80c20c9467825f6dee7c7230fc22f52dcbbe37e3ad4e",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27013-2021.md",
+      "baseline_sha256": "03d526a914b54c74a8aa19dc1dd1129bfea3f6f34319b7b702ffbe8e722e74a2",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27014-2020.md",
+      "baseline_sha256": "99f925b7aa62dcb3e853e54a01a436f7e5ac33d06fe2770da834c47a6ea8bf28",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27017-2015.md",
+      "baseline_sha256": "33dc8acb88f4cc40a0d5c07e35eec002ca12fe4122d7470de969e1c40096731c",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27018-2025.md",
+      "baseline_sha256": "00b1f73b943ab96330cec9219e6cbec89ac5356b1b1ad25280265063fd0fa46c",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27019-2024.md",
+      "baseline_sha256": "eb7c6bc1dba1a09fa690512db82a45b02cd3022d301bc4f31c71554d8045d85d",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27031-2025.md",
+      "baseline_sha256": "6250bd1c360ec3423cb45ee67a56368fd12127bf68ea026f90de499bcca72d94",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27032-2023.md",
+      "baseline_sha256": "9acab33408ba75c3b62c56a533d0da4fa490bb08eb598e33cf6c9472fa54bf30",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27033-7-2023.md",
+      "baseline_sha256": "ecab1684d40646b5ac3df0bbb715589bae085efcc4ed94465fd0a4fe7d1bbae6",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27033-network-security.md",
+      "baseline_sha256": "3910644f83d968bb5fcd5724088c09360961408127f3bdeb7f5c572aff8a4fb9",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27034-application-security.md",
+      "baseline_sha256": "095179e63d7f7719b4b63b452caa21b7db0e56ec3641cab259d4c1517335d035",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27035-incident-management.md",
+      "baseline_sha256": "471a7d6aefbfcca47d006eb1028cbc0040563035ac1df360488b7df30b4f4ec6",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27036-supplier-relationships.md",
+      "baseline_sha256": "bee25a7c34ee3976e7654dbccb8d614f4ccd1a3604a3a5dad64bfcbe5e39f0da",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27037-2012.md",
+      "baseline_sha256": "2161eea096caef15dea54089274b90b9457d11a4bdfea8a3378b713f9f4871d0",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27038-2014.md",
+      "baseline_sha256": "43498f8f531f81fd2b84393fa81a6e165ad3e60ed6137d64d556989673bd6dd4",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27039-2015.md",
+      "baseline_sha256": "d888db4aaeed98cf4e933a1e3fe5c945498507405d62b73aca2cd46ef0ba8836",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27040-2024.md",
+      "baseline_sha256": "5f0cd8d7ae15be5fca80c44d0955eb9556496512dc25aa7233c8b37ade40a333",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27041-2015.md",
+      "baseline_sha256": "5f7b21902a91586c56b6bc6fd314d2125f7d97458de55118979e9c3cb9f0d376",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27042-2015.md",
+      "baseline_sha256": "397c19e32f17fdb0db37e34f7e644185f5e4e03736f38a5d2b1d461d156f84a1",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27043-2015.md",
+      "baseline_sha256": "11dad84500517f0af7cc762fd8501c24c7c6189ea9b7e647b562a4452e137258",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27050-ediscovery.md",
+      "baseline_sha256": "38049bfeb983f13d7ae81d93bd9f7ade67a64292121be4b7b2c2454cb87dd611",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27099-2022.md",
+      "baseline_sha256": "206f15fbc194828aa292fb610296499ca8999e3ac1aa3fa510a6bc68f12c5b10",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27102-2019.md",
+      "baseline_sha256": "86514a56a26adb7e230758302c936623e2d24ba6e5639996c91dd582b0b3d54a",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27400-2022.md",
+      "baseline_sha256": "60169a7a2dc091335b3e663876a578cc1546f6028eebb15d2993dadb16318dc9",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27402-2023.md",
+      "baseline_sha256": "b48d4ea382a00010ed85612260ee75f95bce079bf16b5bb3aedcdda29c40ee83",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27403-2024.md",
+      "baseline_sha256": "06c3d4fa1393b0bf6443a70c5ea61775ab2724486c8947f7615c07c3f367cebf",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27404-2025.md",
+      "baseline_sha256": "3dd1d9bc041b60bec93b2115a49d96b7eb107ccfbcf349447a86409dc8fd8810",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27551-2021.md",
+      "baseline_sha256": "dd0f7fb3c1603d86f2967322e96f5bc284730230fbfe2a865d138e4ba240dd20",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27553-1-2022.md",
+      "baseline_sha256": "af65f6393777c9677a72ac28bd332b73be74297dd2dd8ca7000816c3e7192514",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27553-2-2025.md",
+      "baseline_sha256": "0355044f0bc6fb93800f6c8c0890b3ceb2d28cf1aa4b0b48b2ce596f8baacd38",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27554-2024.md",
+      "baseline_sha256": "2858aa0683baa1fd1a2aff84d50aa6cc8de2aa4d747971b3b362810527678f43",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27555-2021.md",
+      "baseline_sha256": "8dd61ed274064495cf24d3daf863608520070ee83a3d6a26de86ac462e095b27",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27556-2022.md",
+      "baseline_sha256": "49066f7d34102fbc2f3fc44d8111a946e2181f6bc9b9f47662f48107bf71e598",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27557-2022.md",
+      "baseline_sha256": "dde8693c0531a5ccb7e6362a0bb39fe38475aefa80bd96d1e9e74436eefda41f",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27559-2022.md",
+      "baseline_sha256": "f4c73f91bd1b69029f83b74cdfc0df07b37c08ab137e3f1d2ef7d97cd597fd92",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27561-2024.md",
+      "baseline_sha256": "172bf2dec83a9ca9ddcd8e17aff07e341a89b833c117d4e1be06f6dc1dac275a",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-27701-2025.md",
+      "baseline_sha256": "3147227efaf80c05057fcac1c09982b20a45e9a2d022703f7eb3897d45df4163",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-29100-2024.md",
+      "baseline_sha256": "e938f46a470282b196b6ad3260cd5e03b36cf8505e21e94e509bfb8e9a8408bf",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-29134-2023.md",
+      "baseline_sha256": "e73c5bf49223d6a3670fa66a89b119e1a2a5f6e9eb34320f84543f126a533df9",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-29147-2018.md",
+      "baseline_sha256": "6d738c80f27c0e0f1d9e2f4aeadfec793e68235303cd2d21c859df9636b973a0",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-30111-2019.md",
+      "baseline_sha256": "c77340152e9d3ab4d00e6b7aea969b80bda949c937456c760e0f971b893ffbf5",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-38507-2022.md",
+      "baseline_sha256": "c467b6d7a1612d9dd6417519d6fb3c4cd32c776174046152071d816e0673264b",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-42001-2023.md",
+      "baseline_sha256": "bb0eb46cc96402d9542fa757f88b3dda1ad2439b91725abf22d891d962f5b8e6",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-42005-2025.md",
+      "baseline_sha256": "50a706a8f246d0e5c3affc2559cec34750e9b7341a78b663db89ac1d0a9787d6",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-42006-2025.md",
+      "baseline_sha256": "97b9c2406c547a318a3364e88270d0d83399ad335f2ba5b736d490ff5974d181",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-tr-27016-2014.md",
+      "baseline_sha256": "ccbf0dca4258b57f64661bd90933d600b922e7af47a1360a74273fcd7a53e502",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-tr-27550-2019.md",
+      "baseline_sha256": "f4e0fc492f4e481c843ed0cc75e4c266af044dca297d86546dcefbf4cabb9575",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-ts-27008-2019.md",
+      "baseline_sha256": "c2b9de12732c23b6be602a8664c9d32122b10c88430e1abd53f97cd2120953ed",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-ts-27022-2021.md",
+      "baseline_sha256": "dd8d7ec2dca7150d99cdc9f737698759141e744403f0e891ae7a84cbc69610cb",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-ts-27103-2026.md",
+      "baseline_sha256": "bf13996395abacc2cf4164c66cdd8f78c96322ef071f0d84d5e16ebe8d1c0089",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-ts-27110-2021.md",
+      "baseline_sha256": "55c496de2d5682bcbe056f1264e44a6e39b277d281869c0e394efe86b9776369",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-iec-ts-42119-2-2025.md",
+      "baseline_sha256": "3c2ab1a1a08f298af22475ba64ce99953b39cc607e573e3f4375a4cf049a1943",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-sae-21434-2021.md",
+      "baseline_sha256": "f027b5d5d4de2b496e741de36a34adc7ae8e052e16f3edadbafc5e7c028e09bc",
+      "status": "pending"
+    },
+    {
+      "guide": "iso-ts-37008-2023.md",
+      "baseline_sha256": "45b9f448e6beea3c0a1d93c06ceae92fbefe90821c4feb3a1e8397c840425b35",
+      "status": "pending"
+    },
+    {
+      "guide": "israel-cyber-defense-methodology.md",
+      "baseline_sha256": "4b88468919209aecc2ec819442478b5c447be507cc07e6cb98dfcafb310d19c4",
+      "status": "pending"
+    },
+    {
+      "guide": "israel-protection-of-privacy.md",
+      "baseline_sha256": "bda802bee6fab5f65abe0cd764a8ed2f93262f525d9c323ab8530f3b82da0634",
+      "status": "pending"
+    },
+    {
+      "guide": "itar-technical-data-protection.md",
+      "baseline_sha256": "1aa15f8a32cc338f849edd0aad92a4048b4e9687d086029de531e881525279f2",
+      "status": "pending"
+    },
+    {
+      "guide": "japan-appi.md",
+      "baseline_sha256": "49a4e0166f7ebeb67e9ff92fa7b39e329d4ab24e5e582748e611e4c11ff2ea94",
+      "status": "pending"
+    },
+    {
+      "guide": "japan-cybersecurity-management-guidelines.md",
+      "baseline_sha256": "f4fe050635e0ee252d877e1d9eced961d3148d06fab8dd737767aa14bf43f556",
+      "status": "pending"
+    },
+    {
+      "guide": "japan-ismap.md",
+      "baseline_sha256": "790e3cbe3e8caa2b23638d8af2c2d2c883b889bce464b6333eef9b4d39f50247",
+      "status": "pending"
+    },
+    {
+      "guide": "kenya-data-protection-act.md",
+      "baseline_sha256": "1b7ce384542e93120b2a2ce6ada1a332287249327a8e027bf5b4d78b73f3c486",
+      "status": "pending"
+    },
+    {
+      "guide": "korea-pipa.md",
+      "baseline_sha256": "b3b7443e9005508b85347d3b33bd5b6fd6f12404f3c6f70a469db1f29c1f0b3d",
+      "status": "pending"
+    },
+    {
+      "guide": "malaysia-personal-data-protection-act.md",
+      "baseline_sha256": "619360e3418be882cb3d6e2409908814077c32e93dc0763799dfcbdda12a0269",
+      "status": "pending"
+    },
+    {
+      "guide": "massachusetts-201-cmr-17.md",
+      "baseline_sha256": "8d14ea47748895d59bd4f6ca5523c221345190fc5891a3aaa45a55864310fc8c",
+      "status": "pending"
+    },
+    {
+      "guide": "mauritius-data-protection-act.md",
+      "baseline_sha256": "b9fead5d9c91ece24b72a280c3c6892b9cce7e62a27baa06c57120538cd456c6",
+      "status": "pending"
+    },
+    {
+      "guide": "mexico-private-sector-data-protection-law.md",
+      "baseline_sha256": "ebf5e1661256209352da392e0567f73d2d55b09b14eae8c66624070ce50d6392",
+      "status": "pending"
+    },
+    {
+      "guide": "mhra-gxp-data-integrity.md",
+      "baseline_sha256": "55c18ba3a3ddc93df05d1f78078a57bc3f40827e6f613baca2fb40ef85b22edb",
+      "status": "pending"
+    },
+    {
+      "guide": "mitre-attack.md",
+      "baseline_sha256": "f896935f42eee1842e787b04313aa61fdfe233f061b6fe6fcdc7852f6e272ac0",
+      "status": "pending"
+    },
+    {
+      "guide": "mitre-d3fend.md",
+      "baseline_sha256": "6ef2806a371e4893c0b6e3b1e1467d39f94a8be63428153589b768ece6bbeb29",
+      "status": "pending"
+    },
+    {
+      "guide": "mpa-content-security-best-practices.md",
+      "baseline_sha256": "f917de62a6a9adc9af094b2d13281601fed709a117cfb1973b7dd68fbba16634",
+      "status": "pending"
+    },
+    {
+      "guide": "naic-insurance-data-security-model-law.md",
+      "baseline_sha256": "7e8a1ec722a0e91cbdf32a2ef790955c5eb302fb8866b77252a9413b530930f3",
+      "status": "pending"
+    },
+    {
+      "guide": "naic-insurance-privacy-model-law.md",
+      "baseline_sha256": "e1a3dba348c0551222c3fd8eaa5a31fd87735aba2afe60dd67bf58257541fab2",
+      "status": "pending"
+    },
+    {
+      "guide": "naic-orsa.md",
+      "baseline_sha256": "8e54f4d091c9549977c394e7630fa28574f2e0ec3bfab90c7defab455dc9f1b0",
+      "status": "pending"
+    },
+    {
+      "guide": "nara-cui-program.md",
+      "baseline_sha256": "4cfa4badff0c8e229474e9892f500a4553f099754b304ccd0da4520d9686ab2c",
+      "status": "pending"
+    },
+    {
+      "guide": "nerc-cip.md",
+      "baseline_sha256": "534327ea5c9504576fc379b48f9c37837f60cd602402cb7852a47d4c9b267cd5",
+      "status": "pending"
+    },
+    {
+      "guide": "nevada-nrs-603a.md",
+      "baseline_sha256": "c18b716d649341f178efcebe1ab4901032fcba56f286ecebd85e789c7a39430a",
+      "status": "pending"
+    },
+    {
+      "guide": "new-york-shield-act.md",
+      "baseline_sha256": "3299a0fb410c5b9eeef6067548dd40201fa1054aa854d9e992215a1477eedebe",
+      "status": "pending"
+    },
+    {
+      "guide": "new-zealand-hiso-10029-2-2023.md",
+      "baseline_sha256": "d1df357debe30c3566de862716ef3b817db43cfe6e399bba0a62adb889a907b0",
+      "status": "pending"
+    },
+    {
+      "guide": "new-zealand-hiso-10029-2022.md",
+      "baseline_sha256": "65a9e68318bec7add03bbfe3b0bfe94328264c2ab767868f1d06047b3c9d3972",
+      "status": "pending"
+    },
+    {
+      "guide": "new-zealand-hiso-10029-4-2023.md",
+      "baseline_sha256": "b526b14876d39a61a178fe8ea38719323b8f5d45b79cd3f7f4cb36773dbeed27",
+      "status": "pending"
+    },
+    {
+      "guide": "new-zealand-nzism.md",
+      "baseline_sha256": "5624b031f784f9b507b5e1e46ad0d17bf03cfa0ca8f67fe38a66331013f11089",
+      "status": "pending"
+    },
+    {
+      "guide": "new-zealand-privacy-act.md",
+      "baseline_sha256": "d5a251108ac6051f78462a954bcca81467ac9401e5d53a454cb5536a57d63677",
+      "status": "pending"
+    },
+    {
+      "guide": "nigeria-data-protection-act.md",
+      "baseline_sha256": "eb882b960e7b6ada6182e1acc14633376ff713e7d12862104d8694c66e3f2b62",
+      "status": "pending"
+    },
+    {
+      "guide": "nispom-32-cfr-part-117.md",
+      "baseline_sha256": "6cf4e1d34a3cc182f234b252d02116d111177382f70f43e8c56140895f33afd9",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-ai-rmf-1.md",
+      "baseline_sha256": "fcb0efae48f8c48d376ecf587b93ccacbcae7534c2ab22c681d9c5c19d069ce6",
+      "status": "drafted",
+      "reviewed_sha256": "5404ab9d0e54c19fed7281bae0f1863febc642d9b8952dfccf336b295b88d1e0",
+      "review_record": "docs/refresh-reviews/nist-ai-rmf-1.md"
+    },
+    {
+      "guide": "nist-csf-1-1-historical-transition.md",
+      "baseline_sha256": "151d93347b18b2e7b432161729e421de1c757648b8538e6d5577971b033f9621",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-csf-2.md",
+      "baseline_sha256": "5111ca74d3ff500693883f29127a4ce3c654807a61f4caa77a99fe9518d12310",
+      "status": "drafted",
+      "reviewed_sha256": "4a3f43fd9ed0fc7e08d88c5d7cf29c47f5112897b93fe246f48c4849e7ce44c3",
+      "review_record": "docs/refresh-reviews/nist-csf-2.md"
+    },
+    {
+      "guide": "nist-csrm-assessment.md",
+      "baseline_sha256": "0a54563b0c13f0ec5bdf635a4c5d82cf235f79e0f91072c1daba708652906dea",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-ir-8176.md",
+      "baseline_sha256": "686d5f68c7e1013d625a80c96a96cab88c545ccbafda9c6eca6d34e622a9295c",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-ir-8212.md",
+      "baseline_sha256": "cc56c5e6719b1ba90c5fc1d0ea3f3c8a369ecf916d8bf797f28f55b6d8a5b4b2",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-ir-8374-r1-ransomware-risk-management.md",
+      "baseline_sha256": "035f967a533faa21cc5a9b159f0734dd528ab0079552a20fff993a7d8c762b66",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-privacy-framework-1.md",
+      "baseline_sha256": "524a105580a2d53e465332b9aedec70bc40ff33798b6a925098698bcfeed6254",
+      "status": "drafted",
+      "reviewed_sha256": "e580dcb9f15d181573d13799220ebd272035fd1616f9b55c99775a7db13f8baa",
+      "review_record": "docs/refresh-reviews/nist-privacy-framework-1.md"
+    },
+    {
+      "guide": "nist-sp-1271-csf-1-1-transition.md",
+      "baseline_sha256": "58bbf9f4d3b0e7438ceb4f01d5c942bbe3b39a1d8c64ce07abaf7f295a70411a",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1299.md",
+      "baseline_sha256": "2317b4a5b5c3c2c6e7d7f2289cc12dc65cd166efb6a0d27f0da5be06f9916843",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1300.md",
+      "baseline_sha256": "08e25d0e0179b33a338e2979dc857226ef9a8294080dfafec5aecaa8ca2762b5",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1301.md",
+      "baseline_sha256": "167de554a1ef91632825b6958c4118dd95d390ba89f041f7829c2a34ba12e6b9",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1302.md",
+      "baseline_sha256": "fce669d667b83184d6b500d01359ecf1d71e7fcc38c972ae95461b96f8c52ec0",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1303.md",
+      "baseline_sha256": "1b8f146e0e398373c56037e7730ea44beff256e75fbe13661be3dae175f52558",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1305-csrm-quick-start.md",
+      "baseline_sha256": "df9d3aff84d0fbb060a1aa157204318733022cc2a84cdbe903c24e8869fb8584",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1308.md",
+      "baseline_sha256": "d62af4350f7aa5a43ffbeda181f65615be7f22e6734daea7bad4bd4567ed0d8e",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1314.md",
+      "baseline_sha256": "0fab30ae7cb809f4bf76827e9d05d436a28836e62d680cb3c65cf388c09bf8de",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1318-cui-small-business-primer.md",
+      "baseline_sha256": "37868881f3166082a0d86a3cb6a442747243074772adb7f51823ce7de65bc7a0",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1326.md",
+      "baseline_sha256": "cae8a2773fafda22d8a74b934e2555fc42332343e3835cd06945a3c11956399b",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1800-11-ransomware-recovery.md",
+      "baseline_sha256": "d332ca819dbe0079e81b203e9481038eb8d9c71039f4a8ed8fd6559ca640baf4",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1800-21-cope.md",
+      "baseline_sha256": "127c6760fedb53e6a37c0b69e216fd163a53db220bb59f1be73f9bcd3ac0936b",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1800-23-energy-asset-management.md",
+      "baseline_sha256": "4d2fcd4ef3c62f54aa5b126f592ec8079f09ab04e651c1b286014e1d8f37a3aa",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1800-24-pacs.md",
+      "baseline_sha256": "cc19d3a01e5892f911c0c3a59f8ceaa641484e9d319dd2d1cab4a15aa76f0475",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1800-25-ransomware-asset-protection.md",
+      "baseline_sha256": "4494a7a24a03c29a55427af56496ecd595d9b2fa6af9ba827eb9e19384976622",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1800-26-ransomware-detection-response.md",
+      "baseline_sha256": "6b86bf4a46b9dc9f86d2ad3e398da7f6785b278e955fafbd47f02bc98579b8af",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1800-28-data-confidentiality.md",
+      "baseline_sha256": "f5f8dd04e6609ebc4f784d11ca29e4595d1fc6b955d43d8bf52de35c5fb68dc2",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1800-29-data-breach-response.md",
+      "baseline_sha256": "a6192c37d0abfad35da2931f9862de617bce89c32e6890953122cc9a2b65f2d2",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1800-32-distributed-energy.md",
+      "baseline_sha256": "b9a0cf7540aac8a08d9f8e87ebac18eccd65e79590927599bdc34f7ed07833d4",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1800-34-device-integrity.md",
+      "baseline_sha256": "7fe7fd1f3199a2b64d4d905a6c0776b7a66ae20b45121eebcc3e349aabd5152c",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1800-36-iot-onboarding.md",
+      "baseline_sha256": "d95a02e46f6eb4b501a2ad49addc7b939d534a47b32b00c3560261fdd166f0a0",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-1800-45-water-ot-remote-access.md",
+      "baseline_sha256": "2b3686aaec6f3193c343cd370b58f4477176ccfb99225ee5907cf30591c44296",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-107-r1.md",
+      "baseline_sha256": "9decca3ba7aa9dbfc378f77d7cd58d78cc19c83c259194ab3d8b93f311e2072d",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-108-r1.md",
+      "baseline_sha256": "93a64a72260a40c05bd5a6db6a8245a8cf3040c6e07f28129247f32de028a790",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-111.md",
+      "baseline_sha256": "5266c7569a7638ccdae77c184582dbf2f30135beb00cd76846de3ad7028f7dd5",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-114-r1.md",
+      "baseline_sha256": "42fc1470146239c28813c1e2a720c6d2ad2b324d8635941204e58bb70096231f",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-115.md",
+      "baseline_sha256": "580f74e7bb159b6e9e8aca6a38ed93c0cbe9ec46a1fd265f5f1ce3a0a1a035a4",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-116-r1.md",
+      "baseline_sha256": "beb22c1fe56e4d94c51ce53a313be726d9d049f3d8d08e3af39a82b6d4f2d445",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-122.md",
+      "baseline_sha256": "738bf1300ffa730b56bd741d4cdf21180a7b4ebf96b918108456ed17a9428cbe",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-124-r2.md",
+      "baseline_sha256": "9758f839dbc5c1620a44ccd9f6d92fd92d53f3b7f5e0de0e5dd6eb6e37ebc1ea",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-126-r4.md",
+      "baseline_sha256": "1122395c23709e7209eb2e397b954b30e1bb1192d692824afe8526babdc4c33e",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-128-security-configuration-management.md",
+      "baseline_sha256": "3655903467ec408e5481833c7321732cbe8df3dd5093324a9aa16e2d297d7b6e",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-130.md",
+      "baseline_sha256": "cdbdb09483167662f57ed31891ef58329cf2a6f0c13215678408ae4b814829c6",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-131a-r2.md",
+      "baseline_sha256": "93bc44ef977d3067888cd20b4ada5c2de98931a5c3c7eb4003e7ef636224763a",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-132.md",
+      "baseline_sha256": "0ed9bb2a81e31fbf98309a7233c4a3e92109e7b116a2ad3ac725501d5b09200b",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-133-r2.md",
+      "baseline_sha256": "523180a387b07bde9c81e99e065862ddf910cdf2041b0db16d46107cf04f7a40",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-135-r1.md",
+      "baseline_sha256": "49c471046b5059960e7d2c873f2edf268ae0d2cad49840f1397704313ba41f10",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-137.md",
+      "baseline_sha256": "eea27aad2ca1dfbac114a963f52c74c83e94ec70191b3531c1135d51e604c872",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-137a.md",
+      "baseline_sha256": "1f92c11e8e17f4712f771a426536fd9bc41444d522c85564465e6da0c99a5abc",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-144.md",
+      "baseline_sha256": "05211d28ac7314b16c4d178d1c61477d624352e4135ddf815945fc5c17730afe",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-150-threat-information-sharing.md",
+      "baseline_sha256": "1085595c6b6d22efb9964c9e8d2b3e132eb0a45f89519526355b4294802ec4ae",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-152.md",
+      "baseline_sha256": "df26840256554678bd8f910ed6749aafc4f290212e00d47722ae3f4bdc44c87b",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-157.md",
+      "baseline_sha256": "f6cf27d28e698ed9140977f35fe9bbd7ef44ce0e6af23f7ccac7129dabf44809",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-160-v1-r1.md",
+      "baseline_sha256": "b851d040279b299b649d85d473658972494c1b876b73395bbe43dd87ce75da99",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-160-v2-r1.md",
+      "baseline_sha256": "1767b077f62e23db0cd5c5b691f0b0f8d1a06417b532a409a4226bc15a854650",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-161-r1.md",
+      "baseline_sha256": "316b67b6a75e00e8e175702fe19bf4c23620eff15a63f73896af9160a325785f",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-161-supplier-flowdown.md",
+      "baseline_sha256": "da3e38c2de1d3415dac8d4ef321c6c778efc3e0b054fbc836ff55db28afbe559",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-167-application-allowlisting.md",
+      "baseline_sha256": "fbac72672f98e92436ca12f9f4f2f73d5967664b02511a07fdcbdb18172b45e7",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-171-r2-historical-transition.md",
+      "baseline_sha256": "11520f1ccb2bde82be33e45a62584c7c93c5a1028cf9a58f29525de0858d5ace",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-171-r3.md",
+      "baseline_sha256": "d7aee780e5d97fb46d1567983da9b1505d4a0098332d4e734cbfa51dc097b5bc",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-171a-historical-transition.md",
+      "baseline_sha256": "f2f5b9fd142173336d0aa1959331793a1cafd7b416ae93fd6fed1b6aaf693f08",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-171a-r3.md",
+      "baseline_sha256": "c455403e68ea97d7c47767689c968db4504aea312d1c25da170652e8085fdf87",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-172-historical-transition.md",
+      "baseline_sha256": "8c4c6e9a03da0ef4e19ad457cd71e4ce5fec914841f3f3181e248497b0a41fa8",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-172-r3.md",
+      "baseline_sha256": "3c9eb6751ef001d50540e9d7fc8719a3a7f658a8babbce0188fc2db29d133128",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-172a-r3.md",
+      "baseline_sha256": "1a8227f229de70c58a0a0f1e22f464ab51004579a794e675e8190662b717a648",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-18-r2.md",
+      "baseline_sha256": "be842550407eb52b931e33ee80eaf13e5fe7671ee356592e38e6d7ba1458f7c1",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-184-cybersecurity-event-recovery.md",
+      "baseline_sha256": "08951f8ee3d4a22a8ed60d765a54fec325d5d9d99d0535346b6930bf310e5492",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-185.md",
+      "baseline_sha256": "44ed1331ecb8ca8609f51fa211d7c25525a98320b864e8544e94f857c8e54f7b",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-190.md",
+      "baseline_sha256": "94a146622f660bfb9877853a07af2b893bd9e3850741e1e4d34dc1a799a44e7e",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-192.md",
+      "baseline_sha256": "d5cb8c95b4d2f2ba190db203d04a95904dd317db894b299d050b6ad9ef136e49",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-193.md",
+      "baseline_sha256": "1a775ccafaaa106bbf511ba882baa931ec8f8234d17d3828a4318632cbc0c383",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-201-cloud-forensic-readiness.md",
+      "baseline_sha256": "9a8c6b3d6a7e8291abfebce153512653afa45994389314b89e4ae4293aae8127",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-204.md",
+      "baseline_sha256": "b80e18dcdb4d03a818180bda022b3bccd1d0ac8676cd118df993c9dad00e1eb6",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-204a.md",
+      "baseline_sha256": "77e2e9eeffa98fe3974b8189c0db7a6ea9925b423f692faf607a031339b68cc4",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-204b.md",
+      "baseline_sha256": "6ec49c40e64aae3612224c0d9a8a33bbd4e72f24f98b515d5e080e184b045976",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-204c.md",
+      "baseline_sha256": "49464c969854d20e553feda235307f3842eff6ec9cd97f33555233453016f3ab",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-204d.md",
+      "baseline_sha256": "52919d5b478c13f39737b73afa200fddd42da891dec23a20d6cc4fe19daa3c02",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-207.md",
+      "baseline_sha256": "1e0d4e95d5fc8ceb5641c8f9d8b1d5e806d8514f8266f494cf68649fe8e58ee2",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-207a.md",
+      "baseline_sha256": "e911c333a3efa6b3c07d08e4da6cfdf1bd347439481de5c32bcf38ba407c843d",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-208.md",
+      "baseline_sha256": "e709107fd865467d50446c8dee23e4b44f82fdb067470a20cc5f18360cd6bfb0",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-210.md",
+      "baseline_sha256": "bec72698efe2d40ffafb99386071928ce2244dcf377f117a612e94ff0504a102",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-213.md",
+      "baseline_sha256": "9b5f53abed43d6302fb0f4d61fbb6002bd055b9710356fe466d7b4f596352942",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-213a.md",
+      "baseline_sha256": "1e6c1312b0604ff64e321d464c33130cc71f1b1b3ef6bcbb33dab205b70a3378",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-215.md",
+      "baseline_sha256": "b846108b90befdedb3505e329ff16c4f528b28fd5b3984e7304e6c22453168e5",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-216.md",
+      "baseline_sha256": "8bc0d6a1955faa61b74e1980ccd4c1baab01d008538b5a2cc4c0e90d5b4f84dd",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-218.md",
+      "baseline_sha256": "fe29a835e4b4e6ab1305997e3b316ed12ad7ce3c92bbfd17246ec34aed0fbb58",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-218a.md",
+      "baseline_sha256": "07f2c5b95c4e71d3079337242445cdb957a8ee1e7a9433e46549a07a277233b6",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-219-r1.md",
+      "baseline_sha256": "a8f9b2983872899e7a61eb2b96d865619725db4dcddd6f7ea5b1dfca90ad596e",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-22-r1a.md",
+      "baseline_sha256": "98bdd5bf0b03a66c6557a39015bc4f43ef6a83e800c8e02b734faff12211fbbc",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-221.md",
+      "baseline_sha256": "3aebfc96161f83de58dd985e518120db97545d0fe4af6aba3761a9e25ba39fea",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-221a.md",
+      "baseline_sha256": "bc7ff4b39fef6cf95f7dd56fa38057695286b1af0efe540bd58bfb756ff986a8",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-223.md",
+      "baseline_sha256": "e90170b78d3c34208d9ffe14cc2857f8868d3770975afb634fc9904dde907b1b",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-226.md",
+      "baseline_sha256": "577e0fb510507990b4308eb311b2b29bea04fe3dff980f1a01944efebf0c10b9",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-227.md",
+      "baseline_sha256": "8070a47d25bedff10cba8cfac1bea97aad654ab86719398ba591bbf8cd665f0f",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-228.md",
+      "baseline_sha256": "7f66bcdfe9556a16ae7cfa8b3686f1f8567e2cb18a48c9e33abb35d846dc0bee",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-231.md",
+      "baseline_sha256": "186c7a85b7fd586140d2fee5d54614840678159405a0ea93e0c40fcc45f7fd35",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-232.md",
+      "baseline_sha256": "a05408442659d029a76ef203fdaa79b950c00c6f22a4de5b3358012245d9b6d0",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-233.md",
+      "baseline_sha256": "4b777a2444e44e8d943fb0c80accd1d4918004a12cde226bcbb45261dce6f772",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-234.md",
+      "baseline_sha256": "27e3db5d7a06208ca4789c8237b15f577d13ea70d9f708716cc621deeac6a4a4",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-30-r1.md",
+      "baseline_sha256": "7900099bea5b3a20beca244906c8d2eff1438993c39918f0e8e0149dd10c8348",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-34-r1.md",
+      "baseline_sha256": "c16254d6bd207659316e56cb2a65a6e423d0ee0dd237defeaf64883b6c12d473",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-37-r2.md",
+      "baseline_sha256": "ff368a0770f9271e8e3180d9c45653bf2871364cf390af53c080953eef2e6a1c",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-38a.md",
+      "baseline_sha256": "c163a1a6672c9005974b6aa1994b411fb483e8c2b07575866f6e263f5868b07b",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-38b.md",
+      "baseline_sha256": "8afb2d21c868182cda9ff4b226960546f563cbbc5c46c5e971d45e269e3e8725",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-38c.md",
+      "baseline_sha256": "f186404a45f07c3e425ca4065a65215e032090b59ebdbcb92ca57be5c696b5ac",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-38d.md",
+      "baseline_sha256": "13190aa473fc43204dc3a7883a92efa1a04e987b7215048dba9996dcf4ba32d1",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-38e.md",
+      "baseline_sha256": "de2231647420f8d49194a27bdd90c8d32bcc0fed99ee98ec9a7e39ad7597b0c2",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-38f.md",
+      "baseline_sha256": "6e87eb3872e0dca3aa1e2b05b33f690f3e770fc93e42d3f642eb03e683cc2de5",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-38g.md",
+      "baseline_sha256": "246363d20ae9a9aa193822d98ab45400439d5278cb8176df080495679fbc9ea8",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-39.md",
+      "baseline_sha256": "f3564604f680a8f876f785cd7e37191a3f3a628d7bf20ec1829115a24f5267d4",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-40-r4.md",
+      "baseline_sha256": "e0e1ee18857d2d933f5111866093e1a5193a040bdfda9fc621a3970b4d92ccf4",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-53-r4-historical-transition.md",
+      "baseline_sha256": "6849458d4925507905f3097aa99c9b889c8997552b7455d30b7453871a35c344",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-53-r5.md",
+      "baseline_sha256": "9c983dc5b8fc681db56a1c27a36e627a9cf456a524b852e5f671e2876d27f0ee",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-53b-high-baseline.md",
+      "baseline_sha256": "c5883917ba3fa557ac916a787dd6469b8aa9f0adcfb1d81a25475c1ba4156814",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-53b-low-baseline.md",
+      "baseline_sha256": "63302d59bc3ae66dfd5f8653f0dd4db05c0c80bebda5232ecf2a207605701200",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-53b-moderate-baseline.md",
+      "baseline_sha256": "9ce117dcf1106146dbfcbf24607f0eae4b1ecb0db0fe022dad7ca6fb51ab3830",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-53b-privacy-baseline.md",
+      "baseline_sha256": "1a1f973df761c3c555be58f9d770f655795bce4fc451d22a75407410827a117b",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-53b.md",
+      "baseline_sha256": "e5b0633592967b0834dfda8bb681118d14798fa4681f0da2dd9d48df511cb63e",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-55-measurement.md",
+      "baseline_sha256": "b32006ddbf081a933ebf6d7b49647682f322d04df14839dec244c1cd3c017d9b",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-56a-r3.md",
+      "baseline_sha256": "1c7310434b4102df841393dc2da1b06d7a986d239707b80f4176ef3b19ebf46a",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-56b-r2.md",
+      "baseline_sha256": "80ae32277ea0765d169b3f8a4193fafc48ee2b4757ab644685ca121f564d9686",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-56c-r2.md",
+      "baseline_sha256": "20bd33b0d7248b1bc7c4a9d6a0b268e67a8ad698d88c9fea6e2ef2447c0ff65f",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-57-pt1-r5.md",
+      "baseline_sha256": "3728ef980262cfc6135c63772373d18b3790b4f36746291a0ed69d6fbf804ff8",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-57-pt2-r1.md",
+      "baseline_sha256": "b5c95ca29e457f92872c7b7487523a65a0866c34ff1491ebd66e1eb1c5ba67f4",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-57-pt3-r1.md",
+      "baseline_sha256": "c7b6284a945769ac3f9c444d52761476f99beabc6cbe0e424c8009d498e0ba7a",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-61-r3.md",
+      "baseline_sha256": "143a671a00e5ac2b2ab6edfa924ffb90c1b49a141703eea28ec226db8295abd9",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-63-4.md",
+      "baseline_sha256": "db6b16110d21ce9911f003b504a9d2a59e97647a984b2b4ae9f889dcbed8a68e",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-63a-4.md",
+      "baseline_sha256": "c9a257f91f648be4a7b2fb882728025dd848c2528288ed479e28394d3760f849",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-63b-4.md",
+      "baseline_sha256": "c54de9ac19ad24f3517765f79c911a65c547a08061e459c943d8504c483423bc",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-63c-4.md",
+      "baseline_sha256": "5d2e6ee3c83131fc36154fe4cc8b55aefb6df49add6530e6178812d64c74e2a3",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-66-r2.md",
+      "baseline_sha256": "d7f41912356dffe7fd9ddfac2938170705a2237f227b1af14d39bb119e6d804c",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-70-r5-checklist-program.md",
+      "baseline_sha256": "ef0677990eb9233ea534eac771c29dda0265659e3131c17641fd4a481cdc183a",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-73-5.md",
+      "baseline_sha256": "2de6273215b98d1cb8ae4c827712c785a404bba89e972925287f225cb5d3ed2d",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-76-2.md",
+      "baseline_sha256": "79683cd4fc4a3e1f84a325234855e72b1b44934c77df08b4c00f3b857324b36c",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-78-5.md",
+      "baseline_sha256": "814e191864220728f67719c534b6d26931709cf204b097cd95652f500d19ec10",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-79-2.md",
+      "baseline_sha256": "1be46bb491d2a63de932d2a5a734492fa7604bd0eb84f5710c9d24f898636e29",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-82-r3-high-ot-overlay.md",
+      "baseline_sha256": "de2ac12272c889ec627b9934e2a75c4fc8b5bfd1b4c82c8bbc9603fe1cf352a9",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-82-r3-low-ot-overlay.md",
+      "baseline_sha256": "c02da20f0a39262c15790b844e5c4112a5d83e7fc9c9cdb8b4e17d16580373b9",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-82-r3-moderate-ot-overlay.md",
+      "baseline_sha256": "a6e7807c8c8d218a370744009f4c9f2b8ffa8ab3bea82cf9af44a71888957d23",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-82-r3.md",
+      "baseline_sha256": "d1dbf4bec51904c2036457fc59f030f830228f524e86659c6d914ec4b6833be7",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-83-r1-malware-incident.md",
+      "baseline_sha256": "869487b6c96929d230bb8086e205ce87e03a14732f93af31389de1628654a098",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-84-test-training-exercise.md",
+      "baseline_sha256": "7c830c41cb93da04bd4739607d51641e828f189334469e8ebeff5775d3477eb5",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-86-forensic-integration.md",
+      "baseline_sha256": "dbbddb9cacf4246a802724a071773b77ffe8c9ba894499237581da1791fed5e3",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-88-r2.md",
+      "baseline_sha256": "a173d5cfce8b7ee9789f059f5f868ed9ed6d137a23aa56cb56b64ea2a91d53f5",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-90a-r1.md",
+      "baseline_sha256": "7bbbee3c809cbb0f3a0713557337f36eaeb49961a9b224b09d3cd24195834378",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-90b.md",
+      "baseline_sha256": "2bf141c01dd97a543b9311696c3ec05bead4920989f570f7ef4d863ea996fb05",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-90c.md",
+      "baseline_sha256": "692b6c8bb7f89582c173f9ca2a4a3c972036d3be15edda521ccc762d65133fc8",
+      "status": "pending"
+    },
+    {
+      "guide": "nist-sp-800-92-log-management.md",
+      "baseline_sha256": "b5fc019ff9e03671c3be6932c410b907a9b45b4b22b99d2fa30d06cd9dfc6868",
+      "status": "pending"
+    },
+    {
+      "guide": "nspm-33-research-security.md",
+      "baseline_sha256": "59332a1d2fa48e318b63c880d8259546f704ffc466205c8f27f8f4b2d131226f",
+      "status": "pending"
+    },
+    {
+      "guide": "nydfs-part-500.md",
+      "baseline_sha256": "4ce17e50d58261b2504016be2abfb7844537af698c4ce8af0e0f619ad67a5f91",
+      "status": "pending"
+    },
+    {
+      "guide": "nydfs-part-504.md",
+      "baseline_sha256": "500afd64d58fde06ab9592aea109dacfe0fe5414ef88cacb7cac509bc905661c",
+      "status": "pending"
+    },
+    {
+      "guide": "occ-heightened-standards.md",
+      "baseline_sha256": "dedc8d97e20d6c18f08af62444ef031812416742a6ed9a0733fc7ca93169b52f",
+      "status": "pending"
+    },
+    {
+      "guide": "oecd-ai-principles.md",
+      "baseline_sha256": "125231488ac1ed2de6b479b5c64185eec97bd7d9d7b80423e01890a4525aafab",
+      "status": "pending"
+    },
+    {
+      "guide": "oregon-consumer-privacy-act.md",
+      "baseline_sha256": "dd36f51769fa66a522fe4c2ef56cedeff0ed16e220bab22ad5ba98ce3c7b0ffa",
+      "status": "pending"
+    },
+    {
+      "guide": "owasp-asvs-5.md",
+      "baseline_sha256": "59694114b741b656e84221cd0fd0dfd1c477ee204a0a24e6c03d2fab18283e18",
+      "status": "pending"
+    },
+    {
+      "guide": "owasp-samm-v2.md",
+      "baseline_sha256": "8fcd748ad3b6918e80696f26c538829fcd9e0e9aa90791328f2986ca82448a07",
+      "status": "pending"
+    },
+    {
+      "guide": "owasp-top-10-2025.md",
+      "baseline_sha256": "2965020bae2c7ead49048b348e37ba4be966252edcf0c620c717a26002145463",
+      "status": "pending"
+    },
+    {
+      "guide": "pci-dss-4-0-1-saq-a-ep.md",
+      "baseline_sha256": "e5caa880e3449b3d7349b1670efe4319b96e84a6a3435ef4c672b502b53cb13d",
+      "status": "pending"
+    },
+    {
+      "guide": "pci-dss-4-0-1-saq-a.md",
+      "baseline_sha256": "95f55917769b0425204d3bafd0aad0530e335237e812f1cd6b327fec9fdb9490",
+      "status": "pending"
+    },
+    {
+      "guide": "pci-dss-4-0-1-saq-b-ip.md",
+      "baseline_sha256": "180caa2fa4245cec324a74960c47e1cf39b0183c4c2a023749679dd32cc4a88c",
+      "status": "pending"
+    },
+    {
+      "guide": "pci-dss-4-0-1-saq-b.md",
+      "baseline_sha256": "8dd51d2336531902d58d4f94b48170c32fda8e70f59b3db15008b2003fa1feb7",
+      "status": "pending"
+    },
+    {
+      "guide": "pci-dss-4-0-1-saq-c-vt.md",
+      "baseline_sha256": "e8a4d25b3fc59e3f42b5951c318b68360132cd6aec776c524a1ac024c18b4461",
+      "status": "pending"
+    },
+    {
+      "guide": "pci-dss-4-0-1-saq-c.md",
+      "baseline_sha256": "2b698585b5d2060f96fa96af3635a667ba99379c70836cd8494ec9088dc2e956",
+      "status": "pending"
+    },
+    {
+      "guide": "pci-dss-4-0-1-saq-d-merchant.md",
+      "baseline_sha256": "bc78c58a274dc818cc3bf63b3c6b3a53e00924632931ca4f19c7ccb0f1595b2b",
+      "status": "pending"
+    },
+    {
+      "guide": "pci-dss-4-0-1-saq-d-service-provider.md",
+      "baseline_sha256": "be028bb4e5d2885562bc8d2b71ee6a11cf17b0570d398ad2ee607ca629f22fc8",
+      "status": "pending"
+    },
+    {
+      "guide": "pci-dss-4-0-1-saq-p2pe.md",
+      "baseline_sha256": "7bee61f28eb40345a7a1615f4ea5d60c95c8e78ef869d00c220ec40c598c3e90",
+      "status": "pending"
+    },
+    {
+      "guide": "pci-dss-4-0-1.md",
+      "baseline_sha256": "0f8daf583a55f1bc4b7a03308fb969b5c61ddff2c7ab4bdde37b2f636cd77b6a",
+      "status": "pending"
+    },
+    {
+      "guide": "peru-personal-data-protection.md",
+      "baseline_sha256": "2196ce2071156d927cceb7d906d633defa0b4f2325f6ce315e0793d8c2398c76",
+      "status": "pending"
+    },
+    {
+      "guide": "philippines-data-privacy-act.md",
+      "baseline_sha256": "99e906223d85f15630f40a4e20d0de8f04ffed628c69eda3fc776394cdada759",
+      "status": "pending"
+    },
+    {
+      "guide": "pipeda.md",
+      "baseline_sha256": "cf937dcb46ef7a88eb61f28efb43c2af018a42046cc7eaff5df5fbf85d49feb8",
+      "status": "pending"
+    },
+    {
+      "guide": "ppra.md",
+      "baseline_sha256": "9d15fb7ab845dbb5a54866174e6d92d6c09b175b23bfce0b325913bd7d061eb7",
+      "status": "pending"
+    },
+    {
+      "guide": "privacy-act-1974.md",
+      "baseline_sha256": "f4c3509fd8898a2eed804606ff6a73d8d8f7f736e7e3a4d55ee6726ad5eaa080",
+      "status": "pending"
+    },
+    {
+      "guide": "qatar-personal-data-privacy.md",
+      "baseline_sha256": "00d0a9c824f939f94dddc6bce4249a98be5717e66e6338380819a1cfb5f6b8d5",
+      "status": "pending"
+    },
+    {
+      "guide": "rwanda-data-protection-law.md",
+      "baseline_sha256": "ff8c5e2694792dd4545848232626d7c8ab1c307106cffcc5db010b3457e468ed",
+      "status": "pending"
+    },
+    {
+      "guide": "saudi-nca-ccc-2-2024.md",
+      "baseline_sha256": "fe35a6be0d976a6809ccebc0eddd2bcc9c9d185d1c040472f02b1d46048b24b0",
+      "status": "pending"
+    },
+    {
+      "guide": "saudi-nca-cgiot-1-2024.md",
+      "baseline_sha256": "2babb27deb8e32c9ac9f4007de40c1a3b3add3f282f9016ff03094bb056ec94f",
+      "status": "pending"
+    },
+    {
+      "guide": "saudi-nca-cscc-1-2019.md",
+      "baseline_sha256": "a7419738703dea1201a862643ef5941d259d34d19a999f622dca413e3b1752de",
+      "status": "pending"
+    },
+    {
+      "guide": "saudi-nca-dcc-1-2022.md",
+      "baseline_sha256": "9ddb91d2ecb3f13b30ac53b8c1bc7d5dd94a429cd6a9e9e54c27865ae9a32681",
+      "status": "pending"
+    },
+    {
+      "guide": "saudi-nca-ecc-2-2024.md",
+      "baseline_sha256": "4326cb9645ee3117dbe5b7776944a4291a264b2abee78e347c7032255ed10404",
+      "status": "pending"
+    },
+    {
+      "guide": "saudi-nca-otcc-1-2022.md",
+      "baseline_sha256": "26b76f82c7387c2d78cb6fade1d15e84a4111e1fb2592bd9d83f7b55c6c80cc1",
+      "status": "pending"
+    },
+    {
+      "guide": "saudi-pdpl.md",
+      "baseline_sha256": "15345f76f9a1cdeb27d3d9f38cd154f777f0356c92fd50c6bbc737629318431b",
+      "status": "pending"
+    },
+    {
+      "guide": "saudi-sama-cybersecurity-framework.md",
+      "baseline_sha256": "f9a4a2be6dae48046c8a45fcce9dbc8eff4a24a2f279a5e8a6eeb02e468f9c8a",
+      "status": "pending"
+    },
+    {
+      "guide": "sec-cybersecurity-disclosure.md",
+      "baseline_sha256": "da6e3f755b41ad1082a0ed36da4dd50ac98072480715331ad02ccf5825f98c0c",
+      "status": "pending"
+    },
+    {
+      "guide": "shared-assessments-sig-licensed-program.md",
+      "baseline_sha256": "8fea56d93ef5003a3c38ae8b77a7f9fab9952f97825690416e74b93e8636c628",
+      "status": "pending"
+    },
+    {
+      "guide": "singapore-cii-cybersecurity-code.md",
+      "baseline_sha256": "82413b803b7de3cc14a5555f5fa0bf55a775c83ce5a43cd13cea75f87a0dabe8",
+      "status": "pending"
+    },
+    {
+      "guide": "singapore-cyber-trust-mark.md",
+      "baseline_sha256": "8dd7cc15172e1cf7fddf13d1255e34cc43d0eab0f0e8ecfdecdd4d0ac24bcc97",
+      "status": "pending"
+    },
+    {
+      "guide": "singapore-cybersecurity-act.md",
+      "baseline_sha256": "547cdea6a195b885387e12646c1d754247cea0d1d3a9a9148a3b32f97c0e25b6",
+      "status": "pending"
+    },
+    {
+      "guide": "singapore-data-protection-trustmark.md",
+      "baseline_sha256": "de1ac022f2eda7298580271eb41604701819135ec41e3c3ea091ac4928fa1d1c",
+      "status": "pending"
+    },
+    {
+      "guide": "singapore-internet-hygiene.md",
+      "baseline_sha256": "433c9b03519cfc8c2f6ceb00ebed6071d1c4093b09ca61351b4cd117695765d9",
+      "status": "pending"
+    },
+    {
+      "guide": "singapore-mas-trm.md",
+      "baseline_sha256": "11e380c6f070660f05f72fe8d25a532477123be044f3cd68dff1cc9205c52ef6",
+      "status": "pending"
+    },
+    {
+      "guide": "singapore-model-ai-governance.md",
+      "baseline_sha256": "4d80a795ea82840a0e9c2bbe99800fad81332aff71e2e90359dd2e726e055471",
+      "status": "pending"
+    },
+    {
+      "guide": "singapore-pdpa.md",
+      "baseline_sha256": "754f1aef84de9e4515d46be860a0f223ab5e3cc6c019fadbc1d32d2f88d31b14",
+      "status": "pending"
+    },
+    {
+      "guide": "soc-2.md",
+      "baseline_sha256": "fe8c0c50c9daf26675c86753afab5619cd31084c976bd4ec56d7614b950ccec4",
+      "status": "pending"
+    },
+    {
+      "guide": "south-africa-popia.md",
+      "baseline_sha256": "f02b76172c42af542dd519ec094e6ca3576bcbe505327b9db95c3b53a2159894",
+      "status": "pending"
+    },
+    {
+      "guide": "south-carolina-insurance-data-security-act.md",
+      "baseline_sha256": "eff9bb0ed207c9527608ef5537de742d54eb714ea05ee479fcd68b051804998d",
+      "status": "pending"
+    },
+    {
+      "guide": "sox-icfr.md",
+      "baseline_sha256": "68f87a5ead1220aed562f36e0aa800e239a7ec35299c8302624dded61578e18d",
+      "status": "pending"
+    },
+    {
+      "guide": "spain-ccn-stic-825.md",
+      "baseline_sha256": "5beb26c25722ed97b9f961eded896506b5b691546e4cb8c4fe4ce8e9ebc6819d",
+      "status": "pending"
+    },
+    {
+      "guide": "spain-ens-rd-311-2022.md",
+      "baseline_sha256": "a04ea85703741840b80f55e0351bbb475b97756d441987093d1170ffd96d9832",
+      "status": "pending"
+    },
+    {
+      "guide": "sparta-spacecraft-cybersecurity.md",
+      "baseline_sha256": "f2aeb6e0c63708e8dfcef497c1ab1ff49cf3ebfc57e53a92456d9c6a7f772d9b",
+      "status": "pending"
+    },
+    {
+      "guide": "ssa-electronic-information-exchange-security.md",
+      "baseline_sha256": "b9ac42b026a880844e4574344bfafdcbee4cafb24916d93c8e6ba1b2ea551759",
+      "status": "pending"
+    },
+    {
+      "guide": "swift-cscf-licensed-program.md",
+      "baseline_sha256": "7953c3c5fa4d897e875fbe5269f7c0e773674f34cecb13408ee69f3fff63de01",
+      "status": "pending"
+    },
+    {
+      "guide": "taiwan-personal-data-protection-act.md",
+      "baseline_sha256": "c1886e7ecdd5719516b22428648c78c4bf25850228f78fd497eba33df6117d86",
+      "status": "pending"
+    },
+    {
+      "guide": "tennessee-information-protection-act.md",
+      "baseline_sha256": "88a569fdd5655737ac1e47bcaaafb40c4f58a157df3d5c64c8cd4fb65bd4e504",
+      "status": "pending"
+    },
+    {
+      "guide": "texas-business-commerce-code-521.md",
+      "baseline_sha256": "309de4c737e76e7ebe35a6b520cf7a03d232b2a915bb1474ed2dc610d03ec9b4",
+      "status": "pending"
+    },
+    {
+      "guide": "texas-cybersecurity-framework.md",
+      "baseline_sha256": "2b5cb6d9944fec1c37a4a45873bc600aec5f571dea3b5da9fd5ab6d5441c3e46",
+      "status": "pending"
+    },
+    {
+      "guide": "texas-tdpsa.md",
+      "baseline_sha256": "817a9290dff8a3837194ed27ea828d532d07d727a913f5527593da4a805d1c25",
+      "status": "pending"
+    },
+    {
+      "guide": "thailand-pdpa.md",
+      "baseline_sha256": "fef6ab51e370139dc93224f67a15cc59e653c03f83c4e82660686a1228f3710e",
+      "status": "pending"
+    },
+    {
+      "guide": "tisax-licensed-program.md",
+      "baseline_sha256": "2ec10511e70a6f10648728ad2e31e207ba740137d821595a27737db686b78684",
+      "status": "pending"
+    },
+    {
+      "guide": "tsa-rail-cybersecurity-directive.md",
+      "baseline_sha256": "f5a077ecdbf9029041a937d87ee3259973fe26ead1c9b8f0ecdf09d03e0eca34",
+      "status": "pending"
+    },
+    {
+      "guide": "tx-ramp-level-1.md",
+      "baseline_sha256": "506b494933ac8df41219bfe7f0d407e9ca58f7d4d2fb4648b43d8cf0d6497035",
+      "status": "pending"
+    },
+    {
+      "guide": "tx-ramp-level-2.md",
+      "baseline_sha256": "1481ba058c406f2f1ffa74f55a34f4fd11e4262539b43586952ab3a4b0989b6e",
+      "status": "pending"
+    },
+    {
+      "guide": "uae-national-information-assurance-framework.md",
+      "baseline_sha256": "f20f37dc69b96a83874d8579a87abffb632b4b950f8e0eafa8457430911cacce",
+      "status": "pending"
+    },
+    {
+      "guide": "uae-pdpl.md",
+      "baseline_sha256": "da6a4805ad21c62c09a63ff4ff15353e5f1e28c705fe47ce4e39b44e76ed3b01",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-ai-cyber-security-code.md",
+      "baseline_sha256": "88886019db1f8b27eaee2404840907eccf0ee6b5ca452e9ef4e4dbbf0c04cbe5",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-app-store-operators-and-app-developers-code.md",
+      "baseline_sha256": "ea594724db97d9cbb53f9dd1f77a82a889b60ff40db4595aa99fe69aca6fd679",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-caa-cap-1850.md",
+      "baseline_sha256": "e7d40859fd65f79be450c9df3471936fd63cfec119e13be8a4ee4d6ec00fb49e",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-cyber-essentials.md",
+      "baseline_sha256": "533e6b8b63734fa6b8703dc849b9190d35b548ea4a1e0a317bc0b9f241bbbe9e",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-cyber-governance-code-of-practice.md",
+      "baseline_sha256": "06f3ce817aab095ef82e389dffc7ccb8d2ee7bf07c9bd2db3625ab53a8f8eb5c",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-defstan-05-138-issue-4.md",
+      "baseline_sha256": "fb57c2046607679ddba46ce5311506c7d81d872090422be9d265206a60a51fd9",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-employment-data-protection.md",
+      "baseline_sha256": "6c58e9c6ea4ae39f0c82ebe56a0235268a70672a5f2570626608adc5878de072",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-gdpr.md",
+      "baseline_sha256": "1495d25efd0b9831d0dc692745516d1ff016f4997cad3ce6e1e3f07f9b16a888",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-money-laundering-regulations.md",
+      "baseline_sha256": "d15458c3856c44de881973c1c68b3d52cb843bf0b620d767f1c472046627102e",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-ncsc-10-steps.md",
+      "baseline_sha256": "3a4bf72e26431fe28dff80fb776bc7cf20c4b2ba8ad40936087e44eee2913d0b",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-ncsc-active-cyber-defence.md",
+      "baseline_sha256": "80bbc205a96a4ae72b1b77c0dce6cee3f4612ed15daaeaf806d6c4de87aa479c",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-ncsc-caf-4.md",
+      "baseline_sha256": "5598465c4eaa82dcea10f8748f229e1f178503de286a8d42369a69e8af2f47c8",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-ncsc-cyber-action-toolkit.md",
+      "baseline_sha256": "c3b864f6b7a8779e1e987274318a932a210625ad0e9185813307bf37f4d3d895",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-ncsc-early-warning.md",
+      "baseline_sha256": "e256db1276fbba1ec01ae19b247f6d05261ee3d962c41489851548f96828c3a6",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-ncsc-exercise-in-a-box.md",
+      "baseline_sha256": "1f3864aa92cac16b8bab95c1b3a3033a1fb37e65dca0b3e00a43395c6723bdde",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-ncsc-protective-domain-name-service.md",
+      "baseline_sha256": "9955ea313a8b5b6c3612eadb7b5aefdd2ceae6ed1f6e824a7edd277e1374010b",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-nis-regulations.md",
+      "baseline_sha256": "623ec4ba53543bbbccf150b0e5255fbb0c00ce6ac5584a540a8a49758cfe9b05",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-psti.md",
+      "baseline_sha256": "1af91d0017a628cc17a1793a77b83fad9e5c11b55790d5aebf0a694483b46a78",
+      "status": "pending"
+    },
+    {
+      "guide": "uk-software-security-code-of-practice.md",
+      "baseline_sha256": "dfa450258b19918361117600029beb20e5fcbde180e5648a1f9d4ed73181aafd",
+      "status": "pending"
+    },
+    {
+      "guide": "ul-2900-1-licensed-program.md",
+      "baseline_sha256": "7801cb7e633653e539a061e550ba6e3c2dd531302205d89d2430c2bb0f14d313",
+      "status": "pending"
+    },
+    {
+      "guide": "unece-r155.md",
+      "baseline_sha256": "cec3c8782c67c40fd15204f2884639683380def6fc89fefb308644b52e8b0942",
+      "status": "pending"
+    },
+    {
+      "guide": "unece-r156.md",
+      "baseline_sha256": "cc7ba76761a88d2873213114bae3675b8a03bb4b93fca0f39fba98624e8692ef",
+      "status": "pending"
+    },
+    {
+      "guide": "uruguay-personal-data-protection.md",
+      "baseline_sha256": "39febe70f7ae0899a097020b47eeb5b672ce59a5f1583315c2dea31677ba8bf3",
+      "status": "pending"
+    },
+    {
+      "guide": "us-bsa-fincen-aml.md",
+      "baseline_sha256": "21361d15431f4f603a719468ac0f78425fac7ac7ae8f4ff1518d7684db63caad",
+      "status": "pending"
+    },
+    {
+      "guide": "us-cyber-trust-mark.md",
+      "baseline_sha256": "b6bad4b2fe5fd358c0d16997a1aed9cd9c66aec0bc1a6c43d3c0d2a27204d466",
+      "status": "pending"
+    },
+    {
+      "guide": "us-federal-ai-governance-m-25-21.md",
+      "baseline_sha256": "5913d9dcfdb4d3e52d662decb1edcd609195a24e78f1d909a640c47817bf3273",
+      "status": "pending"
+    },
+    {
+      "guide": "us-federal-software-security-memoranda.md",
+      "baseline_sha256": "4b43f6a5f5bc0c15efb798536fb3f474c5b2ed451145d8ffb61d49851e4d9ce1",
+      "status": "pending"
+    },
+    {
+      "guide": "us-section-508.md",
+      "baseline_sha256": "0a9c9b431b7105df72998f372711de180e39c2d8bf1d28e44dca9e5c5aa07d58",
+      "status": "pending"
+    },
+    {
+      "guide": "vermont-security-breach-notice.md",
+      "baseline_sha256": "863448d8b7b57ff0622679290e93303550d2ddf66493e31c1465466ce0208cf4",
+      "status": "pending"
+    },
+    {
+      "guide": "virginia-vcdpa.md",
+      "baseline_sha256": "679cf172fc29405451baf1ae5f76edcfbf41a36401c40897707e9caa22fba11c",
+      "status": "pending"
+    },
+    {
+      "guide": "w3c-verifiable-credentials-v2.md",
+      "baseline_sha256": "4147b1558f59d2d4bbf566fd54541307e8c9177485c4dc6b5fc3043778522a22",
+      "status": "pending"
+    },
+    {
+      "guide": "washington-my-health-my-data-act.md",
+      "baseline_sha256": "ab2122a32448242fec8799c1b4843e6abd8945b4df055177b3ab32c127d38e93",
+      "status": "pending"
+    },
+    {
+      "guide": "wcag-2-2.md",
+      "baseline_sha256": "43004ddc9bb2eeaa3f6eb0354b224c65fc83ca21fab0cd0051dd6d4d0ea8588a",
+      "status": "pending"
+    },
+    {
+      "guide": "wolfsberg-financial-crime-principles.md",
+      "baseline_sha256": "e86a74b6b8be1acfa85412d1325c8361b34a527d9c25d268171617254833859a",
+      "status": "pending"
+    }
+  ]
+}

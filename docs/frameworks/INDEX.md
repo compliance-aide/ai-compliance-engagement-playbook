@@ -1,8 +1,10 @@
 # Framework guide index
 
-Framework guides are added one at a time after the publisher's official source,
-license, and version have been independently verified. This prevents the
-repository from republishing restricted standards or proprietary crosswalks.
+This index is the complete guide inventory, not proof that every guide has a
+current source check or completed publication review. Consult the
+[full-catalog refresh records](../refresh-reviews/README.md) for recorded status.
+Each guide must have its publisher source, rights and version reviewed before
+publication; source-derived restricted material is not permitted.
 
 Use [the framework template](../framework-template.md) to propose a guide.
 
