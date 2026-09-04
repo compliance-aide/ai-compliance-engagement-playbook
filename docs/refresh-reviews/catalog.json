@@ -585,7 +585,9 @@
     {
       "guide": "australia-cirmp.md",
       "baseline_sha256": "5af0e0782e68f4eb904101dd1e7f4f94c74158d80c48e949b2ee496218bd02ef",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "30b009de779cf5e2f2464118f9f3d242b711de79af7cfae676c94671e00710bf",
+      "review_record": "docs/refresh-reviews/australia-cirmp.md"
     },
     {
       "guide": "australia-essential-eight.md",
@@ -602,12 +604,16 @@
     {
       "guide": "australia-ism.md",
       "baseline_sha256": "5a3f7fd33b7c64d694177224f6708ad9cab0795a3faa9b60994342c0cbb8a9f5",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "0ae9500593b7334841fef4d0cc7dd20cd59ebcf54fdcb975e6aabebc0ad4a08c",
+      "review_record": "docs/refresh-reviews/australia-ism.md"
     },
     {
       "guide": "australia-privacy-act-apps.md",
       "baseline_sha256": "77972dad7962a16fa2a1ce0e2b238295c5e65b2ab199236e34e42bf9d737056c",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "ff53759ba9769ae15fd358ea4d25da50bb57df693d7d5f87eb9c727a5b6b9503",
+      "review_record": "docs/refresh-reviews/australia-privacy-act-apps.md"
     },
     {
       "guide": "australia-ransomware-payment-reporting-rules-2025.md",
