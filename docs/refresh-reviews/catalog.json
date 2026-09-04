@@ -655,7 +655,9 @@
     {
       "guide": "brazil-lgpd.md",
       "baseline_sha256": "d595ae32008936526a3e9940973ba5ba62323b010916cc5c46c551972071fa7b",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "235e05c5f0d2ac4df784eca4d8e72f9593f28c72dbd4d8e56dcf4d1c8f3dd032",
+      "review_record": "docs/refresh-reviews/brazil-lgpd.md"
     },
     {
       "guide": "bsi-c5-2020.md",
