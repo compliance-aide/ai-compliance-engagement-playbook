@@ -662,7 +662,9 @@
     {
       "guide": "bsi-c5-2020.md",
       "baseline_sha256": "492e45729392453dfb931564ffbefe7ecb696b959dae43389442c05e81f985b9",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "651ed90ef0a02571a4f43f61afda3732c41177b7b25a66e7919703b83d45e87c",
+      "review_record": "docs/refresh-reviews/bsi-c5-2020.md"
     },
     {
       "guide": "bsi-standard-200-1.md",
