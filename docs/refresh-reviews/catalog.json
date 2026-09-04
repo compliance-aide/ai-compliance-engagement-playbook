@@ -634,12 +634,16 @@
     {
       "guide": "bahamas-data-protection.md",
       "baseline_sha256": "3a82d24863d897a0e192ec054766bf2e4277159f623e3bd419162cd64a80b75b",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "700feca237788b51986dafad38a6b063ac070aa6a2d9c816dd7e2abf8d4300c7",
+      "review_record": "docs/refresh-reviews/bahamas-data-protection.md"
     },
     {
       "guide": "bermuda-pipa.md",
       "baseline_sha256": "5237df3b6e6272ef2eade21044e4584812c61d56c938f1857494a7ec2e73048f",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "d6706a6e64c372acb3674c58e19c5fc987efb85bd9cca73c0510727604cc3afc",
+      "review_record": "docs/refresh-reviews/bermuda-pipa.md"
     },
     {
       "guide": "bma-operational-cyber-risk-code.md",
