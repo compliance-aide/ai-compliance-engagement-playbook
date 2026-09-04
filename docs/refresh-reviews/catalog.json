@@ -669,7 +669,9 @@
     {
       "guide": "bsi-standard-200-1.md",
       "baseline_sha256": "775bd9f142720f581fc930b4f7f055fd83fdaac45bc8ff9a7996138633d5a968",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "f357737f74982921403d3473a39a057e8c29ca9dfa9b7f56a9b3058c66ac44bb",
+      "review_record": "docs/refresh-reviews/bsi-standard-200-1.md"
     },
     {
       "guide": "bsi-standard-200-2.md",
