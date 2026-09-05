@@ -1313,7 +1313,9 @@
     {
       "guide": "fda-21-cfr-part-11.md",
       "baseline_sha256": "8235c660daebfe4aef4d7960aa6ebddd172d21bf3353a0f69642b86713828e4b",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "0a92485b8d81ad84636473616e8c3b78ce277237e5adf6fd77588f34abf683f0",
+      "review_record": "docs/refresh-reviews/fda-21-cfr-part-11.md"
     },
     {
       "guide": "fda-medical-device-cybersecurity.md",
