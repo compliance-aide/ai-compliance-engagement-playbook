@@ -886,7 +886,9 @@
     {
       "guide": "cisa-bod-23-02-management-interfaces.md",
       "baseline_sha256": "f762d241673421550ec68d5df0aba5d644caaf231ed121974cf98fa4ccc8de73",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "dc3344fafcc266ab59c9d616e7d0eb37bd6dad0b29a0198bbfa9de3beca37331",
+      "review_record": "docs/refresh-reviews/cisa-bod-23-02-management-interfaces.md"
     },
     {
       "guide": "cisa-bod-25-01-cloud-services.md",
