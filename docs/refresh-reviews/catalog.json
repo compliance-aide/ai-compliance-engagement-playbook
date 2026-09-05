@@ -1103,7 +1103,9 @@
     {
       "guide": "dfars-cybersecurity.md",
       "baseline_sha256": "990ffca45138a6ad85f2d5461071fd031081eede56d019ee4aeb949ad8eb01de",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "1aa96d064bad9398602829ffd209e8164b8536b2909bd79a021c6fc4b9f70caa",
+      "review_record": "docs/refresh-reviews/dfars-cybersecurity.md"
     },
     {
       "guide": "disa-stig-program.md",
