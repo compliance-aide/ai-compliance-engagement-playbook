@@ -103,6 +103,54 @@ without chat history: What exact assertion was checked? What evidence supports
 the recorded result? What action remains and who owns it? If any answer is
 missing, repair the work record before calling the handoff complete.
 
+## Split compound claims before choosing a result
+
+A work item needs one observable assertion. If its answer would combine different
+resources, periods, decisions or kinds of evidence, split it into linked checks
+before assigning a result. Preserve a parent coverage record for the original
+request; splitting must not drop any part of that request.
+
+For example, “the recovery plan is approved and recovery works” contains two
+checks. An approved document can support the first. The second requires the
+approved recovery test and observed service outcome. A document cannot stand in
+for that observation, and a failed recovery does not erase the document's approval.
+
+Use this decision sequence for each check:
+
+1. An authorized, source-backed exclusion covers the exact assertion: record
+   `not_applicable` and the exclusion reference.
+2. No valid observation was made, including a failed test or collector: record
+   `not_tested`, the failure and the next owner.
+3. An observation exists but the governing criterion, version, period or coverage
+   is unresolved: record `inconclusive` and the exact missing decision or evidence.
+4. The observation can be compared with the approved criterion: record `supported`
+   or `not_supported` according to that criterion. Preserve contrary observations.
+
+This sequence does not turn all missing documents into `not_tested`. A valid
+search of an agreed evidence location may establish that the document was not
+found there. That narrow search result can be supported while the broader claim
+that the control operated remains inconclusive. Conversely, an authoritative,
+complete record demonstrating a missed required event may support an adverse
+finding under the approved method. State which assertion the result describes.
+
+Do not force a mixed population into a single reassuring label. Record results
+for each defined unit or approved group, then retain counts and identifiers for
+supported, adverse, excluded, unresolved and untested units. A valid adverse
+observation remains adverse even when other units are inaccessible. Only apply
+a formal aggregate rating when the governing method supplies the rule and the
+required reviewer accepts its use; counts alone are not a compliance score.
+
+### Fictional mixed-result handoff
+
+The approved QA check asks whether three named devices have installed version 2.
+Device A reports version 2; device B reports version 1; device C cannot be queried
+because authentication failed. Save three linked checks: A `supported`, B
+`not_supported`, C `not_tested`. Keep all three devices in the parent coverage
+record. The universal claim “all three installed version 2” is contradicted by B;
+C's unknown state does not erase that contradiction. Engineering owns B's
+remediation; the collection owner resolves C's access. No fleet-wide installation
+percentage or final framework rating is inferred beyond these observations.
+
 ## Resume after interruption
 
 Read the last saved work item and authoritative target state. Verify whether the

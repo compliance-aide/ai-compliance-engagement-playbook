@@ -8,7 +8,8 @@ repository. Use one record per check or action. All examples must be fictional.
 - Work-item ID and human-readable title:
 - Engagement, selected guide and guide revision:
 - Governing publisher source, section, edition/status and retrieval date:
-- Objective/assertion to evaluate:
+- Parent request/coverage record and linked checks, if split:
+- Objective/assertion to evaluate (one observable claim):
 - Scope: entity, system/process, environment, population and period:
 - Owner, independent reviewer and due date/timezone:
 - Dependencies and required inputs:
@@ -33,6 +34,7 @@ repository. Use one record per check or action. All examples must be fictional.
 - Actual output, errors and limitations:
 - Result (`supported`, `not_supported`, `inconclusive`, `not_applicable`, `not_tested`):
 - Narrow conclusion supported and facts still unknown:
+- Contrary observations and linked unresolved/untested units:
 - Saved artifact and readback result:
 
 ## Review, follow-up and handoff
