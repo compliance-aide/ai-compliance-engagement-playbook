@@ -1600,7 +1600,9 @@
     {
       "guide": "iec-31010-2019.md",
       "baseline_sha256": "f28d6ae7f6bead1a5d8c8c3334b4158beda4f9279197a92f27e0c10c7c4c94ed",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "7b023ee4096de2f6497dd0e4c7af56113e545327b7f3bb9500ea10a97e756598",
+      "review_record": "docs/refresh-reviews/iec-31010-2019.md"
     },
     {
       "guide": "iec-62443-2-1-2024.md",
