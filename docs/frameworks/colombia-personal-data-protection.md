@@ -14,7 +14,7 @@ Operators run intake and remediation; independent reviewers sample notice-to-sys
 
 Start with [Law 1581 of 2012 in the official legal repository](https://www1.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981), its implementing rules and current SIC instructions. Have Colombian privacy/legal owners identify applicable general and sector-specific regimes, entity roles, exclusions and special data categories. Do not assume that every Colombian database has the same registration duty or that a foreign privacy-law basis is interchangeable with Colombian authorization rules.
 
-Articles 14 and 15 distinguish consultas from reclamos. Their procedures and clocks differ; identify the actual request rather than placing everything in a generic privacy ticket. Official indexed text confirms a ten-business-day consultation period and a fifteen-business-day complaint period with different starting wording. The complete extension, incomplete-request, referral and complaint-marking provisions must be verified before operational deadline calculation. This guide supplies no automatic deadline calculator.
+Articles 14 and 15 distinguish consultas from reclamos. Their procedures and clocks differ; identify the actual request rather than placing everything in a generic privacy ticket. Official indexed text confirms a ten-business-day consultation period and a fifteen-business-day complaint period with different starting wording. Article 15 complaint branches are summarized below; verify current applicability and calendar interpretation before operational deadline calculation. This guide supplies no automatic deadline calculator.
 
 ## Before starting
 
@@ -32,6 +32,17 @@ Apply the [agent runbook](../agent-runbook.md). Record organization, processing 
 | 6. Test actual execution | Authorized operators and reviewers trace approved corrections, disclosures or disposal across relevant systems and recipients. | Dated observations and limitations; drafted responses and scheduled jobs remain distinct from completed actions. |
 | 7. Resolve supplier and incident issues | Privacy/security owners evaluate recipient roles, instructions, cross-border arrangements, incidents and registration obligations. | Documented legal decisions, remediation and reporting preparation; no assumed transfer approval or regulator filing. |
 | 8. Review and sustain | Independent reviewers challenge lifecycle coverage and closure; accountable owners approve communications and actions. | Evidence-backed closure, verified delivery or filing receipt where authorized, and next review dates. |
+
+## Complaint event checklist
+
+[Law 1581, article 15, official Foreign Ministry text](https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/ley_1581_2012.htm) supplies these separate events:
+
+- Incomplete complaint: request missing information within five days after receipt. The provision says days here, unlike its explicit business-day wording below; the legal owner confirms counting conventions. Two months without the requested information triggers the statutory withdrawal provision, subject to human review.
+- Wrong recipient: transfer to the competent party within two business days and inform the requester.
+- Complete complaint: add the pending-complaint marker and reason to the database within two business days; retain it until decision.
+- Response: fifteen business days starting the day after receipt. If response within that period is impossible, communicate reasons and a response date no later than eight business days after the original period expires.
+
+Record original receipt, completeness request, completed intake, transfer, marker, extension notice, decision and delivery separately. Do not overwrite the original timestamp or infer a clock restart. A legal reviewer resolves interacting events before approving the deadline. A requester communication needs its own authorization and delivery evidence.
 
 ## Failure branches and decisions
 
