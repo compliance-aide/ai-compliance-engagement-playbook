@@ -1390,7 +1390,9 @@
     {
       "guide": "fips-180-4.md",
       "baseline_sha256": "1a472e7aa0c079765522876ceb4d7466813b4feba71cf9a24ba4e5f706287221",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "18bc0f96671dc40d5aa73c4545b1d4ae42f84982a3b9f198c0f56a73623a12e4",
+      "review_record": "docs/refresh-reviews/fips-180-4.md"
     },
     {
       "guide": "fips-186-5.md",
