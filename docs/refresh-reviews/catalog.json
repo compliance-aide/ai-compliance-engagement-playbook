@@ -1089,7 +1089,9 @@
     {
       "guide": "ctpat.md",
       "baseline_sha256": "2ed79f6d0e6766abb2e2d99c1cb1316ea09681809df444a8214adf28aa5e2056",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "70240b462bdcf959f68dbf24b0f63ed44373ac57d2b5622d85a109579d34b4c1",
+      "review_record": "docs/refresh-reviews/ctpat.md"
     },
     {
       "guide": "dama-dmbok-informed.md",
