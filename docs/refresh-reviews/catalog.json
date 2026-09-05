@@ -795,7 +795,9 @@
     {
       "guide": "china-cybersecurity-law.md",
       "baseline_sha256": "776033d1c3cda3d2b292dcdd3e152ae04253068de94cb82b3400b4e57396d10d",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "19e6e42af365942a22018f734e375c50a46aaae50db68d62700d13f2711d8849",
+      "review_record": "docs/refresh-reviews/china-cybersecurity-law.md"
     },
     {
       "guide": "china-data-security-law.md",
