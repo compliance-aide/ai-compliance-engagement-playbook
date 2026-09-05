@@ -872,7 +872,9 @@
     {
       "guide": "cisa-bod-20-01-vulnerability-disclosure.md",
       "baseline_sha256": "7d562a74a83cc4994386d9cced637852f57992cfadc1970635fe8c7b61934cf4",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "2f08a49ee94ef128db660eb895016244e643fc9bd10bbbf16581d31857c2fe1c",
+      "review_record": "docs/refresh-reviews/cisa-bod-20-01-vulnerability-disclosure.md"
     },
     {
       "guide": "cisa-bod-23-01-asset-visibility.md",
