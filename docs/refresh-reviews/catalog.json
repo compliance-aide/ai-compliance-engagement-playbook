@@ -816,7 +816,9 @@
     {
       "guide": "cis-benchmarks-program.md",
       "baseline_sha256": "187b68e1e3172455a660ac5197e93820f4e14bc5f931339829b19a3ddf3e38bd",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "3aaf22025adc70e5b1b1c6d174ab5ce037dcee0c007176906c4aaf0fdae44495",
+      "review_record": "docs/refresh-reviews/cis-benchmarks-program.md"
     },
     {
       "guide": "cis-controls-v8-1-ig1.md",
