@@ -1691,7 +1691,9 @@
     {
       "guide": "iec-ts-62443-1-1-2009.md",
       "baseline_sha256": "b703f339a932e7f3e3db3a2223e60f450b5588bc9ce3984ab807e93b93ba9a18",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "03cff589974892815bf7151450e85d562ba477a0d90eea6d5cbea0fd5625c8b1",
+      "review_record": "docs/refresh-reviews/iec-ts-62443-1-1-2009.md"
     },
     {
       "guide": "iec-ts-62443-1-5-2023.md",
