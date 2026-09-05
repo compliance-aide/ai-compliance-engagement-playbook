@@ -1502,7 +1502,9 @@
     {
       "guide": "global-cross-border-privacy-rules.md",
       "baseline_sha256": "a75f3dd49e68f5acc8bc4aa3c75b2d3fd7633adc5dc1705dde81412a22a7c81a",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "3edab367182df309625452652c1b05f8b2e182009e7a2cc9d2b61f3dfcf5170b",
+      "review_record": "docs/refresh-reviews/global-cross-border-privacy-rules.md"
     },
     {
       "guide": "global-privacy-recognition-for-processors.md",
