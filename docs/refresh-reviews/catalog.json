@@ -1558,7 +1558,9 @@
     {
       "guide": "hipaa-security-rule.md",
       "baseline_sha256": "6e4caa7302ae9ba8c7363e2b435212d373a823a20a0ba4d799d75212c076acb3",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "ebd8e5d77da7cbbb47b542478822c3d2fdaa758d35790f3fbd26e2ffe8749f7b",
+      "review_record": "docs/refresh-reviews/hipaa-security-rule.md"
     },
     {
       "guide": "hitech-breach-readiness.md",
