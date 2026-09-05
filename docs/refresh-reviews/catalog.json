@@ -949,7 +949,9 @@
     {
       "guide": "cisa-tic-3.md",
       "baseline_sha256": "a67a81888a5fc7159e109170cd4e5883722790af6ec1690a433545f11874c478",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "1a5a0ac6facba18c4b695d198489797b7d81c9e8b9f3fa39e32e1f5eefe42e69",
+      "review_record": "docs/refresh-reviews/cisa-tic-3.md"
     },
     {
       "guide": "cisa-zero-trust-maturity-model-v2.md",
