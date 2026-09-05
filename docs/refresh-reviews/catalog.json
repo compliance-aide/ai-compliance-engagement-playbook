@@ -907,7 +907,9 @@
     {
       "guide": "cisa-cpg.md",
       "baseline_sha256": "31c1e7b50f545497bf95696278830afe4410aca4c759660b57d226848028733f",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "04654d3b8cc2a0e940026cae8688552e7b12eb3b73365dae26186aa572a33dbf",
+      "review_record": "docs/refresh-reviews/cisa-cpg.md"
     },
     {
       "guide": "cisa-insider-risk-mitigation-evaluation.md",
