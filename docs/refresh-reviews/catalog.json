@@ -1075,7 +1075,9 @@
     {
       "guide": "csa-iot-security-controls-framework-v2.md",
       "baseline_sha256": "5d70b0033a26409058788fdae60cc59eeee989aab38839320ef2e58ce07a2fcf",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "bc4473fca283f2dad583633b56ca76455c66305dc712248a2167a48746c10e03",
+      "review_record": "docs/refresh-reviews/csa-iot-security-controls-framework-v2.md"
     },
     {
       "guide": "csa-star.md",
