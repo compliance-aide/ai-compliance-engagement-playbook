@@ -29,6 +29,28 @@ Record legal entity, business activities, branches, systems, providers, review p
 7. **Correct and retest.** Assign failures a cause, owner, action and predefined closure criterion. Verify changed behavior on the relevant branch/system/version. Output before/after evidence while preserving the original failure and any continuing customer impact.
 8. **Prepare supervisory review.** Reconcile all in-scope checks and open actions, including untested branches and unavailable records. Link each narrative claim to its evidence and limitation. Output a draft for compliance and independent review; do not describe the packet as FINRA approval.
 
+## Evidence and test plan
+
+### Firm scope and supervisory procedures
+
+Compliance, legal and supervisory owners provide the business/activity inventory, applicability decisions, procedure versions, branch and affiliate boundaries, supervisor assignments and exceptions. Reconcile every in-scope activity to its responsible supervisor, operating owner and escalation route. Record missing coverage explicitly. An affiliate's policy does not establish that the member firm's process is covered.
+
+Compare the procedure effective at the observation date with the actual role and workflow configuration. Preserve historical versions when reviewing past events. A later procedure correction does not retroactively establish that an earlier review occurred. If a role changed during the period, check the handover and alternate coverage rather than treating the latest roster as evidence for the whole period.
+
+### Cybersecurity operations and escalation
+
+Security, technology and operations owners provide the full in-scope populations of access reviews, changes, events, provider issues and training assignments. Reconcile source counts, time boundaries and exclusions before evaluating completeness. Preserve failed queries and inaccessible branches. A report with zero exceptions does not prove all relevant records were inspected.
+
+For each assessed event, link the source observation, alert, receiving role, decision, action and follow-up. Distinguish the event timestamp from ingestion and case-creation times. Record clock uncertainty instead of silently ordering events by whichever timestamp is available. Keep evidence of detection separate from escalation receipt and authorized response.
+
+For access reviews, compare the approved population with actual accounts and privileges, including leavers and service accounts where in scope. Verify removal or correction through a fresh authorized observation; a removal ticket is not proof that access ended. For training, reconcile assigned and completed populations but do not infer operational competence solely from completion records.
+
+### Representations, issues and oversight
+
+Compliance and executive owners provide issue registers, remediation evidence, management reports, risk decisions and approved customer/public statements. Trace each representation to evidence for the same entity, business scope and period. An assurance statement covering headquarters must not silently expand to unreviewed branches or providers.
+
+Reconcile all open findings through disposition and retesting. Keep repeated symptoms linked to the earlier action so reviewers can distinguish a failed correction from an unrelated event. Management acknowledgement does not itself establish risk acceptance; preserve the actual decision, owner and conditions. For any regulatory communication, separate prepared text, approval, submission and receipt without inferring one from another.
+
 ## Failure branches and decisions
 
 Unavailable logs or unperformed scenarios are `not_tested`; unresolved source or applicability conflicts are `inconclusive`. A known failed escalation against the approved criterion is `not_supported` even if the alert generator worked. Preserve these assertions separately and keep the affected workflow assigned to an owner.
@@ -38,6 +60,12 @@ Fictional desk case: QA detects a suspicious contact-detail change, but its aler
 ## Cadence and renewal
 
 Set reviews from applicable rules, approved supervisory procedures and risk decisions; do not invent a universal quarterly or annual cybersecurity review obligation. Reassess after business, branch, provider, threat, system or source changes and after consequential incidents or failed tests. Record the next review owner and trigger.
+
+## Completion and handoff
+
+Deliver the source/applicability map, complete scope and evidence registers, procedure-to-operation chains, scenario results, incident decision references and open-action register. Name all untested branches, missing periods, unresolved provider dependencies and source-review gaps. Give each pending action an owner, deadline or review trigger and the evidence needed for closure.
+
+Independent source, skeptical and rights review are required before publication. Qualified firm owners retain legal interpretation, risk acceptance, customer communications and regulatory filings. Keep the packet labelled draft until its applicable reviews are complete. No real firm compliance, incident reportability or supervisory approval has been established by this guide.
 
 ## Universal engagement contract
 

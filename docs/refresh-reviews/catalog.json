@@ -1376,7 +1376,9 @@
     {
       "guide": "finra-cybersecurity-supervisory-readiness.md",
       "baseline_sha256": "bdf6a3497219cd58fd4201514880979599435ce387e6ecd97bcf358128f7a3e2",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "0180a32a5f36e3e497c9aec69a08a20679e76844c8d6d499ab249e7c4c4c2898",
+      "review_record": "docs/refresh-reviews/finra-cybersecurity-supervisory-readiness.md"
     },
     {
       "guide": "fips-140-3.md",
