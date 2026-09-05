@@ -879,7 +879,9 @@
     {
       "guide": "cisa-bod-23-01-asset-visibility.md",
       "baseline_sha256": "80a2f2874d1caef529c7641734f28bcb4fd29c31dc7d10b10bd0b74a9e930f45",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "f9177488fb7e4b23ce320b2a434014530f338c85ea09f2c07ded97d3c04ff393",
+      "review_record": "docs/refresh-reviews/cisa-bod-23-01-asset-visibility.md"
     },
     {
       "guide": "cisa-bod-23-02-management-interfaces.md",
