@@ -1327,7 +1327,9 @@
     {
       "guide": "fda-qmsr-21-cfr-part-820.md",
       "baseline_sha256": "87b924e51d3a4382a77433a350d9da384565f2be39f7e7802209174c0d6ca4e0",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "13a9e31b7dc69529c9477c079cf62c9d1c0cb40fb42335a0e1217b1ceba2b7fc",
+      "review_record": "docs/refresh-reviews/fda-qmsr-21-cfr-part-820.md"
     },
     {
       "guide": "fedramp.md",
