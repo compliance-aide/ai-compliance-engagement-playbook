@@ -1264,7 +1264,9 @@
     {
       "guide": "eu-us-data-privacy-framework.md",
       "baseline_sha256": "082712a436eb71d2efd214ad4d5e1d5671796bdeb2253380c5968355e25d35f6",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "4fb493231a9357ea9d67ba49abb8fc3341bb77cecc95855beca748dc4fee6cb3",
+      "review_record": "docs/refresh-reviews/eu-us-data-privacy-framework.md"
     },
     {
       "guide": "eu-us-privacy-shield-historical-transition.md",
