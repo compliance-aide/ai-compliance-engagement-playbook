@@ -1621,7 +1621,9 @@
     {
       "guide": "iec-62443-3-2-2020.md",
       "baseline_sha256": "2cbf34162b9c93b2dcbd23d0f86fcb488310160b3783e84efd2e2141cdeb92f2",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "052bc915b473bde6a9370992f8648d79911b952c9e21245921f0fc8805026e39",
+      "review_record": "docs/refresh-reviews/iec-62443-3-2-2020.md"
     },
     {
       "guide": "iec-62443-3-3-2013.md",
