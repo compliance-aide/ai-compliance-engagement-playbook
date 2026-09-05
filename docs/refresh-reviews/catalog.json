@@ -690,7 +690,9 @@
     {
       "guide": "c2m2.md",
       "baseline_sha256": "01942d07ea3c955e926adf07b7f77d06b2bb38d05d392e5b719ba7630b11024c",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "e5d29f6664b5ad7c8d79d05905ef94e114ceb0707bdc745c14231650acdb7dc0",
+      "review_record": "docs/refresh-reviews/c2m2.md"
     },
     {
       "guide": "california-data-breach-notification.md",
