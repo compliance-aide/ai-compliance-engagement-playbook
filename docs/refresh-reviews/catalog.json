@@ -711,7 +711,9 @@
     {
       "guide": "california-workforce-privacy.md",
       "baseline_sha256": "e6cf0a8a9ac3013ae35c8fac472cc54b471ef266db271ef5c3544dd2cefad6e7",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "1b3370aa829b1daf627ca04ca5c6841adba7591e0f2d21167fa050cdc3822e51",
+      "review_record": "docs/refresh-reviews/california-workforce-privacy.md"
     },
     {
       "guide": "canada-cpcsc-level-1.md",
