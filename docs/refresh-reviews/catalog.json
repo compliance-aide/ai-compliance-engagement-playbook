@@ -1551,7 +1551,9 @@
     {
       "guide": "hhs-hicp-2023.md",
       "baseline_sha256": "46d99baf8ca854b630674473a9e25c0a9f2570272b29789084fe1f8f9ecb67e5",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "a1911aa640aa0cfd911fac58c49702708e397f9f9ad2bead16ea283d9cf1a132",
+      "review_record": "docs/refresh-reviews/hhs-hicp-2023.md"
     },
     {
       "guide": "hipaa-security-rule.md",
