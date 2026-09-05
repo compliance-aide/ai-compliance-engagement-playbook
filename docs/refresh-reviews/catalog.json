@@ -1040,7 +1040,9 @@
     {
       "guide": "coppa.md",
       "baseline_sha256": "641f0103996ba3708fffe88da575915e149cd20614feefc1efc8cf91781d663a",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "022231fee38007608fea1f3db131e366854b4302952a224fa71e98665d802ca5",
+      "review_record": "docs/refresh-reviews/coppa.md"
     },
     {
       "guide": "coso-internal-control-integrated-framework.md",
