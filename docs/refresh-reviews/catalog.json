@@ -1194,7 +1194,9 @@
     {
       "guide": "eu-csrd-esrs.md",
       "baseline_sha256": "630a05ea97e9d834b732fe368c26b8712d4e4a14447cbb2c4ee680293d904d8b",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "1e783b0ba150a548a37e107c62b7d3cae88c0bd956c5adbf6c515537e60471fb",
+      "review_record": "docs/refresh-reviews/eu-csrd-esrs.md"
     },
     {
       "guide": "eu-cyber-resilience-act.md",
