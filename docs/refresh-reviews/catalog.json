@@ -1033,7 +1033,9 @@
     {
       "guide": "connecticut-data-privacy-act.md",
       "baseline_sha256": "486c65e1185e9a73abaa5fb06c046afb68092c1ce292d133f1b3570d60323b45",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "9b827b3d0990da16e5701cb3abeddf590ecf44cd90d15639725b5fe6541656c9",
+      "review_record": "docs/refresh-reviews/connecticut-data-privacy-act.md"
     },
     {
       "guide": "coppa.md",
