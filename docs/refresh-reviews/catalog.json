@@ -1726,7 +1726,9 @@
     {
       "guide": "illinois-personal-information-protection.md",
       "baseline_sha256": "208b323ce1084c4d4558a4db625df14f4d54650aa89b03b9c11688068a020164",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "f7637f42bb01cd0da1dd0a519b5e5775f4d6d1c4ba06589c5719989f44a24323",
+      "review_record": "docs/refresh-reviews/illinois-personal-information-protection.md"
     },
     {
       "guide": "india-dpdpa.md",
