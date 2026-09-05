@@ -851,7 +851,9 @@
     {
       "guide": "cisa-bod-18-01-email-web-security.md",
       "baseline_sha256": "c5e027d5e69812345b918b3fe53057aafb27ed6e55b00927564fd3e216970fb9",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "7b4ef59505991cced316c8e0f828d05555dad9fd15881b295f669755b9759787",
+      "review_record": "docs/refresh-reviews/cisa-bod-18-01-email-web-security.md"
     },
     {
       "guide": "cisa-bod-18-02-high-value-assets.md",
