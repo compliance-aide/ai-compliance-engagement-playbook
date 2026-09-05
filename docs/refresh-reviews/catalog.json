@@ -1187,7 +1187,9 @@
     {
       "guide": "eu-critical-entities-resilience.md",
       "baseline_sha256": "67c7fea1783d3b8b8af7729b8752d736920b9bc8d1e6e32dc0184b70107098a0",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "67cd9ae1db7786d8b2eb9f78ef803f2b35f88bb0f0fc3f14c111aaee8af9b3c0",
+      "review_record": "docs/refresh-reviews/eu-critical-entities-resilience.md"
     },
     {
       "guide": "eu-csrd-esrs.md",
