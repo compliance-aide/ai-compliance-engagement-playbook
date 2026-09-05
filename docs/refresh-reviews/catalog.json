@@ -1712,7 +1712,9 @@
     {
       "guide": "iec-ts-63074-2023.md",
       "baseline_sha256": "46f697ad7f22e47f7fe96a913f320e5da3e48279ef64fba7982387d2a1d29565",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "0f3879fb72b8c4a7787dd02decfdb869dc837fd8d25502bc82fab7cdfa1db40d",
+      "review_record": "docs/refresh-reviews/iec-ts-63074-2023.md"
     },
     {
       "guide": "illinois-bipa.md",
