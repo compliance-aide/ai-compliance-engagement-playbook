@@ -1670,7 +1670,9 @@
     {
       "guide": "iec-tr-60601-4-5-2021.md",
       "baseline_sha256": "2341f6bdabff71224e61c735966cbc7d0e5721012d7956754dae510f0b532284",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "cbec2691746ccd68f1f62528625e4ac26375bd9a30325e62d989711757501499",
+      "review_record": "docs/refresh-reviews/iec-tr-60601-4-5-2021.md"
     },
     {
       "guide": "iec-tr-62443-2-3-2015.md",
