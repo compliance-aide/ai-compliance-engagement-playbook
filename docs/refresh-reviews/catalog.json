@@ -1656,7 +1656,9 @@
     {
       "guide": "iec-pas-62443-1-6-2025.md",
       "baseline_sha256": "54c64ba55c12ad72ec89e3bc233b6f21b0471cf445a70d9b4356b1e5b37b978f",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "425d2cbe1cab7c715770038724bbf599ceb590c37cd48ca1f3ce9023b0676c49",
+      "review_record": "docs/refresh-reviews/iec-pas-62443-1-6-2025.md"
     },
     {
       "guide": "iec-pas-62443-2-2-2025.md",
