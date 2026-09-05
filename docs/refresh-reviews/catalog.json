@@ -1488,7 +1488,9 @@
     {
       "guide": "ghg-protocol-corporate-standard.md",
       "baseline_sha256": "17d25310ccca20da693f3203b0e62518ed041ccabf2f18cf0e66b998b4042568",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "fbbfece840e8a0b297872b18235e82ce89f31b17aa8ff9f24d89ab17909d8460",
+      "review_record": "docs/refresh-reviews/ghg-protocol-corporate-standard.md"
     },
     {
       "guide": "glba-safeguards-rule.md",
