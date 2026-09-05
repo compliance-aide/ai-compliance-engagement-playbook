@@ -23,7 +23,9 @@ production systems without the approval specified in the engagement charter.
 
 ## Start here
 
-1. Read [the operating model](docs/operating-model.md).
+1. Read [the operating model](docs/operating-model.md), then execute one item at
+   a time with [the agent runbook](docs/agent-runbook.md) and
+   [work-item record](templates/work-item.md).
 2. Follow [the AI-agent execution protocol](docs/ai-agent-execution-protocol.md)
    to keep computer use, evidence, operator support, and auditor support separate.
 3. Use the [universal engagement contract](docs/universal-engagement-contract.md)

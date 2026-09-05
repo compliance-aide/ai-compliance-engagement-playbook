@@ -21,3 +21,9 @@ gate, typed evidence contract, optional technical-evidence adapter, expiry-bound
 exception record, source and system change control, and visible annual work
 queues. A technical pass remains an evidence input for human evaluation, not a
 conformance conclusion.
+
+Execute each phase using the [agent runbook](agent-runbook.md). Its step gates
+make incomplete evidence, failed tests and pending decisions visible. Cadences
+in this repository are engagement-planning recommendations unless a cited
+governing source imposes them; binding deadlines and event triggers take priority
+over routine quarterly or annual reviews.

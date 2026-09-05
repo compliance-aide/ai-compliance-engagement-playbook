@@ -21,3 +21,10 @@ Follow the [source research policy](docs/source-research-policy.md) and
 [review protocol](docs/review-protocol.md) before using a guide in a real
 engagement. A public guide is a starting operating model, never an assessment,
 certification, legal conclusion, or authorization decision.
+
+## Refresh source and review records
+
+The [refresh ledger](docs/refresh-reviews/README.md) accounts for every guide and
+links author source checks as they are completed. `pending` means the refresh
+check has not occurred; `drafted` does not imply independent or human approval.
+The existing source URL in a guide is a locator, not proof of current accuracy.

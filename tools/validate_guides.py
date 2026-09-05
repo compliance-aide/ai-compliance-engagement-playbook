@@ -52,4 +52,4 @@ if failures:
     print("Guide validation failed:")
     print("\n".join(failures))
     sys.exit(1)
-print(f"Validated {len(list(GUIDES.glob('*.md'))) - 1} framework guides.")
+print(f"Structural baseline checks passed for {len(list(GUIDES.glob('*.md'))) - 1} framework guides; this does not verify source accuracy or refresh completion.")
