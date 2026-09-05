@@ -1481,7 +1481,9 @@
     {
       "guide": "ghana-data-protection-act.md",
       "baseline_sha256": "e3be5b42215b3b85b8b62be7c2abd61ce92a20ae1907b351ff1db444217c05e6",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "f61dc09d3f13233937b5a2282640b7503c4ea6820c8f446542cacc4d4e71fdd8",
+      "review_record": "docs/refresh-reviews/ghana-data-protection-act.md"
     },
     {
       "guide": "ghg-protocol-corporate-standard.md",
