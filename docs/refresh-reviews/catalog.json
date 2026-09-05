@@ -1243,7 +1243,9 @@
     {
       "guide": "eu-gmp-annex-11.md",
       "baseline_sha256": "a9cc88eee192500f400a9b37b5eb1860fe6c7bb4caf99daa53871988663f3657",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "e3237d269adc1bcbd2863655d7ee404a8e9beedcecb7ad5b6f06e9bccb9537b5",
+      "review_record": "docs/refresh-reviews/eu-gmp-annex-11.md"
     },
     {
       "guide": "eu-nis2.md",
