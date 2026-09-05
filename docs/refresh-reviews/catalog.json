@@ -956,7 +956,9 @@
     {
       "guide": "cisa-zero-trust-maturity-model-v2.md",
       "baseline_sha256": "0cf7795b56908deb66b1f3231b7c6882b7885cb2df33f45736a3ad13c5707a72",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "db379197bb60ed508b8a73e922615f8039453e4b84390ab09266600cb824f169",
+      "review_record": "docs/refresh-reviews/cisa-zero-trust-maturity-model-v2.md"
     },
     {
       "guide": "cjis-security-policy.md",
