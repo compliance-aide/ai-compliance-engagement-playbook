@@ -1012,7 +1012,9 @@
     {
       "guide": "colombia-personal-data-protection.md",
       "baseline_sha256": "76a70b74d3090c78a449960dbae3f3b1adad81ca07046456bc7bfd5946839cd9",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "5c35fd594c4a60b1c5dc43cc26142de0765f1e14ccee907a65c4cad8883817ab",
+      "review_record": "docs/refresh-reviews/colombia-personal-data-protection.md"
     },
     {
       "guide": "colorado-ai-law.md",
