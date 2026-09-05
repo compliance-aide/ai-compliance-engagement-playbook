@@ -844,7 +844,9 @@
     {
       "guide": "cis-controls-v8-1.md",
       "baseline_sha256": "65e97b89e9fbbfd5ecd4e6a999017bdda13c05005bdaa16cbd0a6679e62b8324",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "5c0fb0e0279accdb1558992ee5b6ec71717b0db0158330eb680bfbca652a09c3",
+      "review_record": "docs/refresh-reviews/cis-controls-v8-1.md"
     },
     {
       "guide": "cisa-bod-18-01-email-web-security.md",
