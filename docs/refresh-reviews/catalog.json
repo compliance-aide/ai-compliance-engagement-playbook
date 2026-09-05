@@ -900,7 +900,9 @@
     {
       "guide": "cisa-continuous-diagnostics-mitigation.md",
       "baseline_sha256": "0e0b32033cb952491b8e7b37bee81d0fe98d03fa9bf125748f93def861697412",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "e4fdd97ee7513bfa261852181ecf2a723c7e0e0b3eb5532e40939587f68f3dcb",
+      "review_record": "docs/refresh-reviews/cisa-continuous-diagnostics-mitigation.md"
     },
     {
       "guide": "cisa-cpg.md",
