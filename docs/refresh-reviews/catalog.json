@@ -767,7 +767,9 @@
     {
       "guide": "canada-osfi-b13.md",
       "baseline_sha256": "d790be69d38fd9802e2b6b0ed5e29052ad5497e42f33576b99a051634ac1daf8",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "83f289981a64ae55b528928838ed4c6b87cf48744279edd6298ed7b5317c404d",
+      "review_record": "docs/refresh-reviews/canada-osfi-b13.md"
     },
     {
       "guide": "ccpa-cpra.md",
