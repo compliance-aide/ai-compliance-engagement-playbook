@@ -1789,7 +1789,9 @@
     {
       "guide": "iso-14001-2026.md",
       "baseline_sha256": "07df65d4c784ac5efb7d45efbb2c1faf08423b51c376323a624c61ca0a3b5c14",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "e6cc045c0a4c43031af9b0e4805f39274737142934680f56e0798807a1bde013",
+      "review_record": "docs/refresh-reviews/iso-14001-2026.md"
     },
     {
       "guide": "iso-15489-1-2016.md",
