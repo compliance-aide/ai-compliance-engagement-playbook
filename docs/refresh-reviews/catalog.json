@@ -830,7 +830,9 @@
     {
       "guide": "cis-controls-v8-1-ig2.md",
       "baseline_sha256": "caac059f2c873c7c4501063b00e6022021d51cfb63054b5901410dbc719b168e",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "ee24d2fca9b979e7d18d2aa6c8d57809018e267325a28c9a5e944ddf972c2aea",
+      "review_record": "docs/refresh-reviews/cis-controls-v8-1-ig2.md"
     },
     {
       "guide": "cis-controls-v8-1-ig3.md",
