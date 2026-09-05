@@ -28,6 +28,26 @@ Record the protected use, data lifetime, peers, actual protocol, parameter set, 
 6. **Check migration and rollback.** Test approved behavior across old/new peers and relevant network constraints. Record which paths fall back and whether policy permits it. Output bounded compatibility results; service availability after fallback does not establish post-quantum protection on that path.
 7. **Review claims and next actions.** Reconcile all scoped peers, exceptions, version changes and observed outcomes. Assign remaining gaps and required retests. Output a draft rollout packet for the authorized owner, not a blanket quantum-safe or validated-system claim.
 
+## Evidence and test plan
+
+### Uses, peers and approved integration
+
+Application, architecture and cryptography owners provide the complete scoped key-establishment inventory, peer dependencies, data-protection purpose and approved protocol/parameter references. Reconcile each client/server path, intermediary and provider with the actual integration boundary. Preserve unknown or unsupported peers instead of treating one compatible pair as population coverage.
+
+Separate the required security properties and their evidence: key establishment, peer authentication, application protection and organizational approval. Where a hybrid design is used, identify its exact governing specification and owner decision rather than inventing a composition rule. Keep draft and final implementation identifiers distinct; a familiar algorithm family name does not prove byte-level compatibility.
+
+### Implementation, interoperability and performance
+
+Engineering, quality and suppliers provide build manifests, actual configuration, algorithm test references, protocol observations and application results. Match every result to the parameter set, peer versions and environment. Preserve vector results separately from negotiated session evidence and protected application behavior. Vendor announcements and installed settings remain capability evidence until actual use is observed.
+
+Define representative workload, message-size and network conditions from the approved deployment scope before performance tests. Record failures, retries and resource limits as outcomes, not discarded noise. Use synthetic data and authorized operators; do not expose encapsulated session secrets or private key material in workpapers. Document QA differences and untested production paths explicitly.
+
+### Rollout, fallback and lifecycle
+
+Change, operations and risk owners provide deployment populations, approvals, actual rollout records, fallback policy, rollback criteria, supplier notices and exceptions. Reconcile planned and deployed versions across the full scoped population. A successful deployment job does not establish that every connection uses the required mechanism.
+
+For each fallback or rollback, record trigger, negotiated outcome, application result and compliance with the approved policy. Preserve any lost protection property even when availability is restored. Track affected historical evidence and peer compatibility after updates; do not carry an older test result forward merely because the vendor product name is unchanged. Assign unresolved exceptions and source/errata questions to named owners.
+
 ## Failure branches and decisions
 
 Unobserved negotiation is `not_tested`; unresolved protocol or errata applicability is `inconclusive`. A connection falling back against a predefined ML-KEM-required policy is `not_supported` even if its application request succeeds. Keep functional availability and required mechanism use separate.
@@ -37,6 +57,12 @@ Fictional desk case: a QA server offers the approved mechanism, but a client neg
 ## Cadence and renewal
 
 Reassess after standard/errata, protocol, parameter, implementation, peer or provider changes and consequential failures. Use approved organizational review schedules rather than invented quarterly checks or annual FIPS renewal. Assign owners for remaining legacy paths and migration exceptions.
+
+## Completion and handoff
+
+Deliver the complete peer/use map, approved integration sources, implementation manifests, layered test results, actual negotiation observations and rollout/exception register. State separately what is supported about capability, interoperability, negotiated mechanism, authenticated peer and application operation. Identify untested paths and unresolved errata or protocol questions with owners and next actions.
+
+Require independent source, skeptical and rights review before publication. Qualified human authorities retain cryptographic design, migration, production rollout and risk decisions. This draft does not establish a validated module, quantum-safe system or completed deployment.
 
 ## Universal engagement contract
 
