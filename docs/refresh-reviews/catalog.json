@@ -922,7 +922,7 @@
       "guide": "cisa-known-exploited-vulnerabilities-catalog.md",
       "baseline_sha256": "1f8f92125ae01c2e4a7582c324709edbbe4f657fc0c458d4e9c2e67ae2a90e33",
       "status": "drafted",
-      "reviewed_sha256": "e697af9b9e91b1e0b052c5b03fb2cc568c75a26ee35eb45ad4be06592e686737",
+      "reviewed_sha256": "e40719073b9a98ab478438f6cabd30adf81a395daa623cae74793cab09377c1e",
       "review_record": "docs/refresh-reviews/cisa-known-exploited-vulnerabilities-catalog.md"
     },
     {
