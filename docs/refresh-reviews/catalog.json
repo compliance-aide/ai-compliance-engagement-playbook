@@ -760,7 +760,9 @@
     {
       "guide": "canada-osfi-b10.md",
       "baseline_sha256": "9ab78aeb82031256c3ce1b572e321d8bcef2f5e51fd4af10eec10740698272eb",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "5fc027e24d8fb967df4586be83934c79bd4cc1946ecb7995549032801cbd5a23",
+      "review_record": "docs/refresh-reviews/canada-osfi-b10.md"
     },
     {
       "guide": "canada-osfi-b13.md",
