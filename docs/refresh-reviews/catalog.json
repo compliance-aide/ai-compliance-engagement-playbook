@@ -1096,7 +1096,9 @@
     {
       "guide": "dama-dmbok-informed.md",
       "baseline_sha256": "87a4affa80161701809feda91399461e8d6716281085b623a3bed5c0b3232371",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "00d95f592c86286c2eaaff505092a17f23ad2790cc493140714ee3801b041220",
+      "review_record": "docs/refresh-reviews/dama-dmbok-informed.md"
     },
     {
       "guide": "dfars-cybersecurity.md",
