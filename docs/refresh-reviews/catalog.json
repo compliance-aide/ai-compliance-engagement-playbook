@@ -1460,7 +1460,9 @@
     {
       "guide": "fips-205.md",
       "baseline_sha256": "c4d83718f9f692b9f8753f80b9e687e9e7dc3e9f75a7a3f727d367bb0288401d",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "c794dfeeb0215f1b5535ed7480ff8a160bdd4df4dc71eb768e8aa0e6cc15cd14",
+      "review_record": "docs/refresh-reviews/fips-205.md"
     },
     {
       "guide": "fisma-federal-information-security.md",
