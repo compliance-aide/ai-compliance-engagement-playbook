@@ -13,3 +13,7 @@ Independent source, rights, skeptical and engagement review and named human publ
 ## Subsequent source verification
 
 Direct HTTPS retrieval of the official BOD 26-04 page succeeded after the web retrieval failure. Read its text, including explicit revocation of BOD 19-02 and BOD 22-01, issuance date June 10, 2026, phased actions and Appendix A narrative. Supersession uncertainty above is now resolved. Full table-image and implementation-guidance review remain pending; no complete new deadline algorithm claimed. Guide corrected accordingly.
+
+## Transition consistency correction
+
+Removed stale unresolved-revocation wording from the retained evidence package. Added a historical-to-current finding handoff preserving original dates and decisions, successor phase/inputs and no automatic waiver or closure. Linked the verified successor discussion in the KEV guide. Independent review remains pending.

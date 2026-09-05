@@ -16,6 +16,12 @@ Reconcile the exposed asset population, preserve vulnerability observations and 
 
 Agency authority resolves applicability and reporting. Asset and network owners maintain scope. Vulnerability analysts validate observations. Service and change owners implement authorized treatment. Risk authority decides exceptions. Independent reviewers challenge closure. AI may organize authorized records and draft work items; it cannot authorize scans, change systems, accept risk or submit official reports.
 
+## Transition handoff
+
+For every open historical finding, preserve its original source, first observation, asset identity, prior due date and disposition history. Add the current controlling source and phase, asset-level decision inputs, revised obligation and reviewer rationale without overwriting the historical record. Use the [KEV workflow’s federal transition and triage guidance](cisa-known-exploited-vulnerabilities-catalog.md) together with the actual BOD 26-04 source; non-KEV findings remain in scope for the broader vulnerability program.
+
+Do not treat migration as remediation, automatically renew a former exception, or create a new grace period. An organizational risk decision is not a waiver of federal directive requirements. Record difficult remediation cases for the authorized agency coordinator to resolve under current CISA direction. The transition is review-ready only when every open historical finding is linked to a current owned action or a supported disposition.
+
 ## Before starting
 
 Apply the [agent runbook](../agent-runbook.md). Obtain current direction, scan agreement, approved inventory, reports, source timestamps, owner map, prior findings and change/exception records. Reuse valid authorization within scope. Missing authority blocks affected decisions; authorized evidence organization may continue.
@@ -35,7 +41,7 @@ Apply the [agent runbook](../agent-runbook.md). Obtain current direction, scan a
 
 ## Evidence and test plan
 
-**Source and rights snapshot.** Use the official [CISA BOD 19-02 page](https://www.cisa.gov/news-events/directives/bod-19-02-vulnerability-remediation-requirements-internet-accessible-systems) and applicable agency/component direction at engagement start; prior locator snapshot 2026-07-31; current applicability unresolved as described above. This original plan does not reproduce directive requirements, determine an internet-exposed scope, order remediation, or make a compliance conclusion.
+**Source and rights snapshot.** Use the official [CISA BOD 19-02 page](https://www.cisa.gov/news-events/directives/bod-19-02-vulnerability-remediation-requirements-internet-accessible-systems) and applicable agency/component direction at engagement start; prior locator snapshot 2026-07-31; revoked status confirmed; current work follows BOD 26-04 as described above. This original plan does not reproduce directive requirements, determine an internet-exposed scope, order remediation, or make a compliance conclusion.
 
 ### 1. Internet-accessible scope and discovery package
 
