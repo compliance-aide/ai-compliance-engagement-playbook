@@ -774,7 +774,9 @@
     {
       "guide": "ccpa-cpra.md",
       "baseline_sha256": "860b74708042801a7c5646130fe699a20f6643cc4e8d3b1f7dcf660856b40e61",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "43d379990b6e77a1afe895a7f5689fe0b06c8d58ec012e0e822c91b0417b1855",
+      "review_record": "docs/refresh-reviews/ccpa-cpra.md"
     },
     {
       "guide": "cert-rmm.md",
