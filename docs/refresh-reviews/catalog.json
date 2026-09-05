@@ -1355,7 +1355,9 @@
     {
       "guide": "ffiec-aio-booklet.md",
       "baseline_sha256": "adfac4124f394589169286b267bf59834a0df39af9753225e85f6b00b4beaf7a",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "f7b408c67651dd86cb57ade26a06dc737508c2c8dd1a8deefab1a19aed89186b",
+      "review_record": "docs/refresh-reviews/ffiec-aio-booklet.md"
     },
     {
       "guide": "ffiec-cat-historical.md",

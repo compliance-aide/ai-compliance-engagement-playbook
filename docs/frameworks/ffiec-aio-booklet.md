@@ -29,6 +29,28 @@ Record legal entity, regulator, services, locations, review period, production a
 7. **Resolve findings and retest.** Assign each gap a cause, owner, action and observable closure criterion. Reconcile repeat incidents with prior corrective actions. Output before/after evidence and remaining risks. Changed documentation does not demonstrate corrected operation.
 8. **Prepare the management handoff.** Link each narrative claim to current evidence for the same service, environment and period. Carry unresolved dependencies, provider limitations and untested scenarios into the packet. Output a draft for authorized management and independent review, not an examiner acceptance claim.
 
+## Evidence and test plan
+
+### Architecture and critical-service accountability package
+
+Architecture, infrastructure and business owners provide approved service maps, inventories, dependency registers, criticality decisions and architecture approvals. Reconcile every in-scope service and component across these sources. Record identifiers, versions, environments, owners, observation dates and exclusions. Preserve orphaned components and shared dependencies as explicit gaps rather than dropping them from the service map.
+
+For each connection, identify the evidence supporting its existence and responsibility. Record intended architecture and observed architecture separately. Include supporting services whose loss can prevent recovery even when the main application is restored. A provider-owned component still needs a named institutional owner for the dependency and its unresolved evidence.
+
+### Operations, change and resilience package
+
+Operations and continuity owners provide monitoring definitions, capacity assumptions, change histories, incidents, problem records, backup logs and recovery exercise results for the review period. Reconcile the full in-scope population; selected examples cannot establish a claim about all changes or all dependencies. Record missing observation windows, disabled alerts and failed exports as coverage limitations.
+
+Before a recovery exercise, define the start event, finish criterion, relevant clock sources and data comparison method. Preserve both elapsed time and restored data evidence. Use synthetic transactions to verify the business outcome and downstream consistency; do not treat a healthy infrastructure endpoint as a substitute. Record how QA differs from production and which consequences were not exercised. A planned rollback is different from an executed, verified rollback.
+
+For capacity checks, compare the observed workload and constraints with the approved demand assumptions. A quiet-period test cannot establish peak-period performance. If the acceptance criterion was never defined, retain the observation and ask the owner to define a prospective test rather than inventing a retrospective passing threshold.
+
+### Third-party and governance narrative package
+
+Vendor, risk and executive owners provide due diligence, responsibility records, scoped assurance reports, contractual service descriptions, adverse findings, decisions and committee reporting. Verify the provider entity, covered service, location, period, exclusions and institution-side responsibilities before connecting a report to an assertion. Separate the provider's control result from evidence that the institution fulfilled its own dependencies.
+
+Trace each finding through escalation, decision, corrective action and closure evidence. Committee acknowledgement is not automatically risk acceptance; record the actual decision and authorized owner. Keep draft examiner responses distinct from approved and transmitted responses. Do not describe a report's presence as supervisory acceptance or certification.
+
 ## Failure branches and decisions
 
 Missing permission or an unperformed exercise means `not_tested` for that check. Contradictory configuration evidence means `inconclusive` until reconciled. A demonstrated mismatch with the predefined acceptance criterion is `not_supported`, even if other evidence is unavailable. Keep task state separate from the assertion: an evidence request can be complete while the service assertion remains unsupported.
@@ -38,6 +60,12 @@ Fictional desk case: a QA restore starts the application servers within the targ
 ## Cadence and renewal
 
 Set review frequency from applicable sources and approved institutional policy; do not infer a mandatory quarterly or annual AIO review from this guide. Revisit after architecture, provider, workload or source changes, outages and failed recovery exercises. Record the next owner and review trigger.
+
+## Completion and handoff
+
+Deliver the scope/source register, complete service/dependency map, responsibility matrix, evidence index, change chains, monitoring coverage, scenario-specific recovery results and findings register. For every material narrative claim, name the exact service, configuration, period and supporting evidence. Preserve untested routes and conflicting evidence in the management packet.
+
+Assign each unresolved item an owner, next action and review trigger. A receiving owner must be able to reproduce the evidence trail without private customer data appearing in this repository. Independent source, skeptical and rights review remain required before publication. Human management owns risk decisions and examiner communications; this draft establishes neither institutional compliance nor safety-and-soundness conclusions.
 
 ## Universal engagement contract
 
