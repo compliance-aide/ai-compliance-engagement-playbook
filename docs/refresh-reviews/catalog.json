@@ -998,7 +998,9 @@
     {
       "guide": "cms-mars-e.md",
       "baseline_sha256": "1524c700913da5b2452355768644c270acebe0959c4da275cfc0e8f27fee4e2c",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "56cb38eeabbec65dc852169a50b26e8185770608bf33a46192cb8aa4f0da67d8",
+      "review_record": "docs/refresh-reviews/cms-mars-e.md"
     },
     {
       "guide": "cobit-2019.md",
