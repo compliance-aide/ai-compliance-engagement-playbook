@@ -1054,7 +1054,9 @@
     {
       "guide": "costa-rica-personal-data-protection.md",
       "baseline_sha256": "cd5a6c57accf62957bd97eac5a4f3f289ee7524c9e0883fc95f537ee6da4e7cc",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "5043c02898f4d7347741b1ad4220030806beed0235e7bdc8518a2c1161b9e0b8",
+      "review_record": "docs/refresh-reviews/costa-rica-personal-data-protection.md"
     },
     {
       "guide": "csa-ai-controls-matrix.md",
