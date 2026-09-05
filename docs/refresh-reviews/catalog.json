@@ -1159,7 +1159,9 @@
     {
       "guide": "etsi-en-303-645-v3-1-3.md",
       "baseline_sha256": "0e648b487a03b99cbe5adf3af6f61358de8b1f3643508026b07b69e4770fb31c",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "4641b54ce5b5871748b4aeb98e95b17ce1a668d3d884838298e9366fe390e993",
+      "review_record": "docs/refresh-reviews/etsi-en-303-645-v3-1-3.md"
     },
     {
       "guide": "eu-ai-act.md",
