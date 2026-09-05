@@ -725,7 +725,9 @@
     {
       "guide": "canada-dnd-it-security-risk-management.md",
       "baseline_sha256": "ac5b8ad1ef5ff372e48840cf0893e13b16cb10f8b26de65655bc144f90f04171",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "d7563f4e1504cd76abe74608d672c5b83d32ea73e0a92d2547b35ebc5324af5d",
+      "review_record": "docs/refresh-reviews/canada-dnd-it-security-risk-management.md"
     },
     {
       "guide": "canada-gc-cloud-security-profile.md",
