@@ -1131,7 +1131,9 @@
     {
       "guide": "eba-gl-2019-04.md",
       "baseline_sha256": "72064e8f2f72c11bbdca34f0dc8c5e725934c441620b0ea4939003f7a4a7583a",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "6110f576aa2d5a7fecbdfd7ac6688745705b8e9c2ed0ee5ebf427468477ade9c",
+      "review_record": "docs/refresh-reviews/eba-gl-2019-04.md"
     },
     {
       "guide": "eeoc-ai-employment-guidance.md",
