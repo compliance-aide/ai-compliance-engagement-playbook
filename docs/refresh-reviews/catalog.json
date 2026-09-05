@@ -1719,7 +1719,9 @@
     {
       "guide": "illinois-bipa.md",
       "baseline_sha256": "9d887982dec4d5917d7402bda5cd0f4ed3388410f2be5659cc56b4510b345bd8",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "4f90784e4615093435e9d50e00cdc07ee8e5e0850831cd205c385ef20df46ad9",
+      "review_record": "docs/refresh-reviews/illinois-bipa.md"
     },
     {
       "guide": "illinois-personal-information-protection.md",
