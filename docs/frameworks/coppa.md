@@ -16,6 +16,21 @@ Use the amended 16 CFR Part 312 and the [FTC compliance plan](https://www.ftc.go
 
 Counsel decides child-directed, mixed-audience or actual-knowledge applicability and any exception from actual service facts. Screen connected services, plug-ins and third-party collection, not only the operator's forms. The [FTC February 2026 age-verification policy statement announcement](https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-issues-coppa-policy-statement-incentivize-use-age-verification-technologies-protect-children) describes conditional enforcement discretion; it is not blanket permission for new collection. Verify its full conditions and current status before relying on it.
 
+## Conditional age-verification checkpoint
+
+Before relying on the [FTC policy statement](https://www.ftc.gov/system/files/ftc_gov/pdf/coppa-age-verification-policy-statement.pdf), legal must confirm its continuing availability, eligible general/mixed audience, and compliance with COPPA in every other respect. Primarily child-directed services cannot use it to treat older users differently. Age results can establish actual knowledge of a child.
+
+Record evidence for all six conditions:
+
+1. Engineering traces age-verification information to exclude other uses or disclosures.
+2. Vendor owner documents reasonable provider diligence and written assurances covering protection, sole-purpose use/disclosure, and prompt deletion.
+3. Data owner verifies necessary retention and prompt disposal after age determination.
+4. Privacy owner checks the privacy policy clearly explains collected age-verification information to parents and children.
+5. Security owner verifies reasonable safeguards.
+6. Product owner documents reasonable steps supporting likely reasonable age accuracy.
+
+Use synthetic cases to test disposal, unintended recipients, uncertain results and child-result routing. Missing evidence prevents reliance; assign an owner and preserve the unresolved decision. The statement creates no entitlement, preserves FTC enforcement discretion, and ends on relevant final amendments or withdrawal. Recheck status before implementation and changes; do not infer permission under other laws.
+
 ## Before starting
 
 Follow the [agent runbook](../agent-runbook.md). Identify legal, product, parent-support, security and vendor owners. Use synthetic child/parent scenarios in a QA environment. Keep real children's records and identity evidence in authorized systems, outside public artifacts or unapproved models. Create one work item per applicable obligation, service, purpose and recipient; separate preparation observations from legal decisions and actual consent records.
