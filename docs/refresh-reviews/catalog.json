@@ -1257,7 +1257,9 @@
     {
       "guide": "eu-payment-services-transition.md",
       "baseline_sha256": "27bb8e9295301a05e46b81c0c6cf7ac11d44a58f1f436ce6e289bbfcfd28f509",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "4624bf996f5a206905feb9ab32e2947ce4dad7af9fcae560d47d649c65557294",
+      "review_record": "docs/refresh-reviews/eu-payment-services-transition.md"
     },
     {
       "guide": "eu-us-data-privacy-framework.md",
