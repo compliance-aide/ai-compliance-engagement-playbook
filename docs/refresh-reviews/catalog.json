@@ -1229,7 +1229,9 @@
     {
       "guide": "eu-gdpr-employment-context.md",
       "baseline_sha256": "2f03fc33fec6b3ef64e369e3fe4f6d10824b51a185ae1513f0a6a3bc6888d84d",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "1b4932ab33977a7d2c55563b3e83d0e3d198db6a976092fcc4815a40355ca892",
+      "review_record": "docs/refresh-reviews/eu-gdpr-employment-context.md"
     },
     {
       "guide": "eu-gdpr.md",
