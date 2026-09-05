@@ -1173,7 +1173,9 @@
     {
       "guide": "eu-aml-transition.md",
       "baseline_sha256": "8b3b1e2c7250b0df2c8964683409c7810179083d6c93ab86ac07db8cec7d1173",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "ed2fb5508e78b07ef9ea0f082096a6782d8a96893311bfa20a80fc8ff406f55f",
+      "review_record": "docs/refresh-reviews/eu-aml-transition.md"
     },
     {
       "guide": "eu-cloud-code-of-conduct.md",
