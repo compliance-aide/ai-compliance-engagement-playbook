@@ -732,7 +732,9 @@
     {
       "guide": "canada-gc-cloud-security-profile.md",
       "baseline_sha256": "c02cb7065ff373c2254cdcf55017bb56a2b8c1224e448e67bed8abe4690488dd",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "0c195d6c60e5a02c8fa6fe26d1469f5ffba73c4e880816466b421b2af7f739a3",
+      "review_record": "docs/refresh-reviews/canada-gc-cloud-security-profile.md"
     },
     {
       "guide": "canada-itsg-33.md",
