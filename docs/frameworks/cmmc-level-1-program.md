@@ -36,6 +36,14 @@ Follow the [agent runbook](../agent-runbook.md). Name the contracts owner, syste
 | 7. Prepare the official record | Agent drafts a package with scope identifiers, assessment results, dates, limitations and evidence references for review. | Authorized human verifies the exact submission and affirmation; any government submission and binding affirmation require explicit approval. Read back the resulting SPRS record before reporting submission or status. |
 | 8. Maintain and renew | Program owner tracks annual assessment and affirmation separately, monitors changes and reopens affected objectives. | Calendar, accountable owners, prior receipts and change log; an old receipt is not proof of continuing compliance. |
 
+## Applying the assessment finding rules
+
+[Assessment Guide v2.13, pages 5–9](https://dodcio.defense.gov/Portals/0/Documents/CMMC/AssessmentGuideL1v2.pdf) distinguishes method selection from objective coverage. Choose sufficient examination, interviews or testing for each objective; every suggested method and document is not mandatory. Record why the selected evidence supports the determination. Draft policies are preparation artifacts, not eligible final assessment evidence.
+
+The human assessor records MET, NOT MET or NOT APPLICABLE. One unmet applicable objective makes its requirement NOT MET. Record a defensible rationale for each N/A; it is not a substitute for missing evidence. Provider implementation needs adequate supporting evidence too.
+
+The guide separately recognizes qualifying enduring exceptions and temporary deficiencies with their required documentation. Refer such cases to the assessment lead for exact rule application; do not treat unfinished initial implementation as an automatic temporary deficiency. These provisions do not create a Level 1 assessment POA&M option. Preserve the evidence and decision rather than applying a blanket pass or fail to every operational issue.
+
 ## Failure branches and decisions
 
 - **Unknown evidence:** mark the workpaper inconclusive and assign a collection action. Do not turn an unanswered question into MET or an official NOT APPLICABLE determination.
