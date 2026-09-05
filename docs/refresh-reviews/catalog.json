@@ -893,7 +893,9 @@
     {
       "guide": "cisa-bod-25-01-cloud-services.md",
       "baseline_sha256": "fef9dc63fcae65be660200e97894acc82044f5b79357d6744fa310e1421b4356",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "f32973f4ea764159837378f75064cf20a8646f30641e94d0a1f6b6a3a7e64c49",
+      "review_record": "docs/refresh-reviews/cisa-bod-25-01-cloud-services.md"
     },
     {
       "guide": "cisa-continuous-diagnostics-mitigation.md",
