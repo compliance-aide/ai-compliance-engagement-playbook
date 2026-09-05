@@ -1299,7 +1299,9 @@
     {
       "guide": "far-52-204-27.md",
       "baseline_sha256": "1b4ca3d79b3cecca55d4c6472da1ea2857cecb151d468226bd7df49b8685cfa8",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "c764bf95fb61e3323668641fb4cf1d33768f03c60df68f7b9b3ea70a57e1df12",
+      "review_record": "docs/refresh-reviews/far-52-204-27.md"
     },
     {
       "guide": "fatf-recommendations-context.md",
