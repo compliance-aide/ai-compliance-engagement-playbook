@@ -103,6 +103,46 @@ without chat history: What exact assertion was checked? What evidence supports
 the recorded result? What action remains and who owns it? If any answer is
 missing, repair the work record before calling the handoff complete.
 
+## Make the acceptance criterion executable
+
+Before collecting results, replace vague expectations such as “adequate”,
+“current”, “effective” or “all complete” with the approved meaning for this check.
+Do not invent a legal threshold or lower the required standard to make a test
+possible. If the governing method deliberately requires expert judgment, identify
+the qualified reviewer, evidence needed and unresolved judgment instead of
+pretending a numeric rule exists.
+
+Write the criterion using these fields:
+
+- Unit: the exact resource, event or record being assessed.
+- Required property: the fact or behavior that must be observed.
+- Boundary: the applicable version, population and period.
+- Evidence method: how the observation establishes that property.
+- Decision rule: which observation supports or contradicts the criterion, and
+  which missing inputs prevent deciding it.
+
+For “all complete”, define the expected population and the meaning of complete
+before checking the numerator. Preserve missing and duplicate identifiers,
+excluded units and retrieval failures. A system's displayed total is not an
+independently reconciled population. Do not average a contradicted universal
+claim into a passing percentage.
+
+For time-based criteria, record the triggering event, timezone, clock source,
+calendar convention and approved rule. Distinguish event time, collection time
+and ingestion time. A recent export can contain stale events. If those facts
+cannot be established, retain the deadline uncertainty and escalate any possible
+live obligation through the approved route.
+
+### Fictional criterion check
+
+“Recovery is fast enough” is not executable until the owner supplies the approved
+service outcome and timing criterion. If the approved QA criterion is restoration
+of the named service within 60 minutes of the exercise start, a server restarting
+at minute 20 is only an intermediate observation. Record when the service outcome
+was actually observed. At minute 75, successful restoration can support “service
+was restored” while contradicting “restored within 60 minutes”. The 60-minute
+value is fictional, not a framework requirement or a default for other tests.
+
 ## Split compound claims before choosing a result
 
 A work item needs one observable assertion. If its answer would combine different
@@ -122,7 +162,7 @@ Use this decision sequence for each check:
 2. No valid observation was made, including a failed test or collector: record
    `not_tested`, the failure and the next owner.
 3. An observation exists but the governing criterion, version, period or coverage
-   is unresolved: record `inconclusive` and the exact missing decision or evidence.
+   needed to decide this assertion is unresolved: record `inconclusive` and the exact missing decision or evidence.
 4. The observation can be compared with the approved criterion: record `supported`
    or `not_supported` according to that criterion. Preserve contrary observations.
 

@@ -20,7 +20,8 @@ repository. Use one record per check or action. All examples must be fictional.
 ## Test or action plan
 
 - Exact observation or action, tool/query/version and target:
-- Expected result and decision rule, specified before execution:
+- Expected result and decision rule, specified before execution (unit, required property, boundary and evidence method):
+- Time-based criterion, if any: triggering event, timezone, clock source and approved calculation rule:
 - Population, coverage method and any approved sampling rationale:
 - Preconditions, operational risks and stop condition:
 - Expected artifact and independent readback method:
