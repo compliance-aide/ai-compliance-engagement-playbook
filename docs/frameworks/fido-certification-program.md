@@ -6,10 +6,37 @@
 
 Maintain authentication product, exact certification claim, product/version, procurement, directory validation, enrollment, recovery, loss, phishing, test, vendor, and claim evidence.
 
-## Roles and annual rhythm
+## Source and applicability
 
-Humans validate claims and procurement; independent reviewers test evidence. AI flags unsupported claims, but cannot use logos or assert certification. Review releases and annually.
+Start at the [current certification collection](https://fidoalliance.org/fido-certification/) and select the exact product/program path before collecting evidence. Official indexed [functional certification guidance](https://fidoalliance.org/certification/functional-certification/) checked 2026-09-04 distinguishes conformance testing, interoperability, applicable authenticator security requirements, submission and trademark permissions. Full current program policy, product-specific requirements and directory records remain to be verified. Do not apply an authenticator process to every server, identity-verification or device-onboarding product.
 
+## Roles
+
+Product and engineering owners identify the implementation and test baseline. Certification owners coordinate with FIDO and any applicable laboratory. Procurement owners verify acquired products; identity owners validate deployment behavior. Legal and marketing approve claims and marks. Independent reviewers challenge source applicability, evidence completeness and unsupported claims. AI organizes evidence and flags mismatches; it cannot sign agreements, spend money, submit certification requests, grant account access or assert certification.
+
+## Before starting
+
+Record whether this is vendor certification preparation or buyer/deployer verification. Identify legal manufacturer, product/model, firmware/software build, program, intended claim, supported configuration and owner. Obtain current policy and source identifiers. Use the [agent runbook](../agent-runbook.md) with approved QA accounts and synthetic identities; keep credentials, private keys and identifiable recovery records out of this repository.
+
+## Ordered workflow
+
+1. **Select the exact route.** Map product function to the applicable current program and requirements. Output a source/scope record. Resolve uncertain program applicability before scheduling dependent certification activity.
+2. **Freeze the evidence baseline.** Link product identifiers, build, hardware/configuration where relevant, test tooling versions and intended deployment. Output a baseline manifest. A later build is not automatically covered by results from an earlier build.
+3. **Verify claimed status.** For a buyer, reconcile the exact product with authoritative directory/certificate evidence and lookup date. For a vendor, distinguish planned, tested, submitted and granted states. Output a claim register; passing a test tool does not grant certification.
+4. **Prepare required evaluation evidence.** Under the selected program's current rules, identify prerequisites, authorized test routes, evaluation owners and submission artifacts. Preserve all required cases, failures and exclusions. Output a readiness packet; no legal signature, payment or external submission occurs merely because the packet is ready.
+5. **Test deployment separately.** In approved QA, define expected enrollment, authentication, credential loss, recovery and fallback behavior. Record the relying party, browser/platform, authenticator, policy and observed result. Output a deployment matrix. Product certification does not establish the security of the organization's recovery process.
+6. **Reconcile changes and failures.** Link each failed case to its cause, owner, correction and retest on the relevant baseline. Assess firmware, platform, relying-party and recovery-policy changes against both certification scope and deployment tests. Output open actions rather than silently inheriting older results.
+7. **Review the exact claim.** Match proposed wording to the product, program, level if applicable and current evidence. Verify trademark permission separately. Output an approved claim only through the named human process; an evidence index or submitted application is not a certificate.
+
+## Failure branches and decisions
+
+Missing authoritative coverage makes certification applicability `inconclusive`; an unperformed integration test is `not_tested`. A demonstrated prohibited fallback under the approved QA criterion is `not_supported` even when the product has a valid certificate. Keep source status, deployment behavior and marketing approval as separate assertions.
+
+Fictional desk case: a listed authenticator is used successfully for QA login, but a lost-device drill permits an unauthorized actor to replace it through a weak help-desk route. The observed login is `supported`; the defined recovery authorization check is `not_supported`. The agent escalates the recovery defect without claiming the product certificate is revoked or the whole deployment is phishing-resistant.
+
+## Cadence and renewal
+
+Use current program maintenance rules and approved institutional schedules; do not invent annual certification renewal or quarterly testing requirements. Recheck after product, configuration, platform, policy, directory-status or vendor changes and before claims or purchases. Record the next owner and trigger.
 
 ## Universal engagement contract
 
