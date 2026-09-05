@@ -11,13 +11,85 @@ evidence around ICT risk, assets, dependencies, incidents, resilience testing,
 and third-party arrangements; review material changes before commitment; and
 close with board-level reporting and an owned remediation plan.
 
-## Roles and annual rhythm
+## Roles
 
 Operators own regulated decisions, operations, contracts, escalation, and
 remediation. Independent reviewers test governance credibility. AI correlates
 approved assets, suppliers, incidents, tests, and open actions; it cannot decide
 scope or materiality, certify tests, accept risk, or make regulated reports.
 
+
+## Source and applicability
+
+Record the financial entity, services, jurisdiction, competent authority and approved regulatory basis. Retrieve current DORA provisions, applicable implementing/delegated acts and supervisory instructions before assigning incident thresholds, deadlines, test requirements or register fields. Record each source's status and effective date. Do not treat a draft technical standard or another entity's reporting template as the governing rule.
+
+Separate financial-entity obligations from ICT-provider oversight, ordinary resilience testing from threat-led penetration testing, and internal risk classification from regulatory incident classification. Qualified owners determine which provisions and proportionality or exemption rules apply; AI preserves the decision and evidence.
+
+## Before starting
+
+Follow the [agent runbook](../agent-runbook.md). Obtain the entity/function inventory, ICT assets and dependencies, provider arrangements, risk framework, incident process, approved testing program, reporting route and management responsibilities. Reconcile the full expected population before selecting evidence traces. Keep account, contract, security and customer information in approved storage.
+
+A text-only agent drafts exact evidence requests and expected observations. A tool-capable agent performs permitted checks with recorded targets, versions and outputs. Neither may interpret tool access as authority for disruptive testing, production changes or regulatory submissions.
+
+## Ordered workflow
+
+| Step | Action and accountable owner | Output and exit condition |
+| --- | --- | --- |
+| 1. Confirm perimeter | Legal and management identify entity, functions and governing provisions. | Approved applicability record and unresolved questions with owners. |
+| 2. Reconcile dependencies | ICT/service owners align assets, information flows and provider arrangements. | Complete population and dependency map with missing or conflicting records identified. |
+| 3. Map obligations | ICT risk and compliance translate applicable requirements into owned checks. | Full obligation/evidence ledger and specific acceptance criteria. |
+| 4. Collect operating evidence | Custodians provide configurations, events, incidents and review records. | Source-linked evidence covering the stated period, including failures and retrieval limits. |
+| 5. Test resilience | Authorized teams execute the applicable approved test program. | Actual service outcomes, limitations, findings and recovery evidence. |
+| 6. Challenge supplier reliance | ICT risk/procurement evaluate service dependencies, contracts and continuity assumptions. | Evidence-backed decisions and open concentration/exit issues. |
+| 7. Remediate and retest | Owners address defects and verify affected behavior. | Retest receipts, unchanged unresolved findings and explicit risk decisions. |
+| 8. Report and renew | Management reviews the bounded outcome and next actions. | Approved internal report and separately authorized external reporting where applicable. |
+
+## Incident work record
+
+Capture detection, awareness, classification and reporting events separately, with timestamp, timezone, source and decision owner. Legal/incident owners supply the applicable classification method and reporting clocks. Evaluate the actual event facts against that method; do not equate an internal severity label with regulatory classification.
+
+Track initial, intermediate and final reporting requirements under the applicable instructions, including updates and open facts. Retain draft, approval, submission and acknowledgement states separately. Escalate a possible live clock promptly. An incomplete root-cause investigation does not itself authorize delaying an earlier reporting decision. Reuse underlying incident evidence across obligations while preserving each regime's distinct trigger, recipient and receipt.
+
+## Failure branches and decisions
+
+- Asset and contract inventories disagree: reconcile the missing relationship and owner rather than choosing the larger-looking total.
+- Provider has an assurance report but the service is excluded: preserve that scope limitation and obtain service-specific evidence.
+- Backup succeeds but restoration fails: retain backup success and the adverse recovery result separately; do not report resilience from job status.
+- Test infrastructure cannot execute the agreed check: record `not_tested`, the error and recovery owner.
+- Incident classification lacks required facts: keep the uncertainty and escalate the decision; do not silently call it non-reportable.
+- An ordinary scan is offered as threat-led testing evidence: retain what it actually tested and obtain the applicable program/method decision.
+- Management accepted risk but remediation is untested: preserve the acceptance record and technical finding separately; acceptance is not a successful retest.
+
+## Evidence and test plan
+
+
+**Source and rights snapshot.** Use the current binding [DORA Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554), applicable technical standards, and the competent authority's current guidance; prior snapshot 2026-07-31; verify current measures. This original plan is not legal advice, a materiality decision, or a regulated report.
+
+### 1. Entity scope, ICT asset, and governance evidence
+
+- **Request and owner:** Regulated-entity leadership, ICT risk, and service owners provide entity/service scope records, asset and dependency inventories, ownership assignments, governance minutes, risk-register references, and change approvals.
+- **Validate and limit:** Trace a selected critical service or ICT dependency to a current inventory record, accountable owner, governance review, and material-change history. This establishes provenance only; it cannot decide regulated status, criticality, or materiality.
+- **AI and trigger:** AI may reconcile approved inventory metadata and flag unowned assets or changes. Management and designated regulatory humans decide scope and materiality. Refresh after a material service, outsourcing, merger, or architecture change.
+
+### 2. Resilience operations, incident, and test evidence
+
+- **Request and owner:** ICT operations, resilience, and incident owners provide monitoring/response records, continuity and recovery exercises, test scopes and observations, incident timelines, corrective actions, and retest records.
+- **Validate and limit:** Sample an incident or exercise from evidence source through owner, stated impact, test limitation, action, and closure record. This can assess traceability and cannot classify an incident, determine notification, certify resilience, or close risk.
+- **AI and trigger:** AI may compile approved timelines and identify incomplete evidence. Incident, legal, and designated reporting humans decide classification, escalation, and notifications. Refresh after an incident, failed exercise, or material recovery change.
+
+### 3. Third-party and management-review evidence
+
+- **Request and owner:** Procurement, legal, ICT risk, and executive owners provide third-party inventories, due-diligence and contract-governance records, concentration considerations, exit/continuity plans, exceptions, leadership reporting, and action tracking.
+- **Validate and limit:** Trace a selected provider relationship to owner, service dependency, review cadence, limitation, decision authority, and follow-up. This does not approve a provider, interpret regulatory duties, or accept residual risk.
+- **AI and trigger:** AI may flag expiring reviews, missing owners, and overdue actions. Authorized humans approve provider decisions, risk acceptance, and regulatory representations. Review quarterly and before material outsourcing or renewal decisions.
+
+## Cadence and renewal
+
+Use the approved operating, test and reporting schedules and current legal requirements. Reopen affected work after major architecture, function, provider, incident or regulatory changes. Renew management reporting with both resolved and unresolved findings; do not reset overdue actions when a reporting period changes.
+
+## Completion and handoff
+
+Deliver the entity/source manifest, complete obligation and dependency ledgers, operating evidence, test/retest results, incident decisions, supplier/exit records and owned remediation plan. State exact blind spots and pending reviews. Independent source, engagement, skeptical and rights review plus named human publication approval remain required. Neither structural validation nor management reporting establishes regulatory compliance.
 
 ## ICT third-party exit-readiness workstream
 

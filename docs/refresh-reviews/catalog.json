@@ -1215,7 +1215,9 @@
     {
       "guide": "eu-dora.md",
       "baseline_sha256": "edbb30eed216dd8351d4d560ee2808108e91cd079c09a5491576375f9615146b",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "a3632946e8d802d9922cb780b25a4f01659311c6e25d80984fc7e283d7721b78",
+      "review_record": "docs/refresh-reviews/eu-dora.md"
     },
     {
       "guide": "eu-eidas-2.md",
