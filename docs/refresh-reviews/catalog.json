@@ -1201,7 +1201,9 @@
     {
       "guide": "eu-cyber-resilience-act.md",
       "baseline_sha256": "ff0979e666bcb0a7ec24110f55d82a8ce2ebe30f48d49a55fab7abafbb1e6bf1",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "e97115ce117a88722f4c9af40feefee97e0186fb12c5b80c2a213dbf1d933cfd",
+      "review_record": "docs/refresh-reviews/eu-cyber-resilience-act.md"
     },
     {
       "guide": "eu-cybersecurity-certification-eucc.md",
