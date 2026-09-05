@@ -91,6 +91,21 @@ Use the approved operating, test and reporting schedules and current legal requi
 
 Deliver the entity/source manifest, complete obligation and dependency ledgers, operating evidence, test/retest results, incident decisions, supplier/exit records and owned remediation plan. State exact blind spots and pending reviews. Independent source, engagement, skeptical and rights review plus named human publication approval remain required. Neither structural validation nor management reporting establishes regulatory compliance.
 
+## Reconcile the register of ICT arrangements
+
+[DORA Article 28(3)](https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng) requires a maintained register of all ICT contractual arrangements at entity, sub-consolidated and consolidated levels, distinguishing support for critical or important functions. It separately provides for yearly information on new arrangements, authority access to the register and timely information about relevant planned arrangements or changed function criticality. Do not reduce the register to critical suppliers or treat its maintenance as identical to one annual submission.
+
+Use the currently applicable register templates and supervisory instructions for official fields and submission rules. The following reconciliation steps are original preparation guidance:
+
+1. Obtain the approved reporting perimeter and complete contract/procurement, service-owner and ICT-dependency records. Record source dates and exclusions.
+2. Link each arrangement to the relevant legal entities, provider, ICT services and supported functions using stable identifiers. Preserve one-to-many relationships; one provider can support multiple arrangements and functions.
+3. Identify missing links, duplicate identifiers, expired-but-still-used arrangements and services without a matched contract. Resolve each through its owner; never discard it merely to pass a format check.
+4. Reconcile criticality decisions with the approved function inventory. Preserve the decision owner and effective date rather than deriving criticality from supplier size or brand.
+5. Validate the approved template's relationships and formats, then separately reconcile the content against source records. Schema acceptance does not establish completeness or truth.
+6. Save the versioned register, unresolved discrepancies and required approvals. Any external submission needs its authorized route and receipt; local validation is not regulator acceptance.
+
+Fictional example: one provider supports two contracts, but the register contains only the contract for the critical function. The completeness assertion is `not_supported` because the other in-scope arrangement is missing. Add its verified relationship and recheck the population; do not relabel the second function critical merely to make it eligible for the register.
+
 ## ICT third-party exit-readiness workstream
 
 [Article 28 of DORA](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) keeps responsibility with the financial entity when ICT services are outsourced. For services supporting critical or important functions, it requires documented, sufficiently tested and periodically reviewed exit plans. The objective includes continuity of business and client services, not merely ending the contract. Official indexed Article 28 source checked 2026-09-04; retrieve its full text and applicable technical standards before final legal assessment.
