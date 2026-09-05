@@ -1061,7 +1061,9 @@
     {
       "guide": "csa-ai-controls-matrix.md",
       "baseline_sha256": "7163a9aa246f89669558d1f274aafdf364362dc9dc3ad65184619e29de3d4ab6",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "96043da7207f7b57cb9db2fad787c6cdf5311d8756aa270464e4fff2eec77d9f",
+      "review_record": "docs/refresh-reviews/csa-ai-controls-matrix.md"
     },
     {
       "guide": "csa-ccm-v4.md",
