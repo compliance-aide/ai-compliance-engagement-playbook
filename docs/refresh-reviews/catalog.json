@@ -1740,7 +1740,9 @@
     {
       "guide": "indonesia-personal-data-protection-law.md",
       "baseline_sha256": "7f73341a5dfc698ffa36a7cb69638f15f8ac3893365a9b4a8f54ec2a0807780b",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "fa0191ef35e3294c0a2bd6e17eaaa149599be7fef8ddf7a07440dbe79c3ea946",
+      "review_record": "docs/refresh-reviews/indonesia-personal-data-protection-law.md"
     },
     {
       "guide": "irs-publication-1075.md",
