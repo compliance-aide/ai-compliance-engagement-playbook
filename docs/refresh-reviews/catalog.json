@@ -1222,7 +1222,9 @@
     {
       "guide": "eu-eidas-2.md",
       "baseline_sha256": "ccaca1de116657f36bb8b9c8ad79795318e563c91cd37a401658f6812b987c25",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "2f7922257d4719cb41a3368a798b31ce51dd51b892ee92d5c14ccc4e66072fd5",
+      "review_record": "docs/refresh-reviews/eu-eidas-2.md"
     },
     {
       "guide": "eu-gdpr-employment-context.md",
