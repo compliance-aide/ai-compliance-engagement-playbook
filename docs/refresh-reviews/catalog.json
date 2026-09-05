@@ -1509,7 +1509,9 @@
     {
       "guide": "global-privacy-recognition-for-processors.md",
       "baseline_sha256": "16e81f2626fc10c1e67ee348fb5d9c1e6c4f1452952a73608369140c6e15c362",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "37f4783d667f534a227d22beda9b3ffa95f854437cc32175969251c3f3be7ceb",
+      "review_record": "docs/refresh-reviews/global-privacy-recognition-for-processors.md"
     },
     {
       "guide": "govramp-licensed-program.md",
