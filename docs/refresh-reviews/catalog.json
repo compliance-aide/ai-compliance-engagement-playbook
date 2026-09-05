@@ -1432,7 +1432,9 @@
     {
       "guide": "fips-201-3.md",
       "baseline_sha256": "9f1eb58f14f0b86e9843153bc48c34d0835d4775c2af263e84ae5760ac29863f",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "a6ca054f86147e976514e876d78a16ab2415bbb7cd03a8e1b5cc332e4cc8353f",
+      "review_record": "docs/refresh-reviews/fips-201-3.md"
     },
     {
       "guide": "fips-202.md",
