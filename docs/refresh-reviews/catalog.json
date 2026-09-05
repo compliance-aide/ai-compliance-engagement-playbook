@@ -1117,7 +1117,9 @@
     {
       "guide": "dod-nist-800-171-assessment.md",
       "baseline_sha256": "18ed0fb7eb36acdd962270c439078a2b0013cd61d79914576274621dea791703",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "5788a14b773db21aaa3dcef41c2985888c3d4575b47a413693a7c43aa77f7465",
+      "review_record": "docs/refresh-reviews/dod-nist-800-171-assessment.md"
     },
     {
       "guide": "dod-zero-trust-reference-architecture-v2.md",
