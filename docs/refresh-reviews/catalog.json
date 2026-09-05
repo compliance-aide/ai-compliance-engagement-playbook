@@ -1019,7 +1019,9 @@
     {
       "guide": "colorado-ai-law.md",
       "baseline_sha256": "2b3629141b5e87217541c1379bf4a32beaacc43ca5ff16a6064778f3db48cfa8",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "bac5d90f1c286a67383bcdb006aa99961f6465de83bcb19111433c0c7d2e6058",
+      "review_record": "docs/refresh-reviews/colorado-ai-law.md"
     },
     {
       "guide": "colorado-privacy-act.md",
