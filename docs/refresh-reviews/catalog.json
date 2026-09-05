@@ -914,7 +914,9 @@
     {
       "guide": "cisa-insider-risk-mitigation-evaluation.md",
       "baseline_sha256": "74a6ab3e81e09d788404027b1ce140be3f19794f2924447358687ecb49684212",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "d781d894d3bc62507214d4ec7dd0c3baf14df8b869d03415506e4929c909d0a0",
+      "review_record": "docs/refresh-reviews/cisa-insider-risk-mitigation-evaluation.md"
     },
     {
       "guide": "cisa-known-exploited-vulnerabilities-catalog.md",
