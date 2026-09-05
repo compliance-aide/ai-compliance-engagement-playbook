@@ -28,6 +28,26 @@ Record whether this is vendor certification preparation or buyer/deployer verifi
 6. **Reconcile changes and failures.** Link each failed case to its cause, owner, correction and retest on the relevant baseline. Assess firmware, platform, relying-party and recovery-policy changes against both certification scope and deployment tests. Output open actions rather than silently inheriting older results.
 7. **Review the exact claim.** Match proposed wording to the product, program, level if applicable and current evidence. Verify trademark permission separately. Output an approved claim only through the named human process; an evidence index or submitted application is not a certificate.
 
+## Evidence and test plan
+
+### Product, version and claim package
+
+Product, procurement, security and legal owners provide the complete in-scope product inventory, manufacturer/model identifiers, build records, configuration boundaries, proposed claim wording and authoritative status evidence. Reconcile every claimed product and version. Record the lookup date and exact returned entry; a search snippet, vendor logo or similarly named product is insufficient to resolve a scope mismatch.
+
+Separate the source evidence from its interpretation. Record whether an entry explicitly covers a version, whether coverage is ambiguous or whether supplied evidence names a different version. An inaccessible directory does not establish absence of certification. Keep the claim awaiting review until the authorized owner resolves its scope. Record trademark authorization separately from certification status.
+
+### Enrollment, recovery and loss package
+
+Identity, help-desk, security and privacy owners provide approved binding and recovery procedures, roles, exception rules and redacted support evidence. Define a synthetic QA matrix covering each in-scope enrollment, authentication, loss, recovery and fallback path. Record expected authorization, actual behavior, evidence identifiers and unperformed cases. Reconcile all routes; success on the usual login path does not cover recovery or privileged exceptions.
+
+Trace the recovered account, newly bound credential and previous credential state separately. Verify the intended post-recovery access outcome against approved policy rather than assuming every recovery must produce the same revocation behavior. Keep account recovery approval distinct from observed implementation. Clean up QA credentials through the authorized test owner and preserve a non-secret cleanup receipt.
+
+### Deployment, supplier and release package
+
+Engineering, endpoint and supplier owners provide relying-party/application inventories, supported platform combinations, release manifests, integration results, advisories and retirement decisions. Connect each observation to the actual product and policy baseline. When a release changes a relevant component, identify which prior results remain applicable and which require fresh evidence; do not copy an earlier passing row solely because the product name stayed the same.
+
+Reconcile advisories and support changes with deployed inventory and assigned remediation. A vendor release announcement does not prove rollout. A successful installation does not prove the relying party accepts the intended authentication behavior. Preserve separate installation, interoperability and policy-enforcement assertions, including observed failures and provider evidence gaps.
+
 ## Failure branches and decisions
 
 Missing authoritative coverage makes certification applicability `inconclusive`; an unperformed integration test is `not_tested`. A demonstrated prohibited fallback under the approved QA criterion is `not_supported` even when the product has a valid certificate. Keep source status, deployment behavior and marketing approval as separate assertions.
@@ -37,6 +57,12 @@ Fictional desk case: a listed authenticator is used successfully for QA login, b
 ## Cadence and renewal
 
 Use current program maintenance rules and approved institutional schedules; do not invent annual certification renewal or quarterly testing requirements. Recheck after product, configuration, platform, policy, directory-status or vendor changes and before claims or purchases. Record the next owner and trigger.
+
+## Completion and handoff
+
+Deliver the source/program register, product/build manifest, claim-to-status evidence, full QA route matrix, release/advisory reconciliation and open-action register. Identify every unverified directory entry, untested platform and unresolved policy exception. Assign the next owner and review trigger for each gap. Vendor preparation packets must list unmet prerequisites without implying submission or issuance.
+
+Require independent source, skeptical and rights review before publication. Certification decisions belong to the applicable program authority; human owners approve agreements, fees, submissions and marks. State explicitly which deployment outcomes were actually observed. This draft grants no certification and has not evaluated a real product or account.
 
 ## Universal engagement contract
 

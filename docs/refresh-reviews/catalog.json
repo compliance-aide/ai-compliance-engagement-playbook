@@ -1369,7 +1369,9 @@
     {
       "guide": "fido-certification-program.md",
       "baseline_sha256": "15386beffbc667d26e9e71e891a4888af88734596e96badba00d4e070cbcb6c9",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "43cd649d81d76e59446cbe0343912f96032a6da07ad31de6578a4d991ee2f88f",
+      "review_record": "docs/refresh-reviews/fido-certification-program.md"
     },
     {
       "guide": "finra-cybersecurity-supervisory-readiness.md",
