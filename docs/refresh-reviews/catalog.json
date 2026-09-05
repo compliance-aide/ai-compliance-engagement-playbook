@@ -963,7 +963,9 @@
     {
       "guide": "cjis-security-policy.md",
       "baseline_sha256": "0d82d59a3d2f9dbc7d1973fd06a39b763d68601600fac98ef2c922a49b5e6c11",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "67d33039d12c0ea0325b7177606fafda4cdd29a7e8e698c4438bd5bd1e3dd313",
+      "review_record": "docs/refresh-reviews/cjis-security-policy.md"
     },
     {
       "guide": "cmmc-level-1-program.md",
