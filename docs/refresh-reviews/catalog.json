@@ -718,7 +718,9 @@
     {
       "guide": "canada-cpcsc-level-1.md",
       "baseline_sha256": "aa182361cea95d6da0840bd22943d4dc64cd8efa0c1766a37a04113559e2acd8",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "4e9035abda2816c854ab7e5883b20fe2e215175379602721c52f921853df3b02",
+      "review_record": "docs/refresh-reviews/canada-cpcsc-level-1.md"
     },
     {
       "guide": "canada-dnd-it-security-risk-management.md",
