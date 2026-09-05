@@ -1768,7 +1768,9 @@
     {
       "guide": "iso-10013-2021.md",
       "baseline_sha256": "5af5e4ee27ab5a260d98c6c19cb140358cacbd4fce6513b448670bb3e6debdc3",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "b698550a0fcb6709158187a9efb1ac95d7ea899d4e92651b7641611197a83605",
+      "review_record": "docs/refresh-reviews/iso-10013-2021.md"
     },
     {
       "guide": "iso-10015-2019.md",
