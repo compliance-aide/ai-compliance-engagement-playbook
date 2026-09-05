@@ -1005,7 +1005,9 @@
     {
       "guide": "cobit-2019.md",
       "baseline_sha256": "50ffda273035114a4179b4d286c0f8062e346a4d606d66017837efa01099beb2",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "029562a0d48bc622975ede18869cfa7bcf089914368025c6e293c77f02561199",
+      "review_record": "docs/refresh-reviews/cobit-2019.md"
     },
     {
       "guide": "colombia-personal-data-protection.md",
