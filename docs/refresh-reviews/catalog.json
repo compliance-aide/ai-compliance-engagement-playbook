@@ -1068,7 +1068,9 @@
     {
       "guide": "csa-ccm-v4.md",
       "baseline_sha256": "4a41ab42b7716a09c4fd03c62edfaac9f6e2bbbb626222b243abf52fb8188025",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "abc99d66670004883fea06cf89da4015f962b6a9db2a235f13cad8bac233af48",
+      "review_record": "docs/refresh-reviews/csa-ccm-v4.md"
     },
     {
       "guide": "csa-iot-security-controls-framework-v2.md",
