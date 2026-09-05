@@ -1579,7 +1579,9 @@
     {
       "guide": "hong-kong-pdpo.md",
       "baseline_sha256": "fa8e37a1bab6c8d28a546948cb02dabf3f16a049c5faa44e8d43fe934e27c220",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "bf0191132c8cfa447180c84049eb53bcb7989f7b670cc5feba8ea8453ecab06b",
+      "review_record": "docs/refresh-reviews/hong-kong-pdpo.md"
     },
     {
       "guide": "ich-q9-r1.md",
