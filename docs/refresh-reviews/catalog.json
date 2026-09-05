@@ -928,7 +928,9 @@
     {
       "guide": "cisa-secure-by-design-pledge.md",
       "baseline_sha256": "55e97fc39e1467c688ef266651d69cd11dae0d01df88425d3faf1af011964b8a",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "e84661fc314865beb8db9a28aba95d7c4e88ddd10b179a22ecf2b7e7ec927873",
+      "review_record": "docs/refresh-reviews/cisa-secure-by-design-pledge.md"
     },
     {
       "guide": "cisa-secure-by-design.md",
