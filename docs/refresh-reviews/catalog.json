@@ -1362,7 +1362,9 @@
     {
       "guide": "ffiec-cat-historical.md",
       "baseline_sha256": "de4871a7fb6f992ed37c7f6645e43f22ea8420022c1aa203518e1c8853ba82ba",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "f6edf62ae6942b6276afa2f15a6e50fe601c7f5a44287135726060eb38e43fa6",
+      "review_record": "docs/refresh-reviews/ffiec-cat-historical.md"
     },
     {
       "guide": "fido-certification-program.md",

@@ -28,6 +28,26 @@ Record institution, business scope, legacy assessment periods, repositories, app
 6. **Update the active workflow.** Prepare revised instructions, dashboards, evidence requests and scheduled jobs. Owners approve changes and verify the artifact used by operators. Keep draft, deployed and observed behavior separate; editing a source document does not prove an automated report stopped using CAT.
 7. **Reconcile findings and close migration gaps.** Transfer every open legacy finding to an owned successor action or documented disposition. Preserve adverse facts and original deadlines. Retest changed workflows and collect readback. Output a closure packet with unresolved items, not a blanket certification.
 
+## Evidence and test plan
+
+### Legacy records and retention package
+
+Records, security and compliance owners provide the complete artifact inventory, custodians, authorized locations, assessment dates, retention decisions, legal holds and access restrictions. Reconcile the inventory with the repositories in scope, including inaccessible folders and unreadable formats. Keep missing items visible; a copied directory does not establish that linked evidence was preserved.
+
+For each moved artifact, verify destination readability, identity and associated evidence links. A matching file hash supports byte preservation, not completeness of the original assessment. Keep historical approvals attached to their original assessment versions. Human records/legal owners resolve retention and disposal questions; do not infer a new retention period from the sunset date.
+
+### Active references and remediation package
+
+Policy, vendor, reporting and technology owners provide the complete population of policies, questionnaires, templates, jobs, dashboards, training and contracts in scope. Record each reference's actual use, owner, required change, approval and observed result. Preserve legitimate historical references with clear dates rather than treating every occurrence as a defect.
+
+For an automated report, identify the scheduler, actual input path, transformation and recipient-facing output. In an authorized test environment, observe the revised run and confirm its displayed framework/version and evidence basis. A changed template is insufficient if the job still reads another copy. Record skipped or failed jobs separately from successful runs. Do not send test reports to real recipients or delete historical source files to make a migration test pass.
+
+### Successor governance and independent challenge package
+
+Risk, compliance and successor-framework owners provide the selection decision, current source/version, applicability rationale, migration milestones, evidence mapping and unresolved findings. Reconcile all successor assertions and all legacy open findings. Mark one-to-many mappings, unsupported mappings and evidence outside the relevant period explicitly; matching titles do not prove equivalent criteria.
+
+For each migration claim, distinguish transferred evidence, newly collected evidence, criterion evaluation and approval. Preserve original adverse findings even when their identifiers change. Require an owner-approved disposition for findings that do not map directly; absence from the successor checklist does not resolve the underlying risk. Independent reviewers challenge both evidence coverage and the claim that the new workflow operates as described.
+
 ## Failure branches and decisions
 
 Use `not_tested` for inaccessible repositories or unobserved workflow behavior; use `inconclusive` for unresolved successor applicability or conflicting evidence. A live dashboard demonstrably claiming current CAT maturity contradicts an approved removal criterion and is `not_supported`, even if other references were fixed. Separate successful historical preservation from unsuccessful migration.
@@ -37,6 +57,12 @@ Fictional desk case: the policy is updated, but the next scheduled report still 
 ## Cadence and renewal
 
 Set migration checkpoints and subsequent reviews with named owners from approved institutional policy and current sources. Recheck after repository moves, hold notices, reporting changes, new questionnaires and supervisory changes. Sunset does not itself authorize deletion or cancel an existing finding. There is no CAT renewal to perform under this historical guide.
+
+## Completion and handoff
+
+Deliver the preserved legacy inventory, retention/hold decisions, complete active-reference register, successor approval and source record, assertion-to-evidence mapping, open-finding reconciliation and observed workflow results. Assign each unresolved item a next owner and due date. Keep unavailable repositories and unobserved jobs visible in the completion decision.
+
+Separate archive preservation, active-reference cleanup and successor assessment readiness: completion of one does not establish the others. Require independent source, skeptical and rights review before publication. Human owners approve disposal, risk acceptance and external statements; no institution or regulator acceptance has been established by this draft.
 
 ## Universal engagement contract
 
