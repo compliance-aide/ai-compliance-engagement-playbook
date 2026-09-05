@@ -1565,7 +1565,9 @@
     {
       "guide": "hitech-breach-readiness.md",
       "baseline_sha256": "b1e45fc5a8305cded64fb72ee6702b1141986e32a79cc8482ab1f25116fd7b69",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "245bbca5754ae07d411a10a3916641daf9448438d7ea7c57e6ea5773b88bacc5",
+      "review_record": "docs/refresh-reviews/hitech-breach-readiness.md"
     },
     {
       "guide": "hitrust-csf-licensed-program.md",
