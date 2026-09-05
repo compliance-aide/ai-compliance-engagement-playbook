@@ -1411,7 +1411,9 @@
     {
       "guide": "fips-198-1-hmac.md",
       "baseline_sha256": "d4c68699c30f5c573e8929e133e82e8ec8233c3987b0fab0bf5fc7f60d8393dd",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "014e07eed7724265228d20a0e0a46d83b621dbd8ed35696b53189245388a8b13",
+      "review_record": "docs/refresh-reviews/fips-198-1-hmac.md"
     },
     {
       "guide": "fips-199.md",

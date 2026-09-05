@@ -28,6 +28,26 @@ Record each message flow, producer, verifier, purpose, approved hash/tag paramet
 6. **Check lifecycle and failure behavior.** Trace key rotation, accepted key versions, retirement and unavailable key-service behavior to owner-approved rules. Record producer/verifier coordination and explicit errors. Output gaps; a secret lookup failure must not become an empty/default key or unauthenticated success.
 7. **Review changes and hand off.** Reconcile updated serialization, keys, parameters or libraries with every affected peer. Preserve failures and assign retests. Output bounded conclusions separating computation, content coverage, freshness, key governance and authorization.
 
+## Evidence and test plan
+
+### Message flow and authenticated content
+
+Application, integration and security owners provide the complete producer/verifier inventory, approved use decisions and authenticated-input contracts. Reconcile each flow to the exact fields and context covered by the tag, including any transforms between sender and receiver. Preserve undocumented or untested peers as gaps rather than treating one successful integration as fleet-wide evidence.
+
+Use synthetic records to compare what is authenticated with what the receiving application acts upon. If an amount, destination, tenant or action identifier matters to the approved authorization rule, have the owner establish its protection requirements and test the actual handling. Do not infer that an authenticated body protects unrelated headers or routing metadata.
+
+### Implementation and key lifecycle
+
+Engineering, platform and key-management owners provide actual build identifiers, approved parameter references, non-secret key-version metadata and lifecycle decisions. Match every observation to the executed implementation and selected key version. Preserve vector references, expected results, application results and limitations separately; a successful round trip between two matching implementations is insufficient evidence of independent correctness.
+
+Reconcile producer and verifier behavior during rotation, retirement and rollback against the approved acceptance policy. Record when each peer changed and which versions it accepts. A key creation receipt does not prove consumers switched; an unchanged verifier can continue accepting a version the owner intended to retire. Keep secrets out of logs and workpapers, including error outputs.
+
+### Acceptance, failure and change evidence
+
+Service and risk owners provide verification outcomes, application-action records, retry/replay handling, errors, changes and exceptions for the complete scoped population. Separate valid tags, invalid tags, processing errors and unperformed checks. Unknown-key or key-service failures must remain explicit, with the observed consuming action recorded.
+
+For a replay test, record the policy's freshness or duplicate criterion and the actual side effects. A duplicated delivery can be legitimate transport behavior while duplicate execution violates the defined business rule. Preserve both the successful tag check and any failed acceptance criterion. Reconcile all affected peers after changes to serialization, parameters or key identifiers, and assign unresolved compatibility or coverage gaps.
+
 ## Failure branches and decisions
 
 Unavailable runtime evidence is `not_tested`; uncertain successor applicability is `inconclusive`. An observed duplicate execution contrary to a defined replay criterion is `not_supported` even when tag verification succeeds. Preserve both outcomes and route design changes to qualified owners.
@@ -37,6 +57,12 @@ Fictional desk case: an approved QA request is delivered twice with the same val
 ## Cadence and renewal
 
 Reassess after source-status, parameter, producer/verifier, key-policy, input-contract or provider changes and after authentication incidents. Use approved organizational schedules rather than invented quarterly checks or annual FIPS renewal. Assign an owner for successor-source verification and coordinated migration.
+
+## Completion and handoff
+
+Deliver the complete flow/peer map, authenticated-input contracts, implementation and key-version inventory, vector/application results, acceptance and error evidence, lifecycle decisions and open-action register. State separately what is known about tag computation, content coverage, key governance, freshness and action authorization. Name untested peers and unresolved successor-source questions with next owners and review triggers.
+
+Independent source, skeptical and rights review remain required before publication. Human authorities retain cryptographic selection, secret lifecycle, migration, risk and production decisions. This draft has not tested a real HMAC implementation or established secure operation for any customer flow.
 
 ## Universal engagement contract
 
