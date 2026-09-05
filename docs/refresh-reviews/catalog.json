@@ -802,7 +802,9 @@
     {
       "guide": "china-data-security-law.md",
       "baseline_sha256": "f08329b1ed14fe998e01e6a09b085dfeed9026e90b854b02fb5d84f15c5570b8",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "01f5e40426617e8bb57f947e93d64e8c9eb0578db851c7133347a2908cbdc09a",
+      "review_record": "docs/refresh-reviews/china-data-security-law.md"
     },
     {
       "guide": "china-pipl.md",
