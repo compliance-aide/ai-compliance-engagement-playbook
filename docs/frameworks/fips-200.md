@@ -29,6 +29,26 @@ Record agency, system, boundary version, approved categorization, mission, revie
 7. **Prepare the authority decision.** Reconcile selection, implementation, assessment and remediation records into a consistent versioned packet. Identify residual risks and limitations for the authorized official. Output a draft decision package, not an authorization inferred from complete paperwork.
 8. **Maintain the decision basis.** Track changes to boundaries, providers, controls and source requirements under the agency's monitoring process. Output assigned reassessments and updated evidence; prior approval does not automatically cover materially different operation.
 
+## Evidence and test plan
+
+### Boundary and categorization dependencies
+
+System, information and architecture owners provide the complete boundary inventory, categorization decision, interconnections, common-service dependencies and ownership records. Reconcile these inputs to the same version and period. Preserve missing interfaces, disputed scope and unapproved changes as open dependencies rather than forcing them into a favorable baseline.
+
+Trace each selected requirement to its authorized source and decision context. Record tailoring and parameter decisions with their rationale and approving owner. A template's default parameter is not automatically the agency-approved value. Keep requirements that still need a decision visible in the selection register.
+
+### Implementation and assessment evidence
+
+Control owners, providers and assessment teams provide implementation records, evidence locators, approved procedures, observations and findings. Reconcile the full selected-control population to responsibilities and assessment coverage. Separate provider, system and shared portions; one provider report cannot close unobserved consumer actions.
+
+For each assertion, record the system/configuration, period, method, criterion and actual result. Preserve original evidence and access limitations in the approved repository. A current document can describe an obsolete deployment; verify the relationship rather than relying only on file modification time. Failed access is not a successful assessment with no findings.
+
+### Authorization, monitoring and risk
+
+System/security owners, monitoring teams and designated authorities provide actual decisions, conditions, change records, monitoring schedules, remediation registers and risk decisions. Match each approval to the precise scope and version; a decision reference without its conditions cannot establish permission for every operation.
+
+Reconcile monitoring findings through ownership, action and retest. Keep planned, implemented and verified corrections distinct. An overdue action does not disappear because a new assessment period began. Preserve accepted residual risk as a decision alongside the factual control result, not as a replacement for it. Track expired evidence and significant changes to the responsible review process.
+
 ## Failure branches and decisions
 
 Unperformed checks are `not_tested`; unresolved selection or boundary conflicts are `inconclusive`. A known missing consumer action under a shared-control criterion is `not_supported`, even when the provider's portion is supported. Preserve the portions separately and route the gap to its implementation owner.
@@ -38,6 +58,12 @@ Fictional desk case: an approved provider supplies logging infrastructure, but t
 ## Cadence and renewal
 
 Use current agency monitoring requirements and change triggers to set review frequency. Do not invent an annual FIPS renewal. Reassess after consequential boundary, categorization, implementation, provider or threat changes, and assign owners for expiring evidence and unresolved findings.
+
+## Completion and handoff
+
+Deliver the consistent boundary/categorization inputs, authorized selection register, responsibility matrix, complete evidence and assessment index, findings, remediation status and decision references. Identify untested controls, unresolved parameters, missing provider evidence and contradictory versions. Assign next owners and review triggers for all open items.
+
+Independent source, skeptical and rights review remain required before publication. Designated federal authorities retain authorization, exceptions and risk decisions. This draft has not assessed a real system or established that minimum requirements are satisfied; completed paperwork alone does not prove either outcome.
 
 ## Universal engagement contract
 
