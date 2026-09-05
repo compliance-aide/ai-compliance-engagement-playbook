@@ -1537,7 +1537,9 @@
     {
       "guide": "govramp-moderate-impact-level.md",
       "baseline_sha256": "20d8df5fdfe4fd81cce36034c25b1ad16dde7aed66e3edc805eb0abba774357c",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "f01869d66798f9fc1eeed0e6300fcf6d8838a869e782f091753890e2a8bb955b",
+      "review_record": "docs/refresh-reviews/govramp-moderate-impact-level.md"
     },
     {
       "guide": "gsma-nesas.md",
