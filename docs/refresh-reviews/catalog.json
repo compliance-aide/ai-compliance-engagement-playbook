@@ -809,7 +809,9 @@
     {
       "guide": "china-pipl.md",
       "baseline_sha256": "48078c1b70e566ab8e0650c3386ddec6492430ae951d23cb16c291e4ede02040",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "21969d9cae9162ee6427c45ea365cf2f8b6d7f4704718fa43a2b6efba581ee90",
+      "review_record": "docs/refresh-reviews/china-pipl.md"
     },
     {
       "guide": "cis-benchmarks-program.md",
