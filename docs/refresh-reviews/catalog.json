@@ -704,7 +704,9 @@
     {
       "guide": "california-sb-327-connected-devices.md",
       "baseline_sha256": "18b735a2a8804835c6ee3e43d880451d1c4c0b57a1df2f3e859dc3348deac972",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "7f86c261a11216aa53d5a7b5cdbad7a994511066a6adc9e960055b2f4830c447",
+      "review_record": "docs/refresh-reviews/california-sb-327-connected-devices.md"
     },
     {
       "guide": "california-workforce-privacy.md",
