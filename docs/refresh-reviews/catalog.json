@@ -1775,7 +1775,9 @@
     {
       "guide": "iso-10015-2019.md",
       "baseline_sha256": "71bdc741fd84954a0f4e96ffb77058607253fd2aa428ed8e23bef5ee4d518473",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "2ebbfa6f866dcf87c28dbec7864a96e3f9ab59d725c59f8c930794f69fd892ae",
+      "review_record": "docs/refresh-reviews/iso-10015-2019.md"
     },
     {
       "guide": "iso-13485-2016.md",
