@@ -1320,7 +1320,9 @@
     {
       "guide": "fda-medical-device-cybersecurity.md",
       "baseline_sha256": "8c22522b528442db0f45dcdb745a3c3a7cf378417c72ce27f06e529141d35085",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "1622ae0c9f22ed8e753b5950be18f5a472d9217435da06bd457623ad86bf6676",
+      "review_record": "docs/refresh-reviews/fda-medical-device-cybersecurity.md"
     },
     {
       "guide": "fda-qmsr-21-cfr-part-820.md",
