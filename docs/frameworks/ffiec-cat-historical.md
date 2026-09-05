@@ -12,7 +12,7 @@ The [official sunset statement](https://www.ffiec.gov/sites/default/files/media/
 
 ## Roles
 
-Records owners preserve historical artifacts and custody. Risk and compliance owners select the successor approach and approve applicability. System and policy owners implement migration changes. Independent reviewers challenge coverage and closure. AI inventories authorized metadata and drafts mappings; humans retain retention, disposal, risk and regulator-facing decisions.
+Records owners preserve historical artifacts and custody. Risk and compliance owners select the successor approach and approve applicability. System and policy owners implement migration changes. Independent reviewers challenge coverage and closure. AI inventories authorized metadata and drafts mappings; it cannot approve disposal, accept risk, certify an institution or represent a regulator. Humans retain those decisions.
 
 ## Before starting
 
