@@ -1278,7 +1278,9 @@
     {
       "guide": "facta-red-flags-rule.md",
       "baseline_sha256": "ee65312cb145a1debfad5b4f4533c809fbc41d833fb9a9c2b943e75a799199d4",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "4c784be5452f47b14f96083b1ae62826b8b6be5097fc51650e0b9dc53c0ce028",
+      "review_record": "docs/refresh-reviews/facta-red-flags-rule.md"
     },
     {
       "guide": "far-52-204-21.md",
