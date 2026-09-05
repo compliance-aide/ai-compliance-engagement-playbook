@@ -1110,7 +1110,9 @@
     {
       "guide": "disa-stig-program.md",
       "baseline_sha256": "3b8b54b98ce492859d37a97bbf138ccba77caef30a68c14298d39b1256f13518",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "b05a37122ff6e6e24817bf1ea17b2c3337ab9bdd38b8f1ac7c6761c9f4e27733",
+      "review_record": "docs/refresh-reviews/disa-stig-program.md"
     },
     {
       "guide": "dod-nist-800-171-assessment.md",
