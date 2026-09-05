@@ -991,7 +991,9 @@
     {
       "guide": "cmmc.md",
       "baseline_sha256": "1ea0e3951bcee6ab6d23abf7d5cc3392e3d73abf8c4fe22254d6ebd790bd5427",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "ea7d4abc2118a0a6dacc9edae391f8deeac06834058e11d139c9a65f50281bd3",
+      "review_record": "docs/refresh-reviews/cmmc.md"
     },
     {
       "guide": "cms-mars-e.md",
