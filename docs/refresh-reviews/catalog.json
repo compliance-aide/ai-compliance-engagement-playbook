@@ -1796,7 +1796,9 @@
     {
       "guide": "iso-15489-1-2016.md",
       "baseline_sha256": "b7c22e87255badb3976126a6385ccad3890f8eda28709b0ab1181e6d1214269c",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "57fcfbcd7a4d574bbce5de8f4b782125e0ba40f49607e941719f8b58b70e2706",
+      "review_record": "docs/refresh-reviews/iso-15489-1-2016.md"
     },
     {
       "guide": "iso-22301-2019.md",
