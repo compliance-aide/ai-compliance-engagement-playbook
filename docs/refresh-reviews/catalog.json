@@ -1026,7 +1026,9 @@
     {
       "guide": "colorado-privacy-act.md",
       "baseline_sha256": "d8471840f6a83ed308ed50a33bd0f896550ac559bde6c4def50d529aaba1bd1f",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "20b3e3f5e8ccc0f67ff34a8ff4be70a0700ac6af8a788b3d1a68c0a2435d65be",
+      "review_record": "docs/refresh-reviews/colorado-privacy-act.md"
     },
     {
       "guide": "connecticut-data-privacy-act.md",
