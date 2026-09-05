@@ -1292,7 +1292,9 @@
     {
       "guide": "far-52-204-25-section-889.md",
       "baseline_sha256": "66a577df56aedb22b4eebf758c2a10953ebebd3ecb40edb93aad400381151d76",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "618c084cded25927695e28d107f2c098c782f0eb0bfe014ae5d08a6e874fe310",
+      "review_record": "docs/refresh-reviews/far-52-204-25-section-889.md"
     },
     {
       "guide": "far-52-204-27.md",
