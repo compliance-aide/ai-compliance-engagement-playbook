@@ -75,6 +75,34 @@ only after the required artifact, readback and applicable review are recorded.
 | A test can alter production or affect safety | Prepare the method and target inventory; require the charter's action approval and appropriate operator. A read-only account does not make an active probe harmless. |
 | An implementation author is asked to review independently | Record the conflict and obtain a reviewer who did not produce the work. A second prompt to the same agent is not independent review. |
 
+## Translate guide language into one work record
+
+Framework guides sometimes use ordinary words such as failed, unverified or
+unassessed. Do not create a second competing result scheme. Use the result
+vocabulary above for the agent work item while preserving the framework's own
+formal assessment response in a separate field, if its method requires one.
+Never translate an instrument response into a compliance rating without its
+approved interpretation rules.
+
+| What happened | Work-item result | Why |
+| --- | --- | --- |
+| The check ran and the observed setting contradicts the approved baseline. | `not_supported` | There is adverse evidence for the defined assertion. |
+| The collector could not authenticate, so the setting was never checked. | `not_tested` | A failed collection is not evidence that the setting is wrong. |
+| A setting was observed, but its product version or required baseline is unknown. | `inconclusive` | The evidence cannot yet establish the requested comparison. |
+| A current, approved exclusion covers this exact resource and assertion. | `not_applicable` | The exclusion has authority and a source-backed rationale. |
+| An approved check confirms the exact expected setting for the stated resource and time. | `supported` | Support is limited to that observation; it does not prove all-period effectiveness. |
+
+For each row, save one sentence in this form: “For [resource and period],
+[method] observed [actual result] against [expected result]; evidence [IDs];
+remaining limitation [specific gap or none identified within this check].”
+Use `unknown` instead of filling a bracket from intuition. This sentence is a
+workpaper aid, not a replacement for the full evidence or required instrument.
+
+Before handing off, the next agent should be able to answer three questions
+without chat history: What exact assertion was checked? What evidence supports
+the recorded result? What action remains and who owns it? If any answer is
+missing, repair the work record before calling the handoff complete.
+
 ## Resume after interruption
 
 Read the last saved work item and authoritative target state. Verify whether the
