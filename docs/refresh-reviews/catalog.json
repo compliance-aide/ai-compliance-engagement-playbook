@@ -1306,7 +1306,9 @@
     {
       "guide": "fatf-recommendations-context.md",
       "baseline_sha256": "bd02a2dc76866c10cd563d258d8216cc3b9533301d6f8356e468e17034d11555",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "6bf917c0d99e7c0120303936e42e2796300a433734cb7c0166fd21343277379c",
+      "review_record": "docs/refresh-reviews/fatf-recommendations-context.md"
     },
     {
       "guide": "fda-21-cfr-part-11.md",
