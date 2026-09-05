@@ -1467,7 +1467,9 @@
     {
       "guide": "fisma-federal-information-security.md",
       "baseline_sha256": "2801de5df95decf320262a7525ad6554f2de0949f7477f6abf423bbcb625b1e3",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "ac66e03ed76b917e8cec19b04a27f4be9e9430cba56ec72a697750ba387540cd",
+      "review_record": "docs/refresh-reviews/fisma-federal-information-security.md"
     },
     {
       "guide": "ftc-act-consumer-privacy-security.md",
