@@ -1523,7 +1523,9 @@
     {
       "guide": "govramp-low-impact-level.md",
       "baseline_sha256": "1f1a32a8786362cdd98a66765120068dce354a388e1636d223a4a7bf360a5d99",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "26927cd44b7482325b287e836f458d65fc4fd31c02e6a32edaa2584b5759d890",
+      "review_record": "docs/refresh-reviews/govramp-low-impact-level.md"
     },
     {
       "guide": "govramp-low-plus-impact-level.md",
