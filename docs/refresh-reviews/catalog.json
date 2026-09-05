@@ -1166,7 +1166,9 @@
     {
       "guide": "eu-ai-act.md",
       "baseline_sha256": "933f90357388bc040717b10480e39370f6cdade9425b62af83ecf8b0224c7554",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "5dcf8650a9b0bf3bd9e2428000a99d028f54ecad493524930c753d6a806e15ab",
+      "review_record": "docs/refresh-reviews/eu-ai-act.md"
     },
     {
       "guide": "eu-aml-transition.md",
