@@ -1271,7 +1271,9 @@
     {
       "guide": "eu-us-privacy-shield-historical-transition.md",
       "baseline_sha256": "f99851d388019b5eac0a00383bc88c579a9dbad0f3fac5d0ef476ce196b370d4",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "2142f01cb02719dee37ae57705ba5199abf1aaddfdc015776c3792cd46ef3136",
+      "review_record": "docs/refresh-reviews/eu-us-privacy-shield-historical-transition.md"
     },
     {
       "guide": "facta-red-flags-rule.md",
