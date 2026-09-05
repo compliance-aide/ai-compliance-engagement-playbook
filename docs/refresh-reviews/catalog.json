@@ -753,7 +753,9 @@
     {
       "guide": "canada-itsp-50-105.md",
       "baseline_sha256": "c8718d67b30ee134fd1888c3d1ecbf533b71478160a00cd5f3cba5f540db2776",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "83b2792eb7979a32c670a3c3c8aceef67d5c833baaabc0b48119b462659544aa",
+      "review_record": "docs/refresh-reviews/canada-itsp-50-105.md"
     },
     {
       "guide": "canada-osfi-b10.md",
