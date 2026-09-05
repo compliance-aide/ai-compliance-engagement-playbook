@@ -1124,7 +1124,9 @@
     {
       "guide": "dod-zero-trust-reference-architecture-v2.md",
       "baseline_sha256": "2ca9d1f49a99bd2df310c74531a56e4391f2c9d5d6baf69db24dfe78060c0532",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "da4cc1a7984eb15f7f20bddf398d8bed1f0b816e02d37f1b82f5f26939e9d316",
+      "review_record": "docs/refresh-reviews/dod-zero-trust-reference-architecture-v2.md"
     },
     {
       "guide": "eba-gl-2019-04.md",
