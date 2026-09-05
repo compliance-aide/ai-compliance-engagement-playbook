@@ -1572,7 +1572,9 @@
     {
       "guide": "hitrust-csf-licensed-program.md",
       "baseline_sha256": "d152f1abbe957870ad257b4f1a9fb06fd0bf3940e7b1dd6fbaa74883f13fcfad",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "ed8204f5df793bac5c1e0dc8745cbee7138d62d80d90df9d48d63672d7884752",
+      "review_record": "docs/refresh-reviews/hitrust-csf-licensed-program.md"
     },
     {
       "guide": "hong-kong-pdpo.md",
