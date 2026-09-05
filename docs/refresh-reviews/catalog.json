@@ -1474,7 +1474,9 @@
     {
       "guide": "ftc-act-consumer-privacy-security.md",
       "baseline_sha256": "2ef6b94326f0f4213604208ec8ac1c03e521a588a89a94b8a659d625cc632028",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "83f677ba88fd0bd1e1ec32af9e9e07d93ca1f0005d093bd987bda5ea8f5233f3",
+      "review_record": "docs/refresh-reviews/ftc-act-consumer-privacy-security.md"
     },
     {
       "guide": "ghana-data-protection-act.md",
