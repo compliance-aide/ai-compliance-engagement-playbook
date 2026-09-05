@@ -1250,7 +1250,9 @@
     {
       "guide": "eu-nis2.md",
       "baseline_sha256": "786adf16b8648adf7ed8adc57aa6752f7f65ebb4ebc7464a38971ceca90c9974",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "65d89cdc8f4ef49fc4e060c5722c47dcf989598ee3b2ed849ed6db586ea755e2",
+      "review_record": "docs/refresh-reviews/eu-nis2.md"
     },
     {
       "guide": "eu-payment-services-transition.md",
