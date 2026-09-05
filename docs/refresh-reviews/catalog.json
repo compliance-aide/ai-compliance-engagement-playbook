@@ -781,7 +781,9 @@
     {
       "guide": "cert-rmm.md",
       "baseline_sha256": "eacb3bac05debd61b0abaf7700520d28272b7f30252ec84102db8f706873c89e",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "44495cc6cbfe803e0710eb3482b27f9a7afcf738d7d8b44c2f0f247e3cfe3722",
+      "review_record": "docs/refresh-reviews/cert-rmm.md"
     },
     {
       "guide": "chile-personal-data-transition.md",
