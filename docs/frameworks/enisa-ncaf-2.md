@@ -42,6 +42,16 @@ Follow the [agent runbook](../agent-runbook.md). Assign national sponsor, coordi
 - **Restricted evidence cannot be shared:** retain an authorized custodian/reference and disclose the review limitation; do not fabricate a public substitute.
 - **New framework score compared with old score:** verify methodological comparability before describing a trend; display version differences and unresolved effects.
 
+## Applying the instrument without hiding coverage gaps
+
+[ENISA NCAF 2.0 section 3.2](https://www.enisa.europa.eu/sites/default/files/2026-04/National%20Capabilities%20Assessment%20Framework%202.0_EN.pdf), printed pages 103–104, recommends a central coordinating body and preparation involving public and private stakeholders. Assign that coordinator before issuing evidence requests.
+
+Review all 20 objectives for disposition. The national strategy guides selection but does not exclude an existing capability merely because the strategy omits it. Record selected objectives and selection rationale separately from evidence availability.
+
+Keep the instrument's general coverage ratio, using all objectives, separate from its specific ratio, using selected objectives. Do not label a higher selected-scope ratio an improvement without checking the denominator. Preserve scope changes when comparing periods; use section 2.5 for the actual calculation rather than inferring a formula here.
+
+For a question supported in one scope but not another, preserve both inputs and route a proposed NO response with improvement action to the authorized assessor, following section 3.2. Do not erase the adverse scope through majority voting. Keep the instrument response distinct from the runbook evidence result; missing evidence still needs its own owner and limitation.
+
 ## Worked handoff example
 
 A fictional capability owner supplies an approved national incident plan but no exercise or operating records. The assertion that the plan was approved may be `supported`; the separate assertion that coordination works nationally remains `inconclusive`. Request authorized exercise/operation evidence from the coordinator and participating agencies. Neither result assigns a maturity level, and neither permits publishing the national capability as proven.

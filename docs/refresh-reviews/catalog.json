@@ -1153,7 +1153,7 @@
       "guide": "enisa-ncaf-2.md",
       "baseline_sha256": "b8209fe1c66a863f014870bbe1ca336b0495d095af10399233bd729d9adf920f",
       "status": "drafted",
-      "reviewed_sha256": "e6d27969c51600c98023c69ce1559288ff2e893d9ae40fbde29178a4b04808db",
+      "reviewed_sha256": "e0b782fdc190437d728188e680f0e661959ef04e4fa18f3c2fa677472d307717",
       "review_record": "docs/refresh-reviews/enisa-ncaf-2.md"
     },
     {
