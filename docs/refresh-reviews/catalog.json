@@ -739,7 +739,9 @@
     {
       "guide": "canada-itsg-33.md",
       "baseline_sha256": "5300974015a4cb796ddf737c4bcd820276aa0809b802fca502944bb1fb587e29",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "762152cc11faf69a0d442add3b945b4ad81b8f66dc601eccd40dcd5527516f53",
+      "review_record": "docs/refresh-reviews/canada-itsg-33.md"
     },
     {
       "guide": "canada-itsp-10-171.md",
