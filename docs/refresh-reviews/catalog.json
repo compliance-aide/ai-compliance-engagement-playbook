@@ -1754,7 +1754,9 @@
     {
       "guide": "iso-10002-2018.md",
       "baseline_sha256": "9f897b37adc5068c4bc4105d8c4d6b3dad37fae26b52644743ba2dd131d1ec67",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "dc89ae33a38380cc805458d57258e51f93b60aebf043326df3231b0daa180251",
+      "review_record": "docs/refresh-reviews/iso-10002-2018.md"
     },
     {
       "guide": "iso-10004-2018.md",
