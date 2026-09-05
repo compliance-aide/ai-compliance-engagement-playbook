@@ -746,7 +746,9 @@
     {
       "guide": "canada-itsp-10-171.md",
       "baseline_sha256": "8a3537a91a3977c37b5fe1a90ff48ff061f00546733f4f17e8890b3638bfbe70",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "60cbe6256d89c446996b49ef41306e953f0de55c990f3a123b9d5ce8fd82ae57",
+      "review_record": "docs/refresh-reviews/canada-itsp-10-171.md"
     },
     {
       "guide": "canada-itsp-50-105.md",
