@@ -1236,7 +1236,9 @@
     {
       "guide": "eu-gdpr.md",
       "baseline_sha256": "baa2a8fc28c5aa80ee3e5db87ae42ce52859550ab6d5dc667288121ee5618283",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "b53eaab69174750845a03a6d53bc0514cec02a3e51fb822c7d43db58a1fac243",
+      "review_record": "docs/refresh-reviews/eu-gdpr.md"
     },
     {
       "guide": "eu-gmp-annex-11.md",
