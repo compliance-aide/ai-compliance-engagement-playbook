@@ -1180,7 +1180,9 @@
     {
       "guide": "eu-cloud-code-of-conduct.md",
       "baseline_sha256": "c5cef29e750570d0a5ac75df93a65caaaea810207e7b19dfd7f6926bca9e1083",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "854f96960f1561fc9545e928594ebe4d7c468232e144a2dd6d9f03cd7fcd8327",
+      "review_record": "docs/refresh-reviews/eu-cloud-code-of-conduct.md"
     },
     {
       "guide": "eu-critical-entities-resilience.md",
