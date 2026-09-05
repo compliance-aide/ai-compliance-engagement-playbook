@@ -9,3 +9,7 @@ Read full baseline and PR #340 at eda2a646. Preserved its three tailored evidenc
 Desk cases: blocked scanner not safe endpoint; deduplication cannot reset age; install success cannot close finding; unresolved successor status blocks deadline interpretation; expired exception remains open. No live scans or cross-model tests.
 
 Independent source, rights, skeptical and engagement review and named human publication approval pending.
+
+## Subsequent source verification
+
+Direct HTTPS retrieval of the official BOD 26-04 page succeeded after the web retrieval failure. Read its text, including explicit revocation of BOD 19-02 and BOD 22-01, issuance date June 10, 2026, phased actions and Appendix A narrative. Supersession uncertainty above is now resolved. Full table-image and implementation-guidance review remain pending; no complete new deadline algorithm claimed. Guide corrected accordingly.

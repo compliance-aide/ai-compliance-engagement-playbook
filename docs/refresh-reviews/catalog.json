@@ -866,7 +866,7 @@
       "guide": "cisa-bod-19-02-internet-accessible-remediation.md",
       "baseline_sha256": "faa869266af89e40a3fbc19466b35ab050ed5bd47d4d7c89aaddc68340611b3a",
       "status": "drafted",
-      "reviewed_sha256": "0fbe67fe6eb379156c4bbf6652979fa0593bc62125884f6efedc653b9efb1d33",
+      "reviewed_sha256": "e6f6016d632ac284ee01c10dc4e565d74f03030258c676cdb7d90475fe274bd1",
       "review_record": "docs/refresh-reviews/cisa-bod-19-02-internet-accessible-remediation.md"
     },
     {
@@ -922,7 +922,7 @@
       "guide": "cisa-known-exploited-vulnerabilities-catalog.md",
       "baseline_sha256": "1f8f92125ae01c2e4a7582c324709edbbe4f657fc0c458d4e9c2e67ae2a90e33",
       "status": "drafted",
-      "reviewed_sha256": "a9c98da698b172b4edb765a75b6cf057f74a533e84e67fb11e96a442f6779d9b",
+      "reviewed_sha256": "155bf4c6ee65162db1e4e4603c4dc12fc3f15e7196c783f78f0e72283c20c528",
       "review_record": "docs/refresh-reviews/cisa-known-exploited-vulnerabilities-catalog.md"
     },
     {
