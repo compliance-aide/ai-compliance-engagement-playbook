@@ -1516,7 +1516,9 @@
     {
       "guide": "govramp-licensed-program.md",
       "baseline_sha256": "9b857ea2eccbdc1739763ee9a9c4cd10f271344419731bc4895cfb134a49cc47",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "dc0097117582b7b2908981c0c91570004ac0434ee05db82ab4225adb1d48c237",
+      "review_record": "docs/refresh-reviews/govramp-licensed-program.md"
     },
     {
       "guide": "govramp-low-impact-level.md",
