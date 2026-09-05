@@ -942,7 +942,9 @@
     {
       "guide": "cisa-secure-software-attestation.md",
       "baseline_sha256": "e787486d25924ee9399b1d73150a7c1811b72d79bf02bb390a442142a1873939",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "5a2871bd39cc61748d4c15faa70be479baed3c435ad7faa0da817e4df695d01b",
+      "review_record": "docs/refresh-reviews/cisa-secure-software-attestation.md"
     },
     {
       "guide": "cisa-tic-3.md",
