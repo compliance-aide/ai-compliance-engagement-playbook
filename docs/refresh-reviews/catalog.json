@@ -1677,7 +1677,9 @@
     {
       "guide": "iec-tr-62443-2-3-2015.md",
       "baseline_sha256": "d545eaf45bae4c431b531abede5a2cf8923fa478db22df258703bc426be114f1",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "fb9e038f33879b899b5346c2d2aaf12b522f91d45513b54dd28d2cf734b7bd65",
+      "review_record": "docs/refresh-reviews/iec-tr-62443-2-3-2015.md"
     },
     {
       "guide": "iec-tr-62443-3-1-2009.md",
