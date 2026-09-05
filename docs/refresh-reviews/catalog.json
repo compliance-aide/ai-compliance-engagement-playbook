@@ -935,7 +935,9 @@
     {
       "guide": "cisa-secure-by-design.md",
       "baseline_sha256": "edbeef3626e45121cd3acb65a247bde02ac362bb9b5518cb7a9d2669d6f51494",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "81d796d01396c2f867921a148727d1ea74a4db2d28e508cd82f29668c4b65a10",
+      "review_record": "docs/refresh-reviews/cisa-secure-by-design.md"
     },
     {
       "guide": "cisa-secure-software-attestation.md",
