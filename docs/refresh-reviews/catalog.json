@@ -697,7 +697,9 @@
     {
       "guide": "california-data-breach-notification.md",
       "baseline_sha256": "5afa5e4481856aa210fff280dbcf87143e62d0c7e916e912b1caaad9c57b05c9",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "5d558f30c45c20f256cc8dbf860d33a6ac5490eb89dbb2f01964a271ac2fe383",
+      "review_record": "docs/refresh-reviews/california-data-breach-notification.md"
     },
     {
       "guide": "california-sb-327-connected-devices.md",
