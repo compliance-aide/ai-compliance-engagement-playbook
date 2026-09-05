@@ -1082,7 +1082,9 @@
     {
       "guide": "csa-star.md",
       "baseline_sha256": "6347da5d16952f6a7987e1028c39cd17e8beeb00ef040ac8ace06d3705681b1b",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "a3e0d44b35a3d062078039123f6fe2243a7f5beded28312b4ca59dfb9f1f86b5",
+      "review_record": "docs/refresh-reviews/csa-star.md"
     },
     {
       "guide": "ctpat.md",
