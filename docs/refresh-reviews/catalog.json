@@ -1544,7 +1544,9 @@
     {
       "guide": "gsma-nesas.md",
       "baseline_sha256": "cad7f881768353fdb19f347b40625fc986ac0a298e212929c084498b783e1595",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "8d544dcec2a58612e1fd2bea40c71bee7819f9c540d31146d1383f78f2e45eb0",
+      "review_record": "docs/refresh-reviews/gsma-nesas.md"
     },
     {
       "guide": "hhs-hicp-2023.md",
