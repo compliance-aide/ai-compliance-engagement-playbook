@@ -1733,7 +1733,9 @@
     {
       "guide": "india-dpdpa.md",
       "baseline_sha256": "ac86883368be8b2845b604f66a1815d94a1db3489d987d31d46ae07c6aa74b5b",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "e9bb5ef275b6719897a8ca14cb5a12f90be93b2b99100c50b67d4d5feae56531",
+      "review_record": "docs/refresh-reviews/india-dpdpa.md"
     },
     {
       "guide": "indonesia-personal-data-protection-law.md",
