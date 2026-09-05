@@ -1047,7 +1047,9 @@
     {
       "guide": "coso-internal-control-integrated-framework.md",
       "baseline_sha256": "671217e4b1e64eabea5c8e041d42d6b6ffdca88c281aa10a9d7c72a911c156c3",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "728f1e60e79a66b763a2b9351ea4d84330de1fd7f458c34956ededcb5b4948ff",
+      "review_record": "docs/refresh-reviews/coso-internal-control-integrated-framework.md"
     },
     {
       "guide": "costa-rica-personal-data-protection.md",
