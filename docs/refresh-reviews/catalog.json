@@ -788,7 +788,9 @@
     {
       "guide": "chile-personal-data-transition.md",
       "baseline_sha256": "a5bb2eefe71994a172015eb92dbf7ef96744613f795a13184aa029a1ac03a73f",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "15da89f884ab70dd7ab0ec3a33608ada6dde6a805ef42554f0f0bc6ebc9263b1",
+      "review_record": "docs/refresh-reviews/chile-personal-data-transition.md"
     },
     {
       "guide": "china-cybersecurity-law.md",
