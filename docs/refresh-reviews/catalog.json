@@ -984,7 +984,9 @@
     {
       "guide": "cmmc-level-3-program.md",
       "baseline_sha256": "cfc469cd9ed89a86e159ce82540850e4cf5161d144cfacef912ef892758c8378",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "9cb31b5f26997536e96a8c3f39ab1a9dc814cbaaab97025fac5a6665d10c1752",
+      "review_record": "docs/refresh-reviews/cmmc-level-3-program.md"
     },
     {
       "guide": "cmmc.md",
