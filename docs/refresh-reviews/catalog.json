@@ -1404,7 +1404,9 @@
     {
       "guide": "fips-197.md",
       "baseline_sha256": "99c4d40a213f8a9013ab0222a2a64df90710f41722f0fad960cfa7a3af83a8e6",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "a5ae42bf7e420fff17c7c3035ddbe8c70389497005ddabb9ce988c80e0c35d8b",
+      "review_record": "docs/refresh-reviews/fips-197.md"
     },
     {
       "guide": "fips-198-1-hmac.md",

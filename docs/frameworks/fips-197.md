@@ -28,6 +28,26 @@ Record system, purpose, data boundaries, actual implementation version, approved
 6. **Trace key and data lifecycle.** Reconcile authorized key creation/use/rotation references with data versions and recovery needs without collecting key material. Output lifecycle evidence. A rotation job's success message does not establish that historical data remains recoverable or that new writes use the intended key.
 7. **Review changes and conclusions.** Match release and provider changes to affected paths and retest requirements. Preserve open exceptions with owners. Output a bounded draft separating algorithm behavior, configuration, key protection, data coverage and organizational approval.
 
+## Evidence and test plan
+
+### Encryption use and protection boundary
+
+Data, application and infrastructure owners provide the complete use inventory, approved protection boundaries, data classifications and component associations. Reconcile every scoped data path with its actual implementation and owner. Include temporary files, exports, backups and recovery copies where they are in scope. An encrypted primary store does not establish that these other copies are protected.
+
+Record the evidence for each boundary separately from the intended design. Use synthetic data to observe application outputs under approved QA conditions; retain non-sensitive identifiers and results instead of real plaintext or key material. Preserve untested paths explicitly. A tool's encryption flag is not proof of complete data coverage or authorized access enforcement.
+
+### Key-management dependencies and configuration
+
+Key-management, platform and supplier owners provide approved configuration identifiers, key-service dependencies, access decisions and lifecycle metadata. Match the actual deployed baseline to the approved design. Preserve mode and parameter references without turning this guide into an unsourced configuration recipe.
+
+Reconcile key rotation with both new writes and historical recovery requirements. Verify the intended key-version selection through authorized metadata and approved tests; distinguish rotation requested, key created, application updated and data migration completed. Test unavailable-service handling against the approved policy. A provider availability statement does not establish that the application handles its outage safely.
+
+### Changes, assurance and exceptions
+
+Engineering, quality, security and risk owners provide the complete scoped change population, test evidence, supplier notices, incidents and exception decisions. Match observations to the build, environment and affected data path. Preserve failed tests and unperformed combinations; successful round trips do not replace appropriate independent expected results.
+
+For each gap, define the acceptance criterion before retesting. Record implementation, rollout and observed behavior separately. Check that exceptions have an authorized owner, exact scope, conditions and review trigger; a pending exception cannot justify a supported result. Keep algorithm testing, module-validation evidence where required, key protection and application security as separate claims.
+
 ## Failure branches and decisions
 
 Missing runtime evidence is `not_tested`; uncertain mode applicability is `inconclusive`. An observed plaintext fallback contrary to the approved criterion is `not_supported` even if AES vectors pass. Keep successful cryptographic checks and failed application behavior separate.
@@ -37,6 +57,12 @@ Fictional desk case: the QA implementation passes its AES vectors, but an unavai
 ## Cadence and renewal
 
 Reassess after mode, implementation, provider, key-policy, data-flow or source changes and after consequential failures. Set scheduled review from approved organizational requirements; do not invent quarterly reviews or annual FIPS renewal. Assign ownership for legacy data, recovery and retirement decisions.
+
+## Completion and handoff
+
+Deliver the complete data-flow/protection map, implementation and configuration inventory, key-dependency records, QA results, change reconciliation and open exceptions. State what was observed about encryption, data coverage, failure behavior and recovery, including untested environments and uncertain source requirements. Assign each gap an owner and next action.
+
+Require independent source, skeptical and rights review before publication. Human authorities retain algorithm/mode selection, key lifecycle, production changes and risk decisions. This draft has not validated a real implementation or demonstrated protection of customer data.
 
 ## Universal engagement contract
 
