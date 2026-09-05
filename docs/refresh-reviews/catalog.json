@@ -1334,7 +1334,9 @@
     {
       "guide": "fedramp.md",
       "baseline_sha256": "db187bedc11f76716d0bb416afda7348a8280cac15cb928614c06cee7434e109",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "664924a6a288e04119cfcd8c96bd04aab2c03bc662431f5e7f1244a996c5dd8e",
+      "review_record": "docs/refresh-reviews/fedramp.md"
     },
     {
       "guide": "fema-national-response-framework.md",
