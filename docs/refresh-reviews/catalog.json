@@ -1607,7 +1607,9 @@
     {
       "guide": "iec-62443-2-1-2024.md",
       "baseline_sha256": "2fa76d3f6f080c32646baffd6c4fd56275986cc1f811fa6962670376f3604136",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "b85fa5d63ab9d09df1b61ac9d49fb513c93baeabc0d62f35fb9ad920fea76c97",
+      "review_record": "docs/refresh-reviews/iec-62443-2-1-2024.md"
     },
     {
       "guide": "iec-62443-2-4-2023.md",
