@@ -35,6 +35,18 @@ Follow the [agent runbook](../agent-runbook.md). Name legal, product, decision-o
 | 7. Correct and retest | Owners implement approved fixes; reviewers check both system changes and the resulting decision/communication workflow. | Retest evidence and unresolved findings; no automated adverse decision or reconsideration by the drafting agent. |
 | 8. Approve and monitor | Legal and accountable leaders review readiness, claims and future source changes. | Approved deployment/communication decisions where required, monitored changes and clear next actions; no automatic compliance declaration. |
 
+## Enacted documentation and notice checks
+
+Use [signed SB26-189, sections 6-1-1702–1705, pages 9–15](https://www.leg.colorado.gov/bill_files/116489/download) for these workpaper checks, subject to coverage and sector-specific provisions:
+
+- Developer release notes need direct notice to each deployer when used to satisfy material-update notification. Record both the published content and delivery evidence.
+- Retention clocks differ: developer records run at least three years from record creation; deployer records run at least three years from the consequential decision. Longer applicable retention duties still govern.
+- Trace notice before covered use and any qualifying adverse-outcome disclosure within thirty days after the decision. Preserve the decision timestamp, notice version and delivery evidence separately.
+- Test the route for requesting data correction and meaningful human review. Correction of factual personal-data errors differs from changing an opinion, prediction or score. Record the applicable limitations and human decision authority.
+- Verify accessibility and legally reviewed sector-specific notice alternatives; an existing notice is not automatically sufficient.
+
+Keep developer and deployer obligations on separate rows even when one organization fills both roles. Do not close a failed delivery test merely because a release note or notice template exists.
+
 ## Failure branches and decisions
 
 - **Old legal checklist:** retain useful evidence, but remap obligations to the replacement law before claiming coverage.
