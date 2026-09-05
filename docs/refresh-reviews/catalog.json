@@ -1145,7 +1145,9 @@
     {
       "guide": "eidas-trust-services.md",
       "baseline_sha256": "4904014a09e42841d767796ea74b1f165d92afd50605ce588104d50e110183e6",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "c9559d04893c8b875bf885c8812e140416486ef28120e08c79a37c02b3c077e0",
+      "review_record": "docs/refresh-reviews/eidas-trust-services.md"
     },
     {
       "guide": "enisa-ncaf-2.md",
