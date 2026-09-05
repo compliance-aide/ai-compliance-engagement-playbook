@@ -1593,7 +1593,9 @@
     {
       "guide": "idea-confidentiality.md",
       "baseline_sha256": "6bf24392adfb31bceabe704c93f3dd80fd83e6f15863b041637bd8da699837f3",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "49b035c7977e44d5c546a19186288b5dffd9100189d07220edcfcb1cf075dd44",
+      "review_record": "docs/refresh-reviews/idea-confidentiality.md"
     },
     {
       "guide": "iec-31010-2019.md",
