@@ -1747,7 +1747,9 @@
     {
       "guide": "irs-publication-1075.md",
       "baseline_sha256": "725ea6bf4d20bd7d6771bb10054bf1651dca61b3197631fa1d76de1ec07a359b",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "8ad1556de7e1b4fcf9658ed85b96881740cd36d0bc9ce269c29977ae1752a5fb",
+      "review_record": "docs/refresh-reviews/irs-publication-1075.md"
     },
     {
       "guide": "iso-10002-2018.md",
