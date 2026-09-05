@@ -65,6 +65,21 @@ Follow the [agent runbook](../agent-runbook.md). Name HR, employment counsel, ac
 - **AI and trigger:** AI may prepare restricted, non-authoritative evidence indexes and flag overdue follow-up; it cannot access protected records without authorization, contact individuals, make employment decisions, approve settlements, or publish conclusions. Humans approve investigations, communications, risk decisions, and closure. Review quarterly and annually, and after a material allegation, enforcement development, or tool/process change.
 
 
+## Worked example: inaccessible assessment
+
+This fictional workpaper illustrates the runbook; it is not an executed test or a legal finding. The [DOJ hiring-technology guidance](https://www.ada.gov/resources/ai-guidance/) explains that tests should measure relevant job abilities and that accessible alternatives or adjustments may be required. It also warns against unlawful medical inquiries. Review disability barriers separately; success for one assistive technology does not prove coverage of other needs.
+
+**Approved assertion:** the QA application preserves an unfinished assessment and routes an accessibility request to HR without recording a failed skills result. **Fixture:** synthetic application QA-17, assessment version A, approved keyboard/screen-reader configuration, simulated support request. No diagnosis or real applicant record is needed.
+
+| Observation supplied by the tester | Agent result and next action |
+| --- | --- |
+| The assessment's controls are unreachable and the workflow records a failed skills result. | `not_supported` for the approved workflow assertion. Preserve UI and event evidence; assign the product defect to engineering and the accommodation decision to HR. Do not infer the applicant lacks skills. |
+| The browser test tool crashes before opening the assessment. | `not_tested`. Save the tool error and assign rerun; this does not establish an accessibility defect. |
+| Support confirms receipt, but downstream application status cannot be retrieved. | `inconclusive`. Request status evidence; a support acknowledgment does not prove absence of adverse processing. |
+| Authorized QA retest shows preserved status and successful HR routing. | `supported` only for this configuration and case. Retain prior failure, link the fix and seek reviewer acceptance; no general nondiscrimination conclusion. |
+
+Handoff: product owner supplies the corrected QA build and event records; HR confirms the approved routing expectation; independent reviewer checks the retest. Separate investigation of any real historical impact belongs to authorized HR/counsel, not this fictional example.
+
 ## Cadence and renewal
 
 Quarterly and annual reviews are planning conventions, not universal legal intervals. Reopen review before material tool, job, threshold, input, population, vendor or accommodation-process changes and after credible concerns. Record source status and jurisdiction-specific requirements; historical guidance availability alone does not establish current legal interpretation.
