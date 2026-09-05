@@ -1495,7 +1495,9 @@
     {
       "guide": "glba-safeguards-rule.md",
       "baseline_sha256": "16187bec2163e818121be208e9646e9e71d6fe6dc25d32e050ff9ea18589b029",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "5c47ff70223cbca6d04d5d66315465338b55883e3e543421691f2614ff663aa6",
+      "review_record": "docs/refresh-reviews/glba-safeguards-rule.md"
     },
     {
       "guide": "global-cross-border-privacy-rules.md",
