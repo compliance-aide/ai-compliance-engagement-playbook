@@ -28,6 +28,26 @@ Record use case, exact function, required output length and units, input encodin
 6. **Reconcile changes.** Map function, output-length, serialization and provider updates to every affected producer and consumer. Preserve historical function/length metadata. Output transition actions; a renamed field does not migrate stored values or downstream expectations.
 7. **Review bounded conclusions.** Separate computation, input/output contract, reference trust and approved purpose. Assign unresolved design questions to qualified owners. Output a draft evidence packet without claiming whole-system security from a successful digest comparison.
 
+## Evidence and test plan
+
+### Function use and input/output contract
+
+Application, data and cryptography owners provide the complete scoped producer/consumer inventory, approved purpose, exact function identifiers, input contracts and output requirements. Reconcile every flow to its responsible owner and design reference. Preserve missing function or length metadata as an unresolved decision, not an invitation to choose a convenient default.
+
+Record input byte length, encoding and preprocessing separately from output byte length and encoded representation. For each XOF use, identify who specifies the output length and how both ends enforce it. A digest-looking string cannot by itself establish the function, requested length or trustworthiness of the originating data.
+
+### Implementation and verification evidence
+
+Engineering and quality owners provide actual build/library versions, executed function references, authoritative vector identifiers, application cases and observed outcomes. Match evidence to the precise function and length tested. Keep vector correctness separate from application serialization, consumer parsing and security-purpose suitability.
+
+Under approved QA conditions, record empty/binary and relevant boundary or streaming inputs alongside malformed output cases. Preserve expected results independently of the implementation under test. A matching producer and consumer can share the same defect. Retain all scoped failures and unperformed cases; do not trim the evidence population to passing examples or silently normalize incompatible results.
+
+### Changes, dependencies and historical records
+
+Platform, supplier and risk owners provide releases, source-status reviews, parameter changes, incidents and approved exceptions. Reconcile each change to affected stored values and downstream consumers. Preserve function, length and input-contract version with historical results so later verification uses the right interpretation.
+
+Record migration planned, producer changed, consumer changed and stored-data treatment as separate outcomes. Verify actual deployed versions before reusing earlier tests. Do not rewrite historical digests from unverified current data to conceal incompatibility. Assign unresolved legacy interpretation and source-update questions to named owners with review triggers.
+
 ## Failure branches and decisions
 
 An unobserved implementation path is `not_tested`; uncertain approved purpose is `inconclusive`. A known output-length mismatch against the contract is `not_supported` even if each implementation computes correctly for its requested length. Do not silently truncate or pad outputs to make a test pass.
@@ -37,6 +57,12 @@ Fictional desk case: the approved QA interface requires 32 output bytes from SHA
 ## Cadence and renewal
 
 Reassess after source, function, output-length, input-contract, implementation or consumer changes and after consequential failures. Use approved organizational review schedules rather than invented quarterly checks or annual FIPS renewal. Assign ownership for legacy-data interpretation and transition gaps.
+
+## Completion and handoff
+
+Deliver the complete use map, input/output contracts, implementation manifest, vector and application evidence, change reconciliation and open exceptions. State separately what the evidence supports about computation, data representation, consumer acceptance and approved purpose. Identify untested combinations and unresolved source issues with next owners and actions.
+
+Independent source, skeptical and rights review remain required before publication. Qualified owners retain function/parameter selection, migration, exceptions and compliance decisions. This draft has not validated a cryptographic implementation or established secure use in a real system.
 
 ## Universal engagement contract
 
