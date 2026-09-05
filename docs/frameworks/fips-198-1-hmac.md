@@ -6,12 +6,37 @@
 
 Manage the approved use of keyed-hash message authentication across in-scope applications, interfaces, APIs, services, devices, and suppliers. Maintain traceability from business purpose and protected message flow to owner, implementation or module, key lifecycle reference, verification behavior, deployment environment, change history, exceptions, and current standards-status review. A passing test, successful verification, or provider statement is evidence to assess; it does not prove secure implementation, correct key handling, complete coverage, validation, or compliance.
 
-## Roles and annual rhythm
+## Source and applicability
 
-Assign accountable executive, security, cryptography or platform engineering, architecture, application and service owners, identity, procurement, supplier-management, change-management, incident-response, legal and privacy where relevant, and records-management roles. Operators maintain an in-scope use inventory, approved purpose and ownership records, module or provider baselines, key-lifecycle references, deployment and verification evidence, standards-status assessments, supplier assurance, exception decisions, and system-to-use traceability. Reconcile uses, owners, dependencies, and deployed versions quarterly; review technical guidance status, key and access changes, failed verifications, provider notices, exceptions, and unresolved risks at least quarterly; and complete an annual management review after material application, protocol, cryptographic, supplier, or standards changes. Before annual renewal, an independent reviewer samples use-to-deployment-to-review traceability; auditors test evidence without creating or accessing keys, changing cryptography, approving exceptions, accepting risk, or attesting for management.
+The [NIST publication record](https://csrc.nist.gov/pubs/fips/198-1/final), read 2026-09-04, contains a June 2025 notice of a proposed withdrawal and movement of content to SP 800-224. That notice alone does not prove withdrawal or a successor's final effective status. Verify both publication histories and current algorithm guidance before making migration decisions. Full standard and successor-status reconciliation remain pending. HMAC authenticates messages using a shared secret; it does not encrypt their content or independently establish which key holder created a message.
 
-AI may organize supplied inventory, lifecycle, verification, supplier, and review evidence, identify missing ownership or stale standards-status assessments, and draft workpapers for human review. AI cannot design or implement cryptography, create or access keys, configure production systems, approve an exception, decide migration timing, accept risk, make a compliance conclusion, attest for management, or replace independent review.
+## Roles
 
+Cryptography and security owners approve design and parameters. Application/API owners define authenticated content and replay policy. Key-management owners control secret lifecycle. Independent reviewers challenge source and evidence coverage. AI may reconcile authorized metadata and draft workpapers; it cannot create or access secrets, change production cryptography, approve exceptions, decide migration timing or attest to compliance.
+
+## Before starting
+
+Record each message flow, producer, verifier, purpose, approved hash/tag parameters, key identifier, implementation build and input encoding. Define what content and context the tag covers and what happens on verification failure. Use the [agent runbook](../agent-runbook.md) and authorized synthetic QA messages; real shared secrets and sensitive payloads stay outside this repository.
+
+## Ordered workflow
+
+1. **Map uses and trust boundaries.** Reconcile every in-scope producer/verifier pair and its approved purpose. Output a use register. A verified tag is not automatic permission to execute any action named in the message.
+2. **Define authenticated bytes and context.** Record serialization, field ordering, encoding, method/path/context coverage and any truncation. Output an input contract. Required fields outside the authenticated content must not silently inherit protection.
+3. **Trace implementation and key selection.** Match actual builds, algorithm/tag configuration and key-version identifiers to approved baselines. Output a deployment map without key material. Shared key possession is a separate access-governance concern from mathematical tag correctness.
+4. **Evaluate computation in QA.** Use authoritative vectors appropriate to the approved parameters, plus application-specific cases for altered content, wrong key, malformed or missing tags. Preserve expected/actual results and untested paths. Output a test matrix; a valid tag from one test does not prove full implementation correctness.
+5. **Observe acceptance and replay handling.** Test the complete consuming decision against the approved policy, including duplicate or stale messages where replay prevention is required. Output distinct tag-verification and freshness/authorization outcomes. A replayed message can have a valid tag while violating the application's acceptance rule.
+6. **Check lifecycle and failure behavior.** Trace key rotation, accepted key versions, retirement and unavailable key-service behavior to owner-approved rules. Record producer/verifier coordination and explicit errors. Output gaps; a secret lookup failure must not become an empty/default key or unauthenticated success.
+7. **Review changes and hand off.** Reconcile updated serialization, keys, parameters or libraries with every affected peer. Preserve failures and assign retests. Output bounded conclusions separating computation, content coverage, freshness, key governance and authorization.
+
+## Failure branches and decisions
+
+Unavailable runtime evidence is `not_tested`; uncertain successor applicability is `inconclusive`. An observed duplicate execution contrary to a defined replay criterion is `not_supported` even when tag verification succeeds. Preserve both outcomes and route design changes to qualified owners.
+
+Fictional desk case: an approved QA request is delivered twice with the same valid tag, and the application executes an operation twice despite its defined single-execution policy. Tag verification is `supported`; replay handling is `not_supported`. The agent records both executions without claiming HMAC itself failed or changing a real account.
+
+## Cadence and renewal
+
+Reassess after source-status, parameter, producer/verifier, key-policy, input-contract or provider changes and after authentication incidents. Use approved organizational schedules rather than invented quarterly checks or annual FIPS renewal. Assign an owner for successor-source verification and coordinated migration.
 
 ## Universal engagement contract
 
