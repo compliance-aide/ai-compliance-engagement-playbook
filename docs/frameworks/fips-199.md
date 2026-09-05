@@ -28,6 +28,26 @@ Record agency, system, mission, approved boundary, information sources, recipien
 6. **Challenge and approve.** Have independent reviewers check omitted types, unsupported downgrades and inconsistent boundaries. Route the reconciled record to the designated approving authority. Output a dated decision only when approval exists; author completion is not agency approval.
 7. **Propagate and monitor changes.** Link the approved result to downstream risk-management records through their separate processes. Reassess new information, interfaces, mission dependencies and boundary changes. Output assigned updates; categorization alone does not establish selected controls are implemented or the system is authorized.
 
+## Evidence and test plan
+
+### Information types and system boundary
+
+Information, mission and system owners provide the complete information-type inventory, boundary version, data flows, supporting services and accountable agency roles. Reconcile processing, storage and transmission locations against the actual system description. Preserve unknown types and disputed boundaries as explicit gaps; a small data volume is not grounds to omit a consequential information type.
+
+Record the source and owner of every inventory entry and exclusion. Compare diagrams, service inventories and owner statements, resolving differences before claiming completeness. An inherited service's assurance report does not determine the consuming system's categorization. Record the dependency and its mission consequences for qualified review.
+
+### Impact rationale and decision
+
+Owners provide separate confidentiality, integrity and availability rationale for each information type, with mission effects, affected individuals/assets, assumptions and stakeholder input. Reconcile the proposed system values to their driving rows. Preserve review challenges and documented adjustments; do not hide a disagreement by replacing its rationale with an unexplained label.
+
+Check that the matrix and narrative refer to the same boundary and information population. A technically correct maximum over an incomplete inventory does not establish a complete categorization. Keep arithmetic verification separate from substantive review of the impact assumptions. Record the exact proposal version, reviewer and approving authority; a meeting invitation or acknowledgement is not approval.
+
+### Changes and downstream use
+
+System governance owners provide new information/use requests, interface changes, reassessment triggers, decisions and downstream security-planning references. Reconcile all material in-scope changes with a documented categorization review or owner-approved explanation. Preserve open reassessments; do not silently reuse an older decision for a changed boundary.
+
+For each approved change, identify every downstream consumer and obtain evidence of the version received or incorporated. A sent notification is not proof that a security plan was updated. Keep categorization, control selection, implementation and authorization as distinct outcomes, with unresolved work assigned to the appropriate process owner.
+
 ## Failure branches and decisions
 
 Unknown information populations or conflicting mission consequences make the affected proposal `inconclusive`. An unexamined data flow is `not_tested`. A known omitted high-impact row makes an asserted complete aggregation `not_supported`; retain that fact even if other types remain unresolved. Keep evidence statuses separate from the impact values being proposed.
@@ -37,6 +57,12 @@ Fictional desk case: nine information types have low integrity impact and one ha
 ## Cadence and renewal
 
 Revisit after material mission, information-type, dependency, boundary or source changes and on the agency's required schedule. Do not invent annual FIPS renewal. Assign a named owner to detect changes and keep downstream records aligned with the approved categorization.
+
+## Completion and handoff
+
+Deliver the boundary/source register, complete information-type inventory, three-objective impact matrix, rationale and assumptions, reproducible aggregation, reviewer challenges and approval references. Name unresolved types, disputed consequences and missing agency guidance with next owners and actions. Hand downstream users the exact approved version and track incorporation gaps.
+
+Independent source, skeptical and rights review remain required before publication. Designated federal authorities retain categorization approval and risk decisions. This draft has not categorized a real system, selected its controls or authorized operation.
 
 ## Universal engagement contract
 
