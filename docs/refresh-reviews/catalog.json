@@ -1208,7 +1208,9 @@
     {
       "guide": "eu-cybersecurity-certification-eucc.md",
       "baseline_sha256": "89be3562ef55c4202a9cb55ed693a8563cfdc2fd9daf67111307e0b6d5001951",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "d0bf64ef0688a4bd2b6b1649d403392e54d3c3625c5b8d1c5e9a8850378cfbe5",
+      "review_record": "docs/refresh-reviews/eu-cybersecurity-certification-eucc.md"
     },
     {
       "guide": "eu-dora.md",
