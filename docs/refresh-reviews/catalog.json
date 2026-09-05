@@ -1341,7 +1341,9 @@
     {
       "guide": "fema-national-response-framework.md",
       "baseline_sha256": "940e7f3cd36f155a220975bf614e1c7b80c5b6c0927d566735d2a9014e2d21a4",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "a150ee579a3ce6f301a9b3297b06ebe434141e3408ed9b92e6994d0efc5c7193",
+      "review_record": "docs/refresh-reviews/fema-national-response-framework.md"
     },
     {
       "guide": "ferpa.md",
