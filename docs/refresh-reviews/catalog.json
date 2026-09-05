@@ -921,7 +921,9 @@
     {
       "guide": "cisa-known-exploited-vulnerabilities-catalog.md",
       "baseline_sha256": "1f8f92125ae01c2e4a7582c324709edbbe4f657fc0c458d4e9c2e67ae2a90e33",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "a9c98da698b172b4edb765a75b6cf057f74a533e84e67fb11e96a442f6779d9b",
+      "review_record": "docs/refresh-reviews/cisa-known-exploited-vulnerabilities-catalog.md"
     },
     {
       "guide": "cisa-secure-by-design-pledge.md",
