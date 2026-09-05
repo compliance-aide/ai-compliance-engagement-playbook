@@ -1642,7 +1642,9 @@
     {
       "guide": "iec-62443-4-2-2019.md",
       "baseline_sha256": "40c3c9998229d16aa855cec9f2278a071012adf578665f04ae99251cb14245a9",
-      "status": "pending"
+      "status": "drafted",
+      "reviewed_sha256": "f0a9850b8550f4a35b10efa4bae0d482e42ab655f9ac2b548788eaae9ba74f87",
+      "review_record": "docs/refresh-reviews/iec-62443-4-2-2019.md"
     },
     {
       "guide": "iec-62443.md",
